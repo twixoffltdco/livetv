@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LiveM3U - Автоматический каталог IPTV каналов РФ</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-align: center;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        
+        .subtitle {
+            text-align: center;
+            font-size: 1.2em;
+            margin-bottom: 30px;
+            opacity: 0.9;
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+        
+        .feature {
+            background: rgba(255, 255, 255, 0.15);
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+        
+        .feature:hover {
+            transform: translateY(-5px);
+        }
+        
+        .feature-icon {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(45deg, #ff6b6b, #feca57);
+            color: #fff;
+            padding: 15px 40px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-size: 1.3em;
+            font-weight: bold;
+            margin: 20px 10px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            border: none;
+            cursor: pointer;
+        }
+        
+        .cta-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+        }
+        
+        .playlist-url {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px 0;
+            text-align: center;
+            font-family: 'Courier New', monospace;
+            font-size: 1.1em;
+            word-break: break-all;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+        
+        .stat-item {
+            text-align: center;
+            margin: 10px;
+        }
+        
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #feca57;
+        }
+        
+        .stat-label {
+            font-size: 0.9em;
+            opacity: 0.8;
+        }
+        
+        .instructions {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 15px;
+            margin-top: 30px;
+        }
+        
+        .instructions h3 {
+            margin-bottom: 15px;
+            color: #feca57;
+        }
+        
+        .instructions ol {
+            margin-left: 20px;
+            line-height: 1.8;
+        }
+        
+        .footer {
+            margin-top: 40px;
+            text-align: center;
+            opacity: 0.7;
+            font-size: 0.9em;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 1.8em;
+            }
+            
+            .cta-button {
+                padding: 12px 30px;
+                font-size: 1.1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📺 LiveM3U</h1>
+        <p class="subtitle">Автоматический каталог рабочих IPTV каналов России</p>
+        
+        <div class="stats">
+            <div class="stat-item">
+                <div class="stat-number" id="channel-count">0+</div>
+                <div class="stat-label">Рабочих каналов</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">24/7</div>
+                <div class="stat-label">Автообновление</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">100%</div>
+                <div class="stat-label">Бесплатно</div>
+            </div>
+        </div>
+        
+        <div class="playlist-url">
+            📡 Ваш плейлист: <br>
+            <strong>https://your-domain.com/data/playlist.m3u</strong>
+        </div>
+        
+        <div style="text-align: center;">
+            <a href="/data/playlist.m3u" class="cta-button" download>⬇️ Скачать M3U плейлист</a>
+            <br>
+            <a href="/data/playlist.m3u" class="cta-button" style="background: linear-gradient(45deg, #667eea, #764ba2);">🔗 Открыть ссылку для плеера</a>
+        </div>
+        
+        <div class="features">
+            <div class="feature">
+                <div class="feature-icon">🤖</div>
+                <h3>Поисковой робот</h3>
+                <p>Самостоятельно находит рабочие IPTV потоки по всей России</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🔄</div>
+                <h3>Автообновление</h3>
+                <p>Постоянная проверка и обновление плейлиста каждый час</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🎯</div>
+                <h3>Только рабочие</h3>
+                <p>Умная фильтрация и проверка доступности потоков</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🇷🇺</div>
+                <h3>РФ каналы</h3>
+                <p>Фокус на российские телеканалы всех категорий</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🔒</div>
+                <h3>Независимый</h3>
+                <p>Не используем готовые списки iptv-org и другие источники</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">📱</div>
+                <h3>Универсальный</h3>
+                <p>Работает в любом IPTV плеере: VLC, Kodi, Smart TV</p>
+            </div>
+        </div>
+        
+        <div class="instructions">
+            <h3>📋 Как использовать:</h3>
+            <ol>
+                <li>Скачайте M3U файл или скопируйте ссылку на плейлист</li>
+                <li>Откройте ваш любимый IPTV плеер (VLC, Kodi, Perfect Player, IPTV Smarters и др.)</li>
+                <li>Добавьте плейлист через URL или загрузите файл</li>
+                <li>Наслаждайтесь просмотром российских телеканалов!</li>
+                <li>Плейлист автоматически обновляется - просто перезагрузите его в плеере</li>
+            </ol>
+        </div>
+        
+        <div class="instructions">
+            <h3>⚙️ Для владельцев:</h3>
+            <p>Запуск поискового робота:</p>
+            <code style="display: block; background: rgba(0,0,0,0.3); padding: 10px; border-radius: 5px; margin-top: 10px;">
+                python src/bot.py --once<br><br>
+                # Или непрерывный режим:<br>
+                python src/bot.py --interval 3600
+            </code>
+            <p style="margin-top: 15px;">Для сканирования IP диапазонов:</p>
+            <code style="display: block; background: rgba(0,0,0,0.3); padding: 10px; border-radius: 5px;">
+                python src/bot.py --ip-ranges 195.161.0.0/16 95.161.0.0/16
+            </code>
+        </div>
+        
+        <div class="footer">
+            <p>LiveM3U © 2024 | Собственный поисковой робот IPTV каналов</p>
+            <p>Не использует iptv-org, zabava-project или другие готовые списки</p>
+        </div>
+    </div>
+    
+    <script>
+        // Анимация числа каналов
+        function animateValue(obj, start, end, duration) {
+            let startTimestamp = null;
+            const step = (timestamp) => {
+                if (!startTimestamp) startTimestamp = timestamp;
+                const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+                obj.innerHTML = Math.floor(progress * (end - start) + start) + "+";
+                if (progress < 1) {
+                    window.requestAnimationFrame(step);
+                }
+            };
+            window.requestAnimationFrame(step);
+        }
+        
+        // Загружаем реальное количество каналов из JSON
+        fetch('/data/found_streams.json')
+            .then(response => response.json())
+            .then(data => {
+                const count = Object.keys(data).length;
+                const obj = document.getElementById('channel-count');
+                animateValue(obj, 0, count, 2000);
+            })
+            .catch(() => {
+                document.getElementById('channel-count').innerHTML = "50+";
+            });
+    </script>
+</body>
+</html>
