@@ -1,12 +1,7 @@
 ```
-# Compiled Python files
-*.pyc
-__pycache__/
-
 # Logs
 *.log
 
-# Data files that might be generated
-data/*.json
-data/*.m3u
+# Data files that might contain sensitive or temporary information
+data/*.log
 ```
