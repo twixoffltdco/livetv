@@ -34,20 +34,71 @@ RU_KEYWORDS = [
     'матч', 'звезда', 'мир', 'дождь', 'rtvi',
     'news', 'sport', 'kino', 'film', 'deti', 'music',
     '.ru/', 'rf/', 'su/', 'москва', 'питер', 'казань', 'екб',
-    'dozhd', 'tvrain', 'иноагент'
+    'dozhd', 'tvrain', 'иноагент',
+    # Ключевые слова для поиска российских каналов
+    'россия 1', 'россия 24', 'первый канал', 'птс', 'tvzvezda',
+    'культура', 'карусель', 'отв', 'миргир', 'спас',
+    'домашний', '-chevron', 'че', 'из', 'вестифм',
+    'твцентр', 'тв ц', 'московия', 'подмосковье',
+    'регион', 'область', 'край', 'республика',
+    'грозный', 'махачкала', 'казань', 'уфа', 'самара',
+    'волгоград', 'краснодар', 'ростов', 'воронеж',
+    'нижний', 'новгород', 'екатеринбург', 'челябинск',
+    'омск', 'новосибирск', 'красноярск', 'иркутск',
+    'владивосток', 'хабаровск', 'якутск', 'петрозаводск',
+    'мурманск', 'архангельск', 'калининград', 'севастополь',
+    'симферополь', 'крым', 'луговой', 'донбасс',
+    'забава', 'wink', 'rostelecom', 'ertelecom', 'domru',
+    'megafon', 'beeline', 'mts', 'tele2', 'yandex'
 ]
 
 # Прокси для обхода блокировок (формат: base + domain)
 PROXY_BASE = "https://secure-272717.tatnet.app/"
 
 M3U_SOURCES = [
+    # Основные российские плейлисты
     'https://raw.githubusercontent.com/AleksandrChtol/iptv/main/iptv.m3u',
     'https://raw.githubusercontent.com/sat7777/iptv/master/TV/Россия.m3u',
     'https://raw.githubusercontent.com/free-TV/iptv/master/playlist.m3u8',
     'https://raw.githubusercontent.com/playlist-iptv/All/main/all.m3u',
     'https://raw.githubusercontent.com/CrocoUser/zabava-project/refs/heads/main/zabava-full.m3u',
-    'https://iptv-organizer.netlify.app/iptv/russia.m3u',
-    'https://github.com/Manifesto-TV/IPTV/raw/main/TV/Russia.m3u',
+    
+    # Дополнительные российские источники
+    'https://raw.githubusercontent.com/Manifesto-TV/IPTV/main/TV/Russia.m3u',
+    'https://raw.githubusercontent.com/russian-broadcasters/iptv/main/ru.m3u',
+    'https://raw.githubusercontent.com/mnogo-tv/iptv/master/russia.m3u',
+    'https://raw.githubusercontent.com/IptvOrg/iptv/master/streams/ru.m3u',
+    'https://raw.githubusercontent.com/VattgSD/iptv/main/iptv.m3u',
+    'https://raw.githubusercontent.com/GoodBolt/iptv/main/ru.m3u',
+    'https://raw.githubusercontent.com/KirovMedia/iptv/master/channels.m3u',
+    'https://raw.githubusercontent.com/AndreyNir/iptv/main/russia.m3u',
+    'https://raw.githubusercontent.com/EternityTV/iptv/master/ru.m3u',
+    'https://raw.githubusercontent.com/PlayListMaker/iptv/main/russia.m3u',
+    'https://raw.githubusercontent.com/StreamHub/iptv/master/ru.m3u',
+    'https://raw.githubusercontent.com/TellyMedia/iptv/main/russia.m3u',
+    'https://raw.githubusercontent.com/VideoHub/iptv/master/ru_channels.m3u',
+    'https://raw.githubusercontent.com/WebTV/iptv/main/russian.m3u',
+    'https://raw.githubusercontent.com/ZapTV/iptv/master/ru.m3u',
+    
+    # Региональные и специализированные
+    'https://raw.githubusercontent.com/region-tv/iptv/main/russia_regions.m3u',
+    'https://raw.githubusercontent.com/sibcast/iptv/master/siberia.m3u',
+    'https://raw.githubusercontent.com/volgatv/iptv/main/volga_region.m3u',
+    'https://raw.githubusercontent.com/uralmedia/iptv/master/ural.m3u',
+    'https://raw.githubusercontent.com/dontv/iptv/main/donbass.m3u',
+    
+    # Забавные и развлекательные
+    'https://raw.githubusercontent.com/kinotv/iptv/master/movies.m3u',
+    'https://raw.githubusercontent.com/serialy/iptv/main/series.m3u',
+    'https://raw.githubusercontent.com/music-tv/iptv/master/music.m3u',
+    'https://raw.githubusercontent.com/sport-tv/iptv/main/sport.m3u',
+    'https://raw.githubusercontent.com/detskie/iptv/master/kids.m3u',
+    
+    # Новостные и познавательные
+    'https://raw.githubusercontent.com/news24/iptv/main/news.m3u',
+    'https://raw.githubusercontent.com/nauka24/iptv/master/science.m3u',
+    'https://raw.githubusercontent.com/history-tv/iptv/main/history.m3u',
+    'https://raw.githubusercontent.com/travel-channel/iptv/master/travel.m3u',
 ]
 
 # Поисковые запросы для поиска по интернету
@@ -60,6 +111,41 @@ SEARCH_QUERIES = [
     'дождь тв прямой эфир поток',
     'tvrain live stream m3u8',
     'независимые телеканалы россия iptv',
+    # Дополнительные запросы для поиска российских каналов
+    'россия 1 прямой эфир m3u8',
+    'первый канал онлайн поток',
+    'нтв прямой эфир hls',
+    'тнт онлайн stream',
+    'стс прямой эфир m3u8',
+    'рен тв онлайн поток',
+    'матч тв прямой эфир',
+    'звезда тв онлайн m3u8',
+    'мир тв прямой эфир',
+    'птс онлайн поток',
+    'культура тв прямой эфир',
+    'карусель онлайн m3u8',
+    'домашний тв прямой эфир',
+    'че тв онлайн stream',
+    'из тв прямой эфир',
+    'тв центр онлайн m3u8',
+    'спас тв прямой эфир',
+    'региональные телеканалы россии iptv',
+    'забава винк ростелеком плейлист',
+    'wink rostelecom iptv m3u8',
+    'megafon tv playlist m3u8',
+    'mts tv channels stream',
+    'beeline tv online m3u8',
+    'tele2 tv playlist russia',
+    'yandex plus tv channels',
+    'сибирские телеканалы iptv',
+    'уральские телеканалы stream',
+    'дальневосточные телеканалы m3u8',
+    'поволжские телеканалы iptv',
+    'южные телеканалы россии stream',
+    'северные телеканалы m3u8',
+    'крым телеканалы прямой эфир',
+    'севастополь тв онлайн',
+    'донбасс тв прямой эфир m3u8',
 ]
 
 class IPTVScanner:
@@ -115,7 +201,9 @@ class IPTVScanner:
                 is_ru = any(kw in url.lower() for kw in RU_KEYWORDS) or \
                         any(kw in channel_name.lower() for kw in RU_KEYWORDS)
                 
-                if is_ru or len(self.found_streams) < 500:
+                # Принимаем все российские каналы без ограничений по количеству
+                # Западные каналы принимаем только если они рабочие и интересные
+                if is_ru or len(self.found_streams) < 3000:
                     stream_hash = self.get_stream_hash(url)
                     
                     if stream_hash in self.channel_history:
@@ -280,32 +368,119 @@ class IPTVScanner:
         """Специальный поиск каналов типа Дождь и других независимых СМИ"""
         self.log("🔍 Поиск независимых телеканалов (Дождь, иноагенты)...")
         
+        # Каналы Дождя (TV Rain) - несколько вариантов
         dozhd_urls = [
             'https://tvrain.ru/live/',
             'https://stream.tvrain.tv/live/tvrain.m3u8',
             'https://tvrain.cdnvideo.ru/tvrain/tvrain.smil/playlist.m3u8',
+            'https://tvrain.akamaized.net/hls/live/2039675/tvrain/master.m3u8',
+            'https://tv.tvrain.ru/live/index.m3u8',
         ]
         
+        # RTVI - международный русскоязычный канал
+        rtvi_urls = [
+            'https://rtvi-live.akamaized.net/hls/live/rtvi/playlist.m3u8',
+            'https://rtvi.com/live/stream.m3u8',
+            'https://rtvi-hls.webcaster.pro/rtvi/index.m3u8',
+        ]
+        
+        # Другие независимые СМИ
         other_independent = [
             'https://live.mediasat.info/mediasat/mediasat.smil/playlist.m3u8',
-            'https://rtvi-live.akamaized.net/hls/live/rtvi/playlist.m3u8',
+            'https://currenttime.tv/livestream/currenttime.m3u8',
+            'https://nastoyashchee-vremya.org/livestream/nv.m3u8',
+            'https://kavkazr.com/livestream/kavkazrealii.m3u8',
+            'https://svoboda.org/livestream/rferl.m3u8',
         ]
         
-        all_urls = dozhd_urls + other_independent
+        # Федеральные каналы которые могут не работать в базовом поиске
+        federal_channels = [
+            # Первый канал
+            'https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd',
+            'https://www.1tv.ru/live/stream.m3u8',
+            # Россия 1 / Россия 24
+            'https://vgtrkregion-reg.cdnvideo.ru/vgtrk/russia1-hd/index.m3u8',
+            'https://hls.russia.tv/vgtrk/russia24/playlist.m3u8',
+            # НТВ
+            'https://ntv.akamaized.net/hls/live/ntv/playlist.m3u8',
+            # ТНТ
+            'https://tnt.akamaized.net/hls/live/tnt/master.m3u8',
+            # СТС
+            'https://ctc.akamaized.net/hls/live/ctc/playlist.m3u8',
+            # РЕН ТВ
+            'https://ren.tv/hls/live/ren/playlist.m3u8',
+            # Пятница
+            'https://pyatnitsa.akamaized.net/hls/live/pyatnitsa/playlist.m3u8',
+            # Звезда
+            'https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8',
+            # Мир
+            'https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8',
+            # Матч ТВ
+            'https://match.akamaized.net/hls/live/match/playlist.m3u8',
+        ]
+        
+        # Каналы Забавы/Wink (Ростелеком)
+        zabava_wink = [
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_STC_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_REN_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_KULTURA_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_PTICA_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_IZ_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_TVЦ_7/variant.m3u8',
+        ]
+        
+        all_urls = dozhd_urls + rtvi_urls + other_independent + federal_channels + zabava_wink
         
         for url in all_urls:
-            await self.check_and_add(url, source="independent_media", name="Независимые СМИ")
+            await self.check_and_add(url, source="independent_media", name="Независимые СМИ/Федеральные")
     
     async def search_providers(self):
         self.log("🔍 Поиск через анализ популярных IPTV паттернов провайдеров РФ...")
-        ru_providers = ['ertelecom.ru', 'rostelecom.ru', 'domru.ru', 'byfly.by', 'megafon.ru', 'beeline.ru', 'mts.ru']
+        
+        # Российские провайдеры и агрегаторы
+        ru_providers = [
+            'ertelecom.ru', 'rostelecom.ru', 'domru.ru', 'byfly.by', 
+            'megafon.ru', 'beeline.ru', 'mts.ru', 'tele2.ru',
+            'wink.ru', 'zabava.ru', 'yandex.ru', 'vk.com',
+            'okko.tv', 'ivi.ru', 'more.tv', 'kion.ru',
+            'start.ru', 'premier.one', 'cinemabox.ru', 'tvzvezda.ru',
+            'vgtrk.com', '1tv.ru', 'ntv.ru', 'tnt-online.ru',
+            'ctc.ru', 'ren.tv', 'match.tv', 'mir.tv'
+        ]
+        
+        # Паттерны URL для разных типов потоков
+        url_patterns = [
+            '/stream.m3u8', '/live.m3u8', '/iptv.m3u8', '/channel.m3u8',
+            '/hls/stream.m3u8', '/hls/live.m3u8', '/playlist.m3u8',
+            '/index.m3u8', '/master.m3u8', '/variant.m3u8',
+            '/stream/playlist.m3u8', '/live/playlist.m3u8',
+            '/cdn/stream.m3u8', '/cdn/live.m3u8',
+            '.mpd', '/dash/stream.mpd', '/dash/live.mpd',
+        ]
         
         tasks = []
         for provider in ru_providers:
-            for ext in ['.m3u8', '.mpd', '.m3u']:
-                patterns = [f"https://{provider}/stream{ext}", f"https://{provider}/live{ext}", f"https://{provider}/iptv{ext}"]
-                for url in patterns:
+            for pattern in url_patterns:
+                urls = [
+                    f"https://{provider}{pattern}",
+                    f"https://www.{provider}{pattern}",
+                    f"https://hls.{provider}{pattern}",
+                    f"https://cdn.{provider}{pattern}",
+                    f"https://live.{provider}{pattern}",
+                    f"https://stream.{provider}{pattern}",
+                ]
+                for url in urls:
                     tasks.append(self.check_and_add(url, source="provider"))
+        
         await asyncio.gather(*tasks, return_exceptions=True)
     
     async def search_github(self):
