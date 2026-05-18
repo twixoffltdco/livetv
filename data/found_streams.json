@@ -1,6 +1,6 @@
 {
   "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8": {
-    "name": "360° (1080p)",
+    "name": "360°",
     "url": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
     "found_at": "2026-05-18T06:19:47.813823",
     "country": "INT",
@@ -9,7 +9,7 @@
     "hash": "fcb8362f174ecf92bb57e651d8736468"
   },
   "https://video1.in-news.ru/360/index.m3u8": {
-    "name": "360° (720p)",
+    "name": "360°",
     "url": "https://video1.in-news.ru/360/index.m3u8",
     "found_at": "2026-05-18T06:19:47.813854",
     "country": "RU",
@@ -36,7 +36,7 @@
     "hash": "ae7d25eec05a315785a3ad35948a1529"
   },
   "https://kino-stream.online/hls/DTRMUSIC1.m3u8": {
-    "name": "DTR Music 1 (720p)",
+    "name": "DTR Music 1",
     "url": "https://kino-stream.online/hls/DTRMUSIC1.m3u8",
     "found_at": "2026-05-18T06:19:47.813891",
     "country": "RU",
@@ -45,7 +45,7 @@
     "hash": "51ca49a01d451aaf1d9c30fa279828db"
   },
   "https://kino-stream.online/hls/DTRZONA1.m3u8": {
-    "name": "DTR Zona 1 (720p)",
+    "name": "DTR Zona 1",
     "url": "https://kino-stream.online/hls/DTRZONA1.m3u8",
     "found_at": "2026-05-18T06:19:47.813899",
     "country": "RU",
@@ -54,7 +54,7 @@
     "hash": "1516d895ad545a27559a468fbc3d7ba9"
   },
   "https://kino-stream.online/hls/DTRZONA2.m3u8": {
-    "name": "DTR Zona 2 (720p)",
+    "name": "DTR Zona 2",
     "url": "https://kino-stream.online/hls/DTRZONA2.m3u8",
     "found_at": "2026-05-18T06:19:47.813907",
     "country": "RU",
@@ -63,7 +63,7 @@
     "hash": "194d4653ebe74d143c8a075759ea5a41"
   },
   "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8": {
-    "name": "Kino 24 (720p)",
+    "name": "Kino 24",
     "url": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8",
     "found_at": "2026-05-18T06:19:47.813915",
     "country": "RU",
@@ -72,7 +72,7 @@
     "hash": "9f2f767faa6df0d880b6551273f36307"
   },
   "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8": {
-    "name": "Pro100TV (576p)",
+    "name": "Pro100TV",
     "url": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
     "found_at": "2026-05-18T06:19:47.813923",
     "country": "RU",
@@ -81,7 +81,7 @@
     "hash": "e7bcba82a82e4b40d7d0f2279504a318"
   },
   "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8": {
-    "name": "Shopping Live (576p) [Not 24/7]",
+    "name": "Shopping Live",
     "url": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.813944",
     "country": "INT",
@@ -90,7 +90,7 @@
     "hash": "d71e3b5aeaf2867dd1e67665ee06f07d"
   },
   "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8": {
-    "name": "Sochi Live HD (720p) [Not 24/7]",
+    "name": "Sochi Live",
     "url": "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.813957",
     "country": "INT",
@@ -108,7 +108,7 @@
     "hash": "88838825c244da2af51fd064a59c1b38"
   },
   "https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https": {
-    "name": "Tsargrad TV (1080p) [Geo-blocked]",
+    "name": "Tsargrad TV",
     "url": "https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https",
     "found_at": "2026-05-18T06:19:47.813974",
     "country": "RU",
@@ -126,7 +126,7 @@
     "hash": "7743797792ada50183e231867567e51e"
   },
   "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8": {
-    "name": "Univer TV (1080p) [Not 24/7]",
+    "name": "Univer TV",
     "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.813992",
     "country": "RU",
@@ -135,7 +135,7 @@
     "hash": "3f9a7a70670ab8db783467a2aa3958d9"
   },
   "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8": {
-    "name": "Univer TV (1080p)",
+    "name": "Univer TV",
     "url": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814000",
     "country": "RU",
@@ -144,7 +144,7 @@
     "hash": "80a012e982d29240512ee468c585322d"
   },
   "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8": {
-    "name": "VIVA Russia (1080p)",
+    "name": "VIVA Russia",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
     "found_at": "2026-05-18T06:19:47.814006",
     "country": "RU",
@@ -153,7 +153,7 @@
     "hash": "440b7d4ef0c43bd67ed14478ffb19d20"
   },
   "http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8": {
-    "name": "Аист ТВ (1080p)",
+    "name": "Аист ТВ",
     "url": "http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814014",
     "country": "RU",
@@ -162,7 +162,7 @@
     "hash": "feb85299c651342843985b2751ea1c06"
   },
   "http://serv25.vintera.tv:8081/test/aris/playlist.m3u8": {
-    "name": "Арис 24 (720p) [Not 24/7]",
+    "name": "Арис 24",
     "url": "http://serv25.vintera.tv:8081/test/aris/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814031",
     "country": "INT",
@@ -171,7 +171,7 @@
     "hash": "d75db208f6067c500b338488a603a19e"
   },
   "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8": {
-    "name": "Астрахань 24 (720p)",
+    "name": "Астрахань 24",
     "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814039",
     "country": "RU",
@@ -180,7 +180,7 @@
     "hash": "7830b367266739e62c5f5efdb107b5b8"
   },
   "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8": {
-    "name": "Астрахань.Ru Sport (720p)",
+    "name": "Астрахань.Ru Sport",
     "url": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814047",
     "country": "RU",
@@ -189,7 +189,7 @@
     "hash": "e485042923715f323b487481b002a60e"
   },
   "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8": {
-    "name": "Астрахань.Ru TV (480p)",
+    "name": "Астрахань.Ru TV",
     "url": "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814055",
     "country": "RU",
@@ -198,7 +198,7 @@
     "hash": "2022f5088774508dcff0e0539510a96d"
   },
   "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8": {
-    "name": "Белгород 24 (1080p)",
+    "name": "Белгород 24",
     "url": "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8",
     "found_at": "2026-05-18T06:19:47.814070",
     "country": "INT",
@@ -207,7 +207,7 @@
     "hash": "634bd595fb655dfba1a30ff92ded35ed"
   },
   "http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8": {
-    "name": "Большая Азия (720p)",
+    "name": "Большая Азия",
     "url": "http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814079",
     "country": "RU",
@@ -234,7 +234,7 @@
     "hash": "6c0c6c0b4c938ea6ea623e755867ceb9"
   },
   "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8": {
-    "name": "Ветта 24 (Пермь) (576p) [Not 24/7]",
+    "name": "Ветта 24 (Пермь)",
     "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814117",
     "country": "INT",
@@ -243,7 +243,7 @@
     "hash": "24bbdc87df19824617d339da2542f125"
   },
   "http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8": {
-    "name": "Волга (HD)",
+    "name": "Волга ( )",
     "url": "http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814125",
     "country": "RU",
@@ -252,7 +252,7 @@
     "hash": "91c0afe9bd03b3995baaac551d79009e"
   },
   "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8": {
-    "name": "Волгоград 24 (1080p)",
+    "name": "Волгоград 24",
     "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814131",
     "country": "RU",
@@ -261,7 +261,7 @@
     "hash": "dbe4b663486af286618032a6501a07e1"
   },
   "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8": {
-    "name": "Губерния (Самара) (576p)",
+    "name": "Губерния (Самара)",
     "url": "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814138",
     "country": "RU",
@@ -270,7 +270,7 @@
     "hash": "acb6b925ab33873fbf4ef29469a257fc"
   },
   "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8": {
-    "name": "Евразия (Орск) (720p)",
+    "name": "Евразия (Орск)",
     "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
     "found_at": "2026-05-18T06:19:47.814146",
     "country": "RU",
@@ -279,7 +279,7 @@
     "hash": "0d3f03f4f69aae2f78849dcf9c71d38a"
   },
   "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8": {
-    "name": "Енисей (1080p) [Not 24/7]",
+    "name": "Енисей",
     "url": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814154",
     "country": "RU",
@@ -288,7 +288,7 @@
     "hash": "207a5b86465b98b4ec602e0e18479b5e"
   },
   "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8": {
-    "name": "Звезда (1080p) [Not 24/7]",
+    "name": "Звезда",
     "url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814162",
     "country": "RU",
@@ -297,7 +297,7 @@
     "hash": "906277973129b85c91ee2d29af344dba"
   },
   "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8": {
-    "name": "Известия (1080p)",
+    "name": "Известия",
     "url": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814169",
     "country": "RU",
@@ -306,7 +306,7 @@
     "hash": "1617958d8498385f18373e7cc4cf1195"
   },
   "http://serv25.vintera.tv:8081/test/k16/playlist.m3u8": {
-    "name": "К16 (Саров) (406p) [Not 24/7]",
+    "name": "К16 (Саров) (406p)",
     "url": "http://serv25.vintera.tv:8081/test/k16/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814185",
     "country": "INT",
@@ -333,7 +333,7 @@
     "hash": "7f1b5e862d3f160f6244cf861399c92d"
   },
   "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8": {
-    "name": "Красная линия (480p)",
+    "name": "Красная линия",
     "url": "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814215",
     "country": "INT",
@@ -360,7 +360,7 @@
     "hash": "d4c611312e3721352f934040dc91b2fc"
   },
   "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8": {
-    "name": "КФУ ТВ (1080p) [Not 24/7]",
+    "name": "КФУ ТВ",
     "url": "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814244",
     "country": "RU",
@@ -369,7 +369,7 @@
     "hash": "dbfe022dcabb627b78ef893da984515b"
   },
   "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8": {
-    "name": "ЛДПР ТВ (1080p)",
+    "name": "ЛДПР ТВ",
     "url": "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814258",
     "country": "INT",
@@ -378,7 +378,7 @@
     "hash": "63882d4fa7bcde928427a9228173b052"
   },
   "http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8": {
-    "name": "ЛДПР ТВ (720p)",
+    "name": "ЛДПР ТВ",
     "url": "http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814272",
     "country": "INT",
@@ -387,7 +387,7 @@
     "hash": "401b5f544d8976afb765d16316d30769"
   },
   "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8": {
-    "name": "ЛДПР ТВ (480p)",
+    "name": "ЛДПР ТВ",
     "url": "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814287",
     "country": "INT",
@@ -414,7 +414,7 @@
     "hash": "7706d244e04ef1eac1e16bc9172ad8d9"
   },
   "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8": {
-    "name": "Матур ТВ (1080p)",
+    "name": "Матур ТВ",
     "url": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8",
     "found_at": "2026-05-18T06:19:47.814315",
     "country": "RU",
@@ -423,7 +423,7 @@
     "hash": "acaec52f5572cef3b7399f8799a13312"
   },
   "https://live1.1tvcrimea.ru/milletlive.m3u8": {
-    "name": "Миллет (720p)",
+    "name": "Миллет",
     "url": "https://live1.1tvcrimea.ru/milletlive.m3u8",
     "found_at": "2026-05-18T06:19:47.814323",
     "country": "RU",
@@ -432,7 +432,7 @@
     "hash": "4fbc1071a68b7f9aedfe043d5487d2e3"
   },
   "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8": {
-    "name": "Мир (1080p) [Not 24/7]",
+    "name": "Мир",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814331",
     "country": "RU",
@@ -441,7 +441,7 @@
     "hash": "b209a44f3f847161b7144beafb13089a"
   },
   "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8": {
-    "name": "Мир 24 (1080p)",
+    "name": "Мир 24",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814339",
     "country": "RU",
@@ -450,7 +450,7 @@
     "hash": "76cd2328f1e13232fff71a34e1a8571b"
   },
   "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8": {
-    "name": "Мир +2 (540p) [Not 24/7]",
+    "name": "Мир +2 (540p)",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814347",
     "country": "RU",
@@ -459,7 +459,7 @@
     "hash": "14e3b15304eaec8941bbdb8235bdb37a"
   },
   "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8": {
-    "name": "Мир +4 (540p) [Not 24/7]",
+    "name": "Мир +4 (540p)",
     "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814354",
     "country": "RU",
@@ -477,7 +477,7 @@
     "hash": "bb083772d79e368b30781758d6d8b2bc"
   },
   "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8": {
-    "name": "Мир Белагорья (720p) [Geo-blocked]",
+    "name": "Мир Белагорья",
     "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814393",
     "country": "RU",
@@ -486,7 +486,7 @@
     "hash": "f64576ef111f95c3b2bbacafbbf98bc4"
   },
   "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8": {
-    "name": "Мир Белогорья (720p) [Geo-blocked]",
+    "name": "Мир Белогорья",
     "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814407",
     "country": "RU",
@@ -495,7 +495,7 @@
     "hash": "82bffef9be551cef7d82ca02a995f620"
   },
   "http://retc.educom.ru/mosobrtv/tv1/index.m3u8": {
-    "name": "МосОбрТВ (720p)",
+    "name": "МосОбрТВ",
     "url": "http://retc.educom.ru/mosobrtv/tv1/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814415",
     "country": "RU",
@@ -504,7 +504,7 @@
     "hash": "ba1f8431c10a4cca876c53c16f2a6573"
   },
   "http://retj.educom.ru/mosobrtv/tv1/index.m3u8": {
-    "name": "МосОбрТВ (720p)",
+    "name": "МосОбрТВ",
     "url": "http://retj.educom.ru/mosobrtv/tv1/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814422",
     "country": "RU",
@@ -513,7 +513,7 @@
     "hash": "bb96ca46307800f7dcb1f763cf3ab0f0"
   },
   "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8": {
-    "name": "МТВ (Волгоград) (720p) [Not 24/7]",
+    "name": "МТВ (Волгоград)",
     "url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814430",
     "country": "RU",
@@ -522,7 +522,7 @@
     "hash": "17da16936b3435f573c55a42ccdc0a76"
   },
   "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8": {
-    "name": "Муз союз (576p)",
+    "name": "Муз союз",
     "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814438",
     "country": "RU",
@@ -531,7 +531,7 @@
     "hash": "ec81089e5b0ff284498e78e14c4529e1"
   },
   "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8": {
-    "name": "Мультимания (576p)",
+    "name": "Мультимания",
     "url": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
     "found_at": "2026-05-18T06:19:47.814446",
     "country": "RU",
@@ -540,7 +540,7 @@
     "hash": "cc86f0e22cfad5a2f3e573d0935edc0f"
   },
   "http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8": {
-    "name": "Мультимания ТВ (576p)",
+    "name": "Мультимания ТВ",
     "url": "http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
     "found_at": "2026-05-18T06:19:47.814454",
     "country": "RU",
@@ -549,7 +549,7 @@
     "hash": "a64bf68339972403249b496d4eb849ff"
   },
   "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8": {
-    "name": "Надежда (720p)",
+    "name": "Надежда",
     "url": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814461",
     "country": "RU",
@@ -558,7 +558,7 @@
     "hash": "480dc2f6a603bcfe9a72234d3fca7fde"
   },
   "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8": {
-    "name": "Надежда (720p)",
+    "name": "Надежда",
     "url": "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814469",
     "country": "RU",
@@ -567,7 +567,7 @@
     "hash": "80647515b4cb2a76a0eb728f3497bd84"
   },
   "http://s1.tv-nano.com/Nano_rec/index.m3u8": {
-    "name": "Нано ТВ HD (576p)",
+    "name": "Нано ТВ",
     "url": "http://s1.tv-nano.com/Nano_rec/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814482",
     "country": "INT",
@@ -585,7 +585,7 @@
     "hash": "2387015ce2e0c2c65ca9d872508b5546"
   },
   "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8": {
-    "name": "НВК Саха (1080p) [Not 24/7]",
+    "name": "НВК Саха",
     "url": "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814497",
     "country": "RU",
@@ -594,7 +594,7 @@
     "hash": "5dec2b53ecdbc7f17ea9a551986af71e"
   },
   "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8": {
-    "name": "Нижний Новгород 24 (720p) [Not 24/7]",
+    "name": "Нижний Новгород 24",
     "url": "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814505",
     "country": "RU",
@@ -603,7 +603,7 @@
     "hash": "2dab47162d78814e2a55b65c292d91e7"
   },
   "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8": {
-    "name": "Ника ТВ (576p) [Not 24/7]",
+    "name": "Ника ТВ",
     "url": "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814512",
     "country": "RU",
@@ -621,7 +621,7 @@
     "hash": "b2d4e0f6876962838ecb605244bb7047"
   },
   "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8": {
-    "name": "НТМ (Народное телевидение Мордовии) (720p) [Not 24/7]",
+    "name": "НТМ (Народное телевидение Мордовии)",
     "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814528",
     "country": "RU",
@@ -630,7 +630,7 @@
     "hash": "d25afb511f1cfc2671d0db650ae38202"
   },
   "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8": {
-    "name": "НТС (Севастополь) (1080p) [Not 24/7]",
+    "name": "НТС (Севастополь)",
     "url": "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814545",
     "country": "INT",
@@ -648,7 +648,7 @@
     "hash": "21de35c8bb885a26ce0f0f22574cbf42"
   },
   "https://v4.proofix.ru/0mir/index.m3u8": {
-    "name": "Открытый мир. Здоровье (576p)",
+    "name": "Открытый мир. Здоровье",
     "url": "https://v4.proofix.ru/0mir/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814560",
     "country": "RU",
@@ -666,7 +666,7 @@
     "hash": "dd0fccf82378c2338fbb736a50c49975"
   },
   "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd": {
-    "name": "Первый канал (720p)",
+    "name": "Первый канал",
     "url": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd",
     "found_at": "2026-05-18T06:19:47.814578",
     "country": "RU",
@@ -675,7 +675,7 @@
     "hash": "e01a636587d32b58087960f24697836b"
   },
   "https://live1.1tvcrimea.ru/1tvcrimea.m3u8": {
-    "name": "Первый Крымский (720p)",
+    "name": "Первый Крымский",
     "url": "https://live1.1tvcrimea.ru/1tvcrimea.m3u8",
     "found_at": "2026-05-18T06:19:47.814585",
     "country": "RU",
@@ -684,7 +684,7 @@
     "hash": "d042aefcfb660edf75363adf3c001bf0"
   },
   "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8": {
-    "name": "Прима (1080p)",
+    "name": "Прима",
     "url": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814593",
     "country": "RU",
@@ -693,7 +693,7 @@
     "hash": "4b692ee81cc3b47a8555cc8c2ec74f1e"
   },
   "https://vod.tuva.ru/friday/index.m3u8": {
-    "name": "Пятница! (576p)",
+    "name": "Пятница!",
     "url": "https://vod.tuva.ru/friday/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814600",
     "country": "RU",
@@ -702,7 +702,7 @@
     "hash": "4a0f44d70b495ee536cde9a90fb43a59"
   },
   "https://video.govoritmoskva.ru/rufm/index.m3u8": {
-    "name": "Радио Говорит Москва (Веб-камера) (720p)",
+    "name": "Радио Говорит Москва (Веб-камера)",
     "url": "https://video.govoritmoskva.ru/rufm/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814608",
     "country": "RU",
@@ -711,7 +711,7 @@
     "hash": "f4fc754b4dbdaec4ea44977c262da5c2"
   },
   "http://lova.me/hls/hithd.m3u8": {
-    "name": "Радио Хит (Орск) (720p)",
+    "name": "Радио Хит (Орск)",
     "url": "http://lova.me/hls/hithd.m3u8",
     "found_at": "2026-05-18T06:19:47.814622",
     "country": "INT",
@@ -729,7 +729,7 @@
     "hash": "37ab40977dae8e79102b5ea39044ded1"
   },
   "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8": {
-    "name": "Радио Шансон (720p) [Not 24/7]",
+    "name": "Радио Шансон",
     "url": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8",
     "found_at": "2026-05-18T06:19:47.814652",
     "country": "INT",
@@ -738,7 +738,7 @@
     "hash": "cfedbdbfbd6b39a484f72c65ff0ffb3a"
   },
   "https://uiptv.do.am/1ufc/701293058/playlist.m3u8": {
-    "name": "РБК (576p)",
+    "name": "РБК",
     "url": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814665",
     "country": "INT",
@@ -756,7 +756,7 @@
     "hash": "c9b9012227ca8c985fc60f93894f50df"
   },
   "https://online-video.rbc.ru/spb/rbctv_spb.m3u8": {
-    "name": "РБК (СПБ) (576p)",
+    "name": "РБК (СПБ)",
     "url": "https://online-video.rbc.ru/spb/rbctv_spb.m3u8",
     "found_at": "2026-05-18T06:19:47.814683",
     "country": "RU",
@@ -774,7 +774,7 @@
     "hash": "da83c98f3b0b2711b207465530e2f5f3"
   },
   "http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8": {
-    "name": "РЖД ТВ (1080p) [Geo-blocked]",
+    "name": "РЖД ТВ",
     "url": "http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814699",
     "country": "RU",
@@ -783,7 +783,7 @@
     "hash": "8db570e9b33d5ce3b456e3a99e596e75"
   },
   "http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8": {
-    "name": "РЖД ТВ (360p) [Geo-blocked]",
+    "name": "РЖД ТВ (360p)",
     "url": "http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814707",
     "country": "RU",
@@ -792,7 +792,7 @@
     "hash": "6ca1cdf2c29661eb619e4dfed3b4ef50"
   },
   "https://uiptv.do.am/1ufc/000000006/playlist.m3u8": {
-    "name": "Россия 24 (576p) [Not 24/7]",
+    "name": "Россия 24",
     "url": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814717",
     "country": "RU",
@@ -801,7 +801,7 @@
     "hash": "8ec9a9705664d19b9df713d970ec9386"
   },
   "https://sitv.ru/hls/stv.m3u8": {
-    "name": "С1 (Сургут) (1080p) [Not 24/7]",
+    "name": "С1 (Сургут)",
     "url": "https://sitv.ru/hls/stv.m3u8",
     "found_at": "2026-05-18T06:19:47.814724",
     "country": "RU",
@@ -810,7 +810,7 @@
     "hash": "ba7c4ddf8c2e42fc70ecd6afa2ddb147"
   },
   "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8": {
-    "name": "Самара ГИС (1080p) [Not 24/7]",
+    "name": "Самара ГИС",
     "url": "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8",
     "found_at": "2026-05-18T06:19:47.814732",
     "country": "RU",
@@ -846,7 +846,7 @@
     "hash": "7831699bf1a9aca3ce00f227b013862e"
   },
   "http://tv.mediacdn.ru/live/solntse/playlist.m3u8": {
-    "name": "Солнце (576p)",
+    "name": "Солнце",
     "url": "http://tv.mediacdn.ru/live/solntse/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814774",
     "country": "RU",
@@ -855,7 +855,7 @@
     "hash": "bb694e01c5bd1b5dadc76a6150a35097"
   },
   "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8": {
-    "name": "Сочи 24 HD (720p)",
+    "name": "Сочи 24",
     "url": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814788",
     "country": "INT",
@@ -864,7 +864,7 @@
     "hash": "5f3ffc3e21e78da0bd4895fba3b8cc75"
   },
   "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8": {
-    "name": "Союз (576p)",
+    "name": "Союз",
     "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814796",
     "country": "RU",
@@ -873,7 +873,7 @@
     "hash": "d54f84bbc7103b414eda1662d74d925f"
   },
   "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8": {
-    "name": "Страна FM (720p) [Not 24/7]",
+    "name": "Страна FM",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814803",
     "country": "RU",
@@ -891,7 +891,7 @@
     "hash": "f9e81f2b42531825919415057e6b24d3"
   },
   "https://video1.in-news.ru/c24/index.m3u8": {
-    "name": "Сургут 24 (720p) [Not 24/7]",
+    "name": "Сургут 24",
     "url": "https://video1.in-news.ru/c24/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814824",
     "country": "RU",
@@ -918,7 +918,7 @@
     "hash": "47c43c94a5c83727c47c986a249bb6df"
   },
   "https://air.tvk6.ru/tvk24/playlist.m3u8": {
-    "name": "ТВК 24 (576p)",
+    "name": "ТВК 24",
     "url": "https://air.tvk6.ru/tvk24/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814846",
     "country": "RU",
@@ -927,7 +927,7 @@
     "hash": "9c93e5c35c53b6a0c5d309b9baaeb59f"
   },
   "http://tvoetv.space:8080/tvoetv/index.m3u8": {
-    "name": "Твое TV HD (1080p)",
+    "name": "Твое TV",
     "url": "http://tvoetv.space:8080/tvoetv/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814859",
     "country": "INT",
@@ -936,7 +936,7 @@
     "hash": "9673eea4df634c1c0b535d3f1af9ad10"
   },
   "http://tvoetv.space:8080/tvoetv_humor/index.m3u8": {
-    "name": "Твое ТВ Юмор (1080p)",
+    "name": "Твое ТВ Юмор",
     "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8",
     "found_at": "2026-05-18T06:19:47.814873",
     "country": "INT",
@@ -945,7 +945,7 @@
     "hash": "8962fa6d8f76819354e364e847d77a4e"
   },
   "https://sitv.ru/hls/s86.m3u8": {
-    "name": "Телеканал 86 (Сургут) (1080p) [Not 24/7]",
+    "name": "Телеканал 86 (Сургут)",
     "url": "https://sitv.ru/hls/s86.m3u8",
     "found_at": "2026-05-18T06:19:47.814880",
     "country": "RU",
@@ -954,7 +954,7 @@
     "hash": "9faa2d60b35d9c34e1419d528ee63842"
   },
   "http://trk555.tv:8888/live": {
-    "name": "Телерадиокомпания 555 (Алушта) (720p)",
+    "name": "Телерадиокомпания 555 (Алушта)",
     "url": "http://trk555.tv:8888/live",
     "found_at": "2026-05-18T06:19:47.814896",
     "country": "INT",
@@ -963,7 +963,7 @@
     "hash": "36a32a9741e869d182c21beb38dce0c9"
   },
   "https://streaming.astrakhan.ru/telplushd/playlist.m3u8": {
-    "name": "Телплюс ТВ (Астрахань) (360p) [Not 24/7]",
+    "name": "Телплюс ТВ (Астрахань) (360p)",
     "url": "https://streaming.astrakhan.ru/telplushd/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814904",
     "country": "RU",
@@ -972,7 +972,7 @@
     "hash": "7d14c7f19b7fd64b3f591d861cc7d989"
   },
   "https://stream.almaz-media.tv:8080/hls/576.m3u8": {
-    "name": "ТК Алмазный край (576p)",
+    "name": "ТК Алмазный край",
     "url": "https://stream.almaz-media.tv:8080/hls/576.m3u8",
     "found_at": "2026-05-18T06:19:47.814918",
     "country": "INT",
@@ -981,7 +981,7 @@
     "hash": "38dfd2b8252d69d3dc488002e4ead56b"
   },
   "http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8": {
-    "name": "ТКР (Рязань) (1080p) [Not 24/7]",
+    "name": "ТКР (Рязань)",
     "url": "http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814925",
     "country": "RU",
@@ -990,7 +990,7 @@
     "hash": "05598e87982f26d740ae1a29e1123f75"
   },
   "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8": {
-    "name": "Толк HD (720p)",
+    "name": "Толк",
     "url": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814932",
     "country": "RU",
@@ -999,7 +999,7 @@
     "hash": "56d3fe3a4a9f67a339c67344747cf81e"
   },
   "https://hls.tv.3angels.ru/stream.m3u8": {
-    "name": "Три Ангела (720p)",
+    "name": "Три Ангела",
     "url": "https://hls.tv.3angels.ru/stream.m3u8",
     "found_at": "2026-05-18T06:19:47.814948",
     "country": "RU",
@@ -1008,7 +1008,7 @@
     "hash": "a69e98ff2f55df15258f7d5794b25328"
   },
   "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8": {
-    "name": "Хузур ТВ (1080p) [Not 24/7]",
+    "name": "Хузур ТВ",
     "url": "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814956",
     "country": "RU",
@@ -1017,7 +1017,7 @@
     "hash": "ddd8a5453919f815ffa7b49e5c68e156"
   },
   "https://uiptv.do.am/1ufc/602079679/playlist.m3u8": {
-    "name": "Шансон ТВ (576p) [Geo-blocked]",
+    "name": "Шансон ТВ",
     "url": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814972",
     "country": "INT",
@@ -1026,7 +1026,7 @@
     "hash": "77af636622b5c152bae7d057e7e7481d"
   },
   "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8": {
-    "name": "Шансон ТВ (512p) [Geo-blocked]",
+    "name": "Шансон ТВ (512p)",
     "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814980",
     "country": "RU",
@@ -1035,7 +1035,7 @@
     "hash": "a459f0f4818a8e750a76beda4c925a4b"
   },
   "http://stream0.tv41.ru/live.m3u8": {
-    "name": "Щёлковское ТВ (576p) [Not 24/7]",
+    "name": "Щёлковское ТВ",
     "url": "http://stream0.tv41.ru/live.m3u8",
     "found_at": "2026-05-18T06:19:47.814988",
     "country": "RU",
@@ -1044,7 +1044,7 @@
     "hash": "c9b9f40252554e0c356c69203ed67a27"
   },
   "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8": {
-    "name": "Ювелирочка ТВ (576p)",
+    "name": "Ювелирочка ТВ",
     "url": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8",
     "found_at": "2026-05-18T06:19:47.814996",
     "country": "RU",
@@ -1125,7 +1125,7 @@
     "hash": "bd74df7380f294ff38594dab57923ff9"
   },
   "https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8": {
-    "name": "TiJi (576p)",
+    "name": "TiJi",
     "url": "https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8",
     "found_at": "2026-05-18T06:19:47.815085",
     "country": "INT",
@@ -1134,7 +1134,7 @@
     "hash": "bf9f11846176c98a887a9e0741708d78"
   },
   "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8": {
-    "name": "Gulli Girl (720p)",
+    "name": "Gulli Girl",
     "url": "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8",
     "found_at": "2026-05-18T06:19:47.815094",
     "country": "INT",
@@ -1170,7 +1170,7 @@
     "hash": "84a8a41adc75eab67aa7524c36769c45"
   },
   "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https": {
-    "name": "NTV HD (1080p)",
+    "name": "NTV",
     "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https",
     "found_at": "2026-05-18T06:19:47.815131",
     "country": "RU",
@@ -1179,7 +1179,7 @@
     "hash": "628865d64d0f1ae8f841e95b7488652e"
   },
   "http://tmptv.sunduk.tv/CH273/index.m3u8": {
-    "name": "Travel+Adventure (576p)",
+    "name": "Travel+Adventure",
     "url": "http://tmptv.sunduk.tv/CH273/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815141",
     "country": "INT",
@@ -1188,7 +1188,7 @@
     "hash": "dc0a3fa42ae3362c48c0a38132113e0d"
   },
   "http://tmptv.sunduk.tv/CH133/index.m3u8": {
-    "name": "viju History (576p)",
+    "name": "viju History",
     "url": "http://tmptv.sunduk.tv/CH133/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815151",
     "country": "INT",
@@ -1197,7 +1197,7 @@
     "hash": "c0d09c4800ee47d10d4dd25b91528af2"
   },
   "http://tmptv.sunduk.tv/CH175/index.m3u8": {
-    "name": ".sci-fi (576p)",
+    "name": ".sci-fi",
     "url": "http://tmptv.sunduk.tv/CH175/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815161",
     "country": "INT",
@@ -1206,7 +1206,7 @@
     "hash": "f03c15b779f9bbe4cfe3a593e61ec658"
   },
   "https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https": {
-    "name": "Subbota! (1080p)",
+    "name": "Subbota!",
     "url": "https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https",
     "found_at": "2026-05-18T06:19:47.815170",
     "country": "RU",
@@ -1215,7 +1215,7 @@
     "hash": "e3af5e0dacf3a6f9774764651d745c2d"
   },
   "https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https": {
-    "name": "U (720p)",
+    "name": "U",
     "url": "https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https",
     "found_at": "2026-05-18T06:19:47.815178",
     "country": "RU",
@@ -1224,7 +1224,7 @@
     "hash": "879570b5c4d5c29c008c88ebd96adb6a"
   },
   "http://tmptv.sunduk.tv/CH155/index.m3u8": {
-    "name": "Mama (576p)",
+    "name": "Mama",
     "url": "http://tmptv.sunduk.tv/CH155/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815187",
     "country": "INT",
@@ -1233,7 +1233,7 @@
     "hash": "285aef18e8b3ca310f7a182386625cfe"
   },
   "https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=d-E-bxKy2v3EEJ94RQX9CA&e=2069285076&scheme=https": {
-    "name": "RU.TV (1080p)",
+    "name": "RU.TV",
     "url": "https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=d-E-bxKy2v3EEJ94RQX9CA&e=2069285076&scheme=https",
     "found_at": "2026-05-18T06:19:47.815196",
     "country": "RU",
@@ -1242,7 +1242,7 @@
     "hash": "352eb788845ffd3cc6e942bc8773346d"
   },
   "http://tmptv.sunduk.tv/CH729/index.m3u8": {
-    "name": "STS kids (1080p)",
+    "name": "STS kids",
     "url": "http://tmptv.sunduk.tv/CH729/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815205",
     "country": "INT",
@@ -1251,7 +1251,7 @@
     "hash": "2851b7cc0564ed7ebc09af47f941c199"
   },
   "http://tmptv.sunduk.tv/CH301/index.m3u8": {
-    "name": "Amedia Premium (1080p)",
+    "name": "Amedia Premium",
     "url": "http://tmptv.sunduk.tv/CH301/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815215",
     "country": "INT",
@@ -1260,7 +1260,7 @@
     "hash": "49cec69322b40497093b4386c44dfe89"
   },
   "http://tmptv.sunduk.tv/CH311/index.m3u8": {
-    "name": "viju+ Comedy (1080p)",
+    "name": "viju+ Comedy",
     "url": "http://tmptv.sunduk.tv/CH311/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815224",
     "country": "INT",
@@ -1269,7 +1269,7 @@
     "hash": "4c2ef92e388528355825aacff42dc9a0"
   },
   "http://tmptv.sunduk.tv/CH313/index.m3u8": {
-    "name": "viju+ Megahit (1080p)",
+    "name": "viju+ Megahit",
     "url": "http://tmptv.sunduk.tv/CH313/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815233",
     "country": "INT",
@@ -1278,7 +1278,7 @@
     "hash": "7af1197373b2c2834039dcaa5b1fa47c"
   },
   "http://tmptv.sunduk.tv/CH315/index.m3u8": {
-    "name": "viju+ Premiere (1080p)",
+    "name": "viju+ Premiere",
     "url": "http://tmptv.sunduk.tv/CH315/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815242",
     "country": "INT",
@@ -1287,7 +1287,7 @@
     "hash": "962e0284b759bcf9fad7cdf5a4e7ea92"
   },
   "http://tmptv.sunduk.tv/CH317/index.m3u8": {
-    "name": "OTR (576p)",
+    "name": "OTR",
     "url": "http://tmptv.sunduk.tv/CH317/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815251",
     "country": "INT",
@@ -1296,7 +1296,7 @@
     "hash": "a20a003bbee24c179ab403544ff2e9eb"
   },
   "http://tmptv.sunduk.tv/CH35/index.m3u8": {
-    "name": "Detski mir (576p)",
+    "name": "Detski mir",
     "url": "http://tmptv.sunduk.tv/CH35/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815272",
     "country": "INT",
@@ -1305,7 +1305,7 @@
     "hash": "9ecd489653862e5193b8f27934707422"
   },
   "http://tmptv.sunduk.tv/CH51/index.m3u8": {
-    "name": "Match! Boets (576p)",
+    "name": "Match! Boets",
     "url": "http://tmptv.sunduk.tv/CH51/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815283",
     "country": "INT",
@@ -1314,7 +1314,7 @@
     "hash": "8880fd66647313e2d33eae57e8353b3b"
   },
   "http://tmptv.sunduk.tv/CH67/index.m3u8": {
-    "name": "Russian Extreme (576p)",
+    "name": "Russian Extreme",
     "url": "http://tmptv.sunduk.tv/CH67/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815291",
     "country": "RU",
@@ -1323,7 +1323,7 @@
     "hash": "1a0f3502d8cd8ef2c8b10e25062b5a3e"
   },
   "http://tmptv.sunduk.tv/CH77/index.m3u8": {
-    "name": "MCM Top (576p)",
+    "name": "MCM Top",
     "url": "http://tmptv.sunduk.tv/CH77/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815300",
     "country": "INT",
@@ -1332,7 +1332,7 @@
     "hash": "365c0379776a161e42faa09eaf51aa20"
   },
   "http://tmptv.sunduk.tv/CH81/index.m3u8": {
-    "name": "MusicBox Gold (576p)",
+    "name": "MusicBox Gold",
     "url": "http://tmptv.sunduk.tv/CH81/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815309",
     "country": "RU",
@@ -1341,7 +1341,7 @@
     "hash": "e4ec3deee63d80131dad1de149e9736c"
   },
   "http://tmptv.sunduk.tv/CH131/index.m3u8": {
-    "name": "viju+ Sport (576p)",
+    "name": "viju+ Sport",
     "url": "http://tmptv.sunduk.tv/CH131/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815318",
     "country": "RU",
@@ -1350,7 +1350,7 @@
     "hash": "c757185845b93075b5d2430581c4db38"
   },
   "http://tmptv.sunduk.tv/CH137/index.m3u8": {
-    "name": "Usadba (576p)",
+    "name": "Usadba",
     "url": "http://tmptv.sunduk.tv/CH137/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815327",
     "country": "INT",
@@ -1359,7 +1359,7 @@
     "hash": "6b4c4ca24c343c49fd0dbbe449535391"
   },
   "http://tmptv.sunduk.tv/CH139/index.m3u8": {
-    "name": "viju TV1000 russkoe (576p)",
+    "name": "viju TV1000 russkoe",
     "url": "http://tmptv.sunduk.tv/CH139/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815337",
     "country": "INT",
@@ -1368,7 +1368,7 @@
     "hash": "b2e55239fb5392b7a1f3d99c31ad2295"
   },
   "http://tmptv.sunduk.tv/CH141/index.m3u8": {
-    "name": "viju TV1000 (576p)",
+    "name": "viju TV1000",
     "url": "http://tmptv.sunduk.tv/CH141/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815346",
     "country": "INT",
@@ -1377,7 +1377,7 @@
     "hash": "fd3de4dfa9d0dc74f08c6966b87b127d"
   },
   "http://tmptv.sunduk.tv/CH143/index.m3u8": {
-    "name": "viju TV1000 action (576p)",
+    "name": "viju TV1000 action",
     "url": "http://tmptv.sunduk.tv/CH143/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815355",
     "country": "INT",
@@ -1386,7 +1386,7 @@
     "hash": "a42baf44a71a2ef4a3baefab81bd482a"
   },
   "http://tmptv.sunduk.tv/CH147/index.m3u8": {
-    "name": ".red (576p)",
+    "name": ".red",
     "url": "http://tmptv.sunduk.tv/CH147/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815364",
     "country": "INT",
@@ -1395,7 +1395,7 @@
     "hash": "6a87568d158fea9412253f9d9a33ae46"
   },
   "http://tmptv.sunduk.tv/CH145/index.m3u8": {
-    "name": "TV 21 (576p)",
+    "name": "TV 21",
     "url": "http://tmptv.sunduk.tv/CH145/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815381",
     "country": "INT",
@@ -1404,7 +1404,7 @@
     "hash": "43aa6a43db4d7affbe25ecfc78ee081a"
   },
   "http://tmptv.sunduk.tv/CH163/index.m3u8": {
-    "name": "Evrokino (576p)",
+    "name": "Evrokino",
     "url": "http://tmptv.sunduk.tv/CH163/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815391",
     "country": "RU",
@@ -1413,7 +1413,7 @@
     "hash": "f3815eef5e88d3e83ecc99dcaa819c6f"
   },
   "http://tmptv.sunduk.tv/CH167/index.m3u8": {
-    "name": "Unikum (576p)",
+    "name": "Unikum",
     "url": "http://tmptv.sunduk.tv/CH167/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815402",
     "country": "INT",
@@ -1422,7 +1422,7 @@
     "hash": "d713d59d1ed201d91f277cd8958ca121"
   },
   "http://tmptv.sunduk.tv/CH203/index.m3u8": {
-    "name": "viju Nature (576p)",
+    "name": "viju Nature",
     "url": "http://tmptv.sunduk.tv/CH203/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815411",
     "country": "INT",
@@ -1431,7 +1431,7 @@
     "hash": "6b43b139e7b1154b15a11f4bda7a24a2"
   },
   "http://tmptv.sunduk.tv/CH205/index.m3u8": {
-    "name": "Da Vinci (576p)",
+    "name": "Da Vinci",
     "url": "http://tmptv.sunduk.tv/CH205/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815420",
     "country": "INT",
@@ -1440,7 +1440,7 @@
     "hash": "95ade87dfa71b28289e2ae40b8a6133e"
   },
   "http://tmptv.sunduk.tv/CH225/index.m3u8": {
-    "name": "Moya Planeta (576p)",
+    "name": "Moya Planeta",
     "url": "http://tmptv.sunduk.tv/CH225/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815429",
     "country": "INT",
@@ -1449,7 +1449,7 @@
     "hash": "d8f57f6bb3b7d860de736485a821d604"
   },
   "http://tmptv.sunduk.tv/CH247/index.m3u8": {
-    "name": "KHL (576p)",
+    "name": "KHL",
     "url": "http://tmptv.sunduk.tv/CH247/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815438",
     "country": "INT",
@@ -1458,7 +1458,7 @@
     "hash": "802d56226537873ad5ebefec94ea3fa2"
   },
   "http://tmptv.sunduk.tv/CH255/index.m3u8": {
-    "name": "Match! Igra (576p)",
+    "name": "Match! Igra",
     "url": "http://tmptv.sunduk.tv/CH255/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815447",
     "country": "INT",
@@ -1467,7 +1467,7 @@
     "hash": "92db59764fa0b6f71bcbf2de115ecf93"
   },
   "http://tmptv.sunduk.tv/CH257/index.m3u8": {
-    "name": "BRIDGE Deluxe (1080p)",
+    "name": "BRIDGE Deluxe",
     "url": "http://tmptv.sunduk.tv/CH257/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815456",
     "country": "INT",
@@ -1476,7 +1476,7 @@
     "hash": "b401942e2e67f0bf95ebc997a1bbd3dc"
   },
   "http://tmptv.sunduk.tv/CH267/index.m3u8": {
-    "name": "Europa Plus TV (576p)",
+    "name": "Europa Plus TV",
     "url": "http://tmptv.sunduk.tv/CH267/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815465",
     "country": "INT",
@@ -1485,7 +1485,7 @@
     "hash": "b5dd9a9e4ce41444762da35f523452ee"
   },
   "http://tmptv.sunduk.tv/CH21/index.m3u8": {
-    "name": "Kinosvidanie (576p)",
+    "name": "Kinosvidanie",
     "url": "http://tmptv.sunduk.tv/CH21/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815473",
     "country": "RU",
@@ -1494,7 +1494,7 @@
     "hash": "57636d7b5155c5460b2431e9a7fbf96d"
   },
   "http://tmptv.sunduk.tv/CH23/index.m3u8": {
-    "name": "Rodnoe Kino (576p)",
+    "name": "Rodnoe Kino",
     "url": "http://tmptv.sunduk.tv/CH23/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815482",
     "country": "RU",
@@ -1503,7 +1503,7 @@
     "hash": "5930999dfa0b968dc59ef014d8ac90d2"
   },
   "http://tmptv.sunduk.tv/CH25/index.m3u8": {
-    "name": "Kinosemja (576p)",
+    "name": "Kinosemja",
     "url": "http://tmptv.sunduk.tv/CH25/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815491",
     "country": "RU",
@@ -1512,7 +1512,7 @@
     "hash": "f481e83b8d6f3cb90ddfe0d898c0da49"
   },
   "http://tmptv.sunduk.tv/CH47/index.m3u8": {
-    "name": "Kinokomedija (576p)",
+    "name": "Kinokomedija",
     "url": "http://tmptv.sunduk.tv/CH47/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815500",
     "country": "RU",
@@ -1521,7 +1521,7 @@
     "hash": "a05e43e1af46e3743db73731ca9fc87f"
   },
   "http://tmptv.sunduk.tv/CH49/index.m3u8": {
-    "name": "Auto Plus (576p)",
+    "name": "Auto Plus",
     "url": "http://tmptv.sunduk.tv/CH49/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815508",
     "country": "INT",
@@ -1530,7 +1530,7 @@
     "hash": "c91010dd35675f793a2f704f8ab08e91"
   },
   "http://tmptv.sunduk.tv/CH57/index.m3u8": {
-    "name": "KinoHit (576p)",
+    "name": "KinoHit",
     "url": "http://tmptv.sunduk.tv/CH57/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815517",
     "country": "RU",
@@ -1593,7 +1593,7 @@
     "hash": "cd4e8e8cb82ebe4f01ec47484ebaae0b"
   },
   "http://tmptv.sunduk.tv/CH125/index.m3u8": {
-    "name": "Channel One HD",
+    "name": "Channel One",
     "url": "http://tmptv.sunduk.tv/CH125/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815598",
     "country": "INT",
@@ -1647,7 +1647,7 @@
     "hash": "ee2d3111567d0348f7f489005fad790f"
   },
   "http://tmptv.sunduk.tv/CH189/index.m3u8": {
-    "name": "REN TV HD",
+    "name": "REN TV",
     "url": "http://tmptv.sunduk.tv/CH189/index.m3u8",
     "found_at": "2026-05-18T06:19:47.815651",
     "country": "INT",
@@ -2475,7 +2475,7 @@
     "hash": "b4001f62a1e2c048fbdb9f311e58a568"
   },
   "https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP": {
-    "name": "VIP HD",
+    "name": "VIP",
     "url": "https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP",
     "found_at": "2026-05-18T06:19:47.816735",
     "country": "INT",
@@ -3231,7 +3231,7 @@
     "hash": "d1ca6acda7f2518c9b1439f12d06aa03"
   },
   "https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8": {
-    "name": "ICI Télé HD Ⓖ",
+    "name": "ICI Télé Ⓖ",
     "url": "https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8",
     "found_at": "2026-05-18T06:19:47.817698",
     "country": "INT",
@@ -3870,7 +3870,7 @@
     "hash": "cb3e3ea6f08a0ce2a7e697d8f5bd2fc7"
   },
   "http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts": {
-    "name": "RIK HD",
+    "name": "RIK",
     "url": "http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts",
     "found_at": "2026-05-18T06:19:47.818550",
     "country": "INT",
@@ -9045,7 +9045,7 @@
     "hash": "2853589f2f900cf42a67b0427e2e09b0"
   },
   "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8": {
-    "name": "Cine34   Ⓖ",
+    "name": "Cine34 Ⓖ",
     "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8",
     "found_at": "2026-05-18T07:52:50.294294",
     "country": "INT",
@@ -9090,7 +9090,7 @@
     "hash": "975e6be3dd117fb35e9afdeef4e1cc29"
   },
   "https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8": {
-    "name": "Top Crime   Ⓖ",
+    "name": "Top Crime Ⓖ",
     "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8",
     "found_at": "2026-05-18T07:52:50.294649",
     "country": "INT",
@@ -9099,7 +9099,7 @@
     "hash": "ed42775432c1133a9511bacb2b76afa0"
   },
   "https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8": {
-    "name": "BOING   Ⓖ",
+    "name": "BOING Ⓖ",
     "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8",
     "found_at": "2026-05-18T07:52:50.294728",
     "country": "INT",
@@ -11079,7 +11079,7 @@
     "hash": "81857dd3f3e45a2f43ff570187b5f038"
   },
   "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8": {
-    "name": "TSD Tv Arezzo(Tele San Domenico)",
+    "name": "T Tv Arezzo(Tele San Domenico)",
     "url": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8",
     "found_at": "2026-05-18T07:52:50.311178",
     "country": "INT",
@@ -11268,7 +11268,7 @@
     "hash": "994a88499dc7506a154c97919f362fc9"
   },
   "https://streaming.liberta.it/hls/liberta.m3u8": {
-    "name": "Tele Liberta' HD",
+    "name": "Tele Liberta'",
     "url": "https://streaming.liberta.it/hls/liberta.m3u8",
     "found_at": "2026-05-18T07:52:50.311890",
     "country": "INT",
@@ -12906,7 +12906,7 @@
     "hash": "0b61839bfab704d3613f38797134dc3e"
   },
   "https://straume.vdtv.lv/vdtv2/index.m3u8": {
-    "name": "Vidusdaugavas Televīzija",
+    "name": "Vidu augavas Televīzija",
     "url": "https://straume.vdtv.lv/vdtv2/index.m3u8",
     "found_at": "2026-05-18T07:52:50.330873",
     "country": "INT",
@@ -18072,7 +18072,7 @@
     "hash": "552205213a5c5ce78ab216216509a20d"
   },
   "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8": {
-    "name": "Deluxe Lounge HD",
+    "name": "Deluxe Lounge",
     "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8",
     "found_at": "2026-05-18T07:52:50.387480",
     "country": "INT",
@@ -18900,7 +18900,7 @@
     "hash": "a48b93405977d1e361531b043f5b5679"
   },
   "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6278ec6c33d85a00077ad814/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel": {
-    "name": "Deluxe Lounge HD – Pluto TV",
+    "name": "Deluxe Lounge – Pluto TV",
     "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6278ec6c33d85a00077ad814/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
     "found_at": "2026-05-18T07:52:50.405454",
     "country": "INT",
@@ -19917,7 +19917,7 @@
     "hash": "bd71525a8ed4070866935c2b3c89e3ad"
   },
   "https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8": {
-    "name": "Всё ТВ HD",
+    "name": "Всё ТВ",
     "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8",
     "found_at": "2026-05-18T07:52:50.409893",
     "country": "INT",
@@ -19926,7 +19926,7 @@
     "hash": "3b9f85c0c3917b3ae047e2a9a4b7f84f"
   },
   "https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSKVA24HD/variant.m3u8": {
-    "name": "Москва 24 HD",
+    "name": "Москва 24",
     "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSKVA24HD/variant.m3u8",
     "found_at": "2026-05-18T07:52:50.409923",
     "country": "RU",
@@ -19935,7 +19935,7 @@
     "hash": "135a50fdb7c262601b2a25d958738f37"
   },
   "https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8": {
-    "name": "Крым 24 HD",
+    "name": "Крым 24",
     "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8",
     "found_at": "2026-05-18T07:52:50.409972",
     "country": "RU",
@@ -20007,7 +20007,7 @@
     "hash": "f53aa2b48591d2203a993a3f9ab96b18"
   },
   "https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8": {
-    "name": "ТРК-555 HD",
+    "name": "ТРК-555",
     "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8",
     "found_at": "2026-05-18T07:52:50.410297",
     "country": "INT",
@@ -26316,7 +26316,7 @@
     "hash": "389f58dbed22b2d062bbf7b2b721330a"
   },
   "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8": {
-    "name": "ЛенТВ 24 HD (Санкт-Петербург)",
+    "name": "ЛенТВ 24 (Санкт-Петербург)",
     "url": "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8",
     "found_at": "2026-05-18T07:52:50.470715",
     "country": "RU",
@@ -26343,7 +26343,7 @@
     "hash": "6173ccbf8c71a2b213159615d23206ca"
   },
   "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8": {
-    "name": "Санкт-Петербург HD (Санкт-Петербург)",
+    "name": "Санкт-Петербург (Санкт-Петербург)",
     "url": "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8",
     "found_at": "2026-05-18T07:52:50.470751",
     "country": "RU",
@@ -29142,7 +29142,7 @@
     "hash": "3f22ceac0897baf5203f9fafdf81f85b"
   },
   "https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_RBCHD_NSK/variant.m3u8": {
-    "name": "РБК-Новосибирск HD (Новосибирск)",
+    "name": "РБК-Новосибирск (Новосибирск)",
     "url": "https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_RBCHD_NSK/variant.m3u8",
     "found_at": "2026-05-18T07:52:50.505504",
     "country": "RU",

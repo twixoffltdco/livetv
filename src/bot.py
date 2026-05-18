@@ -468,6 +468,9 @@ class IPTVScanner:
                     return False
                 
                 channel_name = name or "Unknown"
+                # Очищаем название канала от технических суффиксов сразу при добавлении
+                channel_name = self.clean_channel_name(channel_name)
+                
                 is_ru = any(kw in url.lower() for kw in RU_KEYWORDS) or \
                         any(kw in channel_name.lower() for kw in RU_KEYWORDS)
                 
@@ -902,7 +905,14 @@ class IPTVScanner:
         if FOUND_STREAMS_FILE.exists():
             try:
                 with open(FOUND_STREAMS_FILE, 'r', encoding='utf-8') as f:
-                    self.found_streams = json.load(f)
+                    loaded_streams = json.load(f)
+                
+                # Очищаем названия каналов от технических суффиксов при загрузке
+                for url, info in loaded_streams.items():
+                    if 'name' in info:
+                        info['name'] = self.clean_channel_name(info['name'])
+                    self.found_streams[url] = info
+                
                 self.log(f"📂 Загружено {len(self.found_streams)} ранее найденных потоков")
             except Exception:
                 pass
@@ -941,12 +951,11 @@ class IPTVScanner:
         m3u_content += "# НЕ использует iptv-org или другие готовые списки\n\n"
         
         for url, info in self.found_streams.items():
-            original_name = info.get('name', 'Channel')
+            name = info.get('name', 'Channel')
             group = info.get('group', 'IPTV')
             
-            # Очищаем название от технических суффиксов
-            name = self.clean_channel_name(original_name)
-
+            # Название уже очищено при добавлении в check_and_add
+            
             # Проверяем является ли URL zabava-htlive/zabava-hlive - для них НЕ используем прокси
             is_zabava = 'zabava-htlive' in url.lower() or 'zabava-hlive' in url.lower() or \
                         'ngenix.net' in url.lower()
