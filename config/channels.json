@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Первый канал",
+    "category": "Федеральные",
+    "search_terms": [
+      "первый канал",
+      "1tv"
+    ]
+  },
+  {
+    "name": "Россия 1",
+    "category": "Федеральные",
+    "search_terms": [
+      "россия 1",
+      "russia1"
+    ]
+  },
+  {
+    "name": "НТВ",
+    "category": "Федеральные",
+    "search_terms": [
+      "нтв",
+      "ntv"
+    ]
+  },
+  {
+    "name": "ТНТ",
+    "category": "Развлекательные",
+    "search_terms": [
+      "тнт",
+      "tnt"
+    ]
+  },
+  {
+    "name": "РЕН ТВ",
+    "category": "Федеральные",
+    "search_terms": [
+      "рен тв",
+      "rentv"
+    ]
+  },
+  {
+    "name": "СТС",
+    "category": "Развлекательные",
+    "search_terms": [
+      "стс",
+      "ctc"
+    ]
+  },
+  {
+    "name": "Домашний",
+    "category": "Развлекательные",
+    "search_terms": [
+      "домашний",
+      "domashniy"
+    ]
+  },
+  {
+    "name": "ТВ-3",
+    "category": "Развлекательные",
+    "search_terms": [
+      "тв3",
+      "tv3"
+    ]
+  },
+  {
+    "name": "Пятница!",
+    "category": "Развлекательные",
+    "search_terms": [
+      "пятница",
+      "pyatnitsa"
+    ]
+  },
+  {
+    "name": "Звезда",
+    "category": "Федеральные",
+    "search_terms": [
+      "звезда",
+      "tvzvezda"
+    ]
+  },
+  {
+    "name": "Мир",
+    "category": "Федеральные",
+    "search_terms": [
+      "мир",
+      "mir"
+    ]
+  },
+  {
+    "name": "ТВ Центр",
+    "category": "Федеральные",
+    "search_terms": [
+      "тв центр",
+      "tvcenter"
+    ]
+  },
+  {
+    "name": "Россия 24",
+    "category": "Новости",
+    "search_terms": [
+      "россия 24",
+      "russia24"
+    ]
+  },
+  {
+    "name": "Карусель",
+    "category": "Детские",
+    "search_terms": [
+      "карусель",
+      "karusel"
+    ]
+  },
+  {
+    "name": "ОТР",
+    "category": "Федеральные",
+    "search_terms": [
+      "отр",
+      "otr"
+    ]
+  },
+  {
+    "name": "ТВ Культура",
+    "category": "Культура",
+    "search_terms": [
+      "культура",
+      "kultura"
+    ]
+  },
+  {
+    "name": "Матч ТВ",
+    "category": "Спорт",
+    "search_terms": [
+      "матч тв",
+      "matchtv"
+    ]
+  },
+  {
+    "name": "Москва 24",
+    "category": "Региональные",
+    "search_terms": [
+      "москва 24",
+      "moscow24"
+    ]
+  },
+  {
+    "name": "RT News",
+    "category": "Новости",
+    "search_terms": [
+      "rt news",
+      "rt russian"
+    ]
+  },
+  {
+    "name": "Euronews Russian",
+    "category": "Новости",
+    "search_terms": [
+      "euronews russian",
+      "euronews ru"
+    ]
+  }
+]

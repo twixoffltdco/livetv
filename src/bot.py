@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 LiveM3U - Автоматический поисковой робот для создания актуальных M3U плейлистов
-Ищет рабочие прямые ссылки на потоки и обновляет плейлист автоматически
+Сам ищет рабочие потоки через API iptv-org и проверку доступных источников
+Вдохновлено проектами: iptv-org, zabava-project, IPTVPlay
 """
 
 import os
@@ -12,10 +13,10 @@ import logging
 import requests
 from datetime import datetime
 from pathlib import Path
-from typing import List, Dict, Optional, Tuple
+from typing import List, Dict, Optional, Tuple, Set
 from dataclasses import dataclass, asdict
-import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from urllib.parse import urlparse, parse_qs
 
 # Конфигурация
 BASE_DIR = Path(__file__).parent.parent
@@ -67,344 +68,304 @@ class StreamChecker:
         self.max_retries = max_retries
         self.session = requests.Session()
         self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': '*/*',
-            'Connection': 'keep-alive'
+            'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7',
+            'Referer': 'https://github.com/iptv-org/iptv',
+            'Connection': 'keep-alive',
+            'DNT': '1'
         })
     
     def check_stream(self, stream: StreamInfo) -> StreamInfo:
         """Проверить один поток"""
+        # Пропускаем не-http ссылки и страницы плееров
+        if not stream.url.startswith(('http://', 'https://')):
+            stream.status = "dead"
+            stream.last_checked = datetime.now().isoformat()
+            return stream
+        
+        # Пропускаем iframe и html страницы
+        if any(x in stream.url for x in ['iframe', 'player.smotrim', '/watch/', '.html']):
+            stream.status = "dead"
+            stream.last_checked = datetime.now().isoformat()
+            return stream
+        
         for attempt in range(self.max_retries):
             try:
+                # Сначала пробуем HEAD запрос
                 response = self.session.head(
                     stream.url, 
                     timeout=self.timeout,
                     allow_redirects=True
                 )
+                
                 if response.status_code == 200:
-                    stream.status = "working"
-                    stream.last_checked = datetime.now().isoformat()
-                    logger.info(f"✓ Рабочий поток: {stream.name}")
-                    return stream
-                elif response.status_code in [403, 404]:
+                    # Проверяем Content-Type для видео потоков
+                    content_type = response.headers.get('Content-Type', '').lower()
+                    if any(x in content_type for x in ['video', 'mpegurl', 'mpd', 'octet-stream']):
+                        stream.status = "working"
+                        stream.last_checked = datetime.now().isoformat()
+                        logger.info(f"✓ Рабочий поток: {stream.name}")
+                        return stream
+                
+                # Если HEAD не сработал, пробуем GET с ограничением
+                response = self.session.get(
+                    stream.url, 
+                    timeout=self.timeout,
+                    allow_redirects=True,
+                    stream=True
+                )
+                
+                if response.status_code == 200:
+                    # Проверяем первые байты на наличие M3U8 или MPD сигнатур
+                    first_bytes = response.raw.read(1024).decode('utf-8', errors='ignore').lower()
+                    if '#extm3u' in first_bytes or '<mpd' in first_bytes:
+                        stream.status = "working"
+                        stream.last_checked = datetime.now().isoformat()
+                        logger.info(f"✓ Рабочий поток: {stream.name}")
+                        return stream
+                
+                if response.status_code in [403, 404, 410]:
                     stream.status = "dead"
                     stream.last_checked = datetime.now().isoformat()
-                    logger.warning(f"✗ Мёртвый поток ({response.status_code}): {stream.name}")
+                    logger.debug(f"✗ Мёртвый поток ({response.status_code}): {stream.name}")
                     return stream
+                    
             except requests.exceptions.RequestException as e:
                 if attempt == self.max_retries - 1:
                     stream.status = "dead"
                     stream.last_checked = datetime.now().isoformat()
-                    logger.warning(f"✗ Ошибка проверки: {stream.name} - {str(e)}")
+                    logger.debug(f"✗ Ошибка проверки: {stream.name} - {str(e)[:50]}")
                 else:
-                    time.sleep(1)
+                    time.sleep(0.5)
         
         stream.last_checked = datetime.now().isoformat()
         return stream
 
 
 class StreamFinder:
-    """Поисковой робот для нахождения потоков"""
+    """Поисковой робот для автоматического нахождения потоков"""
+    
+    # Источники для поиска потоков (без конкретных URL - только API и каталоги)
+    IPTV_ORG_API = "https://iptv-org.github.io/api"
+    IPTV_ORG_PLAYLIST = "https://iptv-org.github.io/iptv/languages/rus.m3u"
     
     def __init__(self):
-        self.sources = self._load_sources()
+        self.channels_config = self._load_channels_config()
         self.checker = StreamChecker()
+        self.found_urls: Set[str] = set()
     
-    def _load_sources(self) -> List[Dict]:
-        """Загрузить источники для поиска"""
-        sources_file = CONFIG_DIR / "sources.json"
-        if sources_file.exists():
-            with open(sources_file, 'r', encoding='utf-8') as f:
+    def _load_channels_config(self) -> List[Dict]:
+        """Загрузить список каналов для поиска"""
+        config_file = CONFIG_DIR / "channels.json"
+        if config_file.exists():
+            with open(config_file, 'r', encoding='utf-8') as f:
                 return json.load(f)
         
-        # Источники по умолчанию (только доступные в РФ)
-        default_sources = [
-            {
-                "name": "Первый канал",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/1.m3u8",
-                    "https://edge1.1cliptv.com/dash-live2/streams/1ch/1ch.mpd"
-                ],
-                "category": "Федеральные"
-            },
-            {
-                "name": "Россия 1",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/2.m3u8",
-                    "https://player.smotrim.ru/iframe/stream/live_id/2963"
-                ],
-                "category": "Федеральные"
-            },
-            {
-                "name": "НТВ",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/4.m3u8"
-                ],
-                "category": "Федеральные"
-            },
-            {
-                "name": "ТНТ",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/5.m3u8"
-                ],
-                "category": "Развлекательные"
-            },
-            {
-                "name": "РЕН ТВ",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/7.m3u8"
-                ],
-                "category": "Федеральные"
-            },
-            {
-                "name": "СТС",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/8.m3u8"
-                ],
-                "category": "Развлекательные"
-            },
-            {
-                "name": "Домашний",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/9.m3u8"
-                ],
-                "category": "Развлекательные"
-            },
-            {
-                "name": "ТВ-3",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/10.m3u8"
-                ],
-                "category": "Развлекательные"
-            },
-            {
-                "name": "Пятница!",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/11.m3u8"
-                ],
-                "category": "Развлекательные"
-            },
-            {
-                "name": "Звезда",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/13.m3u8"
-                ],
-                "category": "Федеральные"
-            },
-            {
-                "name": "Мир",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/14.m3u8"
-                ],
-                "category": "Федеральные"
-            },
-            {
-                "name": "ТВ Центр",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/15.m3u8"
-                ],
-                "category": "Федеральные"
-            },
-            {
-                "name": "РТР-Планета",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/16.m3u8"
-                ],
-                "category": "Международные"
-            },
-            {
-                "name": "Россия 24",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/17.m3u8",
-                    "https://player.smotrim.ru/iframe/stream/live_id/2964"
-                ],
-                "category": "Новости"
-            },
-            {
-                "name": "Карусель",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/18.m3u8"
-                ],
-                "category": "Детские"
-            },
-            {
-                "name": "ОТР",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/19.m3u8"
-                ],
-                "category": "Федеральные"
-            },
-            {
-                "name": "ТВ Культура",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/20.m3u8"
-                ],
-                "category": "Культура"
-            },
-            {
-                "name": "Матч ТВ",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/21.m3u8"
-                ],
-                "category": "Спорт"
-            },
-            {
-                "name": "Матч! Страна",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/22.m3u8"
-                ],
-                "category": "Спорт"
-            },
-            {
-                "name": "Матч! Боец",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/23.m3u8"
-                ],
-                "category": "Спорт"
-            },
-            {
-                "name": "Матч! Премьер",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/24.m3u8"
-                ],
-                "category": "Спорт"
-            },
-            {
-                "name": "Кинопоиск",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/25.m3u8"
-                ],
-                "category": "Кино"
-            },
-            {
-                "name": "ВГТРК",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/26.m3u8"
-                ],
-                "category": "Региональные"
-            },
-            {
-                "name": "Москва 24",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/27.m3u8"
-                ],
-                "category": "Региональные"
-            },
-            {
-                "name": "МИР 24",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/28.m3u8"
-                ],
-                "category": "Новости"
-            },
-            {
-                "name": "Лента.ру",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/29.m3u8"
-                ],
-                "category": "Новости"
-            },
-            {
-                "name": "Известия",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/30.m3u8"
-                ],
-                "category": "Новости"
-            },
-            {
-                "name": "Дождь",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/31.m3u8"
-                ],
-                "category": "Новости"
-            },
-            {
-                "name": "RTД",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/32.m3u8"
-                ],
-                "category": "Документальные"
-            },
-            {
-                "name": "History",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/33.m3u8"
-                ],
-                "category": "Документальные"
-            },
-            {
-                "name": "National Geographic",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/34.m3u8"
-                ],
-                "category": "Документальные"
-            },
-            {
-                "name": "Discovery",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/35.m3u8"
-                ],
-                "category": "Документальные"
-            },
-            {
-                "name": "Animal Planet",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/36.m3u8"
-                ],
-                "category": "Документальные"
-            },
-            {
-                "name": "Euronews",
-                "urls": [
-                    "https://streaming.televizor-24.ru/channels/37.m3u8"
-                ],
-                "category": "Новости"
-            }
+        # Список каналов для поиска (без URL!)
+        default_channels = [
+            {"name": "Первый канал", "category": "Федеральные", "search_terms": ["первый канал", "1tv"]},
+            {"name": "Россия 1", "category": "Федеральные", "search_terms": ["россия 1", "russia1"]},
+            {"name": "НТВ", "category": "Федеральные", "search_terms": ["нтв", "ntv"]},
+            {"name": "ТНТ", "category": "Развлекательные", "search_terms": ["тнт", "tnt"]},
+            {"name": "РЕН ТВ", "category": "Федеральные", "search_terms": ["рен тв", "rentv"]},
+            {"name": "СТС", "category": "Развлекательные", "search_terms": ["стс", "ctc"]},
+            {"name": "Домашний", "category": "Развлекательные", "search_terms": ["домашний", "domashniy"]},
+            {"name": "ТВ-3", "category": "Развлекательные", "search_terms": ["тв3", "tv3"]},
+            {"name": "Пятница!", "category": "Развлекательные", "search_terms": ["пятница", "pyatnitsa"]},
+            {"name": "Звезда", "category": "Федеральные", "search_terms": ["звезда", "tvzvezda"]},
+            {"name": "Мир", "category": "Федеральные", "search_terms": ["мир", "mir"]},
+            {"name": "ТВ Центр", "category": "Федеральные", "search_terms": ["тв центр", "tvcenter"]},
+            {"name": "Россия 24", "category": "Новости", "search_terms": ["россия 24", "russia24"]},
+            {"name": "Карусель", "category": "Детские", "search_terms": ["карусель", "karusel"]},
+            {"name": "ОТР", "category": "Федеральные", "search_terms": ["отр", "otr"]},
+            {"name": "ТВ Культура", "category": "Культура", "search_terms": ["культура", "kultura"]},
+            {"name": "Матч ТВ", "category": "Спорт", "search_terms": ["матч тв", "matchtv"]},
+            {"name": "Москва 24", "category": "Региональные", "search_terms": ["москва 24", "moscow24"]},
+            {"name": "RT News", "category": "Новости", "search_terms": ["rt news", "rt russian"]},
+            {"name": "Euronews Russian", "category": "Новости", "search_terms": ["euronews russian", "euronews ru"]},
         ]
         
-        # Сохраняем источники по умолчанию
-        with open(sources_file, 'w', encoding='utf-8') as f:
-            json.dump(default_sources, f, ensure_ascii=False, indent=2)
+        with open(config_file, 'w', encoding='utf-8') as f:
+            json.dump(default_channels, f, ensure_ascii=False, indent=2)
         
-        return default_sources
+        return default_channels
     
-    def find_streams(self) -> List[StreamInfo]:
-        """Найти все потоки из источников"""
+    def fetch_iptv_org_playlist(self) -> List[StreamInfo]:
+        """Загрузить плейлист из iptv-org (основной источник как в iptv-org/iptv)"""
         streams = []
-        logger.info("Начинаю поиск потоков...")
+        logger.info("Загружаю плейлист от iptv-org...")
         
-        for source in self.sources:
-            for url in source["urls"]:
-                stream = StreamInfo(
-                    name=source["name"],
-                    url=url,
-                    category=source.get("category", "Общее"),
-                    country="RU",
-                    language="rus",
-                    group_title=source.get("category", "Общее")
-                )
-                streams.append(stream)
+        try:
+            response = requests.get(
+                self.IPTV_ORG_PLAYLIST,
+                headers={'User-Agent': 'Mozilla/5.0'},
+                timeout=30
+            )
+            response.raise_for_status()
+            
+            lines = response.text.split('\n')
+            current_name = ""
+            current_group = ""
+            current_logo = ""
+            
+            for line in lines:
+                line = line.strip()
+                if line.startswith('#EXTINF:'):
+                    # Извлекаем информацию из строки EXTINF
+                    if 'tvg-name=' in line:
+                        match = re.search(r'tvg-name="([^"]*)"', line)
+                        if match:
+                            current_name = match.group(1)
+                    
+                    if 'group-title=' in line:
+                        match = re.search(r'group-title="([^"]*)"', line)
+                        if match:
+                            current_group = match.group(1)
+                    
+                    if 'tvg-logo=' in line:
+                        match = re.search(r'tvg-logo="([^"]*)"', line)
+                        if match:
+                            current_logo = match.group(1)
+                    
+                    # Извлекаем название канала после запятой
+                    if ',' in line:
+                        name_part = line.split(',')[-1].strip()
+                        if name_part and not name_part.startswith('#'):
+                            current_name = name_part
+                
+                elif line.startswith('http'):
+                    # Это URL потока
+                    if current_name and line not in self.found_urls:
+                        self.found_urls.add(line)
+                        stream = StreamInfo(
+                            name=current_name,
+                            url=line,
+                            category=current_group or "Общее",
+                            country="RU",
+                            language="rus",
+                            logo=current_logo,
+                            group_title=current_group or "Общее"
+                        )
+                        streams.append(stream)
+                        logger.debug(f"Найден канал: {current_name}")
+                    
+                    # Сбрасываем для следующего канала
+                    current_name = ""
+                    current_group = ""
+                    current_logo = ""
+            
+            logger.info(f"Загружено {len(streams)} каналов из iptv-org")
+            
+        except Exception as e:
+            logger.error(f"Ошибка загрузки iptv-org: {e}")
         
-        logger.info(f"Найдено {len(streams)} потенциальных потоков")
         return streams
     
-    def check_all_streams(self, streams: List[StreamInfo], max_workers: int = 10) -> List[StreamInfo]:
+    def search_additional_sources(self) -> List[StreamInfo]:
+        """Поиск дополнительных источников через известные каталоги"""
+        streams = []
+        
+        # Дополнительные источники в стиле iptv-org
+        additional_playlists = [
+            "https://iptv-org.github.io/iptv/countries/ru.m3u",
+            "https://iptv-org.github.io/iptv/categories/news.m3u",
+            "https://iptv-org.github.io/iptv/categories/movies.m3u",
+        ]
+        
+        for playlist_url in additional_playlists:
+            try:
+                logger.info(f"Проверяю дополнительный источник: {playlist_url}")
+                response = requests.get(playlist_url, timeout=15)
+                
+                if response.status_code == 200:
+                    lines = response.text.split('\n')
+                    current_name = ""
+                    current_group = ""
+                    
+                    for line in lines:
+                        line = line.strip()
+                        if line.startswith('#EXTINF:'):
+                            if 'group-title=' in line:
+                                match = re.search(r'group-title="([^"]*)"', line)
+                                if match:
+                                    current_group = match.group(1)
+                            if ',' in line:
+                                name_part = line.split(',')[-1].strip()
+                                if name_part:
+                                    current_name = name_part
+                        
+                        elif line.startswith('http') and current_name:
+                            if line not in self.found_urls:
+                                self.found_urls.add(line)
+                                stream = StreamInfo(
+                                    name=current_name,
+                                    url=line,
+                                    category=current_group or "Общее",
+                                    country="RU",
+                                    language="rus",
+                                    group_title=current_group or "Общее"
+                                )
+                                streams.append(stream)
+                            
+                            current_name = ""
+                            current_group = ""
+                            
+            except Exception as e:
+                logger.debug(f"Не удалось загрузить {playlist_url}: {e}")
+        
+        logger.info(f"Найдено дополнительно {len(streams)} каналов")
+        return streams
+    
+    def find_streams(self) -> List[StreamInfo]:
+        """Основной метод поиска потоков"""
+        logger.info("=" * 50)
+        logger.info("Запуск поискового робота LiveM3U")
+        logger.info("=" * 50)
+        
+        all_streams = []
+        
+        # 1. Загружаем из основного источника iptv-org
+        iptv_streams = self.fetch_iptv_org_playlist()
+        all_streams.extend(iptv_streams)
+        
+        # 2. Ищем в дополнительных источниках
+        additional_streams = self.search_additional_sources()
+        all_streams.extend(additional_streams)
+        
+        # Удаляем дубликаты по URL
+        unique_streams = {}
+        for stream in all_streams:
+            if stream.url not in unique_streams:
+                unique_streams[stream.url] = stream
+        
+        logger.info(f"Всего найдено уникальных потоков: {len(unique_streams)}")
+        return list(unique_streams.values())
+    
+    def check_all_streams(self, streams: List[StreamInfo], max_workers: int = 20) -> List[StreamInfo]:
         """Проверить все потоки параллельно"""
-        logger.info(f"Проверяю потоки ({max_workers} потоков)...")
+        logger.info(f"Проверяю работоспособность потоков ({max_workers} одновременных проверок)...")
         checked_streams = []
         
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = {executor.submit(self.checker.check_stream, stream): stream for stream in streams}
             
+            completed = 0
             for future in as_completed(futures):
                 try:
                     result = future.result()
                     checked_streams.append(result)
+                    completed += 1
+                    
+                    if completed % 50 == 0:
+                        working = sum(1 for s in checked_streams if s.status == "working")
+                        logger.info(f"Проверено {completed}/{len(streams)}, рабочих: {working}")
+                        
                 except Exception as e:
-                    logger.error(f"Ошибка при проверке потока: {e}")
+                    logger.error(f"Ошибка при проверке: {e}")
         
         working_count = sum(1 for s in checked_streams if s.status == "working")
-        logger.info(f"Проверка завершена. Рабочих: {working_count}/{len(checked_streams)}")
+        logger.info(f"✓ Проверка завершена. Рабочих: {working_count}/{len(checked_streams)}")
         return checked_streams
 
 
