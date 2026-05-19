@@ -1,12 +1,12 @@
 #EXTM3U
-# Обновлено: 2026-05-19 19:04:36
+# Обновлено: 2026-05-19 21:02:10
 # Всего каналов: 7645
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 
 # Категория: Iceland
 # Каналов: 3
-# Обновлено: 2026-05-19 19:04:36
+# Обновлено: 2026-05-19 21:02:10
 
 #EXTINF:-1 tvg-name="RÚV" group-title="Iceland",RÚV
 https://secure-272717.tatnet.app/ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
