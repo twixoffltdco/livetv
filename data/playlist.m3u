@@ -2219,8 +2219,6 @@ https://secure-272717.tatnet.app/mts.ru/live.m3u
 #EXTINF:-1 tvg-name="Канал" group-title="IPTV",Канал
 https://secure-272717.tatnet.app/mts.ru/iptv.m3u
 
-#EXTINF:-1 tvg-name="Дождь" group-title="IPTV",Дождь
-https://secure-272717.tatnet.app/tvrain.ru/live/
 
 #EXTINF:-1 tvg-name="Дождь" group-title="IPTV",Дождь
 https://secure-272717.tatnet.app/stream.tvrain.tv/live/tvrain.m3u8
@@ -12893,8 +12891,6 @@ https://s97982.cdn.ngenix.net/hls/CH_R27_GUBERNYA/variant.m3u8
 #EXTINF:-1 tvg-name="Дождь" group-title="IPTV",Дождь
 https://secure-272717.tatnet.app/tvrain.akamaized.net/hls/live/2039675/tvrain/master.m3u8
 
-#EXTINF:-1 tvg-name="Дождь" group-title="IPTV",Дождь
-https://secure-272717.tatnet.app/tv.tvrain.ru/live/index.m3u8
 
 #EXTINF:-1 tvg-name="RTVI" group-title="IPTV",RTVI
 https://secure-272717.tatnet.app/rtvi.com/live/stream.m3u8
@@ -19499,8 +19495,6 @@ https://secure-272717.tatnet.app/nastoyashchee-vremya.org/livestream/nv.m3u8
 #EXTINF:-1 tvg-name="Кавказ.Реалии" group-title="IPTV",Кавказ.Реалии
 https://secure-272717.tatnet.app/kavkazr.com/livestream/kavkazrealii.m3u8
 
-#EXTINF:-1 tvg-name="Радио Свобода" group-title="IPTV",Радио Свобода
-https://secure-272717.tatnet.app/svoboda.org/livestream/rferl.m3u8
 
 #EXTINF:-1 tvg-name="Новая Газета" group-title="IPTV",Новая Газета
 https://secure-272717.tatnet.app/novayagazeta.eu/livestream/novaya.m3u8

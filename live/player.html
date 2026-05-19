@@ -544,7 +544,13 @@
                 if (hls) {
                     hls.destroy();
                 }
-                hls = new Hls();
+                hls = new Hls({
+                    xhrSetup: function(xhr, url) {
+                        // Добавляем заголовки для обхода CORS и проверки на прокси
+                        xhr.setRequestHeader('Origin', 'https://live.tatnet.app');
+                        xhr.setRequestHeader('Referer', 'https://live.tatnet.app/');
+                    }
+                });
                 hls.loadSource(channel.url);
                 hls.attachMedia(video);
                 hls.on(Hls.Events.MANIFEST_PARSED, function() {

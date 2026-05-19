@@ -473,6 +473,52 @@
                 🔐 Zabava-HLive без прокси • Остальные через proxy • Обходит блокировки • Обновляется каждые 30 минут
             </p>
             
+            <!-- Баннер с рекомендацией по прокси -->
+            <div style="margin-top: 25px; padding: 20px; background: linear-gradient(135deg, rgba(255, 165, 0, 0.15), rgba(255, 69, 0, 0.1)); border-radius: 16px; border: 2px solid rgba(255, 165, 0, 0.4);">
+                <h3 style="color: #ffa500; margin-bottom: 12px; font-size: 1.2em;">⚠️ Не подключается плейлист?</h3>
+                <p style="color: rgba(255,255,255,0.85); margin-bottom: 15px; line-height: 1.6;">
+                    Если основной плейлист не работает в вашем плеере, попробуйте использовать прокси-версию:
+                </p>
+                <div style="background: rgba(0,0,0,0.4); padding: 15px; border-radius: 10px; font-family: monospace; font-size: 0.95em; margin-bottom: 15px;">
+                    📡 <strong id="proxy-playlist-url">https://secure-272717.tatnet.app/data/playlist.m3u</strong>
+                </div>
+                <p style="color: rgba(255,255,255,0.7); font-size: 0.9em;">
+                    💡 Также можно использовать любой CORS-proxy (например, cors-anywhere.herokuapp.com) для обхода ограничений
+                </p>
+            </div>
+            
+            <!-- Новые плейлисты Smotrim и Zabava -->
+            <div style="margin-top: 25px; padding: 20px; background: linear-gradient(135deg, rgba(0, 245, 255, 0.1), rgba(189, 0, 255, 0.1)); border-radius: 16px; border: 2px solid rgba(0, 245, 255, 0.3);">
+                <h3 style="color: var(--neon-blue); margin-bottom: 15px; font-size: 1.2em;">🆕 Новые плейлисты от ВГТРК!</h3>
+                <p style="color: rgba(255,255,255,0.85); margin-bottom: 15px; line-height: 1.6;">
+                    Добавлены официальные плейлисты от платформы <strong>Smotrim.ru</strong> и видеосервиса <strong>Zabava.ru</strong>. 
+                    Потоки Zabava работают напрямую без прокси! Будут обновляться по мере появления новых каналов.
+                </p>
+                
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px;">
+                    <div style="background: rgba(0,0,0,0.3); padding: 12px; border-radius: 10px;">
+                        <strong style="color: #ff6b6b;">📺 Smotrim.ru</strong><br>
+                        <span style="color: rgba(255,255,255,0.7); font-size: 0.85em;">Официальные каналы ВГТРК</span><br>
+                        <a href="/data/playlists/smotrim.m3u" style="color: var(--neon-blue); text-decoration: none; display: inline-block; margin-top: 6px;">⬇️ Скачать</a>
+                    </div>
+                    <div style="background: rgba(0,0,0,0.3); padding: 12px; border-radius: 10px;">
+                        <strong style="color: #4ecdc4;">🎬 Zabava Full</strong><br>
+                        <span style="color: rgba(255,255,255,0.7); font-size: 0.85em;">Все каналы (~130)</span><br>
+                        <a href="/data/playlists/zabava-full.m3u" style="color: var(--neon-blue); text-decoration: none; display: inline-block; margin-top: 6px;">⬇️ Скачать</a>
+                    </div>
+                    <div style="background: rgba(0,0,0,0.3); padding: 12px; border-radius: 10px;">
+                        <strong style="color: #ffe66d;">📡 Zabava Эфирные</strong><br>
+                        <span style="color: rgba(255,255,255,0.7); font-size: 0.85em;">Федеральные каналы</span><br>
+                        <a href="/data/playlists/zabava-ef.m3u" style="color: var(--neon-blue); text-decoration: none; display: inline-block; margin-top: 6px;">⬇️ Скачать</a>
+                    </div>
+                    <div style="background: rgba(0,0,0,0.3); padding: 12px; border-radius: 10px;">
+                        <strong style="color: #95e1d3;">🌍 Zabava Регионы</strong><br>
+                        <span style="color: rgba(255,255,255,0.7); font-size: 0.85em;">Региональные каналы</span><br>
+                        <a href="/data/playlists/zabava-reg.m3u" style="color: var(--neon-blue); text-decoration: none; display: inline-block; margin-top: 6px;">⬇️ Скачать</a>
+                    </div>
+                </div>
+            </div>
+            
             <div style="margin-top: 30px; padding: 25px; background: rgba(0, 245, 255, 0.05); border-radius: 16px; border: 1px solid rgba(0, 245, 255, 0.2);">
                 <h3 style="color: var(--neon-blue); margin-bottom: 15px; font-size: 1.3em;">🎯 Рекомендация: Тематические плейлисты</h3>
                 <p style="color: rgba(255,255,255,0.8); margin-bottom: 20px; line-height: 1.6;">
@@ -670,6 +716,13 @@
             const protocol = window.location.protocol || 'https:';
             const url = `${protocol}//${currentHost}/data/playlist.m3u`;
             document.getElementById('playlist-url').textContent = url;
+            
+            // Обновляем URL прокси-плейлиста
+            const proxyUrl = `${protocol}//secure-272717.tatnet.app/data/playlist.m3u`;
+            const proxyElement = document.getElementById('proxy-playlist-url');
+            if (proxyElement) {
+                proxyElement.textContent = proxyUrl;
+            }
         }
         
         // Инициализация
