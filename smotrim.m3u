@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="Дождь",Телеканал Дождь HD
+https://secure-272717.tatnet.app/wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1-pl1",Россия 1 HD (+1)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1-pl2",Россия 1 HD (+2)
