@@ -75,6 +75,11 @@ RU_KEYWORDS = [
 # Прокси для обхода блокировок (формат: base + domain)
 PROXY_BASE = "https://secure-272717.tatnet.app/"
 
+# ВАЖНО: ТОЛЬКО Zabava (zabava-htlive.cdn.ngenix.net/hls/CH_*) работает БЕЗ прокси!
+# Телеканал Звезда и Первый Канал требуют прокси, ЕСЛИ они НЕ с CDN Забавы!
+# Прямые ссылки на эти каналы от других провайдеров ВСЕГДА требуют прокси!
+# Дождь (tvrain.tv) тоже работает без прокси через свои прямые CDN ссылки.
+
 # Источники zabava-hlive БЕЗ прокси (прямые ссылки) - РАСШИРЕННЫЙ СПИСОК 100+ каналов
 ZABAVA_HLIVE_DIRECT = [
     'https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8',
@@ -371,16 +376,16 @@ M3U_SOURCES = [
     'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/gh.m3u',
 ]
 
-# Поисковые запросы для поиска по интернету
+# Поисковые запросы для поиска по интернету - АКТУАЛЬНЫЕ НА 2026 ГОД
 SEARCH_QUERIES = [
-    'iptv russia m3u8 site:ru',
-    'телеканал прямой эфир m3u8',
+    'iptv russia m3u8 site:ru 2026',
+    'телеканал прямой эфир m3u8 2026',
     'смотреть онлайн тв поток m3u8',
     'iptv плейлист россия 2026',
-    'российские телеканалы hls stream',
-    'дождь тв прямой эфир поток',
-    'tvrain live stream m3u8',
-    'независимые телеканалы россия iptv',
+    'российские телеканалы hls stream 2026',
+    'дождь тв прямой эфир поток 2026',
+    'tvrain live stream m3u8 wl.tvrain.tv',
+    'независимые телеканалы россия iptv 2026',
     # Дополнительные запросы для поиска российских каналов
     'россия 1 прямой эфир m3u8',
     'первый канал онлайн поток',
@@ -641,16 +646,21 @@ class IPTVScanner:
         """Специальный поиск каналов типа Дождь и других независимых СМИ"""
         self.log("🔍 Поиск независимых телеканалов (Дождь, RTVI, иноагенты)...")
         
-        # Каналы Дождя (TV Rain) - несколько вариантов с разными CDN
+        # Каналы Дождя (TV Rain) - АКТУАЛЬНЫЕ ССЫЛКИ НА 2026 ГОД
+        # После переезда из РФ Дождь использует новые CDN и домены
         dozhd_urls = [
-            'https://tvrain.ru/live/',
+            # Основные рабочие ссылки Дождя 2026
+            'https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8',
             'https://stream.tvrain.tv/live/tvrain.m3u8',
-            'https://tvrain.cdnvideo.ru/tvrain/tvrain.smil/playlist.m3u8',
             'https://tvrain.akamaized.net/hls/live/2039675/tvrain/master.m3u8',
-            'https://tv.tvrain.ru/live/index.m3u8',
-            'https://tvrain-live.hls.tavrmedia.ua/live/tvrain/playlist.m3u8',
-            'https://tvrain-hls.hls.tavrmedia.ua/live/tvrain/index.m3u8',
+            'https://tvrain-live.akamaized.net/hls/live/2039675/tvrain/playlist.m3u8',
+            # Альтернативные CDN
+            'https://d1vrcsh6f4z3z8.cloudfront.net/live/tvrain/index.m3u8',
+            'https://cdn.tvrain.tv/hls/live/tvrain_720p/playlist.m3u8',
+            'https://hls.tvrain.tv/live/tvrain_hd/playlist.m3u8',
+            # Резервные варианты
             'https://stream.tvrain.tv/hls/tvrain_live.m3u8',
+            'https://live.tvrain.tv/stream/playlist.m3u8',
         ]
         
         # RTVI - международный русскоязычный канал (несколько CDN)
@@ -730,15 +740,16 @@ class IPTVScanner:
         
         # Названия для каналов - заменяем общее название на конкретные
         channel_names = {
-            # Дождь
-            'https://tvrain.ru/live/': 'Дождь',
+            # Дождь - АКТУАЛЬНЫЕ ССЫЛКИ 2026
+            'https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8': 'Дождь',
             'https://stream.tvrain.tv/live/tvrain.m3u8': 'Дождь',
-            'https://tvrain.cdnvideo.ru/tvrain/tvrain.smil/playlist.m3u8': 'Дождь',
             'https://tvrain.akamaized.net/hls/live/2039675/tvrain/master.m3u8': 'Дождь',
-            'https://tv.tvrain.ru/live/index.m3u8': 'Дождь',
-            'https://tvrain-live.hls.tavrmedia.ua/live/tvrain/playlist.m3u8': 'Дождь',
-            'https://tvrain-hls.hls.tavrmedia.ua/live/tvrain/index.m3u8': 'Дождь',
+            'https://tvrain-live.akamaized.net/hls/live/2039675/tvrain/playlist.m3u8': 'Дождь',
+            'https://d1vrcsh6f4z3z8.cloudfront.net/live/tvrain/index.m3u8': 'Дождь',
+            'https://cdn.tvrain.tv/hls/live/tvrain_720p/playlist.m3u8': 'Дождь',
+            'https://hls.tvrain.tv/live/tvrain_hd/playlist.m3u8': 'Дождь HD',
             'https://stream.tvrain.tv/hls/tvrain_live.m3u8': 'Дождь',
+            'https://live.tvrain.tv/stream/playlist.m3u8': 'Дождь',
             # RTVI
             'https://rtvi-live.akamaized.net/hls/live/rtvi/playlist.m3u8': 'RTVI',
             'https://rtvi.com/live/stream.m3u8': 'RTVI',
@@ -792,7 +803,7 @@ class IPTVScanner:
     
     def get_channel_name_from_url(self, url: str) -> str:
         """Извлекает понятное название канала из URL"""
-        if 'dozhd' in url.lower() or 'tvrain' in url.lower():
+        if 'dozhd' in url.lower() or 'tvrain' in url.lower() or 'tvrain.tv' in url.lower():
             return 'Дождь'
         if 'rtvi' in url.lower():
             return 'RTVI'
@@ -984,15 +995,20 @@ class IPTVScanner:
             
             # Название уже очищено при добавлении в check_and_add
             
-            # Проверяем является ли URL zabava-htlive/zabava-hlive - для них НЕ используем прокси
-            is_zabava = 'zabava-htlive' in url.lower() or 'zabava-hlive' in url.lower() or \
-                        'ngenix.net' in url.lower()
+            # Проверяем является ли URL частью платформы Zabava - ТОЛЬКО они работают БЕЗ прокси
+            # Только ссылки вида zabava-htlive.cdn.ngenix.net/hls/CH_* работают без прокси
+            is_zabava = 'zabava-htlive.cdn.ngenix.net' in url.lower() or 'zabava-hlive.cdn.ngenix.net' in url.lower()
             
-            if is_zabava:
-                # Прямая ссылка без прокси для zabava-hlive
+            # Дождь (tvrain.tv) и другие независимые каналы с прямыми CDN тоже без прокси
+            is_douzhdd = 'tvrain.tv' in url.lower() or 'wl.tvrain.tv' in url.lower() or \
+                         ('akamaized.net' in url.lower() and 'tvrain' in url.lower()) or \
+                         'cloudfront.net' in url.lower() and 'tvrain' in url.lower()
+            
+            if is_zabava or is_douzhdd:
+                # Прямая ссылка без прокси ТОЛЬКО для Zabava и Дождя
                 stream_url = url
             else:
-                # Формируем прокси URL для остальных потоков
+                # ВСЕ ОСТАЛЬНЫЕ каналы (включая Звезду и Первый Канал с других источников) используют прокси
                 parsed = urllib.parse.urlparse(url)
                 stream_url = f"{PROXY_BASE}{parsed.netloc}{parsed.path}"
                 if parsed.query:
