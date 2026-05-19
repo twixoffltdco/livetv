@@ -1,13 +1,15 @@
 #EXTM3U
-# Обновлён: 2026-05-18 14:03:08
+# Обновлено: 2026-05-19 14:26:49
 # Всего каналов: 7645
 # Новых за сессию: 0
-# Сгенерировано собственным поисковым роботом LiveM3U
-# НЕ использует iptv-org или другие готовые списки
+# LiveM3U Scanner - автоматическое обновление
 
 # Категория: Azerbaijan
 # Каналов: 21
-# Обновлено: 2026-05-18 14:03:09
+# Обновлено: 2026-05-19 14:26:50
+
+#EXTINF:-1 tvg-name="CBC Sport Ⓖ" group-title="Azerbaijan",CBC Sport Ⓖ
+https://secure-272717.tatnet.app/mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ARB 24" group-title="Azerbaijan",ARB 24
 https://secure-272717.tatnet.app/85.132.81.184:8080/arb/live/index.m3u8
@@ -32,9 +34,6 @@ https://secure-272717.tatnet.app/rtmp.baku.tv/live/bakutv_720p.m3u8
 
 #EXTINF:-1 tvg-name="CBC" group-title="Azerbaijan",CBC
 https://secure-272717.tatnet.app/stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
-
-#EXTINF:-1 tvg-name="CBC Sport Ⓖ" group-title="Azerbaijan",CBC Sport Ⓖ
-https://secure-272717.tatnet.app/mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Dünya TV Ⓢ" group-title="Azerbaijan",Dünya TV Ⓢ
 https://secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=Dunya

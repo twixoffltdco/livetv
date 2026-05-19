@@ -1,13 +1,12 @@
 #EXTM3U
-# Обновлён: 2026-05-18 14:03:08
+# Обновлено: 2026-05-19 14:26:49
 # Всего каналов: 7645
 # Новых за сессию: 0
-# Сгенерировано собственным поисковым роботом LiveM3U
-# НЕ использует iptv-org или другие готовые списки
+# LiveM3U Scanner - автоматическое обновление
 
 # Категория: Ukraine
 # Каналов: 52
-# Обновлено: 2026-05-18 14:03:09
+# Обновлено: 2026-05-19 14:26:50
 
 #EXTINF:-1 tvg-name="Suspilne Sport" group-title="Ukraine",Suspilne Sport
 https://secure-272717.tatnet.app/cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
@@ -23,6 +22,12 @@ https://secure-272717.tatnet.app/cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21
 
 #EXTINF:-1 tvg-name="24 Kanal" group-title="Ukraine",24 Kanal
 https://secure-272717.tatnet.app/streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Суспільне Чернівці Ⓢ" group-title="Ukraine",Суспільне Чернівці Ⓢ
+https://secure-272717.tatnet.app/cdnua05.hls.tv/643/hls/f62d71219200da4130d13b21d23fb23c/4790/stream.m3u8
+
+#EXTINF:-1 tvg-name="Суспільне Чернігів" group-title="Ukraine",Суспільне Чернігів
+https://secure-272717.tatnet.app/cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
 
 #EXTINF:-1 tvg-name="Pershyi" group-title="Ukraine",Pershyi
 https://secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
@@ -108,9 +113,6 @@ https://secure-272717.tatnet.app/cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21
 #EXTINF:-1 tvg-name="Суспільне Хмельницький Ⓢ" group-title="Ukraine",Суспільне Хмельницький Ⓢ
 https://secure-272717.tatnet.app/cdnua05.hls.tv/632/hls/f62d71219200da4130d13b21d23fb23c/4800/stream.m3u8
 
-#EXTINF:-1 tvg-name="Суспільне Чернівці Ⓢ" group-title="Ukraine",Суспільне Чернівці Ⓢ
-https://secure-272717.tatnet.app/cdnua05.hls.tv/643/hls/f62d71219200da4130d13b21d23fb23c/4790/stream.m3u8
-
 #EXTINF:-1 tvg-name="Суспільне Kropyvnytskyi" group-title="Ukraine",Суспільне Kropyvnytskyi
 https://secure-272717.tatnet.app/cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8
 
@@ -122,9 +124,6 @@ https://secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
 
 #EXTINF:-1 tvg-name="Суспільне Тернопіль" group-title="Ukraine",Суспільне Тернопіль
 https://secure-272717.tatnet.app/cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
-
-#EXTINF:-1 tvg-name="Суспільне Чернігів" group-title="Ukraine",Суспільне Чернігів
-https://secure-272717.tatnet.app/cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
 
 #EXTINF:-1 tvg-name="FREEДOM" group-title="Ukraine",FREEДOM
 https://secure-272717.tatnet.app/95.67.106.242/mobile-app/main/freedom/master.m3u8

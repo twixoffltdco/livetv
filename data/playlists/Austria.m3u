@@ -1,13 +1,15 @@
 #EXTM3U
-# Обновлён: 2026-05-18 14:03:08
+# Обновлено: 2026-05-19 14:26:49
 # Всего каналов: 7645
 # Новых за сессию: 0
-# Сгенерировано собственным поисковым роботом LiveM3U
-# НЕ использует iptv-org или другие готовые списки
+# LiveM3U Scanner - автоматическое обновление
 
 # Категория: Austria
 # Каналов: 12
-# Обновлено: 2026-05-18 14:03:09
+# Обновлено: 2026-05-19 14:26:50
+
+#EXTINF:-1 tvg-name="ORF Sport + Ⓖ" group-title="Austria",ORF Sport + Ⓖ
+https://secure-272717.tatnet.app/orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
 
 #EXTINF:-1 tvg-name="ORF 1 Ⓖ" group-title="Austria",ORF 1 Ⓖ
 https://secure-272717.tatnet.app/orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
@@ -17,9 +19,6 @@ https://secure-272717.tatnet.app/orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
 
 #EXTINF:-1 tvg-name="ORF III Ⓖ" group-title="Austria",ORF III Ⓖ
 https://secure-272717.tatnet.app/orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
-
-#EXTINF:-1 tvg-name="ORF Sport + Ⓖ" group-title="Austria",ORF Sport + Ⓖ
-https://secure-272717.tatnet.app/orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Servus TV Ⓖ" group-title="Austria",Servus TV Ⓖ
 https://secure-272717.tatnet.app/rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8

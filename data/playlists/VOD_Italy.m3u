@@ -1,13 +1,12 @@
 #EXTM3U
-# Обновлён: 2026-05-18 14:03:08
+# Обновлено: 2026-05-19 14:26:49
 # Всего каналов: 7645
 # Новых за сессию: 0
-# Сгенерировано собственным поисковым роботом LiveM3U
-# НЕ использует iptv-org или другие готовые списки
+# LiveM3U Scanner - автоматическое обновление
 
 # Категория: VOD Italy
 # Каналов: 155
-# Обновлено: 2026-05-18 14:03:09
+# Обновлено: 2026-05-19 14:26:50
 
 #EXTINF:-1 tvg-name="Sportitalia LIVE24" group-title="VOD Italy",Sportitalia LIVE24
 https://secure-272717.tatnet.app/di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8

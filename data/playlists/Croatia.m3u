@@ -1,13 +1,15 @@
 #EXTM3U
-# Обновлён: 2026-05-18 14:03:08
+# Обновлено: 2026-05-19 14:26:49
 # Всего каналов: 7645
 # Новых за сессию: 0
-# Сгенерировано собственным поисковым роботом LiveM3U
-# НЕ использует iptv-org или другие готовые списки
+# LiveM3U Scanner - автоматическое обновление
 
 # Категория: Croatia
 # Каналов: 17
-# Обновлено: 2026-05-18 14:03:09
+# Обновлено: 2026-05-19 14:26:50
+
+#EXTINF:-1 tvg-name="Sportska televizija Ⓖ" group-title="Croatia",Sportska televizija Ⓖ
+https://secure-272717.tatnet.app/stream.agatin.hr:3087/live/sptvlive.m3u8
 
 #EXTINF:-1 tvg-name="HRT 1" group-title="Croatia",HRT 1
 https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
@@ -16,19 +18,16 @@ https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
 https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
 
 #EXTINF:-1 tvg-name="RTL" group-title="Croatia",RTL
-https://secure-272717.tatnet.app/d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HRT 3" group-title="Croatia",HRT 3
 https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
 
 #EXTINF:-1 tvg-name="RTL 2" group-title="Croatia",RTL 2
-https://secure-272717.tatnet.app/d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sportska televizija Ⓖ" group-title="Croatia",Sportska televizija Ⓖ
-https://secure-272717.tatnet.app/stream.agatin.hr:3087/live/sptvlive.m3u8
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTL Kockica" group-title="Croatia",RTL Kockica
-https://secure-272717.tatnet.app/d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CMC TV" group-title="Croatia",CMC TV
 https://secure-272717.tatnet.app/stream.cmctv.hr:49998/cmc/live.m3u8

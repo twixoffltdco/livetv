@@ -1,13 +1,15 @@
 #EXTM3U
-# Обновлён: 2026-05-18 14:03:08
+# Обновлено: 2026-05-19 14:26:49
 # Всего каналов: 7645
 # Новых за сессию: 0
-# Сгенерировано собственным поисковым роботом LiveM3U
-# НЕ использует iptv-org или другие готовые списки
+# LiveM3U Scanner - автоматическое обновление
 
 # Категория: Australia
 # Каналов: 9
-# Обновлено: 2026-05-18 14:03:09
+# Обновлено: 2026-05-19 14:26:50
+
+#EXTINF:-1 tvg-name="ABC News" group-title="Australia",ABC News
+https://secure-272717.tatnet.app/abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 tvg-name="ABC" group-title="Australia",ABC
 https://secure-272717.tatnet.app/c.mjh.nz/101002210221/
@@ -17,9 +19,6 @@ https://secure-272717.tatnet.app/tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_7
 
 #EXTINF:-1 tvg-name="ABC Me" group-title="Australia",ABC Me
 https://secure-272717.tatnet.app/c.mjh.nz/101002210224/
-
-#EXTINF:-1 tvg-name="ABC News" group-title="Australia",ABC News
-https://secure-272717.tatnet.app/abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 tvg-name="M4TV" group-title="Australia",M4TV
 https://secure-272717.tatnet.app/5a32c05065c79.streamlock.net/live/stream/playlist.m3u8

@@ -1,13 +1,12 @@
 #EXTM3U
-# Обновлён: 2026-05-18 14:03:08
+# Обновлено: 2026-05-19 14:26:49
 # Всего каналов: 7645
 # Новых за сессию: 0
-# Сгенерировано собственным поисковым роботом LiveM3U
-# НЕ использует iptv-org или другие готовые списки
+# LiveM3U Scanner - автоматическое обновление
 
 # Категория: Основные
 # Каналов: 102
-# Обновлено: 2026-05-18 14:03:09
+# Обновлено: 2026-05-19 14:26:50
 
 #EXTINF:-1 tvg-name="Первый" group-title="Основные",Первый
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -57,18 +56,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTINF:-1 tvg-name="НТВ (+7)" group-title="Основные",НТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 
-#EXTINF:-1 tvg-name="Пятый" group-title="Основные",Пятый
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятый (+2)" group-title="Основные",Пятый (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятый (+4)" group-title="Основные",Пятый (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятый (+7)" group-title="Основные",Пятый (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-
 #EXTINF:-1 tvg-name="Россия К" group-title="Основные",Россия К
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 
@@ -95,9 +82,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 
 #EXTINF:-1 tvg-name="Карусель (+7)" group-title="Основные",Карусель (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-
-#EXTINF:-1 tvg-name="ОТР" group-title="Основные",ОТР
-https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ Центр" group-title="Основные",ТВ Центр
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
@@ -156,30 +140,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
 #EXTINF:-1 tvg-name="Домашний (+7)" group-title="Основные",Домашний (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ3" group-title="Основные",ТВ3
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ3 (+2)" group-title="Основные",ТВ3 (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ3 (+4)" group-title="Основные",ТВ3 (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ3 (+7)" group-title="Основные",ТВ3 (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятница" group-title="Основные",Пятница
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятница (+2)" group-title="Основные",Пятница (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятница (+4)" group-title="Основные",Пятница (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятница (+7)" group-title="Основные",Пятница (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-
 #EXTINF:-1 tvg-name="Звезда" group-title="Основные",Звезда
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 
@@ -216,30 +176,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 tvg-name="ТНТ (+7)" group-title="Основные",ТНТ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 
-#EXTINF:-1 tvg-name="МУЗ-ТВ" group-title="Основные",МУЗ-ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-
-#EXTINF:-1 tvg-name="МУЗ-ТВ (+2)" group-title="Основные",МУЗ-ТВ (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-
-#EXTINF:-1 tvg-name="МУЗ-ТВ (+4)" group-title="Основные",МУЗ-ТВ (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-
-#EXTINF:-1 tvg-name="МУЗ-ТВ (+7)" group-title="Основные",МУЗ-ТВ (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-
-#EXTINF:-1 tvg-name="2x2" group-title="Основные",2x2
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-
-#EXTINF:-1 tvg-name="2x2 (+2)" group-title="Основные",2x2 (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-
-#EXTINF:-1 tvg-name="2x2 (+4)" group-title="Основные",2x2 (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-
-#EXTINF:-1 tvg-name="2x2 (+7)" group-title="Основные",2x2 (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-
 #EXTINF:-1 tvg-name="СТС Love" group-title="Основные",СТС Love
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 
@@ -248,30 +184,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 
 #EXTINF:-1 tvg-name="СТС Love (+4)" group-title="Основные",СТС Love (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-
-#EXTINF:-1 tvg-name="Солнце" group-title="Основные",Солнце
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-
-#EXTINF:-1 tvg-name="Солнце (+2)" group-title="Основные",Солнце (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-
-#EXTINF:-1 tvg-name="Солнце (+4)" group-title="Основные",Солнце (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-
-#EXTINF:-1 tvg-name="Солнце (+7)" group-title="Основные",Солнце (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-
-#EXTINF:-1 tvg-name="Суббота" group-title="Основные",Суббота
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-
-#EXTINF:-1 tvg-name="Суббота (+2)" group-title="Основные",Суббота (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-
-#EXTINF:-1 tvg-name="Суббота (+4)" group-title="Основные",Суббота (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-
-#EXTINF:-1 tvg-name="Суббота (+7)" group-title="Основные",Суббота (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ4" group-title="Основные",ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -297,6 +209,96 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 #EXTINF:-1 tvg-name="Че! (+7)" group-title="Основные",Че! (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 
+#EXTINF:-1 tvg-name="Москва 24" group-title="Основные",Москва 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSKVA24HD/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятый" group-title="Основные",Пятый
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятый (+2)" group-title="Основные",Пятый (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятый (+4)" group-title="Основные",Пятый (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятый (+7)" group-title="Основные",Пятый (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТР" group-title="Основные",ОТР
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ3" group-title="Основные",ТВ3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ3 (+2)" group-title="Основные",ТВ3 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ3 (+4)" group-title="Основные",ТВ3 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ3 (+7)" group-title="Основные",ТВ3 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница" group-title="Основные",Пятница
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница (+2)" group-title="Основные",Пятница (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница (+4)" group-title="Основные",Пятница (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница (+7)" group-title="Основные",Пятница (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="МУЗ-ТВ" group-title="Основные",МУЗ-ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="МУЗ-ТВ (+2)" group-title="Основные",МУЗ-ТВ (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="МУЗ-ТВ (+4)" group-title="Основные",МУЗ-ТВ (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="МУЗ-ТВ (+7)" group-title="Основные",МУЗ-ТВ (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="2x2" group-title="Основные",2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
+#EXTINF:-1 tvg-name="2x2 (+2)" group-title="Основные",2x2 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="2x2 (+4)" group-title="Основные",2x2 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="2x2 (+7)" group-title="Основные",2x2 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Солнце" group-title="Основные",Солнце
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+
+#EXTINF:-1 tvg-name="Солнце (+2)" group-title="Основные",Солнце (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Солнце (+4)" group-title="Основные",Солнце (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Солнце (+7)" group-title="Основные",Солнце (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Суббота" group-title="Основные",Суббота
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
+#EXTINF:-1 tvg-name="Суббота (+2)" group-title="Основные",Суббота (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Суббота (+4)" group-title="Основные",Суббота (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Суббота (+7)" group-title="Основные",Суббота (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+
 #EXTINF:-1 tvg-name="Ю" group-title="Основные",Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
@@ -311,7 +313,4 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
 #EXTINF:-1 tvg-name="Всё ТВ" group-title="Основные",Всё ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-
-#EXTINF:-1 tvg-name="Москва 24" group-title="Основные",Москва 24
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSKVA24HD/variant.m3u8
 

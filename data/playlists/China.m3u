@@ -1,13 +1,15 @@
 #EXTM3U
-# Обновлён: 2026-05-18 14:03:08
+# Обновлено: 2026-05-19 14:26:49
 # Всего каналов: 7645
 # Новых за сессию: 0
-# Сгенерировано собственным поисковым роботом LiveM3U
-# НЕ использует iptv-org или другие готовые списки
+# LiveM3U Scanner - автоматическое обновление
 
 # Категория: China
 # Каналов: 17
-# Обновлено: 2026-05-18 14:03:09
+# Обновлено: 2026-05-19 14:26:50
+
+#EXTINF:-1 tvg-name="TV BRICS Chinese" group-title="China",TV BRICS Chinese
+https://secure-272717.tatnet.app/brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CCTV-1 综合" group-title="China",CCTV-1 综合
 https://secure-272717.tatnet.app/node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
@@ -56,7 +58,4 @@ https://secure-272717.tatnet.app/txycsbl.centv.cn/zb/0822cetv3.m3u8
 
 #EXTINF:-1 tvg-name="CETV-4" group-title="China",CETV-4
 https://secure-272717.tatnet.app/txycsbl.centv.cn/zb/0822cetv4.m3u8
-
-#EXTINF:-1 tvg-name="TV BRICS Chinese" group-title="China",TV BRICS Chinese
-https://secure-272717.tatnet.app/brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 

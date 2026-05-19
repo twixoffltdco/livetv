@@ -1,13 +1,12 @@
 #EXTM3U
-# Обновлён: 2026-05-18 14:03:08
+# Обновлено: 2026-05-19 14:26:49
 # Всего каналов: 7645
 # Новых за сессию: 0
-# Сгенерировано собственным поисковым роботом LiveM3U
-# НЕ использует iptv-org или другие готовые списки
+# LiveM3U Scanner - автоматическое обновление
 
 # Категория: Italy
 # Каналов: 388
-# Обновлено: 2026-05-18 14:03:09
+# Обновлено: 2026-05-19 14:26:50
 
 #EXTINF:-1 tvg-name="Rai News 24 Ⓖ" group-title="Italy",Rai News 24 Ⓖ
 https://secure-272717.tatnet.app/mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
@@ -73,13 +72,13 @@ https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-c
 https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-name="La7" group-title="Italy",La7
-https://secure-272717.tatnet.app/d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
 #EXTINF:-1 tvg-name="TV8 Ⓖ" group-title="Italy",TV8 Ⓖ
 https://secure-272717.tatnet.app/hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-name="Nove" group-title="Italy",Nove
-https://secure-272717.tatnet.app/d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 
 #EXTINF:-1 tvg-name="20 Mediaset Ⓖ" group-title="Italy",20 Mediaset Ⓖ
 https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
@@ -115,13 +114,13 @@ https://secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/la7d/browser-H
 https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-name="Real Time" group-title="Italy",Real Time
-https://secure-272717.tatnet.app/d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 
 #EXTINF:-1 tvg-name="QVC" group-title="Italy",QVC
 https://secure-272717.tatnet.app/qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
 #EXTINF:-1 tvg-name="Food Network" group-title="Italy",Food Network
-https://secure-272717.tatnet.app/dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
 
 #EXTINF:-1 tvg-name="Cine34 Ⓖ" group-title="Italy",Cine34 Ⓖ
 https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
@@ -133,10 +132,10 @@ https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-c
 https://secure-272717.tatnet.app/dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Channel" group-title="Italy",Discovery Channel
-https://secure-272717.tatnet.app/d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 
 #EXTINF:-1 tvg-name="Giallo" group-title="Italy",Giallo
-https://secure-272717.tatnet.app/d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 
 #EXTINF:-1 tvg-name="Top Crime Ⓖ" group-title="Italy",Top Crime Ⓖ
 https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
@@ -145,7 +144,7 @@ https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-c
 https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-name="K2" group-title="Italy",K2
-https://secure-272717.tatnet.app/d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 
 #EXTINF:-1 tvg-name="Rai Gulp Ⓖ" group-title="Italy",Rai Gulp Ⓖ
 https://secure-272717.tatnet.app/mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5
@@ -154,7 +153,7 @@ https://secure-272717.tatnet.app/mediapolis.rai.it/relinker/relinkerServlet.htm?
 https://secure-272717.tatnet.app/mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-name="Frisbee" group-title="Italy",Frisbee
-https://secure-272717.tatnet.app/d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 
 #EXTINF:-1 tvg-name="Cartoonito Ⓖ" group-title="Italy",Cartoonito Ⓖ
 https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
@@ -172,7 +171,7 @@ https://secure-272717.tatnet.app/hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/1
 https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-name="DMAX" group-title="Italy",DMAX
-https://secure-272717.tatnet.app/d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
 
 #EXTINF:-1 tvg-name="Rai Storia Ⓖ" group-title="Italy",Rai Storia Ⓖ
 https://secure-272717.tatnet.app/mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
@@ -181,13 +180,13 @@ https://secure-272717.tatnet.app/mediapolis.rai.it/relinker/relinkerServlet.htm?
 https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-name="HGTV – Home & Garden Tv" group-title="Italy",HGTV – Home & Garden Tv
-https://secure-272717.tatnet.app/d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 
 #EXTINF:-1 tvg-name="Rai Scuola Ⓖ" group-title="Italy",Rai Scuola Ⓖ
 https://secure-272717.tatnet.app/mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-name="Motor Trend" group-title="Italy",Motor Trend
-https://secure-272717.tatnet.app/d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 
 #EXTINF:-1 tvg-name="Travel TV" group-title="Italy",Travel TV
 https://secure-272717.tatnet.app/streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
