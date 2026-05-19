@@ -160,10 +160,15 @@
       const container=document.getElementById('channelsList');
       container.innerHTML='<div style="padding:20px;text-align:center;color:#888">Загрузка каналов...</div>';
       try{
-        // Используем прокси для загрузки M3U файлов
-        const proxyUrl=PROXY_URL+encodeURIComponent(url);
-        const response=await fetch(proxyUrl);
-        if(!response.ok)throw new Error('Не удалось загрузить');
+        // Используем прокси только для внешних URL, локальные файлы грузим напрямую
+        let response;
+        if(url.startsWith('http://')||url.startsWith('https://')){
+          const proxyUrl=PROXY_URL+encodeURIComponent(url);
+          response=await fetch(proxyUrl);
+        }else{
+          response=await fetch(url);
+        }
+        if(!response.ok)throw new Error('Не удалось загрузить плейлист (код '+response.status+')');
         const text=await response.text();
         currentChannels=parseM3u(text);
         container.innerHTML='';
@@ -175,7 +180,7 @@
           item.onclick=()=>{document.querySelectorAll('.channel-item').forEach(i=>i.classList.remove('playing'));item.classList.add('playing');playChannel(channel.url,channel.name);if(window.innerWidth<=600)togglePanel();};
           container.appendChild(item);
         });
-      }catch(e){console.error('Ошибка загрузки каналов:',e);container.innerHTML=`<div style="padding:20px;text-align:center;color:#e94560">Ошибка: ${e.message}</div>`;}
+      }catch(e){console.error('Ошибка загрузки каналов:',e);container.innerHTML=`<div style="padding:20px;text-align:center;color:#e94560">Ошибка: ${e.message}<br><small>Проверьте наличие файла или доступность URL</small></div>`;}
     }
 
     function parseM3u(content){
@@ -200,7 +205,7 @@
     function openEmbedModal(){document.getElementById('embedModal').classList.add('open');updateEmbedCode();}
     function closeEmbedModal(){document.getElementById('embedModal').classList.remove('open');}
     function switchEmbedTab(type){embedType=type;document.querySelectorAll('.embed-tab').forEach(t=>t.classList.remove('active'));event.target.classList.add('active');document.getElementById('embedIframe').style.display=type==='iframe'?'block':'none';document.getElementById('embedJs').style.display=type==='js'?'block':'none';updateEmbedCode();}
-    function updateEmbedCode(){const baseUrl=getBaseUrl();const streamUrl=initialSrc;const title=encodeURIComponent(initialTitle);if(embedType==='iframe'){const code=streamUrl?`<iframe src="${baseUrl}?src=${encodeURIComponent(streamUrl)}&title=${title}" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>`:`<iframe src="${baseUrl}" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>`;document.getElementById('iframeCode').textContent=code;}else{const code=`<script src="${baseUrl.replace('.html','.js')||baseUrl}?src=${encodeURIComponent(streamUrl)}&title=${title}"><\/script>`;document.getElementById('jsCode').textContent=code;}}
+    function updateEmbedCode(){const baseUrl=getBaseUrl();const streamUrl=initialSrc;const title=encodeURIComponent(initialTitle);if(embedType==='iframe'){const code=streamUrl?`<iframe src="${baseUrl}?src=${encodeURIComponent(streamUrl)}&title=${title}" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>`:`<iframe src="${baseUrl}" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>`;document.getElementById('iframeCode').textContent=code;}else{const jsUrl=baseUrl.endsWith('.html')?baseUrl.replace('.html','.js'):baseUrl+'.js';const code=`<script src="${jsUrl}?src=${encodeURIComponent(streamUrl)}&title=${title}"><\/script>`;document.getElementById('jsCode').textContent=code;}}
     function copyEmbedCode(){const code=embedType==='iframe'?document.getElementById('iframeCode').textContent:document.getElementById('jsCode').textContent;navigator.clipboard.writeText(code).then(()=>{const btn=event.target;const originalText=btn.textContent;btn.textContent='Скопировано!';setTimeout(()=>btn.textContent=originalText,2000);}).catch(()=>{alert('Скопируйте код вручную: '+code);});}
     document.getElementById('embedModal').addEventListener('click',(e)=>{if(e.target.id==='embedModal')closeEmbedModal();});
   </script>
