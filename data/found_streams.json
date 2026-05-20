@@ -68803,5 +68803,14 @@
     "group": "IPTV",
     "source": "independent_media",
     "hash": "4df6371d3c914732fc13deaca96b62ac"
+  },
+  "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8": {
+    "name": "Дождь",
+    "url": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8",
+    "found_at": "2026-05-20T02:29:56.828309",
+    "country": "RU",
+    "group": "News",
+    "source": "priority",
+    "hash": "4fe95d50232ad11726cfc0b4f5e2cb6b"
   }
 }

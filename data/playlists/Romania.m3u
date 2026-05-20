@@ -1,12 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 00:11:27
-# Всего каналов: 7645
-# Новых за сессию: 0
+# Обновлено: 2026-05-20 02:30:32
+# Всего каналов: 7646
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Romania
 # Каналов: 15
-# Обновлено: 2026-05-20 00:11:27
+# Обновлено: 2026-05-20 02:30:32
 
 #EXTINF:-1 tvg-name="Pro TV" group-title="Romania",Pro TV
 https://secure-272717.tatnet.app/cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0

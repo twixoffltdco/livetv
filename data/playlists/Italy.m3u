@@ -1,12 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 00:11:27
-# Всего каналов: 7645
-# Новых за сессию: 0
+# Обновлено: 2026-05-20 02:30:32
+# Всего каналов: 7646
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Italy
 # Каналов: 388
-# Обновлено: 2026-05-20 00:11:27
+# Обновлено: 2026-05-20 02:30:32
 
 #EXTINF:-1 tvg-name="Rai News 24 Ⓖ" group-title="Italy",Rai News 24 Ⓖ
 https://secure-272717.tatnet.app/mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
