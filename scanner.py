@@ -54,8 +54,28 @@ RU_KEYWORDS = [
     'rtl', 'pro7', 'tf1', 'm6', 'channel 4', 'itv'
 ]
 
-# Источники m3u плейлистов для сканирования
+# Приоритетные каналы которые должны быть в плейлисте (актуальные рабочие ссылки)
+PRIORITY_CHANNELS = [
+    {
+        'url': 'https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8',
+        'name': 'Дождь',
+        'group': 'News'
+    },
+    {
+        'url': 'https://stream.tvrain.tv/live/tvrain.m3u8',
+        'name': 'Дождь (альтернативный)',
+        'group': 'News'
+    },
+    {
+        'url': 'https://stream.tvrain.tv/hls/tvrain_live.m3u8',
+        'name': 'Дождь (резервный)',
+        'group': 'News'
+    },
+]
+
+# Источники m3u плейлистов для сканирования - расширенный список
 M3U_SOURCES = [
+    # Российские IPTV плейлисты
     'https://raw.githubusercontent.com/AleksandrChtol/iptv/main/iptv.m3u',
     'https://raw.githubusercontent.com/sat7777/iptv/master/TV/Россия.m3u',
     'https://raw.githubusercontent.com/free-TV/iptv/master/playlist.m3u8',
@@ -64,6 +84,14 @@ M3U_SOURCES = [
     'https://raw.githubusercontent.com/Manifesto-TV/IPTV/main/TV/Russia.m3u',
     'https://raw.githubusercontent.com/IptvOrg/iptv/master/streams/ru.m3u',
     'https://raw.githubusercontent.com/IptvOrg/iptv/master/iptv.m3u',
+    'https://raw.githubusercontent.com/jnk0le/iptv-ru/main/playlist.m3u',
+    'https://raw.githubusercontent.com/Evmenkov/iptv/main/iptv.m3u',
+    'https://raw.githubusercontent.com/vasilyguk/iptv/main/playlist.m3u',
+    'https://raw.githubusercontent.com/maglite/iptv/main/russia.m3u',
+    'https://raw.githubusercontent.com/QuickLink/iptv/main/playlist.m3u',
+    'https://raw.githubusercontent.com/black-bell/iptv/main/ru.m3u',
+    'https://raw.githubusercontent.com/iptv-org/iptv/master/countries/ru.m3u',
+    # Международные плейлисты
     'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/us.m3u',
     'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/gb.m3u',
     'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/de.m3u',
@@ -73,29 +101,62 @@ M3U_SOURCES = [
     'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/tr.m3u',
     'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/ua.m3u',
     'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/kz.m3u',
+    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/by.m3u',
+    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/lt.m3u',
+    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/lv.m3u',
+    'https://raw.githubusercontent.com/IptvOrg/iptv/master/playlists/ee.m3u',
+    # Дополнительные источники
+    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/news.m3u',
+    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/movies.m3u',
+    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/sports.m3u',
+    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/kids.m3u',
+    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/music.m3u',
 ]
 
-# Поисковые запросы для поиска потоков на сайтах
+# Поисковые запросы для поиска потоков на сайтах - расширенный список
 SEARCH_QUERIES = [
+    # Запросы для канала Дождь (приоритет)
+    'дождь тв прямой эфир поток m3u8',
+    'tvrain live stream m3u8',
+    'tvrain.tv playlist.m3u8',
+    'wl.tvrain.tv transcode playlist',
+    'дождь новости прямой эфир hls',
+    
+    # Общие российские IPTV запросы
     'iptv russia m3u8 site:ru',
     'телеканал прямой эфир m3u8',
     'смотреть онлайн тв поток m3u8',
-    'iptv плейлист россия',
+    'iptv плейлист россия 2025 2026',
     'российские телеканалы hls stream',
-    'дождь тв прямой эфир поток',
-    'tvrain live stream m3u8',
     'независимые телеканалы россия iptv',
+    
+    # Основные федеральные каналы
     'россия 1 прямой эфир m3u8',
-    'первый канал онлайн поток',
-    'нтв прямой эфир hls',
-    'тнт онлайн stream',
+    'первый канал онлайн поток hls',
+    'нтв прямой эфир hls stream',
+    'тнт онлайн stream m3u8',
     'стс прямой эфир m3u8',
     'рен тв онлайн поток',
-    'матч тв прямой эфир',
+    'матч тв прямой эфир hls',
     'звезда тв онлайн m3u8',
-    'мир тв прямой эфир',
-    'забава винк ростелеком плейлист',
+    'мир тв прямой эфир stream',
+    
+    # Платные платформы и провайдеры
+    'забава винк ростелеком плейлист m3u',
     'wink rostelecom iptv m3u8',
+    'ertelecom domru playlist',
+    'megafon tv iptv streams',
+    'beeline tv channels m3u8',
+    'mts tv streaming playlist',
+    'tele2 tv iptv links',
+    
+    # Дополнительные поисковые запросы
+    'live tv russia hls m3u8',
+    'russian tv channels stream',
+    'птс культура карусель м3у8',
+    'спас домашний че из м3у',
+    'твцентр мир 24 рбк поток',
+    'rtvi euronews dw france24 m3u8',
 ]
 
 
@@ -295,8 +356,8 @@ class IPTVScanner:
         """Поиск IPTV потоков через поисковые системы"""
         self.log("🔍 Поиск по сайтам через поисковые системы...")
         
-        # Упрощенный поиск для GitHub Actions
-        for query in SEARCH_QUERIES[:10]:  # Первые 10 запросов
+        # Расширенный поиск - используем все запросы для лучшего покрытия
+        for query in SEARCH_QUERIES:  # Все запросы для максимального охвата
             try:
                 search_url = f"https://www.google.com/search?q={query.replace(' ', '+')}&num=10"
                 headers = {
@@ -338,20 +399,63 @@ class IPTVScanner:
         return cleaned if cleaned else "Канал"
 
     def generate_m3u(self) -> str:
-        """Генерирует M3U плейлист с сохранением всех каналов"""
+        """Генерирует M3U плейлист с приоритетными каналами в начале"""
         m3u_content = "#EXTM3U\n"
         m3u_content += f"# Обновлено: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
         m3u_content += f"# Всего каналов: {len(self.found_streams)}\n"
         m3u_content += f"# Новых за сессию: {self.new_channels_count}\n"
-        m3u_content += "# LiveM3U Scanner - автоматическое обновление\n\n"
+        m3u_content += "# LiveM3U Scanner - автоматическое обновление\n"
+        m3u_content += "# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!\n\n"
 
-        # Сортируем: сначала российские, потом международные
+        # Сначала приоритетные каналы (Дождь и другие важные)
+        priority_streams = [(url, info) for url, info in self.found_streams.items() 
+                           if info.get('source') == 'priority']
+        
+        # Затем остальные российские каналы
         ru_streams = [(url, info) for url, info in self.found_streams.items() 
-                     if info.get('country') == 'RU']
+                     if info.get('country') == 'RU' and info.get('source') != 'priority']
+        
+        # Затем международные каналы
         int_streams = [(url, info) for url, info in self.found_streams.items() 
-                      if info.get('country') != 'RU']
+                      if info.get('country') != 'RU' and info.get('source') != 'priority']
 
-        for url, info in ru_streams + int_streams:
+        # Приоритетные каналы идут первыми - ВСЕ С ПРОКСИ
+        for url, info in priority_streams:
+            name = info.get('name', 'Channel')
+            group = info.get('group', 'IPTV')
+            
+            # ВСЕ каналы включая приоритетные идут через прокси
+            parsed = urllib.parse.urlparse(url)
+            stream_url = f"{PROXY_BASE}{parsed.netloc}{parsed.path}"
+            if parsed.query:
+                stream_url += '?' + parsed.query
+            
+            m3u_content += f'#EXTINF:-1 tvg-name="{name}" group-title="{group}",{name} ⭐\n'
+            m3u_content += f'{stream_url}\n\n'
+
+        # Затем российские каналы
+        for url, info in ru_streams:
+            name = info.get('name', 'Channel')
+            group = info.get('group', 'IPTV')
+            
+            # Определяем нужен ли прокси
+            direct_domains = ['zabava-htlive.cdn.ngenix.net', 'tvrain.tv', 
+                            'tvrain.akamaized.net', 'cloudfront.net']
+            use_proxy = not any(domain in url for domain in direct_domains)
+            
+            if use_proxy:
+                parsed = urllib.parse.urlparse(url)
+                stream_url = f"{PROXY_BASE}{parsed.netloc}{parsed.path}"
+                if parsed.query:
+                    stream_url += '?' + parsed.query
+            else:
+                stream_url = url
+            
+            m3u_content += f'#EXTINF:-1 tvg-name="{name}" group-title="{group}",{name}\n'
+            m3u_content += f'{stream_url}\n\n'
+
+        # Затем международные каналы
+        for url, info in int_streams:
             name = info.get('name', 'Channel')
             group = info.get('group', 'IPTV')
             
@@ -453,6 +557,18 @@ class IPTVScanner:
         except Exception as e:
             self.log(f"❌ Ошибка создания тематических плейлистов: {e}")
 
+    async def add_priority_channels(self):
+        """Добавляет приоритетные каналы (Дождь и другие важные) в начало плейлиста"""
+        self.log("⭐ Добавление приоритетных каналов (Дождь и др.)...")
+        for channel in PRIORITY_CHANNELS:
+            await self.check_and_add(
+                channel['url'], 
+                source="priority", 
+                name=channel['name'], 
+                group=channel['group']
+            )
+        self.log(f"✅ Добавлено {len(PRIORITY_CHANNELS)} приоритетных каналов")
+
     async def run_scan(self):
         """Основной метод сканирования"""
         await self.init_session()
@@ -468,6 +584,9 @@ class IPTVScanner:
         
         old_count = len(self.found_streams)
         self.new_channels_count = 0
+
+        # 0. Сначала добавляем приоритетные каналы (Дождь и другие важные)
+        await self.add_priority_channels()
 
         # 1. Сканирование m3u источников
         await self.scan_m3u_sources()

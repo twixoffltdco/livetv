@@ -55254,5 +55254,13 @@
     "last_seen": "2026-05-18T11:59:35.862869",
     "status": "alive",
     "country": "INT"
+  },
+  "4fe95d50232ad11726cfc0b4f5e2cb6b": {
+    "url": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8",
+    "name": "Дождь",
+    "first_seen": "2026-05-20T02:29:56.828318",
+    "last_seen": "2026-05-20T02:29:56.828319",
+    "status": "alive",
+    "country": "RU"
   }
 }

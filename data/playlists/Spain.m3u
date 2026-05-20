@@ -1,12 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 00:11:27
-# Всего каналов: 7645
-# Новых за сессию: 0
+# Обновлено: 2026-05-20 02:30:32
+# Всего каналов: 7646
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Spain
 # Каналов: 52
-# Обновлено: 2026-05-20 00:11:27
+# Обновлено: 2026-05-20 02:30:32
 
 #EXTINF:-1 tvg-name="euronews" group-title="Spain",euronews
 https://secure-272717.tatnet.app/euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
