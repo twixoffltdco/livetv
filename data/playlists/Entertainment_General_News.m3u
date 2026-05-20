@@ -1,0 +1,20 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Entertainment;General;News
+# Каналов: 3
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="TV Modelo" group-title="Entertainment;General;News",TV Modelo
+https://secure-272717.tatnet.app/video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
+
+#EXTINF:-1 tvg-name="TV Natal" group-title="Entertainment;General;News",TV Natal
+https://secure-272717.tatnet.app/185.228.163.146:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-name="Red+" group-title="Entertainment;General;News",Red+
+https://secure-272717.tatnet.app/inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+

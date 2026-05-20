@@ -1,0 +1,98 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Animation;Kids
+# Каналов: 29
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Мультимания (576p)" group-title="Animation;Kids",Мультимания (576p)
+https://secure-272717.tatnet.app/sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Солнце (576p)" group-title="Animation;Kids",Солнце (576p)
+https://secure-272717.tatnet.app/tv.mediacdn.ru/live/solntse/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mr. Bean Animated" group-title="Animation;Kids",Mr. Bean Animated
+https://secure-272717.tatnet.app/amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pokémon" group-title="Animation;Kids",Pokémon
+https://secure-272717.tatnet.app/jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
+
+#EXTINF:-1 tvg-name="Banijay Mr Bean Animé" group-title="Animation;Kids",Banijay Mr Bean Animé
+https://secure-272717.tatnet.app/amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mr. Bean Anime Spain" group-title="Animation;Kids",Mr. Bean Anime Spain
+https://secure-272717.tatnet.app/amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mr. Bean Anime Italy" group-title="Animation;Kids",Mr. Bean Anime Italy
+https://secure-272717.tatnet.app/amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Jiangxi Children's Channel" group-title="Animation;Kids",Jiangxi Children's Channel
+https://secure-272717.tatnet.app/play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+
+#EXTINF:-1 tvg-name="优漫卡通 (576p)" group-title="Animation;Kids",优漫卡通 (576p)
+https://secure-272717.tatnet.app/183.207.249.15/PLTV/4/224/3221225933/index.m3u8
+
+#EXTINF:-1 tvg-name="金鹰卡通 (576p)" group-title="Animation;Kids",金鹰卡通 (576p)
+https://secure-272717.tatnet.app/223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony Yay! [Geo-blocked]" group-title="Animation;Kids",Sony Yay! [Geo-blocked]
+https://secure-272717.tatnet.app/sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
+
+#EXTINF:-1 tvg-name="Disney Jr. [Geo-blocked]" group-title="Animation;Kids",Disney Jr. [Geo-blocked]
+https://secure-272717.tatnet.app/saran-live.ercdn.net/disneyjunior/index.m3u8
+
+#EXTINF:-1 tvg-name="NickOnline" group-title="Animation;Kids",NickOnline
+https://secure-272717.tatnet.app/x1co.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="NickOnline SD (320p)" group-title="Animation;Kids",NickOnline SD (320p)
+https://secure-272717.tatnet.app/sdnew.x1co.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="NickOnline Spongebob" group-title="Animation;Kids",NickOnline Spongebob
+https://secure-272717.tatnet.app/spongebobnew.x1co.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="NickToons Brasil (480p)" group-title="Animation;Kids",NickToons Brasil (480p)
+https://secure-272717.tatnet.app/stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NickWeb" group-title="Animation;Kids",NickWeb
+https://secure-272717.tatnet.app/vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Jr. Latin America South" group-title="Animation;Kids",Disney Jr. Latin America South
+https://secure-272717.tatnet.app/tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-name="Xtrema Cartoons" group-title="Animation;Kids",Xtrema Cartoons
+https://secure-272717.tatnet.app/stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Multimania (Latvia) (576p)" group-title="Animation;Kids",Multimania (Latvia) (576p)
+https://secure-272717.tatnet.app/void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Animation;Kids",Cartoon Classics" group-title="Animation;Kids",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Animation;Kids",Cartoon Classics
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
+
+#EXTINF:-1 tvg-name="Pokémon" group-title="Animation;Kids",Pokémon
+https://secure-272717.tatnet.app/jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
+
+#EXTINF:-1 tvg-name="Extrema Kids TV" group-title="Animation;Kids",Extrema Kids TV
+https://secure-272717.tatnet.app/627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tiguerito TV" group-title="Animation;Kids",Tiguerito TV
+https://secure-272717.tatnet.app/ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Japanim TV" group-title="Animation;Kids",Japanim TV
+https://secure-272717.tatnet.app/foxkidstv.be:3369/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="Spacetoon Arabic" group-title="Animation;Kids",Spacetoon Arabic
+https://secure-272717.tatnet.app/shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
+#EXTINF:-1 tvg-name="Pingviin (576p)" group-title="Animation;Kids",Pingviin (576p)
+https://secure-272717.tatnet.app/void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
+
+#EXTINF:-1 tvg-name="Пингвин" group-title="Animation;Kids",Пингвин
+https://secure-272717.tatnet.app/sirius.greenhosting.ru/PingvinRu/video.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon (576p)" group-title="Animation;Kids",Nickelodeon (576p)
+https://secure-272717.tatnet.app/195.64.140.147:10121/121
+

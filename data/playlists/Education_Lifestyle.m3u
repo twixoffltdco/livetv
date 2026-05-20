@@ -1,0 +1,17 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Education;Lifestyle
+# Каналов: 2
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
+https://secure-272717.tatnet.app/31.148.48.15/Doktor/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal Saúde" group-title="Education;Lifestyle",Canal Saúde
+https://secure-272717.tatnet.app/arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+

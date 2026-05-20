@@ -1,0 +1,14 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Lifestyle;Travel
+# Каналов: 1
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Voyages & Saveurs" group-title="Lifestyle;Travel",Voyages & Saveurs
+https://secure-272717.tatnet.app/jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
+

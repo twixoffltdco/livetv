@@ -1,0 +1,56 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: General;Public
+# Каналов: 15
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Aragon TV [Geo-Blocked]" group-title="General;Public",Aragon TV [Geo-Blocked]
+https://secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+
+#EXTINF:-1 tvg-name="Canal Extremadura (576p)" group-title="General;Public",Canal Extremadura (576p)
+https://secure-272717.tatnet.app/cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-name="Canal Sur Andalucia" group-title="General;Public",Canal Sur Andalucia
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+
+#EXTINF:-1 tvg-name="Canal Sur Andalucía 2" group-title="General;Public",Canal Sur Andalucía 2
+https://secure-272717.tatnet.app/cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CMM TV" group-title="General;Public",CMM TV
+https://secure-272717.tatnet.app/cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+
+#EXTINF:-1 tvg-name="ETB Events 1" group-title="General;Public",ETB Events 1
+https://secure-272717.tatnet.app/cdn1.etbon.eus/oc1/index.m3u8
+
+#EXTINF:-1 tvg-name="Galicia TV Europa" group-title="General;Public",Galicia TV Europa
+https://secure-272717.tatnet.app/crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-name="La 1" group-title="General;Public",La 1
+https://secure-272717.tatnet.app/ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-name="La 1 Canarias" group-title="General;Public",La 1 Canarias
+https://secure-272717.tatnet.app/ztnr.rtve.es/ztnr/5190066.m3u8
+
+#EXTINF:-1 tvg-name="La 1 Catalunya" group-title="General;Public",La 1 Catalunya
+https://secure-272717.tatnet.app/ztnr.rtve.es/ztnr/3293681.m3u8
+
+#EXTINF:-1 tvg-name="La 2" group-title="General;Public",La 2
+https://secure-272717.tatnet.app/ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-name="La 2 Catalunya" group-title="General;Public",La 2 Catalunya
+https://secure-272717.tatnet.app/ztnr.rtve.es/ztnr/3987218.m3u8
+
+#EXTINF:-1 tvg-name="Canal Extremadura Satelite" group-title="General;Public",Canal Extremadura Satelite
+https://secure-272717.tatnet.app/canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="À Punt" group-title="General;Public",À Punt
+https://secure-272717.tatnet.app/92.176.119.180:2095/play/a17d
+
+#EXTINF:-1 tvg-name="La 1 Comunitat Valenciana" group-title="General;Public",La 1 Comunitat Valenciana
+https://secure-272717.tatnet.app/92.176.119.180:2095/play/a16x
+

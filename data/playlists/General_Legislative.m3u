@@ -1,0 +1,14 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: General;Legislative
+# Каналов: 1
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="ATXN2" group-title="General;Legislative",ATXN2
+https://secure-272717.tatnet.app/cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
+

@@ -1,0 +1,20 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Movies;Music
+# Каналов: 3
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
+https://secure-272717.tatnet.app/103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Next (480p)" group-title="Movies;Music",Next (480p)
+https://secure-272717.tatnet.app/live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-name="Orbita Chile TV" group-title="Movies;Music",Orbita Chile TV
+https://secure-272717.tatnet.app/orbitachiletv.org/hls/0/stream.m3u8
+

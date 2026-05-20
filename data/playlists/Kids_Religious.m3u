@@ -1,0 +1,23 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Kids;Religious
+# Каналов: 4
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Christian Youth Channel (CYC)" group-title="Kids;Religious",Christian Youth Channel (CYC)
+https://secure-272717.tatnet.app/media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Logos TV Kids" group-title="Kids;Religious",Logos TV Kids
+https://secure-272717.tatnet.app/streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dios Te Ve Kids" group-title="Kids;Religious",Dios Te Ve Kids
+https://secure-272717.tatnet.app/s.emisoras.tv:8081/diostevekids/index.m3u8
+
+#EXTINF:-1 tvg-name="Sat 7 Kids" group-title="Kids;Religious",Sat 7 Kids
+https://secure-272717.tatnet.app/svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+

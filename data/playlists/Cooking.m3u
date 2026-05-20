@@ -1,0 +1,101 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Cooking
+# Каналов: 30
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Кухня ТВ (576p)" group-title="Cooking",Кухня ТВ (576p)
+https://secure-272717.tatnet.app/31.148.48.15/Kuhnya_TV/index.m3u8
+
+#EXTINF:-1 tvg-name="Сити Эдем Рецепты Гурмана" group-title="Cooking",Сити Эдем Рецепты Гурмана
+https://secure-272717.tatnet.app/cityeden.catcast.tv/content/47516/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Телекафе" group-title="Cooking",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Телекафе
+https://secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
+
+#EXTINF:-1 tvg-name="America's Test Kitchen [Geo-blocked]" group-title="Cooking",America's Test Kitchen [Geo-blocked]
+https://secure-272717.tatnet.app/pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8
+
+#EXTINF:-1 tvg-name="BBC Food" group-title="Cooking",BBC Food
+https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="bon appétit" group-title="Cooking",bon appétit
+https://secure-272717.tatnet.app/bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Chef Champion" group-title="Cooking",Chef Champion
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+
+#EXTINF:-1 tvg-name="Chef Roc Show" group-title="Cooking",Chef Roc Show
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+
+#EXTINF:-1 tvg-name="Cooking Panda (576p)" group-title="Cooking",Cooking Panda (576p)
+https://secure-272717.tatnet.app/stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+
+#EXTINF:-1 tvg-name="Gordon Ramsay" group-title="Cooking",Gordon Ramsay
+https://secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
+
+#EXTINF:-1 tvg-name="Hungry" group-title="Cooking",Hungry
+https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mad Dog and Merrill (540p)" group-title="Cooking",Mad Dog and Merrill (540p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
+
+#EXTINF:-1 tvg-name="Tastemade" group-title="Cooking",Tastemade
+https://secure-272717.tatnet.app/rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tastemade Travel" group-title="Cooking",Tastemade Travel
+https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
+
+#EXTINF:-1 tvg-name="Tastemade" group-title="Cooking",Tastemade
+https://secure-272717.tatnet.app/rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ETV Abhiruchi" group-title="Cooking",ETV Abhiruchi
+https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8
+
+#EXTINF:-1 tvg-name="Tastemade" group-title="Cooking",Tastemade
+https://secure-272717.tatnet.app/jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
+
+#EXTINF:-1 tvg-name="Tastemade Australia" group-title="Cooking",Tastemade Australia
+https://secure-272717.tatnet.app/tmint-aus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="24Kitchen Serbia" group-title="Cooking",24Kitchen Serbia
+https://secure-272717.tatnet.app/91.132.74.5:8000/play/a00a
+
+#EXTINF:-1 tvg-name="Gusto TV" group-title="Cooking",Gusto TV
+https://secure-272717.tatnet.app/e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tastemade" group-title="Cooking",Tastemade
+https://secure-272717.tatnet.app/tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tastemade en Espanol [Geo-blocked]" group-title="Cooking",Tastemade en Espanol [Geo-blocked]
+https://secure-272717.tatnet.app/tastemadees16us-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Jordan Kitchen" group-title="Cooking",Jordan Kitchen
+https://secure-272717.tatnet.app/playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Roya Kitchen" group-title="Cooking",Roya Kitchen
+https://secure-272717.tatnet.app/playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Dens Food Channel [Geo-blocked]" group-title="Cooking",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Dens Food Channel [Geo-blocked]
+https://secure-272717.tatnet.app/op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
+
+#EXTINF:-1 tvg-name="GEM Food" group-title="Cooking",GEM Food
+https://secure-272717.tatnet.app/ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-name="Gusto TV" group-title="Cooking",Gusto TV
+https://secure-272717.tatnet.app/563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hello Taste" group-title="Cooking",Hello Taste
+https://secure-272717.tatnet.app/stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Masala TV (576p)" group-title="Cooking",Masala TV (576p)
+https://secure-272717.tatnet.app/103.250.28.74:8000/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-name="Tastemade" group-title="Cooking",Tastemade
+https://secure-272717.tatnet.app/tastemade-aus-tmina-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-aus-rakuten-eu/CDN/master.m3u8
+

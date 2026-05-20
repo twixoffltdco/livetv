@@ -1,0 +1,26 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: General;Religious
+# Каналов: 5
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
+https://secure-272717.tatnet.app/cityeden.catcast.tv/content/34246/index.m3u8
+
+#EXTINF:-1 tvg-name="AssyriaSat" group-title="General;Religious",AssyriaSat
+https://secure-272717.tatnet.app/66.242.170.53/hls/live/temp/index.m3u8
+
+#EXTINF:-1 tvg-name="BX Inspire" group-title="General;Religious",BX Inspire
+https://secure-272717.tatnet.app/reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
+
+#EXTINF:-1 tvg-name="Approval TV" group-title="General;Religious",Approval TV
+https://secure-272717.tatnet.app/live.approvaltv.com/approvaltv/index.m3u8
+
+#EXTINF:-1 tvg-name="Cáritas TV" group-title="General;Religious",Cáritas TV
+https://secure-272717.tatnet.app/rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+

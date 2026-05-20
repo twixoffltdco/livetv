@@ -1,0 +1,62 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: General;News
+# Каналов: 17
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
+https://secure-272717.tatnet.app/serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BX Inform" group-title="General;News",BX Inform
+https://secure-272717.tatnet.app/reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
+
+#EXTINF:-1 tvg-name="NTD TV English" group-title="General;News",NTD TV English
+https://secure-272717.tatnet.app/amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 1 Mar Menor-Torre Pacheco" group-title="General;News",Canal 1 Mar Menor-Torre Pacheco
+https://secure-272717.tatnet.app/directo.tuwebtv.es/canal1.m3u8
+
+#EXTINF:-1 tvg-name="STV News and General" group-title="General;News",STV News and General
+https://secure-272717.tatnet.app/61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
+
+#EXTINF:-1 tvg-name="Canal 33 Tijuana" group-title="General;News",Canal 33 Tijuana
+https://secure-272717.tatnet.app/5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Arirang TV" group-title="General;News",Arirang TV
+https://secure-272717.tatnet.app/amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Arirang TV" group-title="General;News",Arirang TV
+https://secure-272717.tatnet.app/dash3.antik.sk/live/test_arirang/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NTD TV English UK" group-title="General;News",NTD TV English UK
+https://secure-272717.tatnet.app/ntd02.akamaized.net/NTD-UK/index.m3u8
+
+#EXTINF:-1 tvg-name="Đồng Nai 1 (480p)" group-title="General;News",Đồng Nai 1 (480p)
+https://secure-272717.tatnet.app/118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="HTV9 [Geo-blocked]" group-title="General;News",HTV9 [Geo-blocked]
+https://secure-272717.tatnet.app/live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="NH Niews" group-title="General;News",NH Niews
+https://secure-272717.tatnet.app/takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+
+#EXTINF:-1 tvg-name="PRO TV Chisinau (480p)" group-title="General;News",PRO TV Chisinau (480p)
+https://secure-272717.tatnet.app/stream.protv.md/live/sursa-1/index.m3u8
+
+#EXTINF:-1 tvg-name="Star Kentrikis Elladas" group-title="General;News",Star Kentrikis Elladas
+https://secure-272717.tatnet.app/telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+
+#EXTINF:-1 tvg-name="Tv Famypanc" group-title="General;News",Tv Famypanc
+https://secure-272717.tatnet.app/panel.host-live.com:19360/8042/8042.m3u8
+
+#EXTINF:-1 tvg-name="TVK Stella (576p)" group-title="General;News",TVK Stella (576p)
+https://secure-272717.tatnet.app/stream.tvkstella.pl/stella/stella.m3u8
+
+#EXTINF:-1 tvg-name="Vĩnh Long TV1 [Geo-blocked]" group-title="General;News",Vĩnh Long TV1 [Geo-blocked]
+https://secure-272717.tatnet.app/live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
+

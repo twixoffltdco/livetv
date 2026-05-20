@@ -1,0 +1,23 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Entertainment;Series
+# Каналов: 4
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Rakuten Viki" group-title="Entertainment;Series",Rakuten Viki
+https://secure-272717.tatnet.app/newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rakuten Viki" group-title="Entertainment;Series",Rakuten Viki
+https://secure-272717.tatnet.app/newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rakuten VIKI" group-title="Entertainment;Series",Rakuten VIKI
+https://secure-272717.tatnet.app/fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zee Alwan (576p)" group-title="Entertainment;Series",Zee Alwan (576p)
+https://secure-272717.tatnet.app/tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
+

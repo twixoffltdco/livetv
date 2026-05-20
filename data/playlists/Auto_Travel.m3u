@@ -1,0 +1,14 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Auto;Travel
+# Каналов: 1
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Fun Roads TV" group-title="Auto;Travel",Fun Roads TV
+https://secure-272717.tatnet.app/a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+

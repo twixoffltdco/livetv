@@ -1,0 +1,20 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Culture;Music
+# Каналов: 3
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Pamir TV" group-title="Culture;Music",Pamir TV
+https://secure-272717.tatnet.app/live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 tvg-name="Ondambiental TV (360p)" group-title="Culture;Music",Ondambiental TV (360p)
+https://secure-272717.tatnet.app/stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Suyai TV" group-title="Culture;Music",Radio Suyai TV
+https://secure-272717.tatnet.app/signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH
+

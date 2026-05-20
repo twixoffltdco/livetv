@@ -1,0 +1,29 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Movies;Series
+# Каналов: 6
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series",Ebony TV by Lionsgate
+https://secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OuterSphere" group-title="Movies;Series",OuterSphere
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+
+#EXTINF:-1 tvg-name="Pantalla Clásica EC (512p)" group-title="Movies;Series",Pantalla Clásica EC (512p)
+https://secure-272717.tatnet.app/live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Squirrel" group-title="Movies;Series",Squirrel
+https://secure-272717.tatnet.app/92.176.119.180:2095/play/a1ey
+
+#EXTINF:-1 tvg-name="Veo7" group-title="Movies;Series",Veo7
+https://secure-272717.tatnet.app/92.176.119.180:2095/play/a1f1
+
+#EXTINF:-1 tvg-name="AXN Asia Indonesia" group-title="Movies;Series",AXN Asia Indonesia
+https://secure-272717.tatnet.app/cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+

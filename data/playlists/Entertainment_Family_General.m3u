@@ -1,0 +1,20 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Entertainment;Family;General
+# Каналов: 3
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="1KZN TV (576p)" group-title="Entertainment;Family;General",1KZN TV (576p)
+https://secure-272717.tatnet.app/cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Asia TV" group-title="Entertainment;Family;General",Asia TV
+https://secure-272717.tatnet.app/stream.asiatvnet.com/1/live/master.m3u8
+
+#EXTINF:-1 tvg-name="Tshwane TV (576p)" group-title="Entertainment;Family;General",Tshwane TV (576p)
+https://secure-272717.tatnet.app/cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+

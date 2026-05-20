@@ -1,0 +1,14 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Legislative;News
+# Каналов: 1
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Korea TV" group-title="Legislative;News",Korea TV
+https://secure-272717.tatnet.app/hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+

@@ -1,0 +1,14 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Culture;Entertainment;Music
+# Каналов: 1
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="MBC America" group-title="Culture;Entertainment;Music",MBC America
+https://secure-272717.tatnet.app/cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+

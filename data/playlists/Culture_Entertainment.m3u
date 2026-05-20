@@ -1,0 +1,20 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Culture;Entertainment
+# Каналов: 3
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Jaya Max (576p)" group-title="Culture;Entertainment",Jaya Max (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/420.m3u8
+
+#EXTINF:-1 tvg-name="Jaya TV" group-title="Culture;Entertainment",Jaya TV
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/419.m3u8
+
+#EXTINF:-1 tvg-name="Capital 21" group-title="Culture;Entertainment",Capital 21
+https://secure-272717.tatnet.app/video.cdmx.gob.mx/redes/stream.m3u8
+

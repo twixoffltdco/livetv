@@ -1,0 +1,101 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Family
+# Каналов: 30
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Family",STS Love (576i)" group-title="Family",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Family",STS Love (576i)
+https://secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
+
+#EXTINF:-1 tvg-name="СТС (+4) (576p)" group-title="Family",СТС (+4) (576p)
+https://secure-272717.tatnet.app/31.148.48.15/STS/index.m3u8
+
+#EXTINF:-1 tvg-name="AMG TV" group-title="Family",AMG TV
+https://secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dove Channel" group-title="Family",Dove Channel
+https://secure-272717.tatnet.app/linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Freeform [Geo-blocked]" group-title="Family",Freeform [Geo-blocked]
+https://secure-272717.tatnet.app/tvpass.org/live/FreeformEast/hd
+
+#EXTINF:-1 tvg-name="Positiv TV" group-title="Family",Positiv TV
+https://secure-272717.tatnet.app/livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective [Geo-blocked]" group-title="Family",The Pet Collective [Geo-blocked]
+https://secure-272717.tatnet.app/pb-jc9emctsujawo.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVS Family Channel (360p)" group-title="Family",TVS Family Channel (360p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="Family",The Pet Collective
+https://secure-272717.tatnet.app/the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Family Gekijo (544p)" group-title="Family",Family Gekijo (544p)
+https://secure-272717.tatnet.app/cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+
+#EXTINF:-1 tvg-name="四川妇女儿童" group-title="Family",四川妇女儿童
+https://secure-272717.tatnet.app/scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="Family",The Pet Collective
+https://secure-272717.tatnet.app/the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="Family",The Pet Collective
+https://secure-272717.tatnet.app/jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective International" group-title="Family",The Pet Collective International
+https://secure-272717.tatnet.app/the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective International" group-title="Family",The Pet Collective International
+https://secure-272717.tatnet.app/the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sevimli TV" group-title="Family",Sevimli TV
+https://secure-272717.tatnet.app/stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LTN Family (576p)" group-title="Family",LTN Family (576p)
+https://secure-272717.tatnet.app/103.250.28.74:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Family",My Family [Geo-blocked]" group-title="Family",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Family",My Family [Geo-blocked]
+https://secure-272717.tatnet.app/op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="Family",The Pet Collective
+https://secure-272717.tatnet.app/6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="Family",The Pet Collective
+https://secure-272717.tatnet.app/the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective Sweden" group-title="Family",The Pet Collective Sweden
+https://secure-272717.tatnet.app/the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="6 Wise Tv" group-title="Family",6 Wise Tv
+https://secure-272717.tatnet.app/live.enhdtv.com:8081/8150/index.m3u8
+
+#EXTINF:-1 tvg-name="Talanga TV Canal 39 (480p)" group-title="Family",Talanga TV Canal 39 (480p)
+https://secure-272717.tatnet.app/stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Familia" group-title="Family",TV Familia
+https://secure-272717.tatnet.app/cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+
+#EXTINF:-1 tvg-name="Al-Souriya TV" group-title="Family",Al-Souriya TV
+https://secure-272717.tatnet.app/shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
+
+#EXTINF:-1 tvg-name="MBC 5" group-title="Family",MBC 5
+https://secure-272717.tatnet.app/shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
+#EXTINF:-1 tvg-name="AVA Family" group-title="Family",AVA Family
+https://secure-272717.tatnet.app/familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="EmanTv" group-title="Family",EmanTv
+https://secure-272717.tatnet.app/avr.host247.net/live/emantv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Green TV" group-title="Family",Green TV
+https://secure-272717.tatnet.app/app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mixkurdy" group-title="Family",Mixkurdy
+https://secure-272717.tatnet.app/avr.host247.net/live/Mix-kurdy/playlist.m3u8
+

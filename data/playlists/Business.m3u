@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 12:56:17
-# Всего каналов: 4583
-# Новых за сессию: 0
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business
-# Каналов: 7
-# Обновлено: 2026-05-20 12:56:17
+# Каналов: 62
+# Обновлено: 2026-05-20 13:23:18
 
 #EXTINF:-1 tvg-name="Cheddar News" group-title="Business",Cheddar News
 https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/index.m3u8?ads.xumo_channelId=99991220&ads._fw_ifa_type=dpid&ads._fw_did=43135081-0e2e-2a3f-b10c-4ade81d0e829&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Cheddar&ads.csid=xumo_desktopweb_cheddar_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=News&ads._fw_content_category=IAB12&ads._fw_content_language=en&ads._fw_content_genre=News&ads._fw_content_rating=TV-PG&ads.xumo_contentId=161&ads.xumo_contentName=Cheddar&ads.xumo_providerId=161&ads.xumo_providerName=Cheddar&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991220&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
@@ -21,6 +21,165 @@ https://secure-272717.tatnet.app/amg01079-nbcuuk-amg01079c1-samsung-es-1261.play
 #EXTINF:-1 tvg-name="CNBC Indonesia" group-title="Business",CNBC Indonesia
 https://secure-272717.tatnet.app/live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
+#EXTINF:-1 tvg-name="РБК (576p)" group-title="Business",РБК (576p)
+https://secure-272717.tatnet.app/uiptv.do.am/1ufc/701293058/playlist.m3u8
+
+#EXTINF:-1 tvg-name="First Business" group-title="Business",First Business
+https://secure-272717.tatnet.app/lowa8026-cmyk.github.io/Ukraine/FirstBussines.m3u8
+
+#EXTINF:-1 tvg-name="30A Investment Pitch" group-title="Business",30A Investment Pitch
+https://secure-272717.tatnet.app/30a-tv.com/feeds/xodglobal/30atv.m3u8
+
+#EXTINF:-1 tvg-name="Ameritrade" group-title="Business",Ameritrade
+https://secure-272717.tatnet.app/tdameritrade-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Business",Bloomberg Television" group-title="Business",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Business",Bloomberg Television
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8?ads.vf=XfUcpFmGLda
+
+#EXTINF:-1 tvg-name="Bloomberg TV US Live Event" group-title="Business",Bloomberg TV US Live Event
+https://secure-272717.tatnet.app/bloomberg.com/media-manifest/streams/us-event.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV US Politics Live Event" group-title="Business",Bloomberg TV US Politics Live Event
+https://secure-272717.tatnet.app/bloomberg.com/media-manifest/streams/politics.m3u8
+
+#EXTINF:-1 tvg-name="Cafe Trade TV" group-title="Business",Cafe Trade TV
+https://secure-272717.tatnet.app/cafetradehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="CNBC" group-title="Business",CNBC
+https://secure-272717.tatnet.app/stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+
+#EXTINF:-1 tvg-name="Entrepreneur TV [Geo-blocked]" group-title="Business",Entrepreneur TV [Geo-blocked]
+https://secure-272717.tatnet.app/cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fox Business Network" group-title="Business",Fox Business Network
+https://secure-272717.tatnet.app/tvpass.org/live/FoxBusiness/hd
+
+#EXTINF:-1 tvg-name="Schwab Network" group-title="Business",Schwab Network
+https://secure-272717.tatnet.app/tdameritrade-distro.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Class CNBC [Geo-blocked]" group-title="Business",Class CNBC [Geo-blocked]
+https://secure-272717.tatnet.app/amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-2" group-title="Business",CCTV-2
+https://secure-272717.tatnet.app/74.91.26.218:82/live/cctv2hd.m3u8
+
+#EXTINF:-1 tvg-name="Jiangxi Economy & Life Channel" group-title="Business",Jiangxi Economy & Life Channel
+https://secure-272717.tatnet.app/play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
+
+#EXTINF:-1 tvg-name="徐州經濟生活" group-title="Business",徐州經濟生活
+https://secure-272717.tatnet.app/223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+
+#EXTINF:-1 tvg-name="西安商务资讯 (180p)" group-title="Business",西安商务资讯 (180p)
+https://secure-272717.tatnet.app/stream2.xiancity.cn/xatv3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNBC Awaaz" group-title="Business",CNBC Awaaz
+https://secure-272717.tatnet.app/n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-name="CNBC Bajar" group-title="Business",CNBC Bajar
+https://secure-272717.tatnet.app/n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-name="CNBC TV18" group-title="Business",CNBC TV18
+https://secure-272717.tatnet.app/n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-name="CNBC TV18 Prime" group-title="Business",CNBC TV18 Prime
+https://secure-272717.tatnet.app/n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-name="ET Now" group-title="Business",ET Now
+https://secure-272717.tatnet.app/pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
+
+#EXTINF:-1 tvg-name="ET Now Swadesh" group-title="Business",ET Now Swadesh
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-name="NDTV Profit" group-title="Business",NDTV Profit
+https://secure-272717.tatnet.app/ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+
+#EXTINF:-1 tvg-name="Zee Business" group-title="Business",Zee Business
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg HT" group-title="Business",Bloomberg HT
+https://secure-272717.tatnet.app/ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 tvg-name="BNN Bloomberg" group-title="Business",BNN Bloomberg
+https://secure-272717.tatnet.app/pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+
+#EXTINF:-1 tvg-name="Bloomberg TV Australia (270p)" group-title="Business",Bloomberg TV Australia (270p)
+https://secure-272717.tatnet.app/bloomberg.com/media-manifest/streams/aus.m3u8
+
+#EXTINF:-1 tvg-name="Bilyonaryo News Channel" group-title="Business",Bilyonaryo News Channel
+https://secure-272717.tatnet.app/streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV Asia" group-title="Business",Bloomberg TV Asia
+https://secure-272717.tatnet.app/bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV Asia Live Event" group-title="Business",Bloomberg TV Asia Live Event
+https://secure-272717.tatnet.app/bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV EMEA Live Event" group-title="Business",Bloomberg TV EMEA Live Event
+https://secure-272717.tatnet.app/bloomberg.com/media-manifest/streams/eu-event.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV+ (2160p)" group-title="Business",Bloomberg TV+ (2160p)
+https://secure-272717.tatnet.app/d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Global Biz" group-title="Business",CGTN Global Biz
+https://secure-272717.tatnet.app/amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNBC Asia" group-title="Business",CNBC Asia
+https://secure-272717.tatnet.app/liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+
+#EXTINF:-1 tvg-name="CNBC Europe [Geo-Blocked]" group-title="Business",CNBC Europe [Geo-Blocked]
+https://secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Business",DeFiance Media" group-title="Business",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Business",DeFiance Media
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/defiance-media/playlist.m3u8?ads.vf=vUI6YpdKlAm
+
+#EXTINF:-1 tvg-name="HOY International Business Channel [Geo-blocked]" group-title="Business",HOY International Business Channel [Geo-blocked]
+https://secure-272717.tatnet.app/hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+
+#EXTINF:-1 tvg-name="Canal Pro" group-title="Business",Canal Pro
+https://secure-272717.tatnet.app/www.desde-paraguay.com/pro.m3u8
+
+#EXTINF:-1 tvg-name="Tevex" group-title="Business",Tevex
+https://secure-272717.tatnet.app/v4.tustreaming.cl/tevexinter/index.m3u8
+
+#EXTINF:-1 tvg-name="Business 24 Africa (480p)" group-title="Business",Business 24 Africa (480p)
+https://secure-272717.tatnet.app/cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
+
+#EXTINF:-1 tvg-name="NW Economie (576p)" group-title="Business",NW Economie (576p)
+https://secure-272717.tatnet.app/hls.newworldtv.com/nw-economie/video/live.m3u8
+
+#EXTINF:-1 tvg-name="Trends Z" group-title="Business",Trends Z
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+
+#EXTINF:-1 tvg-name="CNBC Arabiya" group-title="Business",CNBC Arabiya
+https://secure-272717.tatnet.app/cnbc-live.akamaized.net/cnbc/master.m3u8
+
+#EXTINF:-1 tvg-name="Aleph Business (1280p)" group-title="Business",Aleph Business (1280p)
+https://secure-272717.tatnet.app/streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Business",Bloomberg TV Mongolia" group-title="Business",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Business",Bloomberg TV Mongolia
+https://secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
+
+#EXTINF:-1 tvg-name="Bloomberg TV+" group-title="Business",Bloomberg TV+
+https://secure-272717.tatnet.app/86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ekhon TV" group-title="Business",Ekhon TV
+https://secure-272717.tatnet.app/tplay.live/out/bangladesh/ekhontv.index.m3u8
+
+#EXTINF:-1 tvg-name="Job Plus TV (한국직업방송) (480p)" group-title="Business",Job Plus TV (한국직업방송) (480p)
+https://secure-272717.tatnet.app/live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="JOB TV" group-title="Business",JOB TV
+https://secure-272717.tatnet.app/jobtvserver.eu/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="NDTV Profit" group-title="Business",NDTV Profit
+https://secure-272717.tatnet.app/ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+
+#EXTINF:-1 tvg-name="Telewizja Biznesowa" group-title="Business",Telewizja Biznesowa
+https://secure-272717.tatnet.app/s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+
+#EXTINF:-1 tvg-name="Trends Z" group-title="Business",Trends Z
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
+
 #EXTINF:-1 tvg-name="Yahoo! Finance" group-title="Business",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
@@ -29,4 +188,10 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
 #EXTINF:-1 tvg-name="Moconomy" group-title="Business",Moconomy
 https://secure-272717.tatnet.app/amogonetworx-moconomy-2-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="World Economy Channel" group-title="Business",World Economy Channel
+https://secure-272717.tatnet.app/49.113.179.174:4022/udp/238.125.2.205:5140
+
+#EXTINF:-1 tvg-name="IDX Channel" group-title="Business",IDX Channel
+https://secure-272717.tatnet.app/cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 

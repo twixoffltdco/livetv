@@ -1,0 +1,116 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Travel
+# Каналов: 35
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="RTG TV" group-title="Travel",RTG TV
+https://secure-272717.tatnet.app/31.148.48.15/RTG_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Travel+Adventure" group-title="Travel",Travel+Adventure
+https://secure-272717.tatnet.app/31.148.48.15/Travel_Adventure_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Телепутешествия (576p)" group-title="Travel",Телепутешествия (576p)
+https://secure-272717.tatnet.app/31.148.48.15/Teleputeshestviya/index.m3u8
+
+#EXTINF:-1 tvg-name="BamBarBia TV" group-title="Travel",BamBarBia TV
+https://secure-272717.tatnet.app/cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Beach TV CSULB (160p)" group-title="Travel",Beach TV CSULB (160p)
+https://secure-272717.tatnet.app/stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Beach TV Florida & Alabama" group-title="Travel",Beach TV Florida & Alabama
+https://secure-272717.tatnet.app/media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Beach TV Key West & Florida Keys" group-title="Travel",Beach TV Key West & Florida Keys
+https://secure-272717.tatnet.app/5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Beach TV Myrtle Beach & The Grand Strand" group-title="Travel",Beach TV Myrtle Beach & The Grand Strand
+https://secure-272717.tatnet.app/media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Beach TV Panama City" group-title="Travel",Beach TV Panama City
+https://secure-272717.tatnet.app/media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Go2Travel" group-title="Travel",Go2Travel
+https://secure-272717.tatnet.app/go2thls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Go USA TV" group-title="Travel",Go USA TV
+https://secure-272717.tatnet.app/brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GoTraveler [Geo-blocked]" group-title="Travel",GoTraveler [Geo-blocked]
+https://secure-272717.tatnet.app/amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Travel",Journy" group-title="Travel",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Travel",Journy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8?ads.vf=QFdKH3fCQ5m
+
+#EXTINF:-1 tvg-name="NOTV New Orleans TV" group-title="Travel",NOTV New Orleans TV
+https://secure-272717.tatnet.app/media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Palm Beaches TV" group-title="Travel",Palm Beaches TV
+https://secure-272717.tatnet.app/live.feed.thepalmbeaches.tv/index.m3u8
+
+#EXTINF:-1 tvg-name="TVS Travel Network" group-title="Travel",TVS Travel Network
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
+
+#EXTINF:-1 tvg-name="Travelxp 4K R (2160p) [Geo-blocked]" group-title="Travel",Travelxp 4K R (2160p) [Geo-blocked]
+https://secure-272717.tatnet.app/deltatesttatasky.akamaized.net/out/i/968284.m3u8
+
+#EXTINF:-1 tvg-name="Travelxp [Geo-blocked]" group-title="Travel",Travelxp [Geo-blocked]
+https://secure-272717.tatnet.app/amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Travelxp Tamil (576p)" group-title="Travel",Travelxp Tamil (576p)
+https://secure-272717.tatnet.app/103.72.101.252:8080/live/814.m3u8
+
+#EXTINF:-1 tvg-name="TV Paraná Turismo" group-title="Travel",TV Paraná Turismo
+https://secure-272717.tatnet.app/200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-name="Turistik TV" group-title="Travel",Turistik TV
+https://secure-272717.tatnet.app/cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Aruba.TV" group-title="Travel",Aruba.TV
+https://secure-272717.tatnet.app/cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BHA TV" group-title="Travel",BHA TV
+https://secure-272717.tatnet.app/streamer2.nexgen.bz/15-BHA/index.m3u8
+
+#EXTINF:-1 tvg-name="InTravel" group-title="Travel",InTravel
+https://secure-272717.tatnet.app/amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Living Asia Channel" group-title="Travel",Living Asia Channel
+https://secure-272717.tatnet.app/cdn.vegasplus.us/vegas/lac/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Maldives TV" group-title="Travel",Maldives TV
+https://secure-272717.tatnet.app/lana.psm.mv/live/mtv.m3u8
+
+#EXTINF:-1 tvg-name="Tanzania Safari Channel (576p)" group-title="Travel",Tanzania Safari Channel (576p)
+https://secure-272717.tatnet.app/stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
+
+#EXTINF:-1 tvg-name="OEPM TV" group-title="Travel",OEPM TV
+https://secure-272717.tatnet.app/cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Teletur" group-title="Travel",Teletur
+https://secure-272717.tatnet.app/fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Turismo RDTV" group-title="Travel",Turismo RDTV
+https://secure-272717.tatnet.app/streamunoapp.com:3086/live/telemileniolive.m3u8
+
+#EXTINF:-1 tvg-name="TV OFF" group-title="Travel",TV OFF
+https://secure-272717.tatnet.app/seo.tv.bo/tv/TV-OFF.m3u8
+
+#EXTINF:-1 tvg-name="Schladming-Dachstein TV" group-title="Travel",Schladming-Dachstein TV
+https://secure-272717.tatnet.app/m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Discover Pakistan" group-title="Travel",Discover Pakistan
+https://secure-272717.tatnet.app/livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Travel TV (576p)" group-title="Travel",Travel TV (576p)
+https://secure-272717.tatnet.app/streamer103.neterra.tv/travel/live.m3u8
+
+#EXTINF:-1 tvg-name="TV Sayohi" group-title="Travel",TV Sayohi
+https://secure-272717.tatnet.app/live.teleradiocom.tj/16/3m.m3u8
+

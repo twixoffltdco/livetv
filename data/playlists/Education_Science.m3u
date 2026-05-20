@@ -1,0 +1,23 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Education;Science
+# Каналов: 4
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="滁州科教 (450p)" group-title="Education;Science",滁州科教 (450p)
+https://secure-272717.tatnet.app/183.167.193.45:1935/live/cztvkj/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cần Thơ TV2" group-title="Education;Science",Cần Thơ TV2
+https://secure-272717.tatnet.app/megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
+
+#EXTINF:-1 tvg-name="BRTV Science & Education Channel" group-title="Education;Science",BRTV Science & Education Channel
+https://secure-272717.tatnet.app/49.113.179.174:4022/udp/238.125.3.121:5140
+
+#EXTINF:-1 tvg-name="Ecology & Environment TV" group-title="Education;Science",Ecology & Environment TV
+https://secure-272717.tatnet.app/49.113.179.174:4022/udp/238.125.2.175:5140
+

@@ -1,0 +1,20 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Culture;Public
+# Каналов: 3
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="El 33 [Geo-blocked]" group-title="Culture;Public",El 33 [Geo-blocked]
+https://secure-272717.tatnet.app/directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-name="El 33 Originals" group-title="Culture;Public",El 33 Originals
+https://secure-272717.tatnet.app/directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-name="ETB Basque" group-title="Culture;Public",ETB Basque
+https://secure-272717.tatnet.app/multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
+

@@ -1,0 +1,14 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Comedy;Movies;Series
+# Каналов: 1
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Universal Comedy (480p)" group-title="Comedy;Movies;Series",Universal Comedy (480p)
+https://secure-272717.tatnet.app/190.2.212.209:8050/play/a0q4
+

@@ -1,0 +1,20 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Documentary;News
+# Каналов: 3
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="India TV Aap Ki Adalat [Geo-blocked]" group-title="Documentary;News",India TV Aap Ki Adalat [Geo-blocked]
+https://secure-272717.tatnet.app/amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BTB Info" group-title="Documentary;News",BTB Info
+https://secure-272717.tatnet.app/emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+
+#EXTINF:-1 tvg-name="Al Arabiya Programs (1280p)" group-title="Documentary;News",Al Arabiya Programs (1280p)
+https://secure-272717.tatnet.app/live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+

@@ -2081,3 +2081,83 @@
 [2026-05-20 13:04:57] ✅ Найдено 385 потоков в https://iptv-org.github.io/iptv/categories/movies.
 [2026-05-20 13:04:57] ✅ Найдено 293 потоков в https://iptv-org.github.io/iptv/categories/sports.
 [2026-05-20 13:04:58] 🔎 Поиск через поисковые системы...
+[2026-05-20 13:21:00] 🚀 Запуск LiveM3U Scanner...
+[2026-05-20 13:21:00] 🌐 Поиск каналов на сайтах (не YouTube)!
+[2026-05-20 13:21:00] 🔗 Прокси: secure-272717.tatnet.app
+[2026-05-20 13:21:00] 🔄 Режим: ДОБАВЛЕНИЕ новых каналов (старые не удаляются)
+[2026-05-20 13:21:00] 📚 Загружена история 4583 каналов
+[2026-05-20 13:21:00] 📂 Загружено 4583 ранее найденных потоков
+[2026-05-20 13:21:00] ⭐ Добавление приоритетных каналов (Дождь и др.)...
+[2026-05-20 13:21:00] ✅ Добавлено 3 приоритетных каналов
+[2026-05-20 13:21:00] 🌐 Сканирование публичных IPTV плейлистов...
+[2026-05-20 13:21:01] 📄 Извлечено 104 каналов из https://iptv-org.github.io/iptv/countries/ar.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 68 каналов из https://iptv-org.github.io/iptv/languages/jpn.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 130 каналов из https://iptv-org.github.io/iptv/categories/documentary.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 26 каналов из https://iptv-org.github.io/iptv/countries/kz.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 2501 каналов из https://raw.githubusercontent.com/CrocoUser/zabava-project/r
+[2026-05-20 13:21:01] 📄 Извлечено 74 каналов из https://iptv-org.github.io/iptv/categories/business.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 191 каналов из https://iptv-org.github.io/iptv/countries/ca.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 155 каналов из https://iptv-org.github.io/iptv/countries/cn.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 46 каналов из https://iptv-org.github.io/iptv/categories/travel.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 82 каналов из https://iptv-org.github.io/iptv/countries/ua.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 392 каналов из https://raw.githubusercontent.com/CrocoUser/zabava-project/r
+[2026-05-20 13:21:01] 📄 Извлечено 347 каналов из https://iptv-org.github.io/iptv/languages/ara.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 414 каналов из https://iptv-org.github.io/iptv/categories/movies.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 238 каналов из https://iptv-org.github.io/iptv/categories/kids.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 193 каналов из https://iptv-org.github.io/iptv/categories/series.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 1888 каналов из https://raw.githubusercontent.com/free-TV/iptv/master/playli
+[2026-05-20 13:21:01] 📄 Извлечено 21 каналов из https://iptv-org.github.io/iptv/categories/science.m3u
+[2026-05-20 13:21:01] ❌ Ошибка получения https://m3u.poledia.org/spain.m3u: Cannot connect to host m3u.poledia.org:443 ssl:default [Name or service not known]
+[2026-05-20 13:21:01] ❌ Ошибка получения https://m3u.poledia.org/uk.m3u: Cannot connect to host m3u.poledia.org:443 ssl:default [Name or service not known]
+[2026-05-20 13:21:01] ❌ Ошибка получения https://m3u.poledia.org/germany.m3u: Cannot connect to host m3u.poledia.org:443 ssl:default [Name or service not known]
+[2026-05-20 13:21:01] ❌ Ошибка получения https://m3u.poledia.org/france.m3u: Cannot connect to host m3u.poledia.org:443 ssl:default [Name or service not known]
+[2026-05-20 13:21:01] ❌ Ошибка получения https://m3u.poledia.org/italy.m3u: Cannot connect to host m3u.poledia.org:443 ssl:default [Name or service not known]
+[2026-05-20 13:21:01] 📄 Извлечено 423 каналов из https://iptv-org.github.io/iptv/languages/rus.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 318 каналов из https://iptv-org.github.io/iptv/languages/deu.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 330 каналов из https://iptv-org.github.io/iptv/categories/sports.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 273 каналов из https://iptv-org.github.io/iptv/languages/ita.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 422 каналов из https://iptv-org.github.io/iptv/languages/fra.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 13 каналов из https://iptv-org.github.io/iptv/countries/by.m3u
+[2026-05-20 13:21:01] ❌ Ошибка получения https://m3u.poledia.org/usa.m3u: Cannot connect to host m3u.poledia.org:443 ssl:default [Name or service not known]
+[2026-05-20 13:21:01] 📄 Извлечено 234 каналов из https://iptv-org.github.io/iptv/categories/education.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 288 каналов из https://iptv-org.github.io/iptv/countries/es.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 303 каналов из https://iptv-org.github.io/iptv/languages/por.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 144 каналов из https://iptv-org.github.io/iptv/countries/mx.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 98 каналов из https://iptv-org.github.io/iptv/categories/lifestyle.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 275 каналов из https://iptv-org.github.io/iptv/countries/it.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 158 каналов из https://iptv-org.github.io/iptv/countries/fr.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 54 каналов из https://iptv-org.github.io/iptv/categories/outdoor.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 73 каналов из https://iptv-org.github.io/iptv/countries/au.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 16 каналов из https://iptv-org.github.io/iptv/categories/weather.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 265 каналов из https://iptv-org.github.io/iptv/countries/de.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 344 каналов из https://iptv-org.github.io/iptv/countries/ru.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 1318 каналов из https://iptv-org.github.io/iptv/countries/us.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 939 каналов из https://iptv-org.github.io/iptv/categories/news.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 208 каналов из https://iptv-org.github.io/iptv/languages/zho.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 165 каналов из https://iptv-org.github.io/iptv/categories/culture.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 651 каналов из https://iptv-org.github.io/iptv/categories/music.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 1659 каналов из https://iptv-org.github.io/iptv/languages/spa.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 769 каналов из https://iptv-org.github.io/iptv/countries/in.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 2284 каналов из https://iptv-org.github.io/iptv/languages/eng.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 193 каналов из https://iptv-org.github.io/iptv/countries/tr.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 63 каналов из https://iptv-org.github.io/iptv/countries/jp.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 252 каналов из https://iptv-org.github.io/iptv/countries/br.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 626 каналов из https://iptv-org.github.io/iptv/categories/entertainment.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 12309 каналов из https://iptv-org.github.io/iptv/index.m3u
+[2026-05-20 13:21:01] 📄 Извлечено 30 каналов из https://iptv-org.github.io/iptv/countries/nz.m3u
+[2026-05-20 13:21:02] 🔍 Поиск по прямым сайтам и поисковым системам...
+[2026-05-20 13:21:02] 📡 Проверка прямых источников...
+[2026-05-20 13:21:02] ⚠️ Ошибка доступа к https://iptv-ru.com/playlist.m3u: Cannot connect to host iptv-ru.com:443 ssl:default [Name or service not known]
+[2026-05-20 13:21:03] ⚠️ Ошибка доступа к https://iptv.dreamteam.digital/playlist.m3u: Cannot connect to host iptv.dreamteam.digital:443 ssl:default [[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1016)]
+[2026-05-20 13:21:03] ✅ Найдено 333 потоков в https://iptv-org.github.io/iptv/countries/ru.m3u
+[2026-05-20 13:21:04] ✅ Найдено 407 потоков в https://iptv-org.github.io/iptv/languages/rus.m3u
+[2026-05-20 13:21:04] ✅ Найдено 910 потоков в https://iptv-org.github.io/iptv/categories/news.m3
+[2026-05-20 13:21:05] ✅ Найдено 385 потоков в https://iptv-org.github.io/iptv/categories/movies.
+[2026-05-20 13:21:06] ✅ Найдено 293 потоков в https://iptv-org.github.io/iptv/categories/sports.
+[2026-05-20 13:21:06] 🔎 Поиск через поисковые системы...
+[2026-05-20 13:23:17] ✅ Найдено потоков: 16274
+[2026-05-20 13:23:17] 🆕 Добавлено новых каналов: 11691
+[2026-05-20 13:23:17] 📊 Всего каналов в плейлисте: 16274
+[2026-05-20 13:23:18] 💾 Сохранено 16274 потоков
+[2026-05-20 13:23:18] 📺 Плейлист сохранён: data/playlist.m3u
+[2026-05-20 13:23:18] ✅ Создано 320 тематических плейлистов

@@ -1,0 +1,17 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Classic;Kids
+# Каналов: 2
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="PBS Retro [Geo-blocked]" group-title="Classic;Kids",PBS Retro [Geo-blocked]
+https://secure-272717.tatnet.app/amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WJLP-DT2 (360p)" group-title="Classic;Kids",WJLP-DT2 (360p)
+https://secure-272717.tatnet.app/e3.thetvapp.to/hls/metv-toons/index.m3u8
+

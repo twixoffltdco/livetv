@@ -1,0 +1,35 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Culture;News
+# Каналов: 8
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Channel One" group-title="Culture;News",Channel One
+https://secure-272717.tatnet.app/pemirateshls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Geb Tv (KBPX LD5)" group-title="Culture;News",Geb Tv (KBPX LD5)
+https://secure-272717.tatnet.app/edge1.lifestreamcdn.com/live/geb/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DD Mizoram (504p)" group-title="Culture;News",DD Mizoram (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+
+#EXTINF:-1 tvg-name="STZ TV" group-title="Culture;News",STZ TV
+https://secure-272717.tatnet.app/cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Catamarca TV" group-title="Culture;News",Catamarca TV
+https://secure-272717.tatnet.app/stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-name="KTV 2" group-title="Culture;News",KTV 2
+https://secure-272717.tatnet.app/kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="NHK World-Japan" group-title="Culture;News",NHK World-Japan
+https://secure-272717.tatnet.app/livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
+
+#EXTINF:-1 tvg-name="NHK World-Japan [Geo-blocked]" group-title="Culture;News",NHK World-Japan [Geo-blocked]
+https://secure-272717.tatnet.app/nhk.lls.pbs.org/index.m3u8
+

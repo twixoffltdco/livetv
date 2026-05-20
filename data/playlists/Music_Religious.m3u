@@ -1,0 +1,29 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Music;Religious
+# Каналов: 6
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
+https://secure-272717.tatnet.app/hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+
+#EXTINF:-1 tvg-name="3ABN Praise Him Music Network" group-title="Music;Religious",3ABN Praise Him Music Network
+https://secure-272717.tatnet.app/3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Spirit TV" group-title="Music;Religious",Spirit TV
+https://secure-272717.tatnet.app/cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1 tvg-name="My Gospel TV" group-title="Music;Religious",My Gospel TV
+https://secure-272717.tatnet.app/streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
+
+#EXTINF:-1 tvg-name="Trace Gospel" group-title="Music;Religious",Trace Gospel
+https://secure-272717.tatnet.app/channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
+
+#EXTINF:-1 tvg-name="Nueva Vida TV" group-title="Music;Religious",Nueva Vida TV
+https://secure-272717.tatnet.app/stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
+

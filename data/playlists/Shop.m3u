@@ -1,0 +1,224 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Shop
+# Каналов: 71
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Leomax 24" group-title="Shop",Leomax 24
+https://secure-272717.tatnet.app/tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Shopping Live (576p)" group-title="Shop",Shopping Live (576p)
+https://secure-272717.tatnet.app/serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Магнат ТВ" group-title="Shop",Магнат ТВ
+https://secure-272717.tatnet.app/s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+
+#EXTINF:-1 tvg-name="Ювелирочка ТВ (576p)" group-title="Shop",Ювелирочка ТВ (576p)
+https://secure-272717.tatnet.app/live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Тюсо" group-title="Shop",Тюсо
+https://secure-272717.tatnet.app/tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+
+#EXTINF:-1 tvg-name="30A The Beach Show" group-title="Shop",30A The Beach Show
+https://secure-272717.tatnet.app/30a-tv.com/beachy.m3u8
+
+#EXTINF:-1 tvg-name="Gem Shopping Network" group-title="Shop",Gem Shopping Network
+https://secure-272717.tatnet.app/amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HSN" group-title="Shop",HSN
+https://secure-272717.tatnet.app/qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+
+#EXTINF:-1 tvg-name="HSN2" group-title="Shop",HSN2
+https://secure-272717.tatnet.app/qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+
+#EXTINF:-1 tvg-name="HSN West" group-title="Shop",HSN West
+https://secure-272717.tatnet.app/qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+
+#EXTINF:-1 tvg-name="Jewelry Television" group-title="Shop",Jewelry Television
+https://secure-272717.tatnet.app/content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
+
+#EXTINF:-1 tvg-name="Jewelry TV 2" group-title="Shop",Jewelry TV 2
+https://secure-272717.tatnet.app/cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
+
+#EXTINF:-1 tvg-name="ONTV4U" group-title="Shop",ONTV4U
+https://secure-272717.tatnet.app/cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8
+
+#EXTINF:-1 tvg-name="QVC" group-title="Shop",QVC
+https://secure-272717.tatnet.app/qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+
+#EXTINF:-1 tvg-name="QVC 2" group-title="Shop",QVC 2
+https://secure-272717.tatnet.app/qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+
+#EXTINF:-1 tvg-name="QVC 3" group-title="Shop",QVC 3
+https://secure-272717.tatnet.app/qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+
+#EXTINF:-1 tvg-name="TVSConsumerDirect" group-title="Shop",TVSConsumerDirect
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
+
+#EXTINF:-1 tvg-name="1-2-3 TV (270p)" group-title="Shop",1-2-3 TV (270p)
+https://secure-272717.tatnet.app/123tv-mx1.flex-cdn.net/index.m3u8
+
+#EXTINF:-1 tvg-name="Handystar (404p)" group-title="Shop",Handystar (404p)
+https://secure-272717.tatnet.app/sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+
+#EXTINF:-1 tvg-name="HSE" group-title="Shop",HSE
+https://secure-272717.tatnet.app/hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HSE24 Extra" group-title="Shop",HSE24 Extra
+https://secure-272717.tatnet.app/hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HSE24 Trend (576p)" group-title="Shop",HSE24 Trend (576p)
+https://secure-272717.tatnet.app/hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Juwelo" group-title="Shop",Juwelo
+https://secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+
+#EXTINF:-1 tvg-name="KaufBei TV (576p)" group-title="Shop",KaufBei TV (576p)
+https://secure-272717.tatnet.app/api.alpaca.t62a.com/hls/9103/index.m3u8
+
+#EXTINF:-1 tvg-name="QVC 2 Germany (540p)" group-title="Shop",QVC 2 Germany (540p)
+https://secure-272717.tatnet.app/qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+
+#EXTINF:-1 tvg-name="QVC Germany" group-title="Shop",QVC Germany
+https://secure-272717.tatnet.app/qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+
+#EXTINF:-1 tvg-name="QVC Style Germany (540p)" group-title="Shop",QVC Style Germany (540p)
+https://secure-272717.tatnet.app/qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+
+#EXTINF:-1 tvg-name="GM24 (480p)" group-title="Shop",GM24 (480p)
+https://secure-272717.tatnet.app/streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Juwelo Italia (480p)" group-title="Shop",Juwelo Italia (480p)
+https://secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
+
+#EXTINF:-1 tvg-name="GSTV" group-title="Shop",GSTV
+https://secure-272717.tatnet.app/japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
+
+#EXTINF:-1 tvg-name="1001 Noites" group-title="Shop",1001 Noites
+https://secure-272717.tatnet.app/cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Today's Shopping Choice (TSC)" group-title="Shop",Today's Shopping Choice (TSC)
+https://secure-272717.tatnet.app/tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
+
+#EXTINF:-1 tvg-name="Expo Channel (360p)" group-title="Shop",Expo Channel (360p)
+https://secure-272717.tatnet.app/tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+
+#EXTINF:-1 tvg-name="TVSN" group-title="Shop",TVSN
+https://secure-272717.tatnet.app/tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+
+#EXTINF:-1 tvg-name="TVSN Beauty" group-title="Shop",TVSN Beauty
+https://secure-272717.tatnet.app/live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
+
+#EXTINF:-1 tvg-name="TVSN Jewellery" group-title="Shop",TVSN Jewellery
+https://secure-272717.tatnet.app/live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
+
+#EXTINF:-1 tvg-name="Gems TV" group-title="Shop",Gems TV
+https://secure-272717.tatnet.app/lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GS Shop" group-title="Shop",GS Shop
+https://secure-272717.tatnet.app/gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="QVC UK (540p)" group-title="Shop",QVC UK (540p)
+https://secure-272717.tatnet.app/qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+
+#EXTINF:-1 tvg-name="QVC UK Beauty (540p)" group-title="Shop",QVC UK Beauty (540p)
+https://secure-272717.tatnet.app/qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
+
+#EXTINF:-1 tvg-name="QVC UK Extra (540p)" group-title="Shop",QVC UK Extra (540p)
+https://secure-272717.tatnet.app/qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+
+#EXTINF:-1 tvg-name="QVC UK Style (540p)" group-title="Shop",QVC UK Style (540p)
+https://secure-272717.tatnet.app/qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+
+#EXTINF:-1 tvg-name="Bajo Techo TV" group-title="Shop",Bajo Techo TV
+https://secure-272717.tatnet.app/fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Red TV Shop" group-title="Shop",Red TV Shop
+https://secure-272717.tatnet.app/master.tucableip.com/redtvshop/index.m3u8
+
+#EXTINF:-1 tvg-name="耀才財經台 (576p)" group-title="Shop",耀才財經台 (576p)
+https://secure-272717.tatnet.app/202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CJ OnStyle (540p)" group-title="Shop",CJ OnStyle (540p)
+https://secure-272717.tatnet.app/live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CJ OnStyle Plus (540p)" group-title="Shop",CJ OnStyle Plus (540p)
+https://secure-272717.tatnet.app/live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gongyoung Shopping" group-title="Shop",Gongyoung Shopping
+https://secure-272717.tatnet.app/etv.publichs.com/live5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GS My Shop" group-title="Shop",GS My Shop
+https://secure-272717.tatnet.app/gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="High TV" group-title="Shop",High TV
+https://secure-272717.tatnet.app/live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Home & Shopping" group-title="Shop",Home & Shopping
+https://secure-272717.tatnet.app/s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hyundai Home Shopping" group-title="Shop",Hyundai Home Shopping
+https://secure-272717.tatnet.app/livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hyundai Home Shopping Plus" group-title="Shop",Hyundai Home Shopping Plus
+https://secure-272717.tatnet.app/dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KShopping" group-title="Shop",KShopping
+https://secure-272717.tatnet.app/fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lao SV TV (480p)" group-title="Shop",Lao SV TV (480p)
+https://secure-272717.tatnet.app/livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lao-Thai TV" group-title="Shop",Lao-Thai TV
+https://secure-272717.tatnet.app/livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lotte Home Shopping" group-title="Shop",Lotte Home Shopping
+https://secure-272717.tatnet.app/pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
+#EXTINF:-1 tvg-name="Lotte OneTV" group-title="Shop",Lotte OneTV
+https://secure-272717.tatnet.app/onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+
+#EXTINF:-1 tvg-name="LS TV (480p)" group-title="Shop",LS TV (480p)
+https://secure-272717.tatnet.app/livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mango [Geo-blocked]" group-title="Shop",Mango [Geo-blocked]
+https://secure-272717.tatnet.app/lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
+
+#EXTINF:-1 tvg-name="NS Home Shopping" group-title="Shop",NS Home Shopping
+https://secure-272717.tatnet.app/livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+
+#EXTINF:-1 tvg-name="NS Shop Plus" group-title="Shop",NS Shop Plus
+https://secure-272717.tatnet.app/shoppstream.nsmall.com/IPHONE/mobile.m3u8
+
+#EXTINF:-1 tvg-name="Shinsegae Shopping TV" group-title="Shop",Shinsegae Shopping TV
+https://secure-272717.tatnet.app/liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Shopping NT" group-title="Shop",Shopping NT
+https://secure-272717.tatnet.app/live.shoppingntmall.com/live/10011.m3u8
+
+#EXTINF:-1 tvg-name="Suke TV" group-title="Shop",Suke TV
+https://secure-272717.tatnet.app/live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
+
+#EXTINF:-1 tvg-name="Tea TV" group-title="Shop",Tea TV
+https://secure-272717.tatnet.app/livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Uniquely Thai" group-title="Shop",Uniquely Thai
+https://secure-272717.tatnet.app/livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="W Shopping" group-title="Shop",W Shopping
+https://secure-272717.tatnet.app/liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Shop LC" group-title="Shop",Shop LC
+https://secure-272717.tatnet.app/cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
+
+#EXTINF:-1 tvg-name="Ugo Shop TV" group-title="Shop",Ugo Shop TV
+https://secure-272717.tatnet.app/49.113.179.174:4022/udp/238.125.4.184:5140
+
+#EXTINF:-1 tvg-name="风尚购物" group-title="Shop",风尚购物
+https://secure-272717.tatnet.app/183.207.248.71/cntv/live1/fengshanggw/fengshanggw
+

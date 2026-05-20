@@ -1,0 +1,17 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Education;Outdoor
+# Каналов: 2
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="CCTV-17" group-title="Education;Outdoor",CCTV-17
+https://secure-272717.tatnet.app/74.91.26.218:82/live/cctv17hd.m3u8
+
+#EXTINF:-1 tvg-name="DD Kisan" group-title="Education;Outdoor",DD Kisan
+https://secure-272717.tatnet.app/cdn-6.pishow.tv/live/9/master.m3u8
+

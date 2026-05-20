@@ -1,0 +1,26 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Entertainment;Music
+# Каналов: 5
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Radio Carnaval TV" group-title="Entertainment;Music",Radio Carnaval TV
+https://secure-272717.tatnet.app/eu1.servers10.com:8081/8116/index.m3u8
+
+#EXTINF:-1 tvg-name="Zo'r TV (576p)" group-title="Entertainment;Music",Zo'r TV (576p)
+https://secure-272717.tatnet.app/stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Gex TV" group-title="Entertainment;Music",Gex TV
+https://secure-272717.tatnet.app/live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GO TV" group-title="Entertainment;Music",GO TV
+https://secure-272717.tatnet.app/rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
+https://secure-272717.tatnet.app/tv.beatfm.nl/live.m3u8
+

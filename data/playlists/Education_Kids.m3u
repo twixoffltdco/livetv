@@ -1,0 +1,38 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Education;Kids
+# Каналов: 9
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids",NCM Educational & Kids Channel
+https://secure-272717.tatnet.app/reflect-npa.cablecast.tv/live-9/live/live.m3u8
+
+#EXTINF:-1 tvg-name="PBS Kids" group-title="Education;Kids",PBS Kids
+https://secure-272717.tatnet.app/livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+
+#EXTINF:-1 tvg-name="PBS Kids Alaska" group-title="Education;Kids",PBS Kids Alaska
+https://secure-272717.tatnet.app/livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+
+#EXTINF:-1 tvg-name="PBS Kids Eastern/Central" group-title="Education;Kids",PBS Kids Eastern/Central
+https://secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PBS Kids Hawaii" group-title="Education;Kids",PBS Kids Hawaii
+https://secure-272717.tatnet.app/livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+
+#EXTINF:-1 tvg-name="PBS Kids Mountain" group-title="Education;Kids",PBS Kids Mountain
+https://secure-272717.tatnet.app/livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+
+#EXTINF:-1 tvg-name="PBS Kids Pacific" group-title="Education;Kids",PBS Kids Pacific
+https://secure-272717.tatnet.app/livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+
+#EXTINF:-1 tvg-name="Knowledge Network [Geo-blocked]" group-title="Education;Kids",Knowledge Network [Geo-blocked]
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+
+#EXTINF:-1 tvg-name="ABC Entertains" group-title="Education;Kids",ABC Entertains
+https://secure-272717.tatnet.app/c.mjh.nz/abc-me.m3u8
+

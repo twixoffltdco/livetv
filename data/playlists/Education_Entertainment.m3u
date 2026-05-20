@@ -1,0 +1,17 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Education;Entertainment
+# Каналов: 2
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Charana TV (360p)" group-title="Education;Entertainment",Charana TV (360p)
+https://secure-272717.tatnet.app/edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Education;Entertainment",Education" group-title="Education;Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Education;Entertainment",Education
+https://secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
+

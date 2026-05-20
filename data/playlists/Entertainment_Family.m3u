@@ -1,0 +1,17 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Entertainment;Family
+# Каналов: 2
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Estrella Games" group-title="Entertainment;Family",Estrella Games
+https://secure-272717.tatnet.app/estrella-games-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Soweto TV (576p)" group-title="Entertainment;Family",Soweto TV (576p)
+https://secure-272717.tatnet.app/cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+

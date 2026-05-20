@@ -1,0 +1,23 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Entertainment;News
+# Каналов: 4
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Entertainment Tonight" group-title="Entertainment;News",Entertainment Tonight
+https://secure-272717.tatnet.app/enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
+
+#EXTINF:-1 tvg-name="HollyWire" group-title="Entertainment;News",HollyWire
+https://secure-272717.tatnet.app/bozztv.com/hwotta/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Zoom" group-title="Entertainment;News",TV Zoom
+https://secure-272717.tatnet.app/cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PSN (288p)" group-title="Entertainment;News",PSN (288p)
+https://secure-272717.tatnet.app/srspsn.live/live/livestream.m3u8
+

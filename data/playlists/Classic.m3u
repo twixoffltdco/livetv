@@ -1,0 +1,110 @@
+#EXTM3U
+# Обновлено: 2026-05-20 13:23:18
+# Всего каналов: 16274
+# Новых за сессию: 11691
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Classic
+# Каналов: 33
+# Обновлено: 2026-05-20 13:23:18
+
+#EXTINF:-1 tvg-name="Retro" group-title="Classic",Retro
+https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH149/index.m3u8
+
+#EXTINF:-1 tvg-name="Ностальгия (576p)" group-title="Classic",Ностальгия (576p)
+https://secure-272717.tatnet.app/31.148.48.15/Nostalgiya/index.m3u8
+
+#EXTINF:-1 tvg-name="Beverly Hillbillies" group-title="Classic",Beverly Hillbillies
+https://secure-272717.tatnet.app/jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
+
+#EXTINF:-1 tvg-name="Cinevault Westerns" group-title="Classic",Cinevault Westerns
+https://secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Classic TV Drama" group-title="Classic",Classic TV Drama
+https://secure-272717.tatnet.app/jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
+
+#EXTINF:-1 tvg-name="Classic TV: Families" group-title="Classic",Classic TV: Families
+https://secure-272717.tatnet.app/jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
+
+#EXTINF:-1 tvg-name="FilmRise Classic TV" group-title="Classic",FilmRise Classic TV
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+
+#EXTINF:-1 tvg-name="Samuel Goldwyn Classics" group-title="Classic",Samuel Goldwyn Classics
+https://secure-272717.tatnet.app/samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Andy Griffith Show" group-title="Classic",The Andy Griffith Show
+https://secure-272717.tatnet.app/jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
+
+#EXTINF:-1 tvg-name="The Archive" group-title="Classic",The Archive
+https://secure-272717.tatnet.app/linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Carol Burnett Show" group-title="Classic",The Carol Burnett Show
+https://secure-272717.tatnet.app/carolburnett-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Love Boat" group-title="Classic",The Love Boat
+https://secure-272717.tatnet.app/jmp2.uk/plu-66275e41cee0d900085fde6e.m3u8
+
+#EXTINF:-1 tvg-name="TVS Cipher Network (360p)" group-title="Classic",TVS Cipher Network (360p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+
+#EXTINF:-1 tvg-name="TVS Classic Movies (288p)" group-title="Classic",TVS Classic Movies (288p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+
+#EXTINF:-1 tvg-name="TVS Hollywood History (582p)" group-title="Classic",TVS Hollywood History (582p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+
+#EXTINF:-1 tvg-name="TVS Mainstreet (360p)" group-title="Classic",TVS Mainstreet (360p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+
+#EXTINF:-1 tvg-name="TVS Nostalgia (472p)" group-title="Classic",TVS Nostalgia (472p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
+
+#EXTINF:-1 tvg-name="TVS Nostalgia Movies (480p)" group-title="Classic",TVS Nostalgia Movies (480p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+
+#EXTINF:-1 tvg-name="TVS Pet Parade Network (360p)" group-title="Classic",TVS Pet Parade Network (360p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="TVS Quiz Show Network" group-title="Classic",TVS Quiz Show Network
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+
+#EXTINF:-1 tvg-name="TVS Talk Network (360p)" group-title="Classic",TVS Talk Network (360p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
+
+#EXTINF:-1 tvg-name="TVS Tally Ho (360p)" group-title="Classic",TVS Tally Ho (360p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
+
+#EXTINF:-1 tvg-name="TVS Tavern (480p)" group-title="Classic",TVS Tavern (480p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
+
+#EXTINF:-1 tvg-name="TVS Western Movie (270p)" group-title="Classic",TVS Western Movie (270p)
+https://secure-272717.tatnet.app/rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+
+#EXTINF:-1 tvg-name="Wanted: Dead or Alive" group-title="Classic",Wanted: Dead or Alive
+https://secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zee Cine Classic" group-title="Classic",Zee Cine Classic
+https://secure-272717.tatnet.app/amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zee Classic (576p)" group-title="Classic",Zee Classic (576p)
+https://secure-272717.tatnet.app/103.229.254.25:7001/play/a09w/index.m3u8
+
+#EXTINF:-1 tvg-name="Cúcuta Retro TV" group-title="Classic",Cúcuta Retro TV
+https://secure-272717.tatnet.app/mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
+
+#EXTINF:-1 tvg-name="Retrox TV" group-title="Classic",Retrox TV
+https://secure-272717.tatnet.app/live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TVS Retro" group-title="Classic",TVS Retro
+https://secure-272717.tatnet.app/cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-name="Rotana Classic [Geo-blocked]" group-title="Classic",Rotana Classic [Geo-blocked]
+https://secure-272717.tatnet.app/rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Classic TV" group-title="Classic",Classic TV
+https://secure-272717.tatnet.app/clshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="GEM Classic" group-title="Classic",GEM Classic
+https://secure-272717.tatnet.app/ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
+
