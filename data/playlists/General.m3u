@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 13:23:18
-# Всего каналов: 16274
-# Новых за сессию: 11691
+# Обновлено: 2026-05-20 13:46:57
+# Всего каналов: 16275
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2178
-# Обновлено: 2026-05-20 13:23:18
+# Каналов: 2179
+# Обновлено: 2026-05-20 13:46:58
 
 #EXTINF:-1 tvg-name="NTV" group-title="General",NTV
 https://secure-272717.tatnet.app/bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https
@@ -6449,6 +6449,9 @@ https://secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/Ulzii
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Соён Гэгээрүүлэгч" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Соён Гэгээрүүлэгч
 https://secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
+
+#EXTINF:-1 tvg-name="Allegro" group-title="General",Allegro
+https://secure-272717.tatnet.app/vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
 
 #EXTINF:-1 tvg-name="Телерадиокомпания 555 (Алушта)" group-title="General",Телерадиокомпания 555 (Алушта)
 https://secure-272717.tatnet.app/trk555.tv:8888/live

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 13:23:18
-# Всего каналов: 16274
-# Новых за сессию: 11691
+# Обновлено: 2026-05-20 13:46:57
+# Всего каналов: 16275
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids;Music
 # Каналов: 1
-# Обновлено: 2026-05-20 13:23:18
+# Обновлено: 2026-05-20 13:46:58
 
 #EXTINF:-1 tvg-name="MCN6 Music Channel" group-title="Animation;Kids;Music",MCN6 Music Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 13:23:18
-# Всего каналов: 16274
-# Новых за сессию: 11691
+# Обновлено: 2026-05-20 13:46:57
+# Всего каналов: 16275
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
 # Каналов: 667
-# Обновлено: 2026-05-20 13:23:18
+# Обновлено: 2026-05-20 13:46:58
 
 #EXTINF:-1 tvg-name="Tsargrad TV [Geo-blocked]" group-title="Religious",Tsargrad TV [Geo-blocked]
 https://secure-272717.tatnet.app/bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
