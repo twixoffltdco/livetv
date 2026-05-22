@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-05-21 23:15:23
-# Всего каналов: 16282
-# Новых за сессию: 0
+# Обновлено: 2026-05-22 01:33:02
+# Всего каналов: 16285
+# Новых за сессию: 3
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -40732,6 +40732,15 @@ https://secure-272717.tatnet.app/stmv2.srvif.com/rsvhonduras/rsvhonduras/playlis
 
 #EXTINF:-1 tvg-name="Kurdsat" group-title="Entertainment",Kurdsat
 https://secure-272717.tatnet.app/hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-15" group-title="Music",CCTV-15
+https://secure-272717.tatnet.app/xykt-fix.github.io/play/a02e/index.m3u8
+
+#EXTINF:-1 tvg-name="Bani Vision" group-title="General",Bani Vision
+https://secure-272717.tatnet.app/videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
+
+#EXTINF:-1 tvg-name="Teleceiba" group-title="Undefined",Teleceiba
+https://secure-272717.tatnet.app/teleceiba.com/stream/tlcb720.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="Albania",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
