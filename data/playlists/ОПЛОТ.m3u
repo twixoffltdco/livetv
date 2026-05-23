@@ -1,0 +1,39 @@
+#EXTM3U
+# Обновлено: 2026-05-23 10:01:30
+# Всего каналов: 16388
+# Новых за сессию: 95
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: ОПЛОТ
+# Каналов: 9
+# Обновлено: 2026-05-23 10:01:31
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="НТС Севастополь" group-title="ОПЛОТ",НТС Севастополь
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Север" group-title="ОПЛОТ",Север
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Харьков Z" group-title="ОПЛОТ",ТВ Харьков Z
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/212.193.53.254/app/potok/playlist.m3u8
+
+#EXTINF:-1 tvg-name="News Front TV" group-title="ОПЛОТ",News Front TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.2kita.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-name="Брянская Губерния" group-title="ОПЛОТ",Брянская Губерния
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+
+#EXTINF:-1 tvg-name="TV Губерния" group-title="ОПЛОТ",TV Губерния
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Известия Воронеж" group-title="ОПЛОТ",Известия Воронеж
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+
+#EXTINF:-1 tvg-name="Краснодар" group-title="ОПЛОТ",Краснодар
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Радио Харьков Z" group-title="ОПЛОТ",Радио Харьков Z
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/node1.craftradio.ru:8000/215_55AE795B
+

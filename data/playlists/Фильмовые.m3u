@@ -1,0 +1,36 @@
+#EXTM3U
+# Обновлено: 2026-05-23 10:01:30
+# Всего каналов: 16388
+# Новых за сессию: 95
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Фильмовые
+# Каналов: 8
+# Обновлено: 2026-05-23 10:01:31
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Fox Life" group-title="Фильмовые",Fox Life
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/188.237.47.212:6008
+
+#EXTINF:-1 tvg-name="КИНО ТВ" group-title="Фильмовые",КИНО ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_KINOTV.m3u8
+
+#EXTINF:-1 tvg-name="CINEMA" group-title="Фильмовые",CINEMA
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_CINEMA.m3u8
+
+#EXTINF:-1 tvg-name="8 канал" group-title="Фильмовые",8 канал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_8CHANNEL.m3u8
+
+#EXTINF:-1 tvg-name="8 Канал Европа" group-title="Фильмовые",8 Канал Европа
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_8CHANNEL_EUROPE.m3u8
+
+#EXTINF:-1 tvg-name="E TV" group-title="Фильмовые",E TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_ETVHD.m3u8
+
+#EXTINF:-1 tvg-name="Cinema" group-title="Фильмовые",Cinema
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Кинеко" group-title="Фильмовые",Кинеко
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Kineko/tracks-v1a1/mono.m3u8
+

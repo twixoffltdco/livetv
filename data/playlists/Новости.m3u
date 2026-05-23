@@ -1,0 +1,36 @@
+#EXTM3U
+# Обновлено: 2026-05-23 10:01:30
+# Всего каналов: 16388
+# Новых за сессию: 95
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Новости
+# Каналов: 8
+# Обновлено: 2026-05-23 10:01:31
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Известия" group-title="Новости",Известия
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/85.234.33.63/stream/c11.m3u8
+
+#EXTINF:-1 tvg-name="Дождь" group-title="Новости",Дождь
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Большая Азия" group-title="Новости",Большая Азия
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_BAZIYAHD720.m3u8
+
+#EXTINF:-1 tvg-name="Байкал Телеком info 720" group-title="Новости",Байкал Телеком info 720
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_BAYKALTEL_INFOHD720.m3u8
+
+#EXTINF:-1 tvg-name="RT en Espanol" group-title="Новости",RT en Espanol
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+
+#EXTINF:-1 tvg-name="Vesti FM" group-title="Новости",Vesti FM
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+
+#EXTINF:-1 tvg-name="Duma TV" group-title="Новости",Duma TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dumatv.iptv2022.com/index.m3u8
+
+#EXTINF:-1 tvg-name="RBK-TV" group-title="Новости",RBK-TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/online-video.rbc.ru/online2/rbctv.m3u8
+

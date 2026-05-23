@@ -1,0 +1,36 @@
+#EXTM3U
+# Обновлено: 2026-05-23 10:01:30
+# Всего каналов: 16388
+# Новых за сессию: 95
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Музыкальные
+# Каналов: 8
+# Обновлено: 2026-05-23 10:01:31
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Bridge TV Deluxe" group-title="Музыкальные",Bridge TV Deluxe
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Bridge_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="RU.TV" group-title="Музыкальные",RU.TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-03-video.webcaramba.com/rutv/live.m3u8
+
+#EXTINF:-1 tvg-name="Муз-ТВ" group-title="Музыкальные",Муз-ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/radio.tvs.by:8088/MuzTV/index.m3u8
+
+#EXTINF:-1 tvg-name="RU TV" group-title="Музыкальные",RU TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_RUTV.m3u8
+
+#EXTINF:-1 tvg-name="RU TV" group-title="Музыкальные",RU TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_RUTVHD.m3u8
+
+#EXTINF:-1 tvg-name="OneBY" group-title="Музыкальные",OneBY
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_1MUZ.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ MUSIC" group-title="Музыкальные",ТНТ MUSIC
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_TNT_MUSIC.m3u8
+
+#EXTINF:-1 tvg-name="OneBY" group-title="Музыкальные",OneBY
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtmp.one.by:2200
+

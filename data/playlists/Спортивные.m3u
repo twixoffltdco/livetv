@@ -1,0 +1,39 @@
+#EXTM3U
+# Обновлено: 2026-05-23 10:01:30
+# Всего каналов: 16388
+# Новых за сессию: 95
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Спортивные
+# Каналов: 9
+# Обновлено: 2026-05-23 10:01:31
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Red Bull TV" group-title="Спортивные",Red Bull TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_REDBULLTVHD.m3u8
+
+#EXTINF:-1 tvg-name="555 Hunt Fishing TV" group-title="Спортивные",555 Hunt Fishing TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="555 Hunt Fishing TV" group-title="Спортивные",555 Hunt Fishing TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Astrahan.Ru Sport" group-title="Спортивные",Astrahan.Ru Sport
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="E TV" group-title="Спортивные",E TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-01.bonus-tv.ru/gsl/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Football" group-title="Спортивные",Football
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31148.rafail1982.uz/Futbol_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="KHL Prime" group-title="Спортивные",KHL Prime
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/194.143.148.28:8080/KHL_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Match! Arena" group-title="Спортивные",Match! Arena
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/194.143.148.28:8080/MatchArena/index.m3u8
+
+#EXTINF:-1 tvg-name="MMA-TV.com" group-title="Спортивные",MMA-TV.com
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+

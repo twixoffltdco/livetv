@@ -1,0 +1,42 @@
+#EXTM3U
+# Обновлено: 2026-05-23 10:01:30
+# Всего каналов: 16388
+# Новых за сессию: 95
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Казахстанские
+# Каналов: 10
+# Обновлено: 2026-05-23 10:01:31
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Abai TV" group-title="Казахстанские",Abai TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Aqjaiyq" group-title="Казахстанские",Aqjaiyq
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.kaztrk.kz/regional/oraltv/index.m3u8
+
+#EXTINF:-1 tvg-name="Aqtóbe" group-title="Казахстанские",Aqtóbe
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.kaztrk.kz/regional/aktobetv/index.m3u8
+
+#EXTINF:-1 tvg-name="Atyraý" group-title="Казахстанские",Atyraý
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.kaztrk.kz/regional/atyrautv/index.m3u8
+
+#EXTINF:-1 tvg-name="Ertis" group-title="Казахстанские",Ertis
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+
+#EXTINF:-1 tvg-name="Jambyl" group-title="Казахстанские",Jambyl
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.kaztrk.kz/regional/taraztv/index.m3u8
+
+#EXTINF:-1 tvg-name="Kókshe" group-title="Казахстанские",Kókshe
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+
+#EXTINF:-1 tvg-name="Ontústik" group-title="Казахстанские",Ontústik
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+
+#EXTINF:-1 tvg-name="Qazaqstan TV International" group-title="Казахстанские",Qazaqstan TV International
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Qyzyljar" group-title="Казахстанские",Qyzyljar
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.kaztrk.kz/regional/petropavltv/index.m3u8
+

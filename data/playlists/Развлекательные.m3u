@@ -1,0 +1,42 @@
+#EXTM3U
+# Обновлено: 2026-05-23 10:01:30
+# Всего каналов: 16388
+# Новых за сессию: 95
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Развлекательные
+# Каналов: 10
+# Обновлено: 2026-05-23 10:01:31
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="НТВ Право" group-title="Развлекательные",НТВ Право
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_NTVPRAVO.m3u8
+
+#EXTINF:-1 tvg-name="НТВ Сериал" group-title="Развлекательные",НТВ Сериал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_NTVSERIAL.m3u8
+
+#EXTINF:-1 tvg-name="НТВ Стиль" group-title="Развлекательные",НТВ Стиль
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_NTVSTIL.m3u8
+
+#EXTINF:-1 tvg-name="НТВ Хит" group-title="Развлекательные",НТВ Хит
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_NTVHIT.m3u8
+
+#EXTINF:-1 tvg-name="Che!" group-title="Развлекательные",Che!
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31148.rafail1982.uz/Che/index.m3u8
+
+#EXTINF:-1 tvg-name="City Eden MedZdrav" group-title="Развлекательные",City Eden MedZdrav
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cityeden.catcast.tv/content/47519/index.m3u8
+
+#EXTINF:-1 tvg-name="Domashniy International" group-title="Развлекательные",Domashniy International
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+
+#EXTINF:-1 tvg-name="Friday! International" group-title="Развлекательные",Friday! International
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+
+#EXTINF:-1 tvg-name="India" group-title="Развлекательные",India
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31148.rafail1982.uz/Zee_TV_Russia/index.m3u8
+
+#EXTINF:-1 tvg-name="KVN TV" group-title="Развлекательные",KVN TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31148.rafail1982.uz/KVN_TV/index.m3u8
+
