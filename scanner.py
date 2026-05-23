@@ -837,6 +837,51 @@ class IPTVScanner:
             self.log(f"❌ Ошибка получения {url[:60]}: {e}")
         return []
 
+    def extract_candidate_playlist_links(self, html: str) -> Set[str]:
+        """Извлекает ссылки на возможные плейлисты из HTML поисковой выдачи."""
+        candidates: Set[str] = set()
+        href_pattern = r'href=[\'"]([^\'"]+)[\'"]'
+        for href in re.findall(href_pattern, html, re.IGNORECASE):
+            clean = href.replace("&amp;", "&").strip()
+
+            # Декодируем редиректы поисковиков вида /url?q=... или ?uddg=...
+            if "url?q=" in clean:
+                clean = clean.split("url?q=", 1)[1].split("&", 1)[0]
+            elif "uddg=" in clean:
+                clean = clean.split("uddg=", 1)[1].split("&", 1)[0]
+
+            clean = urllib.parse.unquote(clean)
+            if not clean.startswith(("http://", "https://")):
+                continue
+            if EXCLUDED_DOMAIN in clean.lower():
+                continue
+
+            lower = clean.lower()
+            if any(mark in lower for mark in [".m3u", ".m3u8", "playlist", "iptv", "channels"]):
+                candidates.add(clean)
+
+        return candidates
+
+    async def discover_channels_from_playlist_links(self, links: Set[str], source: str):
+        """Пробует распарсить найденные ссылки как плейлисты и добавить каналы."""
+        for link in list(links)[:100]:
+            # Если это сразу поток, добавляем как канал
+            if link.lower().endswith(".m3u8"):
+                await self.check_and_add(link, source=source)
+                continue
+
+            # Если ссылка похожа на плейлист - пробуем распарсить
+            if any(token in link.lower() for token in [".m3u", ".m3u8", ".txt", "playlist", "iptv"]):
+                channels = await self.fetch_m3u_from_source(link)
+                for channel in channels[:500]:
+                    await self.check_and_add(
+                        channel["url"],
+                        source=source,
+                        name=channel["name"],
+                        group=channel["group"],
+                    )
+            await asyncio.sleep(0.05)
+
     async def scan_m3u_sources(self):
         """Сканирует публичные m3u плейлисты"""
         self.log("🌐 Сканирование публичных IPTV плейлистов...")
@@ -979,11 +1024,19 @@ class IPTVScanner:
                             playlist_matches = re.findall(playlist_pattern, text, re.IGNORECASE)
                             
                             all_matches = list(set(matches + playlist_matches))
+                            candidate_links = self.extract_candidate_playlist_links(text)
 
                             for match in all_matches[:30]:  # Максимум 30 URL из каждого запроса
                                 clean_url = match.replace('&amp;', '&').replace('"', '').replace("'", "")
                                 if clean_url.startswith('http') and EXCLUDED_DOMAIN not in clean_url:
                                     await self.check_and_add(clean_url, source="web_search")
+
+                            # Дополнительно: пробуем вытянуть ссылки на m3u-плейлисты из HTML результатов
+                            if candidate_links:
+                                await self.discover_channels_from_playlist_links(
+                                    candidate_links,
+                                    source="web_search_discovery",
+                                )
                                     
                             if all_matches:
                                 self.log(f"✅ {engine_name}: найдено {len(all_matches)} ссылок по запросу '{query[:40]}...'")
