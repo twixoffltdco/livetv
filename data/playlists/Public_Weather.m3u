@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -7,13 +7,13 @@
 
 # Категория: Public;Weather
 # Каналов: 1
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Càmeres del temps" group-title="Public;Weather",3Cat Càmeres del temps
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 
-#EXTINF:-1 tvg-name="AccuWeather NOW" group-title="Weather",AccuWeather NOW
+#EXTINF:-1 tvg-name="AccuWeather Now" group-title="Weather",AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox Weather" group-title="Weather",Fox Weather
 https://lnc-fox-weather.tubi.video/index.m3u8
@@ -23,7 +23,7 @@ https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1028-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcca8395-396e-4be0-9049-564f29c5ac9b
 #EXTINF:-1 tvg-name="The Weather Network" group-title="Weather",The Weather Network
 https://d3f6rv2ihfj09x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4l4ssesb90374-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-name="Sky News Weather Ⓖ" group-title="Weather",Sky News Weather Ⓖ
+#EXTINF:-1 tvg-name="Sky News Weather" group-title="Weather",Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="WeatherSpy" group-title="Weather",WeatherSpy
 https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8

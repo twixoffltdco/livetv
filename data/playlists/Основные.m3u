@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Основные
-# Каналов: 102
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 95
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый" group-title="Основные",Первый
@@ -85,9 +85,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngen
 #EXTINF:-1 tvg-name="Карусель (+7)" group-title="Основные",Карусель (+7)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 
-#EXTINF:-1 tvg-name="РЕН ТВ" group-title="Основные",РЕН ТВ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (+2)" group-title="Основные",РЕН ТВ (+2)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 
@@ -96,9 +93,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngen
 
 #EXTINF:-1 tvg-name="РЕН ТВ (+7)" group-title="Основные",РЕН ТВ (+7)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-
-#EXTINF:-1 tvg-name="Спас" group-title="Основные",Спас
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 
 #EXTINF:-1 tvg-name="Спас (+2)" group-title="Основные",Спас (+2)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
@@ -117,9 +111,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngen
 
 #EXTINF:-1 tvg-name="СТС (+7)" group-title="Основные",СТС (+7)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-
-#EXTINF:-1 tvg-name="Домашний" group-title="Основные",Домашний
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
 #EXTINF:-1 tvg-name="Домашний (+2)" group-title="Основные",Домашний (+2)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
@@ -214,9 +205,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngen
 #EXTINF:-1 tvg-name="Москва 24" group-title="Основные",Москва 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MOSKVA24HD/variant.m3u8
 
-#EXTINF:-1 tvg-name="Пятый" group-title="Основные",Пятый
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-
 #EXTINF:-1 tvg-name="Пятый (+2)" group-title="Основные",Пятый (+2)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 
@@ -229,9 +217,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngen
 #EXTINF:-1 tvg-name="ОТР" group-title="Основные",ОТР
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр" group-title="Основные",ТВ Центр
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-
 #EXTINF:-1 tvg-name="ТВ Центр (+2)" group-title="Основные",ТВ Центр (+2)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 
@@ -240,9 +225,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngen
 
 #EXTINF:-1 tvg-name="ТВ Центр (+7)" group-title="Основные",ТВ Центр (+7)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ3" group-title="Основные",ТВ3
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ3 (+2)" group-title="Основные",ТВ3 (+2)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
@@ -264,9 +246,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngen
 
 #EXTINF:-1 tvg-name="Пятница (+7)" group-title="Основные",Пятница (+7)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-
-#EXTINF:-1 tvg-name="МУЗ-ТВ" group-title="Основные",МУЗ-ТВ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="МУЗ-ТВ (+2)" group-title="Основные",МУЗ-ТВ (+2)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8

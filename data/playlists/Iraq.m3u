@@ -1,17 +1,14 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Iraq
-# Каналов: 13
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 9
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
-
-#EXTINF:-1 tvg-name="Al-Sharqiya News" group-title="Iraq",Al-Sharqiya News
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="iNEWS" group-title="Iraq",iNEWS
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
@@ -22,17 +19,11 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mbnvvideoingest-i.akam
 #EXTINF:-1 tvg-name="Al-Hurra" group-title="Iraq",Al-Hurra
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Al-Iraqiya" group-title="Iraq",Al-Iraqiya
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Al-Rafidain" group-title="Iraq",Al-Rafidain
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Al-Rasheed" group-title="Iraq",Al-Rasheed
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Al-Sharqiya" group-title="Iraq",Al-Sharqiya
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Dijlah Tarab" group-title="Iraq",Dijlah Tarab
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ghaasiflu.online/tarab/tracks-v1a1/playlist.m3u8
@@ -45,7 +36,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.viewmedia.tv
 
 #EXTINF:-1 tvg-name="Turkmeneli TV" group-title="Iraq",Turkmeneli TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Zagros TV" group-title="Iraq",Zagros TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 

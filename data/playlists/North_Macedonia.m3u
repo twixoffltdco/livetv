@@ -1,29 +1,23 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: North Macedonia
-# Каналов: 25
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 17
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Телевизија Здравкин" group-title="North Macedonia",Телевизија Здравкин
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
-
-#EXTINF:-1 tvg-name="M»Net Sport" group-title="North Macedonia",M»Net Sport
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/ares.mnet.mk/hls/mnet-sport.m3u8
 
 #EXTINF:-1 tvg-name="Стар Фолк" group-title="North Macedonia",Стар Фолк
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.muzickatv.mk/live/StarMusic.m3u8
 
 #EXTINF:-1 tvg-name="Sky Folk" group-title="North Macedonia",Sky Folk
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/skyfolk.mk/live.m3u8
-
-#EXTINF:-1 tvg-name="Стар Плус" group-title="North Macedonia",Стар Плус
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.muzickatv.mk/live/StarMusic2.m3u8
 
 #EXTINF:-1 tvg-name="Орбис" group-title="North Macedonia",Орбис
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
@@ -58,26 +52,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.nasatv.com.mk/h
 #EXTINF:-1 tvg-name="Cool TV" group-title="North Macedonia",Cool TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
 
-#EXTINF:-1 tvg-name="Folk TV" group-title="North Macedonia",Folk TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
-
-#EXTINF:-1 tvg-name="Jazz TV" group-title="North Macedonia",Jazz TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
-
-#EXTINF:-1 tvg-name="Love TV" group-title="North Macedonia",Love TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
-
-#EXTINF:-1 tvg-name="Rock TV" group-title="North Macedonia",Rock TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
-
 #EXTINF:-1 tvg-name="Хуго 2" group-title="North Macedonia",Хуго 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
-
-#EXTINF:-1 tvg-name="Folk Club TV" group-title="North Macedonia",Folk Club TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv1.intv.mk:1935/live2/folkklub/index.m3u8
-
-#EXTINF:-1 tvg-name="INTV" group-title="North Macedonia",INTV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv1.intv.mk:1935/live/intv/index.m3u8
 
 #EXTINF:-1 tvg-name="Macedonian Documentary Channel" group-title="North Macedonia",Macedonian Documentary Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/giganet.mk/hls/macdoc.m3u8

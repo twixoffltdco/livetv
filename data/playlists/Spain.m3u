@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Spain
-# Каналов: 52
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 44
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="tdp" group-title="Spain",tdp
@@ -39,9 +39,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtvelivestream-clnx.rt
 
 #EXTINF:-1 tvg-name="La 2 (Catalunya)" group-title="Spain",La 2 (Catalunya)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8
-
-#EXTINF:-1 tvg-name="La 2 (Canarias)" group-title="Spain",La 2 (Canarias)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/ztnr.rtve.es/ztnr/5468585.m3u8
 
 #EXTINF:-1 tvg-name="La 1" group-title="Spain",La 1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
@@ -97,20 +94,11 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.189.225.150:85/Par
 #EXTINF:-1 tvg-name="El País" group-title="Spain",El País
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1 tvg-name="Negocios" group-title="Spain",Negocios
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming013.gestec-video.com/hls/negociostv.m3u8
-
 #EXTINF:-1 tvg-name="Squirrel" group-title="Spain",Squirrel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BOM Cine" group-title="Spain",BOM Cine
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Telemadrid" group-title="Spain",Telemadrid
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/telemadrid-23-secure2.akamaized.net/master.m3u8
-
-#EXTINF:-1 tvg-name="La Otra" group-title="Spain",La Otra
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-name="Canal Sur Andalucía" group-title="Spain",Canal Sur Andalucía
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
@@ -127,9 +115,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.youtube.com/c/ib3/
 #EXTINF:-1 tvg-name="Canal Extremadura" group-title="Spain",Canal Extremadura
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
 
-#EXTINF:-1 tvg-name="Aragón TV Ⓢ" group-title="Spain",Aragón TV Ⓢ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
 #EXTINF:-1 tvg-name="ETB1" group-title="Spain",ETB1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
@@ -141,15 +126,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.189.225.150:85/tv3
 
 #EXTINF:-1 tvg-name="TV3Cat Ⓖ" group-title="Spain",TV3Cat Ⓖ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
-
-#EXTINF:-1 tvg-name="3/24" group-title="Spain",3/24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-
-#EXTINF:-1 tvg-name="Bon Dia" group-title="Spain",Bon Dia
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
-
-#EXTINF:-1 tvg-name="SX3 Ⓖ" group-title="Spain",SX3 Ⓖ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-name="El 33 Ⓖ" group-title="Spain",El 33 Ⓖ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8

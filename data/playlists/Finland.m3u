@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Finland
-# Каналов: 29
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 25
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="National Geographic Finland Ⓖ" group-title="Finland",National Geographic Finland Ⓖ
@@ -15,9 +15,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-fi.tvkaista.net/n
 
 #EXTINF:-1 tvg-name="OnniTV" group-title="Finland",OnniTV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=83459409&suiteItemId=83459780
-
-#EXTINF:-1 tvg-name="Nopola News" group-title="Finland",Nopola News
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Yle TV1 Ⓖ" group-title="Finland",Yle TV1 Ⓖ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/yletv.akamaized.net/hls/live/622365/yletv1fin/index.m3u8
@@ -79,9 +76,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/vod.tv7.fi/tv7-fi/_def
 #EXTINF:-1 tvg-name="Himlen TV7" group-title="Finland",Himlen TV7
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MTV Uutiset Live" group-title="Finland",MTV Uutiset Live
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-
 #EXTINF:-1 tvg-name="När-TV Ⓢ" group-title="Finland",När-TV Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
 
@@ -90,10 +84,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.youtube.com/@Sundo
 
 #EXTINF:-1 tvg-name="Wör TV Ⓨ" group-title="Finland",Wör TV Ⓨ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.youtube.com/@wor-tvr.f.4461/live
-
-#EXTINF:-1 tvg-name="YleX Studio Live" group-title="Finland",YleX Studio Live
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
-
-#EXTINF:-1 tvg-name="Järviradio TV" group-title="Finland",Järviradio TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
 

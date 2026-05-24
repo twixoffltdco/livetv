@@ -1,14 +1,29 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 580
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 607
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-name="Deluxe Dance" group-title="Music",Deluxe Dance
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1 tvg-name="Deluxe Rap" group-title="Music",Deluxe Rap
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 tvg-name="m2o TV" group-title="Music",m2o TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Star Plus Music" group-title="Music",Star Plus Music
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.muzickatv.mk/live/StarMusic2.m3u8
 
 #EXTINF:-1 tvg-name="MCM Top (576p)" group-title="Music",MCM Top (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH77/index.m3u8
@@ -1732,6 +1747,72 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.rundletv.eu.org/LI
 #EXTINF:-1 tvg-name="CCTV-15" group-title="Music",CCTV-15
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/xykt-fix.github.io/play/a02e/index.m3u8
 
+#EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
+
+#EXTINF:-1 tvg-name="88 Stereo" group-title="Music",88 Stereo
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CMC TV" group-title="Music",CMC TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 tvg-name="Óčko Gold (540p)" group-title="Music",Óčko Gold (540p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Óčko Expres (540p)" group-title="Music",Óčko Expres (540p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+
+#EXTINF:-1 tvg-name="YleX Studio Live" group-title="Music",YleX Studio Live
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
+
+#EXTINF:-1 tvg-name="JRTV Järviradio" group-title="Music",JRTV Järviradio
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
+
+#EXTINF:-1 tvg-name="NRG 91" group-title="Music",NRG 91
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.nrg91.gr:1935/onweb/live/master.m3u8
+
+#EXTINF:-1 tvg-name="Dance Television" group-title="Music",Dance Television
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-name="SL48 TV (576p)" group-title="Music",SL48 TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/media.velcom.it:1935/sl48/sl48/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Folk TV" group-title="Music",Folk TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+
+#EXTINF:-1 tvg-name="Jazz TV" group-title="Music",Jazz TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+
+#EXTINF:-1 tvg-name="Love TV" group-title="Music",Love TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+
+#EXTINF:-1 tvg-name="Rock TV" group-title="Music",Rock TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+
+#EXTINF:-1 tvg-name="Folk Klub" group-title="Music",Folk Klub
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv1.intv.mk:1935/live2/folkklub/index.m3u8
+
+#EXTINF:-1 tvg-name="INTV Australia" group-title="Music",INTV Australia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv1.intv.mk:1935/live/intv/index.m3u8
+
+#EXTINF:-1 tvg-name="4 Fun TV (576i)" group-title="Music",4 Fun TV (576i)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 tvg-name="Folx Slovenija" group-title="Music",Folx Slovenija
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Müzik" group-title="Music",TRT Müzik
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="NOW Rock" group-title="Music",NOW Rock
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="M2 (540p)" group-title="Music",M2 (540p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.m2.tv/hls3/stream.m3u8
+
+#EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
 #EXTINF:-1 tvg-name="Deluxe Lounge" group-title="Music",Deluxe Lounge
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/stvp-CHAJ0500413A
 
@@ -1750,6 +1831,10 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/83.103.149.75:8085/udp
 #EXTINF:-1 tvg-name="Vijay Takkar APAC" group-title="Music",Vijay Takkar APAC
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 
+#EXTINF:-1 tvg-name="RTV Glas Drine (404p)" group-title="General;Music",RTV Glas Drine (404p)
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV
+https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-name="3ABN Praise Him Music Network" group-title="Music;Religious",3ABN Praise Him Music Network

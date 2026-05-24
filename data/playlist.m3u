@@ -1,12 +1,9 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
-
-#EXTINF:-1 tvg-name="Дождь" group-title="News",Дождь ⭐
-https://secure-272717.tatnet.app/wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный) ⭐
 https://secure-272717.tatnet.app/stream.tvrain.tv/live/tvrain.m3u8
@@ -14,31 +11,34 @@ https://secure-272717.tatnet.app/stream.tvrain.tv/live/tvrain.m3u8
 #EXTINF:-1 tvg-name="Дождь (резервный)" group-title="News",Дождь (резервный) ⭐
 https://secure-272717.tatnet.app/stream.tvrain.tv/hls/tvrain_live.m3u8
 
-#EXTINF:-1 tvg-name="A2 CNN Albania" group-title="Albania",A2 CNN Albania
+#EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
+https://secure-272717.tatnet.app/wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
 https://secure-272717.tatnet.app/tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ABC News Albania Ⓣ" group-title="Albania",ABC News Albania Ⓣ
 https://secure-272717.tatnet.app/www.twitch.tv/abcnewsal
 
-#EXTINF:-1 tvg-name="AlbKanale Music TV Ⓢ" group-title="Albania",AlbKanale Music TV Ⓢ
+#EXTINF:-1 tvg-name="AlbKanale Music TV" group-title="IPTV",AlbKanale Music TV
 https://secure-272717.tatnet.app/albportal.net/albkanalemusic.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Albania Ⓨ" group-title="Albania",Euronews Albania Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/@EuronewsAlbania/live
 
-#EXTINF:-1 tvg-name="News 24 Ⓢ" group-title="Albania",News 24 Ⓢ
+#EXTINF:-1 tvg-name="News 24 Ⓢ" group-title="IPTV",News 24 Ⓢ
 https://secure-272717.tatnet.app/tv.balkanweb.com/news24/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ora News" group-title="Albania",Ora News
+#EXTINF:-1 tvg-name="Ora News" group-title="IPTV",Ora News
 https://secure-272717.tatnet.app/live1.mediadesk.al/oranews.m3u8
 
-#EXTINF:-1 tvg-name="Syri" group-title="Albania",Syri
+#EXTINF:-1 tvg-name="Syri" group-title="IPTV",Syri
 https://secure-272717.tatnet.app/stream.syritv.al/SyriTV/index.m3u8
 
 #EXTINF:-1 tvg-name="Top News Ⓣ" group-title="Albania",Top News Ⓣ
 https://secure-272717.tatnet.app/www.twitch.tv/topnewsal
 
-#EXTINF:-1 tvg-name="Comarca TV" group-title="Argentina",Comarca TV
+#EXTINF:-1 tvg-name="Comarca TV" group-title="IPTV",Comarca TV
 https://secure-272717.tatnet.app/video-weaver.ord56.hls.ttvnw.net/v1/playlist/Cq4FFLOPxq44Qy0kxjcr_wXuRRwjKU6gJ80Tc5eWRkaz5XdeNfeq7DzoNAstinu7BLtnw7jYDANX5yCDozdlS55_kYfuDyqQhwF0JpzU75lDUv5NOuUVWBwlP0m1Bh1JMn21v_OvA_teSCI7hcIFl2DoINrr8bHnpSS8EUvXNesfdX_LcfQH-clqftQ0sCreLIbTvxI5MyL6Wnm8jGh2yg48A2c_k9YHDH6TpM3tLo-pbRrrfByqMq-IoMQREf5DV_sTfHtAzinQQU3Np309s2ScJwcBlAjzz4VJ7svuJ1UbWBBylenSTnrXQW5Vws7OqG2kcoAHHpAQN6BQCpxaXO6dE7MLg7Nq6E7961fHEVSqFCRQg2Y5orbSsEwMo7_S4s5POZSQX1tn04QDuHfLixx-aBcbctSSFmI1CNZ3YDCEZVvWHOU6SyKQcsZeJCFLA1DsxqY3DeAn6n7xpPS4pdsizKqlqsT66liv_L-48h7jGujNZPDHge0fcgUs_7b7jlKJlKv-S_s1mGgLqPEUEQ8dhn5AugB0kfjAGgcTHIP_qLPRY0M7OikuBaMxh1pUpPkVG9AX4jCg1cwCgcfa64OP9ed4pwMjoiKm0dIfytTQ8hWjwXtkv16nJDfZ3kkqaMnM8ErZG6tRw-JVy3nRooKubY7Re0Fc1RHB85_eX2NYQD88N7r-UgaiO2ax0FQ-E_IdfuwSmp5oDy6Di6pT7r_zDRN3znbV64s4i-INUg-D2Leeq4xqYhe_Zhj-3AoxXDWCB0-DCc1kFEComkNpY01YA19zEm01TKLCbdaJwdC6bQpSEoJkOCoPAMnxm7oPNlqZRbhM4TVCJ34f4Y1guzaDomcEABl4Cii2UF-OhskRUZF-SUWjWdO6z62UqZagzG2QOTr6VBH-ItT_16fLsRUaDGTVKzgYHT8XcSqTkyABKgl1cy1lYXN0LTEwjQY.m3u8
 
 #EXTINF:-1 tvg-name="ABC" group-title="Australia",ABC
@@ -47,16 +47,16 @@ https://secure-272717.tatnet.app/c.mjh.nz/101002210221/
 #EXTINF:-1 tvg-name="ABC Me" group-title="Australia",ABC Me
 https://secure-272717.tatnet.app/c.mjh.nz/101002210224/
 
-#EXTINF:-1 tvg-name="ABC News" group-title="Australia",ABC News
+#EXTINF:-1 tvg-name="ABC News" group-title="IPTV",ABC News
 https://secure-272717.tatnet.app/abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-name="ORF Sport + Ⓖ" group-title="Austria",ORF Sport + Ⓖ
+#EXTINF:-1 tvg-name="ORF Sport + Ⓖ" group-title="IPTV",ORF Sport + Ⓖ
 https://secure-272717.tatnet.app/orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
 
-#EXTINF:-1 tvg-name="CBC Sport Ⓖ" group-title="Azerbaijan",CBC Sport Ⓖ
+#EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
 https://secure-272717.tatnet.app/mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Belros Ⓢ" group-title="Belarus",Belros Ⓢ
+#EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
 https://secure-272717.tatnet.app/live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Radio HIT Orsk" group-title="Belarus",Radio HIT Orsk
@@ -71,7 +71,7 @@ https://secure-272717.tatnet.app/4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/
 #EXTINF:-1 tvg-name="Plug RTL" group-title="Belgium",Plug RTL
 https://secure-272717.tatnet.app/4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/de5c6896d356f8e.ts
 
-#EXTINF:-1 tvg-name="COM Brasil" group-title="Brazil",COM Brasil
+#EXTINF:-1 tvg-name="COM Brasil" group-title="General",COM Brasil
 https://secure-272717.tatnet.app/br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Record News" group-title="Brazil",Record News
@@ -164,10 +164,10 @@ https://secure-272717.tatnet.app/live-fi.tvkaista.net/national-geographic/live.m
 #EXTINF:-1 tvg-name="OnniTV" group-title="Finland",OnniTV
 https://secure-272717.tatnet.app/onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=83459409&suiteItemId=83459780
 
-#EXTINF:-1 tvg-name="Nopola News" group-title="Finland",Nopola News
+#EXTINF:-1 tvg-name="Nopola News" group-title="News",Nopola News
 https://secure-272717.tatnet.app/virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Arte Ⓖ" group-title="France",Arte Ⓖ
+#EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
 https://secure-272717.tatnet.app/artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 
 #EXTINF:-1 tvg-name="CNews Ⓓ" group-title="France",CNews Ⓓ
@@ -191,13 +191,13 @@ https://secure-272717.tatnet.app/live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
 #EXTINF:-1 tvg-name="ARTE Ⓖ" group-title="Germany",ARTE Ⓖ
 https://secure-272717.tatnet.app/artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
-#EXTINF:-1 tvg-name="DELUXE MUSIC" group-title="Germany",DELUXE MUSIC
+#EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
 https://secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE BY KONTOR" group-title="Germany",DELUXE MUSIC DANCE BY KONTOR
+#EXTINF:-1 tvg-name="Deluxe Dance" group-title="Music",Deluxe Dance
 https://secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
-#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" group-title="Germany",DELUXE MUSIC RAP
+#EXTINF:-1 tvg-name="Deluxe Rap" group-title="Music",Deluxe Rap
 https://secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Deutsch Ⓨ" group-title="Germany",Euronews Deutsch Ⓨ
@@ -227,7 +227,7 @@ https://secure-272717.tatnet.app/ertflix.akamaized.net/ertlive/music/default/ind
 #EXTINF:-1 tvg-name="Mega News" group-title="Greece",Mega News
 https://secure-272717.tatnet.app/c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Alert" group-title="Greece",Alert
+#EXTINF:-1 tvg-name="Alert (576p)" group-title="News",Alert (576p)
 https://secure-272717.tatnet.app/itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Blue Sky" group-title="Greece",Blue Sky
@@ -236,10 +236,10 @@ https://secure-272717.tatnet.app/cdn5.smart-tv-data.com/bluesky/bluesky-live/pla
 #EXTINF:-1 tvg-name="Gnomi" group-title="Greece",Gnomi
 https://secure-272717.tatnet.app/live.streams.ovh:8081/gnomitv/index.m3u8
 
-#EXTINF:-1 tvg-name="Vergina" group-title="Greece",Vergina
+#EXTINF:-1 tvg-name="Vergina TV" group-title="Entertainment;News",Vergina TV
 https://secure-272717.tatnet.app/verginanews.gr:8443/hls_live/stream1.m3u8
 
-#EXTINF:-1 tvg-name="Corfu" group-title="Greece",Corfu
+#EXTINF:-1 tvg-name="Corfu Channel" group-title="News",Corfu Channel
 https://secure-272717.tatnet.app/itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TVB News Channel" group-title="Hong Kong",TVB News Channel
@@ -287,10 +287,10 @@ https://secure-272717.tatnet.app/live.cnnindonesia.com/livecnn/smil:cnntv.smil/p
 #EXTINF:-1 tvg-name="BeritaSatu" group-title="Indonesia",BeritaSatu
 https://secure-272717.tatnet.app/b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 tvg-name="Al-Alam News Network Ⓢ" group-title="Iran",Al-Alam News Network Ⓢ
+#EXTINF:-1 tvg-name="Al Alam (360p)" group-title="News",Al Alam (360p)
 https://secure-272717.tatnet.app/live2.alalam.ir/alalam.m3u8
 
-#EXTINF:-1 tvg-name="Al-Sharqiya News" group-title="Iraq",Al-Sharqiya News
+#EXTINF:-1 tvg-name="Al-Sharqiya News" group-title="News",Al-Sharqiya News
 https://secure-272717.tatnet.app/5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="iNEWS" group-title="Iraq",iNEWS
@@ -374,7 +374,7 @@ https://secure-272717.tatnet.app/di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocal
 #EXTINF:-1 tvg-name="Rai 4K Ⓖ" group-title="Italy",Rai 4K Ⓖ
 https://secure-272717.tatnet.app/raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 
-#EXTINF:-1 tvg-name="UniNettuno University TV Ⓖ" group-title="Italy",UniNettuno University TV Ⓖ
+#EXTINF:-1 tvg-name="UniNettuno University TV" group-title="Undefined",UniNettuno University TV
 https://secure-272717.tatnet.app/stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Abc Tv" group-title="Italy",Abc Tv
@@ -383,16 +383,16 @@ https://secure-272717.tatnet.app/diretta.arcapuglia.it:8080/live/abctv/index.m3u
 #EXTINF:-1 tvg-name="AB Channel" group-title="Italy",AB Channel
 https://secure-272717.tatnet.app/tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Antenna Sud" group-title="Italy",Antenna Sud
+#EXTINF:-1 tvg-name="Antenna Sud" group-title="General",Antenna Sud
 https://secure-272717.tatnet.app/live.antennasudwebtv.it:9443/hls/vod.m3u8
 
-#EXTINF:-1 tvg-name="Antenna Sud Extra" group-title="Italy",Antenna Sud Extra
+#EXTINF:-1 tvg-name="Antenna Sud Extra" group-title="General",Antenna Sud Extra
 https://secure-272717.tatnet.app/live.antennasudwebtv.it:9443/hls/vod92.m3u8
 
 #EXTINF:-1 tvg-name="Arte Network Orler" group-title="Italy",Arte Network Orler
 https://secure-272717.tatnet.app/tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Aurora Arte" group-title="Italy",Aurora Arte
+#EXTINF:-1 tvg-name="Aurora Arte (480p)" group-title="Culture",Aurora Arte (480p)
 https://secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Cittaceleste Tv" group-title="Italy",Cittaceleste Tv
@@ -401,13 +401,13 @@ https://secure-272717.tatnet.app/sportitaliaamd.akamaized.net/live/Cittaceleste/
 #EXTINF:-1 tvg-name="Cusano News 7" group-title="Italy",Cusano News 7
 https://secure-272717.tatnet.app/router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Di.Tv 80" group-title="Italy",Di.Tv 80
+#EXTINF:-1 tvg-name="DI.TV 80" group-title="General",DI.TV 80
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
 
-#EXTINF:-1 tvg-name="GO-TV Channel" group-title="Italy",GO-TV Channel
+#EXTINF:-1 tvg-name="GO-TV Canale 163" group-title="General",GO-TV Canale 163
 https://secure-272717.tatnet.app/6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="LaC News 24" group-title="Italy",LaC News 24
+#EXTINF:-1 tvg-name="LaC News 24" group-title="News",LaC News 24
 https://secure-272717.tatnet.app/f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 
 #EXTINF:-1 tvg-name="News24 City" group-title="Italy",News24 City
@@ -416,7 +416,7 @@ https://secure-272717.tatnet.app/dc3.telesveva.com:4433/news24.mp4
 #EXTINF:-1 tvg-name="Partenope Tv" group-title="Italy",Partenope Tv
 https://secure-272717.tatnet.app/diretta.arcapuglia.it:8080/live/partenope/index.m3u8
 
-#EXTINF:-1 tvg-name="Radio m2o Tv" group-title="Italy",Radio m2o Tv
+#EXTINF:-1 tvg-name="m2o TV" group-title="Music",m2o TV
 https://secure-272717.tatnet.app/4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Radio Piter Pan Tv" group-title="Italy",Radio Piter Pan Tv
@@ -482,7 +482,7 @@ https://secure-272717.tatnet.app/ye23.vip/z7z8/2021/kbs2020.php?id=4
 #EXTINF:-1 tvg-name="RTL Télé Lëtzebuerg" group-title="Luxembourg",RTL Télé Lëtzebuerg
 https://secure-272717.tatnet.app/live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTL Zwee" group-title="Luxembourg",RTL Zwee
+#EXTINF:-1 tvg-name="RTL Zwee" group-title="General",RTL Zwee
 https://secure-272717.tatnet.app/live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TDM Sport" group-title="Macau",TDM Sport
@@ -494,7 +494,7 @@ https://secure-272717.tatnet.app/tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-name="Телевизија Здравкин" group-title="North Macedonia",Телевизија Здравкин
 https://secure-272717.tatnet.app/zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 
-#EXTINF:-1 tvg-name="M»Net Sport" group-title="North Macedonia",M»Net Sport
+#EXTINF:-1 tvg-name="M-Net Sport" group-title="Sports",M-Net Sport
 https://secure-272717.tatnet.app/ares.mnet.mk/hls/mnet-sport.m3u8
 
 #EXTINF:-1 tvg-name="Стар Фолк" group-title="North Macedonia",Стар Фолк
@@ -503,7 +503,7 @@ https://secure-272717.tatnet.app/live.muzickatv.mk/live/StarMusic.m3u8
 #EXTINF:-1 tvg-name="Sky Folk" group-title="North Macedonia",Sky Folk
 https://secure-272717.tatnet.app/skyfolk.mk/live.m3u8
 
-#EXTINF:-1 tvg-name="Стар Плус" group-title="North Macedonia",Стар Плус
+#EXTINF:-1 tvg-name="Star Plus Music" group-title="Music",Star Plus Music
 https://secure-272717.tatnet.app/live.muzickatv.mk/live/StarMusic2.m3u8
 
 #EXTINF:-1 tvg-name="TV 2 Sport 1" group-title="Norway",TV 2 Sport 1
@@ -524,7 +524,7 @@ https://secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1 tvg-name="Euronews em Português Ⓨ" group-title="Portugal",Euronews em Português Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/euronewspt/live
 
-#EXTINF:-1 tvg-name="Pro TV" group-title="Romania",Pro TV
+#EXTINF:-1 tvg-name="Pro TV News" group-title="News",Pro TV News
 https://secure-272717.tatnet.app/cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 
 #EXTINF:-1 tvg-name="Euronews România Ⓨ" group-title="Romania",Euronews România Ⓨ
@@ -581,7 +581,7 @@ https://secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/19.m3u8
 #EXTINF:-1 tvg-name="Звезда" group-title="Russia",Звезда
 https://secure-272717.tatnet.app/tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Мир" group-title="Russia",Мир
+#EXTINF:-1 tvg-name="Мир" group-title="General",Мир
 https://secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ Ⓢ" group-title="Russia",ТНТ Ⓢ
@@ -602,13 +602,13 @@ https://secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/63251
 #EXTINF:-1 tvg-name="Архыз 24" group-title="Russia",Архыз 24
 https://secure-272717.tatnet.app/live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-name="Астрахан 24" group-title="Russia",Астрахан 24
+#EXTINF:-1 tvg-name="Астрахань 24" group-title="News",Астрахань 24
 https://secure-272717.tatnet.app/streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Башкортостан 24" group-title="Russia",Башкортостан 24
 https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Волгоград 24 Ⓢ" group-title="Russia",Волгоград 24 Ⓢ
+#EXTINF:-1 tvg-name="Волгоград 24" group-title="Undefined",Волгоград 24
 https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Запад 24" group-title="Russia",Запад 24
@@ -617,7 +617,7 @@ https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/r
 #EXTINF:-1 tvg-name="Катунь 24 Ⓞ" group-title="Russia",Катунь 24 Ⓞ
 https://secure-272717.tatnet.app/ok.ru/video/1166706155179
 
-#EXTINF:-1 tvg-name="Крым 24" group-title="Russia",Крым 24
+#EXTINF:-1 tvg-name="Крым 24" group-title="News",Крым 24
 https://secure-272717.tatnet.app/cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
 #EXTINF:-1 tvg-name="Кубань 24 Ⓞ" group-title="Russia",Кубань 24 Ⓞ
@@ -626,7 +626,7 @@ https://secure-272717.tatnet.app/ok.ru/video/4157442498242
 #EXTINF:-1 tvg-name="Луганск 24" group-title="Russia",Луганск 24
 https://secure-272717.tatnet.app/tv.gtrklnr.ru/hls/Lugansk24.m3u8
 
-#EXTINF:-1 tvg-name="Мир Белогорья" group-title="Russia",Мир Белогорья
+#EXTINF:-1 tvg-name="Мир Белагорья [Geo-blocked]" group-title="Undefined",Мир Белагорья [Geo-blocked]
 https://secure-272717.tatnet.app/mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 
 #EXTINF:-1 tvg-name="Москва 24" group-title="Russia",Москва 24
@@ -650,7 +650,7 @@ https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/r
 #EXTINF:-1 tvg-name="Якутия 24" group-title="Russia",Якутия 24
 https://secure-272717.tatnet.app/live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="360 Новости" group-title="Russia",360 Новости
+#EXTINF:-1 tvg-name="360° Новости" group-title="IPTV",360° Новости
 https://secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Вести ФМ" group-title="Russia",Вести ФМ
@@ -665,7 +665,7 @@ https://secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smot
 #EXTINF:-1 tvg-name="Смотрим: Тайны" group-title="Russia",Смотрим: Тайны
 https://secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Смотрим: Честный Детектив" group-title="Russia",Смотрим: Честный Детектив
+#EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
 https://secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Соловьёв Live" group-title="Russia",Соловьёв Live
@@ -722,7 +722,7 @@ https://secure-272717.tatnet.app/rtvelivestream-clnx.rtve.es/rtvesec/can/la1_can
 #EXTINF:-1 tvg-name="La 2 (Catalunya)" group-title="Spain",La 2 (Catalunya)
 https://secure-272717.tatnet.app/rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8
 
-#EXTINF:-1 tvg-name="La 2 (Canarias)" group-title="Spain",La 2 (Canarias)
+#EXTINF:-1 tvg-name="La 2 Canarias" group-title="General;Public",La 2 Canarias
 https://secure-272717.tatnet.app/ztnr.rtve.es/ztnr/5468585.m3u8
 
 #EXTINF:-1 tvg-name="HQM Hip Hop" group-title="Spain VOD",HQM Hip Hop
@@ -782,7 +782,7 @@ https://secure-272717.tatnet.app/live-gbnews.simplestreamcdn.com/live5/gbnews/bi
 #EXTINF:-1 tvg-name="Arise News" group-title="UK",Arise News
 https://secure-272717.tatnet.app/liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
 
-#EXTINF:-1 tvg-name="Bloomberg TV" group-title="UK",Bloomberg TV
+#EXTINF:-1 tvg-name="Bloomberg TV Europe" group-title="Business",Bloomberg TV Europe
 https://secure-272717.tatnet.app/bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-name="SportyStuff TV" group-title="UK",SportyStuff TV
@@ -857,7 +857,7 @@ https://secure-272717.tatnet.app/cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21
 #EXTINF:-1 tvg-name="24 Kanal" group-title="Ukraine",24 Kanal
 https://secure-272717.tatnet.app/streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Telekanal RAI" group-title="Ukraine",Telekanal RAI
+#EXTINF:-1 tvg-name="Telekanal RAI (480p)" group-title="General",Telekanal RAI (480p)
 https://secure-272717.tatnet.app/stream.rai.ua/rai/stream.m3u8
 
 #EXTINF:-1 tvg-name="ITV" group-title="Ukraine",ITV
@@ -890,7 +890,7 @@ https://secure-272717.tatnet.app/dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smi
 #EXTINF:-1 tvg-name="Noor Dubai" group-title="United Arab Emirates",Noor Dubai
 https://secure-272717.tatnet.app/dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sharjah Sports" group-title="United Arab Emirates",Sharjah Sports
+#EXTINF:-1 tvg-name="Sharjah Sports [Geo-blocked]" group-title="Sports",Sharjah Sports [Geo-blocked]
 https://secure-272717.tatnet.app/svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Heartland" group-title="USA",Heartland
@@ -1046,7 +1046,7 @@ https://secure-272717.tatnet.app/live.cnbcindonesia.com/livecnbc/smil:cnbctv.smi
 #EXTINF:-1 tvg-name="Fox Weather" group-title="Weather",Fox Weather
 https://secure-272717.tatnet.app/lnc-fox-weather.tubi.video/index.m3u8
 
-#EXTINF:-1 tvg-name="Sky News Weather Ⓖ" group-title="Weather",Sky News Weather Ⓖ
+#EXTINF:-1 tvg-name="Sky News Weather" group-title="Weather",Sky News Weather
 https://secure-272717.tatnet.app/distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Español Ⓨ" group-title="News (ES)",Euronews Español Ⓨ
@@ -1061,7 +1061,7 @@ https://secure-272717.tatnet.app/dwamdstream104.akamaized.net/hls/live/2015530/d
 #EXTINF:-1 tvg-name="CGTN Español" group-title="News (ES)",CGTN Español
 https://secure-272717.tatnet.app/news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-#EXTINF:-1 tvg-name="RTVE 24H" group-title="News (ES)",RTVE 24H
+#EXTINF:-1 tvg-name="Canal 24 Horas" group-title="News;Public",Canal 24 Horas
 https://secure-272717.tatnet.app/ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-name="Sportitalia LIVE24" group-title="VOD Italy",Sportitalia LIVE24
@@ -1214,7 +1214,7 @@ https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/v
 #EXTINF:-1 tvg-name="Карусель (+7)" group-title="Основные",Карусель (+7)
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 
-#EXTINF:-1 tvg-name="РЕН ТВ" group-title="Основные",РЕН ТВ
+#EXTINF:-1 tvg-name="РЕН ТВ (540p) [Geo-blocked]" group-title="General",РЕН ТВ (540p) [Geo-blocked]
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (+2)" group-title="Основные",РЕН ТВ (+2)
@@ -1226,7 +1226,7 @@ https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/var
 #EXTINF:-1 tvg-name="РЕН ТВ (+7)" group-title="Основные",РЕН ТВ (+7)
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 
-#EXTINF:-1 tvg-name="Спас" group-title="Основные",Спас
+#EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 
 #EXTINF:-1 tvg-name="Спас (+2)" group-title="Основные",Спас (+2)
@@ -1247,7 +1247,7 @@ https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/varia
 #EXTINF:-1 tvg-name="СТС (+7)" group-title="Основные",СТС (+7)
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 
-#EXTINF:-1 tvg-name="Домашний" group-title="Основные",Домашний
+#EXTINF:-1 tvg-name="Домашний (540p) [Geo-blocked]" group-title="Lifestyle",Домашний (540p) [Geo-blocked]
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
 #EXTINF:-1 tvg-name="Домашний (+2)" group-title="Основные",Домашний (+2)
@@ -2855,7 +2855,7 @@ https://secure-272717.tatnet.app/rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_STS_
 #EXTINF:-1 tvg-name="Ю (Санкт-Петербург)" group-title="Санкт-Петербург",Ю (Санкт-Петербург)
 https://secure-272717.tatnet.app/rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U_SPB/variant.m3u8
 
-#EXTINF:-1 tvg-name="ЛенТВ 24 (Санкт-Петербург)" group-title="Санкт-Петербург",ЛенТВ 24 (Санкт-Петербург)
+#EXTINF:-1 tvg-name="Лен ТВ 24 (540p) [Geo-blocked]" group-title="General",Лен ТВ 24 (540p) [Geo-blocked]
 https://secure-272717.tatnet.app/rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 
 #EXTINF:-1 tvg-name="ЛенТВ 24 (Санкт-Петербург)" group-title="Санкт-Петербург",ЛенТВ 24 (Санкт-Петербург)
@@ -6161,139 +6161,139 @@ https://secure-272717.tatnet.app/s97982.cdn.ngenix.net/hls/CH_R79_TNT/variant.m3
 #EXTINF:-1 tvg-name="ТНТ (Чукотка)" group-title="Хабаровск",ТНТ (Чукотка)
 https://secure-272717.tatnet.app/s97982.cdn.ngenix.net/hls/CH_R87_TNT/variant.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="2x2 (576i)" group-title="IPTV",2x2 (576i)
 https://secure-272717.tatnet.app/bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=tenr-yHXUv1wibfka78s2A&e=2068731801&scheme=https
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="12 канал" group-title="IPTV",12 канал
 https://secure-272717.tatnet.app/12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="15+ Music" group-title="IPTV",15+ Music
 https://secure-272717.tatnet.app/live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="alpha Cinema" group-title="IPTV",alpha Cinema
 https://secure-272717.tatnet.app/live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="alpha Funny" group-title="IPTV",alpha Funny
 https://secure-272717.tatnet.app/live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="alpha Moretime" group-title="IPTV",alpha Moretime
 https://secure-272717.tatnet.app/live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Angel TV Russian" group-title="IPTV",Angel TV Russian
 https://secure-272717.tatnet.app/janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Bollywood Russia (576p)" group-title="IPTV",Bollywood Russia (576p)
 https://secure-272717.tatnet.app/xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Channel 10 (576i)" group-title="IPTV",Channel 10 (576i)
 https://secure-272717.tatnet.app/bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=eqlTXebDP9wSWTZgre6BwQ&e=2072611029&scheme=https
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Cinema" group-title="IPTV",Cinema
 https://secure-272717.tatnet.app/catchup.videoline.ru/cinema/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="DTR Music 1" group-title="IPTV",DTR Music 1
 https://secure-272717.tatnet.app/kino-stream.online/hls/DTRMUSIC1.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="DTR Zona 1" group-title="IPTV",DTR Zona 1
 https://secure-272717.tatnet.app/kino-stream.online/hls/DTRZONA1.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="DTR Zona 2" group-title="IPTV",DTR Zona 2
 https://secure-272717.tatnet.app/kino-stream.online/hls/DTRZONA2.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="FON Music" group-title="IPTV",FON Music
 https://secure-272717.tatnet.app/cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
 https://secure-272717.tatnet.app/176.126.166.43:1935/live/312kino/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="CGTN Русский" group-title="News",CGTN Русский
 https://secure-272717.tatnet.app/russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Channel 5 International (576i)" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Channel 5 International (576i)
 https://secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="DW Russian" group-title="News",DW Russian
 https://secure-272717.tatnet.app/dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="24 Канал" group-title="News",24 Канал
 https://secure-272717.tatnet.app/streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="92 News" group-title="News",92 News
 https://secure-272717.tatnet.app/92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="News",A24" group-title="News",como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="News",A24
 https://secure-272717.tatnet.app/g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC News" group-title="News",ABC News
 https://secure-272717.tatnet.app/abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC News Live [Geo-blocked]" group-title="News",ABC News Live [Geo-blocked]
 https://secure-272717.tatnet.app/pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC News Live 1" group-title="News",ABC News Live 1
 https://secure-272717.tatnet.app/abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC News Live 2" group-title="News",ABC News Live 2
 https://secure-272717.tatnet.app/abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC News Live 3" group-title="News",ABC News Live 3
 https://secure-272717.tatnet.app/abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC News Live 4" group-title="News",ABC News Live 4
 https://secure-272717.tatnet.app/abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master_4000.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC News Live 5" group-title="News",ABC News Live 5
 https://secure-272717.tatnet.app/abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master_4000.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC News Live 6" group-title="News",ABC News Live 6
 https://secure-272717.tatnet.app/abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC News Live 7" group-title="News",ABC News Live 7
 https://secure-272717.tatnet.app/abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name=":Šport" group-title="Sports",:Šport
 https://secure-272717.tatnet.app/88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
 https://secure-272717.tatnet.app/africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alfa Sport" group-title="Sports",Alfa Sport
 https://secure-272717.tatnet.app/dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="AntenaSport (1280p)" group-title="Sports",AntenaSport (1280p)
 https://secure-272717.tatnet.app/hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="AS3 Sport TV" group-title="Sports",AS3 Sport TV
 https://secure-272717.tatnet.app/streamtv.as3sport.online:3394/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Bahrain Sports 1" group-title="Sports",Bahrain Sports 1
 https://secure-272717.tatnet.app/5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Bahrain Sports 2" group-title="Sports",Bahrain Sports 2
 https://secure-272717.tatnet.app/5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Sports",beIN SPORTS Xtra" group-title="Sports",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Sports",beIN SPORTS Xtra
 https://secure-272717.tatnet.app/d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.vf=kBQplLldqQO
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="beIN Sports XTRA en Espanol" group-title="Sports",beIN Sports XTRA en Espanol
 https://secure-272717.tatnet.app/dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="CBS Sports Golazo Network" group-title="Sports",CBS Sports Golazo Network
 https://secure-272717.tatnet.app/proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="CBS Sports HQ [Geo-blocked]" group-title="Sports",CBS Sports HQ [Geo-blocked]
 https://secure-272717.tatnet.app/propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ColimdoT TV" group-title="Sports",ColimdoT TV
 https://secure-272717.tatnet.app/cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ČT Sport" group-title="Sports",ČT Sport
 https://secure-272717.tatnet.app/88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="DAZN Combat" group-title="Sports",DAZN Combat
 https://secure-272717.tatnet.app/dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ESPN8 The Ocho" group-title="Sports",ESPN8 The Ocho
 https://secure-272717.tatnet.app/d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 
 #EXTINF:-1 tvg-name="KHL Prime" group-title="Sports",KHL Prime
@@ -17036,7 +17036,7 @@ https://secure-272717.tatnet.app/jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Clássico" group-title="Kids",Nickelodeon Clássico
 https://secure-272717.tatnet.app/jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 
-#EXTINF:-1 tvg-name="NickOnline" group-title="Animation;Kids",NickOnline
+#EXTINF:-1 tvg-name="NickOnline (576p)" group-title="Animation;Kids",NickOnline (576p)
 https://secure-272717.tatnet.app/x1co.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="NickOnline Music" group-title="Music",NickOnline Music
@@ -41084,34 +41084,34 @@ https://secure-272717.tatnet.app/xykt-fix.github.io/play/a02j/index.m3u8
 #EXTINF:-1 tvg-name="HTV2" group-title="Entertainment;General",HTV2
 https://secure-272717.tatnet.app/liveh12.vtvprime.vn/hls/HTV2/03.m3u8
 
-#EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="Albania",Kanali 7 Ⓢ
+#EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
 
-#EXTINF:-1 tvg-name="Alpo TV" group-title="Albania",Alpo TV
+#EXTINF:-1 tvg-name="Alpo TV" group-title="IPTV",Alpo TV
 https://secure-272717.tatnet.app/5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNA" group-title="Albania",CNA
+#EXTINF:-1 tvg-name="CNA" group-title="IPTV",CNA
 https://secure-272717.tatnet.app/live1.mediadesk.al/cnatvlive.m3u8
 
-#EXTINF:-1 tvg-name="Panorama TV Ⓢ" group-title="Albania",Panorama TV Ⓢ
+#EXTINF:-1 tvg-name="Panorama TV Ⓢ" group-title="IPTV",Panorama TV Ⓢ
 https://secure-272717.tatnet.app/198.244.188.94/panorama/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Report TV" group-title="Albania",Report TV
+#EXTINF:-1 tvg-name="Report TV" group-title="IPTV",Report TV
 https://secure-272717.tatnet.app/deb10stream.duckdns.org/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="Tropoja" group-title="Albania",Tropoja
+#EXTINF:-1 tvg-name="Tropoja" group-title="IPTV",Tropoja
 https://secure-272717.tatnet.app/live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV 7 Albania" group-title="Albania",TV 7 Albania
+#EXTINF:-1 tvg-name="TV 7 Albania" group-title="IPTV",TV 7 Albania
 https://secure-272717.tatnet.app/5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Apollon Ⓢ" group-title="Albania",TV Apollon Ⓢ
+#EXTINF:-1 tvg-name="TV Apollon Ⓢ" group-title="IPTV",TV Apollon Ⓢ
 https://secure-272717.tatnet.app/live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 
-#EXTINF:-1 tvg-name="Vizion Plus" group-title="Albania",Vizion Plus
+#EXTINF:-1 tvg-name="Vizion Plus" group-title="IPTV",Vizion Plus
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 
-#EXTINF:-1 tvg-name="Andorra TV" group-title="Andorra",Andorra TV
+#EXTINF:-1 tvg-name="Andorra TV" group-title="IPTV",Andorra TV
 https://secure-272717.tatnet.app/videos.rtva.ad/live/rtva/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" group-title="Argentina",TN Todo Noticias Ⓨ
@@ -41123,19 +41123,19 @@ https://secure-272717.tatnet.app/www.youtube.com/user/encuentro/live
 #EXTINF:-1 tvg-name="Pakapaka Ⓨ Ⓖ" group-title="Argentina",Pakapaka Ⓨ Ⓖ
 https://secure-272717.tatnet.app/www.youtube.com/user/CanalPakapaka/live
 
-#EXTINF:-1 tvg-name="Aunar" group-title="Argentina",Aunar
+#EXTINF:-1 tvg-name="Aunar" group-title="IPTV",Aunar
 https://secure-272717.tatnet.app/5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Cine.AR" group-title="Argentina",Cine.AR
+#EXTINF:-1 tvg-name="Cine.AR" group-title="IPTV",Cine.AR
 https://secure-272717.tatnet.app/5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tec TV" group-title="Argentina",Tec TV
+#EXTINF:-1 tvg-name="Tec TV" group-title="IPTV",Tec TV
 https://secure-272717.tatnet.app/tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
 #EXTINF:-1 tvg-name="Televisión Pública Ⓨ" group-title="Argentina",Televisión Pública Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/user/TVPublicaArgentina/live
 
-#EXTINF:-1 tvg-name="DeporTV" group-title="Argentina",DeporTV
+#EXTINF:-1 tvg-name="DeporTV" group-title="IPTV",DeporTV
 https://secure-272717.tatnet.app/5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal 26 Ⓨ" group-title="Argentina",Canal 26 Ⓨ
@@ -41156,31 +41156,31 @@ https://secure-272717.tatnet.app/www.youtube.com/c/c5n/live
 #EXTINF:-1 tvg-name="LN+ Ⓨ" group-title="Argentina",LN+ Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/c/LaNacionMas/live
 
-#EXTINF:-1 tvg-name="Canal E" group-title="Argentina",Canal E
+#EXTINF:-1 tvg-name="Canal E" group-title="IPTV",Canal E
 https://secure-272717.tatnet.app/unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Telemax" group-title="Argentina",Telemax
+#EXTINF:-1 tvg-name="Telemax" group-title="IPTV",Telemax
 https://secure-272717.tatnet.app/live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Net TV" group-title="Argentina",Net TV
+#EXTINF:-1 tvg-name="NET TV" group-title="IPTV",NET TV
 https://secure-272717.tatnet.app/unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Universidad" group-title="Argentina",TV Universidad
+#EXTINF:-1 tvg-name="TV Universidad" group-title="IPTV",TV Universidad
 https://secure-272717.tatnet.app/stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
-#EXTINF:-1 tvg-name="Barricada TV" group-title="Argentina",Barricada TV
+#EXTINF:-1 tvg-name="Barricada TV" group-title="IPTV",Barricada TV
 https://secure-272717.tatnet.app/live-ak.vimeocdn.com/exp=1696402364~acl=%2F9f41e203-241b-4eb7-b0b5-b1839903408f%2F%2A~hmac=d4819f301510676a986bfe610b664765ee2b1a23e1e1ca3214398f949a0b2778/9f41e203-241b-4eb7-b0b5-b1839903408f/hls.m3u8?min_seconds=30
 
-#EXTINF:-1 tvg-name="Urbana Tevé" group-title="Argentina",Urbana Tevé
+#EXTINF:-1 tvg-name="Urbana Tevé" group-title="IPTV",Urbana Tevé
 https://secure-272717.tatnet.app/cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 
-#EXTINF:-1 tvg-name="El Trece" group-title="Argentina",El Trece
+#EXTINF:-1 tvg-name="El Trece" group-title="IPTV",El Trece
 https://secure-272717.tatnet.app/live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-name="El Nueve" group-title="Argentina",El Nueve
+#EXTINF:-1 tvg-name="El Nueve" group-title="IPTV",El Nueve
 https://secure-272717.tatnet.app/octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-name="Telefe Ⓨ" group-title="Argentina",Telefe Ⓨ
+#EXTINF:-1 tvg-name="Telefe Ⓨ" group-title="IPTV",Telefe Ⓨ
 https://secure-272717.tatnet.app/telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-name="América Ⓨ" group-title="Argentina",América Ⓨ
@@ -41189,67 +41189,67 @@ https://secure-272717.tatnet.app/www.youtube.com/c/americaenvivo/live
 #EXTINF:-1 tvg-name="A24 Ⓨ" group-title="Argentina",A24 Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/c/A24com/live
 
-#EXTINF:-1 tvg-name="Armenia 1" group-title="Armenia",Armenia 1
+#EXTINF:-1 tvg-name="Armenia 1" group-title="IPTV",Armenia 1
 https://secure-272717.tatnet.app/amtv1.livestreamingcdn.com/am2abr/index.m3u8
 
-#EXTINF:-1 tvg-name="Kentron TV Ⓢ" group-title="Armenia",Kentron TV Ⓢ
+#EXTINF:-1 tvg-name="Kentron TV Ⓢ" group-title="IPTV",Kentron TV Ⓢ
 https://secure-272717.tatnet.app/gineu9.bozztv.com/gin-36bay2/gin-kentron/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Armenia TV Ⓢ" group-title="Armenia",Armenia TV Ⓢ
+#EXTINF:-1 tvg-name="Armenia TV Ⓢ" group-title="IPTV",Armenia TV Ⓢ
 https://secure-272717.tatnet.app/cdn.hayastantv.com:8088/armenia/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="5TV Ⓢ" group-title="Armenia",5TV Ⓢ
+#EXTINF:-1 tvg-name="5TV Ⓢ" group-title="IPTV",5TV Ⓢ
 https://secure-272717.tatnet.app/cdn.hayastantv.com:8088/5tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="TVSN" group-title="Australia",TVSN
+#EXTINF:-1 tvg-name="TVSN" group-title="IPTV",TVSN
 https://secure-272717.tatnet.app/tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
 
-#EXTINF:-1 tvg-name="M4TV" group-title="Australia",M4TV
+#EXTINF:-1 tvg-name="M4TV" group-title="IPTV",M4TV
 https://secure-272717.tatnet.app/5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Racing.com" group-title="Australia",Racing.com
+#EXTINF:-1 tvg-name="Racing.com" group-title="IPTV",Racing.com
 https://secure-272717.tatnet.app/racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
-#EXTINF:-1 tvg-name="9Go! Ⓖ" group-title="Australia",9Go! Ⓖ
+#EXTINF:-1 tvg-name="9Go! [Geo-blocked]" group-title="IPTV",9Go! [Geo-blocked]
 https://secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 
-#EXTINF:-1 tvg-name="9Life Ⓖ" group-title="Australia",9Life Ⓖ
+#EXTINF:-1 tvg-name="9Life [Geo-blocked]" group-title="IPTV",9Life [Geo-blocked]
 https://secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 
-#EXTINF:-1 tvg-name="9Rush Ⓖ" group-title="Australia",9Rush Ⓖ
+#EXTINF:-1 tvg-name="9Rush Ⓖ" group-title="IPTV",9Rush Ⓖ
 https://secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 
-#EXTINF:-1 tvg-name="ORF 1 Ⓖ" group-title="Austria",ORF 1 Ⓖ
+#EXTINF:-1 tvg-name="ORF 1 Ⓖ" group-title="IPTV",ORF 1 Ⓖ
 https://secure-272717.tatnet.app/orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
 
-#EXTINF:-1 tvg-name="ORF 2 Ⓖ" group-title="Austria",ORF 2 Ⓖ
+#EXTINF:-1 tvg-name="ORF 2 Ⓖ" group-title="IPTV",ORF 2 Ⓖ
 https://secure-272717.tatnet.app/orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
 
-#EXTINF:-1 tvg-name="ORF III Ⓖ" group-title="Austria",ORF III Ⓖ
+#EXTINF:-1 tvg-name="ORF III Ⓖ" group-title="IPTV",ORF III Ⓖ
 https://secure-272717.tatnet.app/orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
 
-#EXTINF:-1 tvg-name="Servus TV Ⓖ" group-title="Austria",Servus TV Ⓖ
+#EXTINF:-1 tvg-name="Servus TV Ⓖ" group-title="IPTV",Servus TV Ⓖ
 https://secure-272717.tatnet.app/rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
 
-#EXTINF:-1 tvg-name="oe24" group-title="Austria",oe24
+#EXTINF:-1 tvg-name="oe24" group-title="IPTV",oe24
 https://secure-272717.tatnet.app/varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
 
-#EXTINF:-1 tvg-name="W24" group-title="Austria",W24
+#EXTINF:-1 tvg-name="W24" group-title="IPTV",W24
 https://secure-272717.tatnet.app/ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="P3TV" group-title="Austria",P3TV
+#EXTINF:-1 tvg-name="P3TV" group-title="IPTV",P3TV
 https://secure-272717.tatnet.app/p3-6.mov.at:1935/live/weekstream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTV" group-title="Austria",RTV
+#EXTINF:-1 tvg-name="RTV" group-title="IPTV",RTV
 https://secure-272717.tatnet.app/iptv.rtv-ooe.at/stream.m3u8
 
-#EXTINF:-1 tvg-name="RTS Ⓖ" group-title="Austria",RTS Ⓖ
+#EXTINF:-1 tvg-name="RTS Ⓖ" group-title="IPTV",RTS Ⓖ
 https://secure-272717.tatnet.app/58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tirol TV Ⓖ" group-title="Austria",Tirol TV Ⓖ
 https://secure-272717.tatnet.app/lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="R9" group-title="Austria",R9
+#EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ARB 24" group-title="Azerbaijan",ARB 24
@@ -41315,22 +41315,22 @@ https://secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=MTV
 #EXTINF:-1 tvg-name="Беларусь 1" group-title="Belarus",Беларусь 1
 https://secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Беларусь 2" group-title="Belarus",Беларусь 2
+#EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Беларусь 3" group-title="Belarus",Беларусь 3
+#EXTINF:-1 tvg-name="Беларусь 3" group-title="Culture",Беларусь 3
 https://secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ОНТ Ⓢ" group-title="Belarus",ОНТ Ⓢ
+#EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Беларусь 5" group-title="Belarus",Беларусь 5
+#EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
 https://secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="СТВ" group-title="Belarus",СТВ
+#EXTINF:-1 tvg-name="СТБ" group-title="General",СТБ
 https://secure-272717.tatnet.app/ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Беларусь 24" group-title="Belarus",Беларусь 24
+#EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
 https://secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 5 Интернет" group-title="Belarus",Беларусь 5 Интернет
@@ -41369,7 +41369,7 @@ https://secure-272717.tatnet.app/4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/
 #EXTINF:-1 tvg-name="LN24" group-title="Belgium",LN24
 https://secure-272717.tatnet.app/live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 
-#EXTINF:-1 tvg-name="BX1" group-title="Belgium",BX1
+#EXTINF:-1 tvg-name="BX1" group-title="Undefined",BX1
 https://secure-272717.tatnet.app/59959724487e3.streamlock.net/stream/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EEN" group-title="Belgium",EEN
@@ -41408,13 +41408,13 @@ https://secure-272717.tatnet.app/prd-hometv-live-open.spectar.tv/ERO_1_083/playl
 #EXTINF:-1 tvg-name="RTV BN Ⓢ" group-title="Bosnia and Herzegovina",RTV BN Ⓢ
 https://secure-272717.tatnet.app/stream.rtvbn.tv:8080/live/index.m3u8
 
-#EXTINF:-1 tvg-name="RTV Glas Drine" group-title="Bosnia and Herzegovina",RTV Glas Drine
+#EXTINF:-1 tvg-name="RTV Glas Drine (404p)" group-title="General;Music",RTV Glas Drine (404p)
 https://secure-272717.tatnet.app/glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sevdah Ⓢ" group-title="Bosnia and Herzegovina",Sevdah Ⓢ
 https://secure-272717.tatnet.app/restreamer2.tnt.ba/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="TNT Kids" group-title="Bosnia and Herzegovina",TNT Kids
+#EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8
 
 #EXTINF:-1 tvg-name="Televizija 5" group-title="Bosnia and Herzegovina",Televizija 5
@@ -41444,13 +41444,13 @@ https://secure-272717.tatnet.app/video08.logicahost.com.br/istvnacional/srt.stre
 #EXTINF:-1 tvg-name="Rede Brasil" group-title="Brazil",Rede Brasil
 https://secure-272717.tatnet.app/video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Câmara" group-title="Brazil",TV Câmara
+#EXTINF:-1 tvg-name="TV Câmara" group-title="Legislative",TV Câmara
 https://secure-272717.tatnet.app/stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-name="TV Cultura" group-title="Brazil",TV Cultura
+#EXTINF:-1 tvg-name="TV Cultura" group-title="Undefined",TV Cultura
 https://secure-272717.tatnet.app/player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 tvg-name="City TV Ⓢ" group-title="Bulgaria",City TV Ⓢ
+#EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
 
 #EXTINF:-1 tvg-name="TV1" group-title="Bulgaria",TV1
@@ -41489,10 +41489,10 @@ https://secure-272717.tatnet.app/onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-
 #EXTINF:-1 tvg-name="Star TV" group-title="Canada",Star TV
 https://secure-272717.tatnet.app/live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 
-#EXTINF:-1 tvg-name="CPAC (EN)" group-title="Canada",CPAC (EN)
+#EXTINF:-1 tvg-name="CPAC" group-title="Legislative",CPAC
 https://secure-272717.tatnet.app/d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="ICI RDI" group-title="Canada",ICI RDI
+#EXTINF:-1 tvg-name="ICI RDI" group-title="News",ICI RDI
 https://secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 #EXTINF:-1 tvg-name="ICI Télé Ⓖ" group-title="Canada",ICI Télé Ⓖ
@@ -41507,22 +41507,22 @@ https://secure-272717.tatnet.app/pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p
 #EXTINF:-1 tvg-name="Télé Québec" group-title="Canada",Télé Québec
 https://secure-272717.tatnet.app/bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Savoir Média" group-title="Canada",Savoir Média
+#EXTINF:-1 tvg-name="Canal Savoir (360p)" group-title="Education",Canal Savoir (360p)
 https://secure-272717.tatnet.app/hls.savoir.media/live/stream.m3u8
 
 #EXTINF:-1 tvg-name="CPAC (FR)" group-title="Canada",CPAC (FR)
 https://secure-272717.tatnet.app/bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 
-#EXTINF:-1 tvg-name="ICI Montreal" group-title="Canada",ICI Montreal
+#EXTINF:-1 tvg-name="ICI Montreal" group-title="General",ICI Montreal
 https://secure-272717.tatnet.app/amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
-#EXTINF:-1 tvg-name="Toronto 360 TV" group-title="Canada",Toronto 360 TV
+#EXTINF:-1 tvg-name="Toronto 360 TV" group-title="Undefined",Toronto 360 TV
 https://secure-272717.tatnet.app/cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tchad 24" group-title="Chad",Tchad 24
 https://secure-272717.tatnet.app/102.131.58.110/out_1/index.m3u8
 
-#EXTINF:-1 tvg-name="Télé Tchad Ⓢ" group-title="Chad",Télé Tchad Ⓢ
+#EXTINF:-1 tvg-name="Tele Tchad" group-title="General",Tele Tchad
 https://secure-272717.tatnet.app/strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 
 #EXTINF:-1 tvg-name="UCV Televisión" group-title="Chile",UCV Televisión
@@ -41537,7 +41537,7 @@ https://secure-272717.tatnet.app/mdstrm.com/live-stream-playlist/57d1a22064f5d85
 #EXTINF:-1 tvg-name="NTV Ⓖ" group-title="Chile",NTV Ⓖ
 https://secure-272717.tatnet.app/mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
-#EXTINF:-1 tvg-name="TV Chile Ⓖ" group-title="Chile",TV Chile Ⓖ
+#EXTINF:-1 tvg-name="TV Chile [Geo-blocked]" group-title="General",TV Chile [Geo-blocked]
 https://secure-272717.tatnet.app/mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 #EXTINF:-1 tvg-name="Canal 13" group-title="Chile",Canal 13
@@ -41555,22 +41555,22 @@ https://secure-272717.tatnet.app/unlimited1-us.dps.live/uchiletv/uchiletv.smil/p
 #EXTINF:-1 tvg-name="T13 en vivo" group-title="Chile",T13 en vivo
 https://secure-272717.tatnet.app/redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="13 Entretención" group-title="Chile",13 Entretención
+#EXTINF:-1 tvg-name="13 Entretención" group-title="Entertainment",13 Entretención
 https://secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 
-#EXTINF:-1 tvg-name="13 Cultura" group-title="Chile",13 Cultura
+#EXTINF:-1 tvg-name="13C" group-title="Culture",13C
 https://secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-name="13 Prime" group-title="Chile",13 Prime
+#EXTINF:-1 tvg-name="13 Prime" group-title="Lifestyle",13 Prime
 https://secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 
-#EXTINF:-1 tvg-name="13 Kids" group-title="Chile",13 Kids
+#EXTINF:-1 tvg-name="13 Kids" group-title="Kids",13 Kids
 https://secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1 tvg-name="13 Realities" group-title="Chile",13 Realities
+#EXTINF:-1 tvg-name="13 Realities" group-title="Entertainment",13 Realities
 https://secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
-#EXTINF:-1 tvg-name="13 Teleseries" group-title="Chile",13 Teleseries
+#EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
 https://secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 #EXTINF:-1 tvg-name="El Pingüino TV" group-title="Chile",El Pingüino TV
@@ -41582,7 +41582,7 @@ https://secure-272717.tatnet.app/redirector.rudo.video/hls-video/c54ac2799874375
 #EXTINF:-1 tvg-name="Deportes13 Ⓖ" group-title="Chile",Deportes13 Ⓖ
 https://secure-272717.tatnet.app/redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVN 3" group-title="Chile",TVN 3
+#EXTINF:-1 tvg-name="TVN3 [Geo-blocked]" group-title="Classic",TVN3 [Geo-blocked]
 https://secure-272717.tatnet.app/mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF:-1 tvg-name="Chilevisión Noticias" group-title="Chile",Chilevisión Noticias
@@ -41597,7 +41597,7 @@ https://secure-272717.tatnet.app/node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际（亚） Ⓨ" group-title="China",CCTV-4 中文国际（亚） Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
 
-#EXTINF:-1 tvg-name="CCTV-4 中文国际（美） Ⓢ" group-title="China",CCTV-4 中文国际（美） Ⓢ
+#EXTINF:-1 tvg-name="CCTV-4 America" group-title="General",CCTV-4 America
 https://secure-272717.tatnet.app/global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 #EXTINF:-1 tvg-name="CCTV-5 体育" group-title="China",CCTV-5 体育
@@ -41645,7 +41645,7 @@ https://secure-272717.tatnet.app/d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 tvg-name="Canal 8" group-title="Costa Rica",Canal 8
 https://secure-272717.tatnet.app/mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-name="88 Stereo" group-title="Costa Rica",88 Stereo
+#EXTINF:-1 tvg-name="88 Stereo" group-title="Music",88 Stereo
 https://secure-272717.tatnet.app/k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HRT 1" group-title="Croatia",HRT 1
@@ -41657,7 +41657,7 @@ https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
 #EXTINF:-1 tvg-name="HRT 3" group-title="Croatia",HRT 3
 https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
 
-#EXTINF:-1 tvg-name="CMC TV" group-title="Croatia",CMC TV
+#EXTINF:-1 tvg-name="CMC TV" group-title="Music",CMC TV
 https://secure-272717.tatnet.app/stream.cmctv.hr:49998/cmc/live.m3u8
 
 #EXTINF:-1 tvg-name="Plava Vinkovačka" group-title="Croatia",Plava Vinkovačka
@@ -41672,7 +41672,7 @@ https://secure-272717.tatnet.app/player-api.new.livestream.com/accounts/27681961
 #EXTINF:-1 tvg-name="TV Nova" group-title="Croatia",TV Nova
 https://secure-272717.tatnet.app/stream.agatin.hr:3727/live/tvnovalive.m3u8
 
-#EXTINF:-1 tvg-name="TV Jadran" group-title="Croatia",TV Jadran
+#EXTINF:-1 tvg-name="TV Jadran" group-title="News",TV Jadran
 https://secure-272717.tatnet.app/tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 
 #EXTINF:-1 tvg-name="Libertas TV" group-title="Croatia",Libertas TV
@@ -41708,7 +41708,7 @@ https://secure-272717.tatnet.app/sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/pl
 #EXTINF:-1 tvg-name="Ada TV Ⓢ" group-title="Cyprus",Ada TV Ⓢ
 https://secure-272717.tatnet.app/sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Kıbrıs Genç TV Ⓢ" group-title="Cyprus",Kıbrıs Genç TV Ⓢ
+#EXTINF:-1 tvg-name="Kibris Genç TV" group-title="News",Kibris Genç TV
 https://secure-272717.tatnet.app/sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Kanal T Ⓢ" group-title="Cyprus",Kanal T Ⓢ
@@ -41774,10 +41774,10 @@ https://secure-272717.tatnet.app/prima-ott-live.ssl.cdn.cra.cz/channels/prima_sh
 #EXTINF:-1 tvg-name="Óčko Ⓢ" group-title="Czech Republic",Óčko Ⓢ
 https://secure-272717.tatnet.app/ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Óčko Star Ⓢ" group-title="Czech Republic",Óčko Star Ⓢ
+#EXTINF:-1 tvg-name="Óčko Gold (540p)" group-title="Music",Óčko Gold (540p)
 https://secure-272717.tatnet.app/ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Óčko Expres Ⓢ" group-title="Czech Republic",Óčko Expres Ⓢ
+#EXTINF:-1 tvg-name="Óčko Expres (540p)" group-title="Music",Óčko Expres (540p)
 https://secure-272717.tatnet.app/ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TN Live" group-title="Czech Republic",TN Live
@@ -41804,7 +41804,7 @@ https://secure-272717.tatnet.app/drlive02texthls.akamaized.net/hls/live/2014188/
 #EXTINF:-1 tvg-name="DR Ramasjang Ⓖ" group-title="Denmark",DR Ramasjang Ⓖ
 https://secure-272717.tatnet.app/drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
 
-#EXTINF:-1 tvg-name="Folketinget TV" group-title="Denmark",Folketinget TV
+#EXTINF:-1 tvg-name="Folketinget" group-title="Legislative",Folketinget
 https://secure-272717.tatnet.app/cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-name="TV Syd+" group-title="Denmark",TV Syd+
@@ -41828,28 +41828,28 @@ https://secure-272717.tatnet.app/5eeb3940cfaa0.streamlock.net/webtv_live/_defins
 #EXTINF:-1 tvg-name="Kanal Hovedstaden" group-title="Denmark",Kanal Hovedstaden
 https://secure-272717.tatnet.app/khkbh.dk:8080/hls/livestream/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal RTVD 4" group-title="Dominican Republic",Canal RTVD 4
+#EXTINF:-1 tvg-name="Canal 4 RD" group-title="General",Canal 4 RD
 https://secure-272717.tatnet.app/protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Aghapy TV" group-title="Egypt",Aghapy TV
+#EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Al Ghad Plus" group-title="Egypt",Al Ghad Plus
 https://secure-272717.tatnet.app/playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Al Ghad TV" group-title="Egypt",Al Ghad TV
+#EXTINF:-1 tvg-name="Al Ghad TV" group-title="News",Al Ghad TV
 https://secure-272717.tatnet.app/eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 
-#EXTINF:-1 tvg-name="Alhayat TV" group-title="Egypt",Alhayat TV
+#EXTINF:-1 tvg-name="Al Hayat TV" group-title="Religious",Al Hayat TV
 https://secure-272717.tatnet.app/cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Coptic TV" group-title="Egypt",Coptic TV
 https://secure-272717.tatnet.app/5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Huda TV" group-title="Egypt",Huda TV
+#EXTINF:-1 tvg-name="Huda TV" group-title="Religious",Huda TV
 https://secure-272717.tatnet.app/cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
-#EXTINF:-1 tvg-name="Koogi TV" group-title="Egypt",Koogi TV
+#EXTINF:-1 tvg-name="Koogi TV" group-title="Kids;Religious",Koogi TV
 https://secure-272717.tatnet.app/5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MBC Masr 1" group-title="Egypt",MBC Masr 1
@@ -41858,7 +41858,7 @@ https://secure-272717.tatnet.app/mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45b
 #EXTINF:-1 tvg-name="MBC Masr 2" group-title="Egypt",MBC Masr 2
 https://secure-272717.tatnet.app/shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
-#EXTINF:-1 tvg-name="Watan TV" group-title="Egypt",Watan TV
+#EXTINF:-1 tvg-name="Watan TV" group-title="General",Watan TV
 https://secure-272717.tatnet.app/rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ETV Ⓖ" group-title="Estonia",ETV Ⓖ
@@ -41882,7 +41882,7 @@ https://secure-272717.tatnet.app/lifetv.bitflip.ee/live/stream2.m3u8
 #EXTINF:-1 tvg-name="Life TV Europe" group-title="Estonia",Life TV Europe
 https://secure-272717.tatnet.app/lifetv.bitflip.ee/live/stream1.m3u8
 
-#EXTINF:-1 tvg-name="TBN Baltia" group-title="Estonia",TBN Baltia
+#EXTINF:-1 tvg-name="TBN Baltia" group-title="Religious",TBN Baltia
 https://secure-272717.tatnet.app/dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 
 #EXTINF:-1 tvg-name="KVF Sjónvarp" group-title="Faroe Islands",KVF Sjónvarp
@@ -41951,7 +41951,7 @@ https://secure-272717.tatnet.app/vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/pl
 #EXTINF:-1 tvg-name="Himlen TV7" group-title="Finland",Himlen TV7
 https://secure-272717.tatnet.app/vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MTV Uutiset Live" group-title="Finland",MTV Uutiset Live
+#EXTINF:-1 tvg-name="MTV Uutiset" group-title="News",MTV Uutiset
 https://secure-272717.tatnet.app/live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 
 #EXTINF:-1 tvg-name="När-TV Ⓢ" group-title="Finland",När-TV Ⓢ
@@ -41963,10 +41963,10 @@ https://secure-272717.tatnet.app/www.youtube.com/@SundomTV/live
 #EXTINF:-1 tvg-name="Wör TV Ⓨ" group-title="Finland",Wör TV Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/@wor-tvr.f.4461/live
 
-#EXTINF:-1 tvg-name="YleX Studio Live" group-title="Finland",YleX Studio Live
+#EXTINF:-1 tvg-name="YleX Studio Live" group-title="Music",YleX Studio Live
 https://secure-272717.tatnet.app/ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
 
-#EXTINF:-1 tvg-name="Järviradio TV" group-title="Finland",Järviradio TV
+#EXTINF:-1 tvg-name="JRTV Järviradio" group-title="Music",JRTV Järviradio
 https://secure-272717.tatnet.app/streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
 
 #EXTINF:-1 tvg-name="C8 Ⓓ" group-title="France",C8 Ⓓ
@@ -42014,7 +42014,7 @@ https://secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=Rustavi2
 #EXTINF:-1 tvg-name="Mtavari Arkhi" group-title="Georgia",Mtavari Arkhi
 https://secure-272717.tatnet.app/bozztv.com/36bay2/mtavariarxi/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Formula" group-title="Georgia",Formula
+#EXTINF:-1 tvg-name="Formula" group-title="News",Formula
 https://secure-272717.tatnet.app/c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 
 #EXTINF:-1 tvg-name="Pos TV" group-title="Georgia",Pos TV
@@ -42029,7 +42029,7 @@ https://secure-272717.tatnet.app/zdf-hls-15.akamaized.net/hls/live/2016498/de/ve
 #EXTINF:-1 tvg-name="3sat Ⓖ" group-title="Germany",3sat Ⓖ
 https://secure-272717.tatnet.app/zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="ARD Alpha Ⓖ" group-title="Germany",ARD Alpha Ⓖ
+#EXTINF:-1 tvg-name="ARD-alpha" group-title="Education",ARD-alpha
 https://secure-272717.tatnet.app/mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-name="SCHLAGER DELUXE" group-title="Germany",SCHLAGER DELUXE
@@ -42044,7 +42044,7 @@ https://secure-272717.tatnet.app/mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-name="Phoenix Ⓖ" group-title="Germany",Phoenix Ⓖ
 https://secure-272717.tatnet.app/zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="Tagesschau24" group-title="Germany",Tagesschau24
+#EXTINF:-1 tvg-name="Tagesschau 24" group-title="Undefined",Tagesschau 24
 https://secure-272717.tatnet.app/tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
 #EXTINF:-1 tvg-name="Welt" group-title="Germany",Welt
@@ -42056,7 +42056,7 @@ https://secure-272717.tatnet.app/zdf-hls-17.akamaized.net/hls/live/2016500/de/ve
 #EXTINF:-1 tvg-name="ZDFneo Ⓖ" group-title="Germany",ZDFneo Ⓖ
 https://secure-272717.tatnet.app/zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="BR Nord Ⓖ" group-title="Germany",BR Nord Ⓖ
+#EXTINF:-1 tvg-name="BR Fernsehen Nord" group-title="Undefined",BR Fernsehen Nord
 https://secure-272717.tatnet.app/mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-name="BR Süd Ⓖ" group-title="Germany",BR Süd Ⓖ
@@ -42074,40 +42074,40 @@ https://secure-272717.tatnet.app/mdrtvsahls.akamaized.net/hls/live/2016879/mdrtv
 #EXTINF:-1 tvg-name="MDR Thüringen Ⓖ" group-title="Germany",MDR Thüringen Ⓖ
 https://secure-272717.tatnet.app/mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 
-#EXTINF:-1 tvg-name="NDR Hamburg Ⓖ" group-title="Germany",NDR Hamburg Ⓖ
+#EXTINF:-1 tvg-name="NDR Hamburg" group-title="General",NDR Hamburg
 https://secure-272717.tatnet.app/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 
-#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern Ⓖ" group-title="Germany",NDR Mecklenburg-Vorpommern Ⓖ
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern" group-title="General",NDR Mecklenburg-Vorpommern
 https://secure-272717.tatnet.app/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 
-#EXTINF:-1 tvg-name="NDR Niedersachsen Ⓖ" group-title="Germany",NDR Niedersachsen Ⓖ
+#EXTINF:-1 tvg-name="NDR Niedersachsen" group-title="General",NDR Niedersachsen
 https://secure-272717.tatnet.app/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 
-#EXTINF:-1 tvg-name="NDR Schleswig-Holstein Ⓖ" group-title="Germany",NDR Schleswig-Holstein Ⓖ
+#EXTINF:-1 tvg-name="NDR Schleswig-Holstein" group-title="General",NDR Schleswig-Holstein
 https://secure-272717.tatnet.app/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 
-#EXTINF:-1 tvg-name="Radio Bremen Ⓖ" group-title="Germany",Radio Bremen Ⓖ
+#EXTINF:-1 tvg-name="Radio Bremen Fernsehen [Geo-blocked]" group-title="Undefined",Radio Bremen Fernsehen [Geo-blocked]
 https://secure-272717.tatnet.app/rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 
 #EXTINF:-1 tvg-name="RBB Berlin Ⓖ" group-title="Germany",RBB Berlin Ⓖ
 https://secure-272717.tatnet.app/rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 
-#EXTINF:-1 tvg-name="RBB Brandenburg Ⓖ" group-title="Germany",RBB Brandenburg Ⓖ
+#EXTINF:-1 tvg-name="RBB Brandenburg [Geo-blocked]" group-title="Undefined",RBB Brandenburg [Geo-blocked]
 https://secure-272717.tatnet.app/rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 
-#EXTINF:-1 tvg-name="SR Ⓖ" group-title="Germany",SR Ⓖ
+#EXTINF:-1 tvg-name="SR Fernsehen" group-title="Undefined",SR Fernsehen
 https://secure-272717.tatnet.app/srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 
 #EXTINF:-1 tvg-name="SWR Baden-Württemberg Ⓖ" group-title="Germany",SWR Baden-Württemberg Ⓖ
 https://secure-272717.tatnet.app/swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 
-#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz Ⓖ" group-title="Germany",SWR Rheinland-Pfalz Ⓖ
+#EXTINF:-1 tvg-name="SWR Fernsehen Rheinland-Pfalz [Geo-blocked]" group-title="Undefined",SWR Fernsehen Rheinland-Pfalz [Geo-blocked]
 https://secure-272717.tatnet.app/swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
-#EXTINF:-1 tvg-name="WDR Ⓖ" group-title="Germany",WDR Ⓖ
+#EXTINF:-1 tvg-name="WDR 1 Live" group-title="Entertainment",WDR 1 Live
 https://secure-272717.tatnet.app/wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 
-#EXTINF:-1 tvg-name="NDR International" group-title="Germany",NDR International
+#EXTINF:-1 tvg-name="NDR Fernsehen International" group-title="General",NDR Fernsehen International
 https://secure-272717.tatnet.app/ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 
 #EXTINF:-1 tvg-name="ERT 2 Ⓖ" group-title="Greece",ERT 2 Ⓖ
@@ -42125,7 +42125,7 @@ https://secure-272717.tatnet.app/lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc
 #EXTINF:-1 tvg-name="Star" group-title="Greece",Star
 https://secure-272717.tatnet.app/livestar.siliconweb.com/starvod/star4/star4.m3u8
 
-#EXTINF:-1 tvg-name="Star International" group-title="Greece",Star International
+#EXTINF:-1 tvg-name="STAR International" group-title="Entertainment",STAR International
 https://secure-272717.tatnet.app/livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 
 #EXTINF:-1 tvg-name="AlphaTV" group-title="Greece",AlphaTV
@@ -42203,7 +42203,7 @@ https://secure-272717.tatnet.app/neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:-1 tvg-name="Star Central Greece" group-title="Greece",Star Central Greece
 https://secure-272717.tatnet.app/telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash
 
-#EXTINF:-1 tvg-name="91NRG" group-title="Greece",91NRG
+#EXTINF:-1 tvg-name="NRG 91" group-title="Music",NRG 91
 https://secure-272717.tatnet.app/tv.nrg91.gr:1935/onweb/live/master.m3u8
 
 #EXTINF:-1 tvg-name="Thessalia" group-title="Greece",Thessalia
@@ -42212,7 +42212,7 @@ https://secure-272717.tatnet.app/thessaliachannel.gr:3339/live/thesstvlive.m3u8
 #EXTINF:-1 tvg-name="TRT" group-title="Greece",TRT
 https://secure-272717.tatnet.app/av.hellasnet.tv/rst/trt/index.m3u8
 
-#EXTINF:-1 tvg-name="Acheloos" group-title="Greece",Acheloos
+#EXTINF:-1 tvg-name="Acheloos TV (576p)" group-title="General",Acheloos TV (576p)
 https://secure-272717.tatnet.app/acheloostv.streamings.gr/live/stream/index.m3u8
 
 #EXTINF:-1 tvg-name="ART TV" group-title="Greece",ART TV
@@ -42221,7 +42221,7 @@ https://secure-272717.tatnet.app/rtmp.win:3696/live/arttvgrlive.m3u8
 #EXTINF:-1 tvg-name="Epirus TV 1" group-title="Greece",Epirus TV 1
 https://secure-272717.tatnet.app/rtmp.win:3929/live/epiruslive.m3u8
 
-#EXTINF:-1 tvg-name="Start" group-title="Greece",Start
+#EXTINF:-1 tvg-name="Start TV (480p)" group-title="News",Start TV (480p)
 https://secure-272717.tatnet.app/live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Center TV" group-title="Greece",Center TV
@@ -42263,10 +42263,10 @@ https://secure-272717.tatnet.app/www.youtube.com/@KNRgreenland/live
 #EXTINF:-1 tvg-name="KNR2 Ⓨ" group-title="Greenland",KNR2 Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/@nutaarsiassat/live
 
-#EXTINF:-1 tvg-name="RTHK TV 31" group-title="Hong Kong",RTHK TV 31
+#EXTINF:-1 tvg-name="RTHK TV 31 (港台電視31) [Geo-blocked]" group-title="Undefined",RTHK TV 31 (港台電視31) [Geo-blocked]
 https://secure-272717.tatnet.app/rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
-#EXTINF:-1 tvg-name="RTHK TV 32" group-title="Hong Kong",RTHK TV 32
+#EXTINF:-1 tvg-name="RTHK TV 32 (港台電視32) [Geo-blocked]" group-title="Undefined",RTHK TV 32 (港台電視32) [Geo-blocked]
 https://secure-272717.tatnet.app/rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
 #EXTINF:-1 tvg-name="HOY TV Ⓖ" group-title="Hong Kong",HOY TV Ⓖ
@@ -42296,7 +42296,7 @@ https://secure-272717.tatnet.app/live.apostoltv.hu/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio 1 Ⓨ" group-title="Hungary",Radio 1 Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/watch?v=I8dnZoF1nOE
 
-#EXTINF:-1 tvg-name="Dance TV" group-title="Hungary",Dance TV
+#EXTINF:-1 tvg-name="Dance Television" group-title="Music",Dance Television
 https://secure-272717.tatnet.app/m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" group-title="Hungary",Izaura TV
@@ -42413,7 +42413,7 @@ https://secure-272717.tatnet.app/ruv-web-live.akamaized.net/streymi/ruverl/ruver
 #EXTINF:-1 tvg-name="RÚV 2" group-title="Iceland",RÚV 2
 https://secure-272717.tatnet.app/ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 
-#EXTINF:-1 tvg-name="Alþingi" group-title="Iceland",Alþingi
+#EXTINF:-1 tvg-name="Althingi" group-title="Legislative",Althingi
 https://secure-272717.tatnet.app/althingi-live.secure.footprint.net/althingi/live/index.m3u8
 
 #EXTINF:-1 tvg-name="NDTV India" group-title="India",NDTV India
@@ -42467,7 +42467,7 @@ https://secure-272717.tatnet.app/mbnvvideoingest-i.akamaihd.net/hls/live/1004674
 #EXTINF:-1 tvg-name="Al-Hurra" group-title="Iraq",Al-Hurra
 https://secure-272717.tatnet.app/mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Al-Iraqiya" group-title="Iraq",Al-Iraqiya
+#EXTINF:-1 tvg-name="Al Iraqia [Geo-blocked]" group-title="General",Al Iraqia [Geo-blocked]
 https://secure-272717.tatnet.app/cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Al-Rafidain" group-title="Iraq",Al-Rafidain
@@ -42476,7 +42476,7 @@ https://secure-272717.tatnet.app/cdg8.edge.technocdn.com/arrafidaintv/abr_live/p
 #EXTINF:-1 tvg-name="Al-Rasheed" group-title="Iraq",Al-Rasheed
 https://secure-272717.tatnet.app/media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Al-Sharqiya" group-title="Iraq",Al-Sharqiya
+#EXTINF:-1 tvg-name="Al-Sharqiya" group-title="General",Al-Sharqiya
 https://secure-272717.tatnet.app/5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Dijlah Tarab" group-title="Iraq",Dijlah Tarab
@@ -42491,7 +42491,7 @@ https://secure-272717.tatnet.app/streaming.viewmedia.tv/viewsatstream40/viewsats
 #EXTINF:-1 tvg-name="Turkmeneli TV" group-title="Iraq",Turkmeneli TV
 https://secure-272717.tatnet.app/137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Zagros TV" group-title="Iraq",Zagros TV
+#EXTINF:-1 tvg-name="Zagros" group-title="General",Zagros
 https://secure-272717.tatnet.app/5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TG4" group-title="Ireland",TG4
@@ -42572,7 +42572,7 @@ https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-c
 #EXTINF:-1 tvg-name="27 Twentyseven Ⓖ" group-title="Italy",27 Twentyseven Ⓖ
 https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="TV 2000" group-title="Italy",TV 2000
+#EXTINF:-1 tvg-name="TV 2000" group-title="Religious",TV 2000
 https://secure-272717.tatnet.app/hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-name="La7 Cinema" group-title="Italy",La7 Cinema
@@ -42584,7 +42584,7 @@ https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-c
 #EXTINF:-1 tvg-name="Real Time" group-title="Italy",Real Time
 https://secure-272717.tatnet.app/d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 
-#EXTINF:-1 tvg-name="QVC" group-title="Italy",QVC
+#EXTINF:-1 tvg-name="QVC Italia (540p)" group-title="Shop",QVC Italia (540p)
 https://secure-272717.tatnet.app/qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
 #EXTINF:-1 tvg-name="Food Network" group-title="Italy",Food Network
@@ -42614,7 +42614,7 @@ https://secure-272717.tatnet.app/d6m7lubks416z.cloudfront.net/v1/master/3722c60a
 #EXTINF:-1 tvg-name="Cartoonito Ⓖ" group-title="Italy",Cartoonito Ⓖ
 https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="Super!" group-title="Italy",Super!
+#EXTINF:-1 tvg-name="Super!" group-title="Undefined",Super!
 https://secure-272717.tatnet.app/495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Italia 2 Ⓖ" group-title="Italy",Italia 2 Ⓖ
@@ -42632,7 +42632,7 @@ https://secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-c
 #EXTINF:-1 tvg-name="HGTV – Home & Garden Tv" group-title="Italy",HGTV – Home & Garden Tv
 https://secure-272717.tatnet.app/d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 
-#EXTINF:-1 tvg-name="Travel TV" group-title="Italy",Travel TV
+#EXTINF:-1 tvg-name="Gold TV Sat (576p)" group-title="Entertainment",Gold TV Sat (576p)
 https://secure-272717.tatnet.app/streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Donna TV Ⓢ" group-title="Italy",Donna TV Ⓢ
@@ -42650,7 +42650,7 @@ https://secure-272717.tatnet.app/live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-c
 #EXTINF:-1 tvg-name="R101 TV Ⓖ" group-title="Italy",R101 TV Ⓖ
 https://secure-272717.tatnet.app/live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="Deejay TV" group-title="Italy",Deejay TV
+#EXTINF:-1 tvg-name="Deejay TV" group-title="General",Deejay TV
 https://secure-272717.tatnet.app/4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RadioItaliaTV" group-title="Italy",RadioItaliaTV
@@ -42665,7 +42665,7 @@ https://secure-272717.tatnet.app/c65b9e710bde44819015af98e72cd7ab.msvdn.net/live
 #EXTINF:-1 tvg-name="Radio24-IlSole24OreTV" group-title="Italy",Radio24-IlSole24OreTV
 https://secure-272717.tatnet.app/ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 
-#EXTINF:-1 tvg-name="BeJoy.Kids" group-title="Italy",BeJoy.Kids
+#EXTINF:-1 tvg-name="BeJoy.kids" group-title="Kids",BeJoy.kids
 https://secure-272717.tatnet.app/64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RadioFreccia" group-title="Italy",RadioFreccia
@@ -42689,16 +42689,16 @@ https://secure-272717.tatnet.app/live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-c
 #EXTINF:-1 tvg-name="Virgin Radio TV Ⓖ" group-title="Italy",Virgin Radio TV Ⓖ
 https://secure-272717.tatnet.app/live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="Senato TV" group-title="Italy",Senato TV
+#EXTINF:-1 tvg-name="Senato TV" group-title="Legislative",Senato TV
 https://secure-272717.tatnet.app/senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Camera dei Deputati Ⓢ" group-title="Italy",Camera dei Deputati Ⓢ
+#EXTINF:-1 tvg-name="Camera dei Deputati (via RR) (240p)" group-title="Legislative",Camera dei Deputati (via RR) (240p)
 https://secure-272717.tatnet.app/video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="111 Tv" group-title="Italy",111 Tv
+#EXTINF:-1 tvg-name="111 TV" group-title="General",111 TV
 https://secure-272717.tatnet.app/5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 
-#EXTINF:-1 tvg-name="12 Tv Parma" group-title="Italy",12 Tv Parma
+#EXTINF:-1 tvg-name="12 TV Parma (540p)" group-title="General",12 TV Parma (540p)
 https://secure-272717.tatnet.app/5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="4 You Tv" group-title="Italy",4 You Tv
@@ -42707,10 +42707,10 @@ https://secure-272717.tatnet.app/streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 #EXTINF:-1 tvg-name="Alpauno" group-title="Italy",Alpauno
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Alto Adige Tv" group-title="Italy",Alto Adige Tv
+#EXTINF:-1 tvg-name="Alto Adige TV" group-title="General",Alto Adige TV
 https://secure-272717.tatnet.app/5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Antenna 2 Bergamo" group-title="Italy",Antenna 2 Bergamo
+#EXTINF:-1 tvg-name="Antenna 2 TV" group-title="General",Antenna 2 TV
 https://secure-272717.tatnet.app/58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Antenna 3 Massa" group-title="Italy",Antenna 3 Massa
@@ -42731,13 +42731,13 @@ https://secure-272717.tatnet.app/77.68.40.210:8888/hls/basilicata1.m3u8
 #EXTINF:-1 tvg-name="Bergamo Tv" group-title="Italy",Bergamo Tv
 https://secure-272717.tatnet.app/db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-name="BOM Channel" group-title="Italy",BOM Channel
+#EXTINF:-1 tvg-name="Bom Channel" group-title="General",Bom Channel
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ByoBlu" group-title="Italy",ByoBlu
 https://secure-272717.tatnet.app/09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Cafe Tv 24" group-title="Italy",Cafe Tv 24
+#EXTINF:-1 tvg-name="CafeTV24" group-title="Undefined",CafeTV24
 https://secure-272717.tatnet.app/srvx1.selftv.video/cafe/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Calabria Uno Tv" group-title="Italy",Calabria Uno Tv
@@ -42749,13 +42749,13 @@ https://secure-272717.tatnet.app/64b16f23efbee.streamlock.net/calabriatv-clone/c
 #EXTINF:-1 tvg-name="Canale 10" group-title="Italy",Canale 10
 https://secure-272717.tatnet.app/nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canale 2" group-title="Italy",Canale 2
+#EXTINF:-1 tvg-name="Canale 2 Altamura (576p)" group-title="General",Canale 2 Altamura (576p)
 https://secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canale 21" group-title="Italy",Canale 21
 https://secure-272717.tatnet.app/0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canale 21 Extra" group-title="Italy",Canale 21 Extra
+#EXTINF:-1 tvg-name="Canale 21 Extra (576p)" group-title="General",Canale 21 Extra (576p)
 https://secure-272717.tatnet.app/0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canale 7" group-title="Italy",Canale 7
@@ -42773,7 +42773,7 @@ https://secure-272717.tatnet.app/ovp-live.akamaized.net/ac115_live/canale1.smil/
 #EXTINF:-1 tvg-name="Carina Tv" group-title="Italy",Carina Tv
 https://secure-272717.tatnet.app/samson.streamerr.co:8081/carinatv/index.m3u8
 
-#EXTINF:-1 tvg-name="Casa Italia 53" group-title="Italy",Casa Italia 53
+#EXTINF:-1 tvg-name="Casa Italia 53" group-title="Shop",Casa Italia 53
 https://secure-272717.tatnet.app/ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Casa Sanremo Tv" group-title="Italy",Casa Sanremo Tv
@@ -42788,25 +42788,25 @@ https://secure-272717.tatnet.app/company.fluid.stream/CompanyTV/smil:Company_ALL
 #EXTINF:-1 tvg-name="Cremona 1" group-title="Italy",Cremona 1
 https://secure-272717.tatnet.app/cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Cusano Italia Tv" group-title="Italy",Cusano Italia Tv
+#EXTINF:-1 tvg-name="Cusano Italia TV" group-title="General",Cusano Italia TV
 https://secure-272717.tatnet.app/router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Delta Tv" group-title="Italy",Delta Tv
 https://secure-272717.tatnet.app/hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
 
-#EXTINF:-1 tvg-name="Deluxe 139" group-title="Italy",Deluxe 139
+#EXTINF:-1 tvg-name="Deluxe 139 (480p)" group-title="Undefined",Deluxe 139 (480p)
 https://secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Di.Tv 92" group-title="Italy",Di.Tv 92
 https://secure-272717.tatnet.app/media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Digital Tv7 Benevento" group-title="Italy",Digital Tv7 Benevento
+#EXTINF:-1 tvg-name="TV7 Benevento (288p)" group-title="Undefined",TV7 Benevento (288p)
 https://secure-272717.tatnet.app/streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Donna Shopping Tv" group-title="Italy",Donna Shopping Tv
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="E'live Brescia Tv" group-title="Italy",E'live Brescia Tv
+#EXTINF:-1 tvg-name="Elive TV Brescia" group-title="General",Elive TV Brescia
 https://secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Easy Tv Canale 190" group-title="Italy",Easy Tv Canale 190
@@ -42827,19 +42827,19 @@ https://secure-272717.tatnet.app/srvx1.selftv.video/espansione/smil:live.smil/pl
 #EXTINF:-1 tvg-name="Esperia Tv" group-title="Italy",Esperia Tv
 https://secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Etna Espresso Channel" group-title="Italy",Etna Espresso Channel
+#EXTINF:-1 tvg-name="Etna Espresso Channel" group-title="News",Etna Espresso Channel
 https://secure-272717.tatnet.app/5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 
-#EXTINF:-1 tvg-name="è Tv Marche" group-title="Italy",è Tv Marche
+#EXTINF:-1 tvg-name="èTv Marche" group-title="News",èTv Marche
 https://secure-272717.tatnet.app/live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="è Tv Rete7" group-title="Italy",è Tv Rete7
+#EXTINF:-1 tvg-name="èTv Rete 7" group-title="News",èTv Rete 7
 https://secure-272717.tatnet.app/live.ipstream.it/etv/etv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="è Tv Umbria" group-title="Italy",è Tv Umbria
 https://secure-272717.tatnet.app/live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Euro Tv" group-title="Italy",Euro Tv
+#EXTINF:-1 tvg-name="Euro TV" group-title="Undefined",Euro TV
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Extra Tv" group-title="Italy",Extra Tv
@@ -42860,7 +42860,7 @@ https://secure-272717.tatnet.app/webstream.multistream.it/memfs/a3195c96-f884-4c
 #EXTINF:-1 tvg-name="GarganoTv" group-title="Italy",GarganoTv
 https://secure-272717.tatnet.app/cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Giornale Radio Tv" group-title="Italy",Giornale Radio Tv
+#EXTINF:-1 tvg-name="Giornale Radio TV" group-title="News",Giornale Radio TV
 https://secure-272717.tatnet.app/5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Giovanni Paolo Tv" group-title="Italy",Giovanni Paolo Tv
@@ -42869,13 +42869,13 @@ https://secure-272717.tatnet.app/media2021.rtvweb.com/giovannipaolotv/web/chunkl
 #EXTINF:-1 tvg-name="Globus Television" group-title="Italy",Globus Television
 https://secure-272717.tatnet.app/cdn.cubws.com/live/globus.m3u8
 
-#EXTINF:-1 tvg-name="Gold Tv" group-title="Italy",Gold Tv
+#EXTINF:-1 tvg-name="Gold TV (576p)" group-title="Entertainment",Gold TV (576p)
 https://secure-272717.tatnet.app/streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="GS Channel" group-title="Italy",GS Channel
 https://secure-272717.tatnet.app/rst.saiuzwebnetwork.it:8081/retereggio/index.m3u8
 
-#EXTINF:-1 tvg-name="Icaro Tv Rimini" group-title="Italy",Icaro Tv Rimini
+#EXTINF:-1 tvg-name="Icaro TV" group-title="General",Icaro TV
 https://secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Idea Plus" group-title="Italy",Idea Plus
@@ -42884,7 +42884,7 @@ https://secure-272717.tatnet.app/rst.saiuzwebnetwork.it:19360/teleidea/teleidea.
 #EXTINF:-1 tvg-name="il61" group-title="Italy",il61
 https://secure-272717.tatnet.app/5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Italia 2 Tv" group-title="Italy",Italia 2 Tv
+#EXTINF:-1 tvg-name="Italia 2 (480p) [Geo-blocked]" group-title="Entertainment",Italia 2 (480p) [Geo-blocked]
 https://secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Italia 7" group-title="Italy",Italia 7
@@ -42899,7 +42899,7 @@ https://secure-272717.tatnet.app/stream1.aswifi.it/italiachannel/stream/index.m3
 #EXTINF:-1 tvg-name="Iunior Tv" group-title="Italy",Iunior Tv
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="L'Altro Corriere Tv" group-title="Italy",L'Altro Corriere Tv
+#EXTINF:-1 tvg-name="L'altro Corriere TV" group-title="News",L'altro Corriere TV
 https://secure-272717.tatnet.app/stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="La Nuova Tv" group-title="Italy",La Nuova Tv
@@ -42908,10 +42908,10 @@ https://secure-272717.tatnet.app/5dcabf026b188.streamlock.net/lanuovatvbas/lives
 #EXTINF:-1 tvg-name="La Tenda Tv" group-title="Italy",La Tenda Tv
 https://secure-272717.tatnet.app/2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="La tr3 Marsala" group-title="Italy",La tr3 Marsala
+#EXTINF:-1 tvg-name="La TR3 Marsala" group-title="General",La TR3 Marsala
 https://secure-272717.tatnet.app/tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="LaC Tv Calabria" group-title="Italy",LaC Tv Calabria
+#EXTINF:-1 tvg-name="La C TV" group-title="General",La C TV
 https://secure-272717.tatnet.app/f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Lab Tv" group-title="Italy",Lab Tv
@@ -42935,7 +42935,7 @@ https://secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/loveinvenice/lovei
 #EXTINF:-1 tvg-name="Lucania Tv" group-title="Italy",Lucania Tv
 https://secure-272717.tatnet.app/cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Made in BO" group-title="Italy",Made in BO
+#EXTINF:-1 tvg-name="MadeinBO TV" group-title="Sports",MadeinBO TV
 https://secure-272717.tatnet.app/srvx1.selftv.video/dmchannel/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Maria Vision" group-title="Italy",Maria Vision
@@ -42947,7 +42947,7 @@ https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/GrandeItalia/Grand
 #EXTINF:-1 tvg-name="Mediterranea Tv" group-title="Italy",Mediterranea Tv
 https://secure-272717.tatnet.app/stream1.aswifi.it/mediterraneatv/live/index.m3u8
 
-#EXTINF:-1 tvg-name="Medjugorje Italia Tv" group-title="Italy",Medjugorje Italia Tv
+#EXTINF:-1 tvg-name="Medjugorje Italia TV (480p)" group-title="Religious",Medjugorje Italia TV (480p)
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Medjugorje Tv Puglia" group-title="Italy",Medjugorje Tv Puglia
@@ -42962,7 +42962,7 @@ https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/servizio01/servizi
 #EXTINF:-1 tvg-name="NTI Canale 271" group-title="Italy",NTI Canale 271
 https://secure-272717.tatnet.app/www.ntimedia.it/video/S0B/S0B_master.m3u8
 
-#EXTINF:-1 tvg-name="Nuova TV Nazionale" group-title="Italy",Nuova TV Nazionale
+#EXTINF:-1 tvg-name="NTN" group-title="General",NTN
 https://secure-272717.tatnet.app/stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Nuova Tv 1" group-title="Italy",Nuova Tv 1
@@ -42992,25 +42992,25 @@ https://secure-272717.tatnet.app/178.33.224.197:1935/ondaradioweb/ondaradioweb/p
 #EXTINF:-1 tvg-name="Ora Tv" group-title="Italy",Ora Tv
 https://secure-272717.tatnet.app/5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Orler Tv" group-title="Italy",Orler Tv
+#EXTINF:-1 tvg-name="Orler TV (420p)" group-title="Culture",Orler TV (420p)
 https://secure-272717.tatnet.app/w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Otto Channel" group-title="Italy",Otto Channel
+#EXTINF:-1 tvg-name="Otto Channel (480p)" group-title="General",Otto Channel (480p)
 https://secure-272717.tatnet.app/ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Padre Pio Tv" group-title="Italy",Padre Pio Tv
+#EXTINF:-1 tvg-name="Padre Pio TV" group-title="Religious",Padre Pio TV
 https://secure-272717.tatnet.app/600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Paradise Tv" group-title="Italy",Paradise Tv
+#EXTINF:-1 tvg-name="Paradise TV [Geo-blocked]" group-title="Undefined",Paradise TV [Geo-blocked]
 https://secure-272717.tatnet.app/tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Parole di Vita" group-title="Italy",Parole di Vita
+#EXTINF:-1 tvg-name="Parole di Vita" group-title="Religious",Parole di Vita
 https://secure-272717.tatnet.app/64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Peer Tv Alto Adige" group-title="Italy",Peer Tv Alto Adige
+#EXTINF:-1 tvg-name="Peer TV Alto Adige (1280p)" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
 https://secure-272717.tatnet.app/iptv.peer.biz/live/peertv-it.m3u8
 
-#EXTINF:-1 tvg-name="Peer TV Südtirol" group-title="Italy",Peer TV Südtirol
+#EXTINF:-1 tvg-name="Peer TV Südtirol" group-title="Outdoor;Travel",Peer TV Südtirol
 https://secure-272717.tatnet.app/iptv.peer.biz/live/peertv.m3u8
 
 #EXTINF:-1 tvg-name="Pop Tv" group-title="Italy",Pop Tv
@@ -43019,19 +43019,19 @@ https://secure-272717.tatnet.app/stream1.aswifi.it/poptelevision/live/index.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Napoli" group-title="Italy",Prima Tv Napoli
 https://secure-272717.tatnet.app/57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Prima Tv Sicilia" group-title="Italy",Prima Tv Sicilia
+#EXTINF:-1 tvg-name="Prima TV Sicilia" group-title="General",Prima TV Sicilia
 https://secure-272717.tatnet.app/5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PrimaFREE" group-title="Italy",PrimaFREE
+#EXTINF:-1 tvg-name="PrimaFree" group-title="General",PrimaFree
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Primantenna Torino" group-title="Italy",Primantenna Torino
+#EXTINF:-1 tvg-name="PrimAntenna TV" group-title="General",PrimAntenna TV
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Primocanale" group-title="Italy",Primocanale
+#EXTINF:-1 tvg-name="Primocanale" group-title="Undefined",Primocanale
 https://secure-272717.tatnet.app/msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Promovideo Tv" group-title="Italy",Promovideo Tv
+#EXTINF:-1 tvg-name="Promovideo TV (486p)" group-title="General",Promovideo TV (486p)
 https://secure-272717.tatnet.app/media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Quarto Canale Flegreo" group-title="Italy",Quarto Canale Flegreo
@@ -43085,7 +43085,7 @@ https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/RanFriul/RanFriul/
 #EXTINF:-1 tvg-name="RDE Tv" group-title="Italy",RDE Tv
 https://secure-272717.tatnet.app/rst2.saiuzwebnetwork.it:8081/rdetrieste/index.m3u8
 
-#EXTINF:-1 tvg-name="Reggio Tv" group-title="Italy",Reggio Tv
+#EXTINF:-1 tvg-name="ReggioTV (480p)" group-title="Undefined",ReggioTV (480p)
 https://secure-272717.tatnet.app/cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rete 55" group-title="Italy",Rete 55
@@ -43094,22 +43094,22 @@ https://secure-272717.tatnet.app/live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:-1 tvg-name="Rete 8 Vga" group-title="Italy",Rete 8 Vga
 https://secure-272717.tatnet.app/604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rete 8" group-title="Italy",Rete 8
+#EXTINF:-1 tvg-name="Rete 8" group-title="General",Rete 8
 https://secure-272717.tatnet.app/64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rete Biella Tv" group-title="Italy",Rete Biella Tv
+#EXTINF:-1 tvg-name="Rete Biella TV" group-title="Undefined",Rete Biella TV
 https://secure-272717.tatnet.app/sb.top-ix.org/retebiella/streaming/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rete Mia" group-title="Italy",Rete Mia
 https://secure-272717.tatnet.app/5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rete Oro Tv" group-title="Italy",Rete Oro Tv
+#EXTINF:-1 tvg-name="Rete Oro" group-title="Undefined",Rete Oro
 https://secure-272717.tatnet.app/5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rete Sole" group-title="Italy",Rete Sole
 https://secure-272717.tatnet.app/5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rete Tv Italia" group-title="Italy",Rete Tv Italia
+#EXTINF:-1 tvg-name="Rete TV Italia" group-title="General",Rete TV Italia
 https://secure-272717.tatnet.app/57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rete Veneta" group-title="Italy",Rete Veneta
@@ -43127,7 +43127,7 @@ https://secure-272717.tatnet.app/w1.mediastreaming.it/calabriachannel/livestream
 #EXTINF:-1 tvg-name="RTI Calabria" group-title="Italy",RTI Calabria
 https://secure-272717.tatnet.app/stream.ets-sistemi.it:8081/rticalabria/index.m3u8
 
-#EXTINF:-1 tvg-name="RTM Manduria" group-title="Italy",RTM Manduria
+#EXTINF:-1 tvg-name="RTM TV" group-title="General",RTM TV
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTR99 Tv" group-title="Italy",RTR99 Tv
@@ -43136,16 +43136,16 @@ https://secure-272717.tatnet.app/5e73cf528f404.streamlock.net/RTR99TV/livestream
 #EXTINF:-1 tvg-name="Rtp Tv" group-title="Italy",Rtp Tv
 https://secure-272717.tatnet.app/flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rttr" group-title="Italy",Rttr
+#EXTINF:-1 tvg-name="RTTR Trento" group-title="Undefined",RTTR Trento
 https://secure-272717.tatnet.app/5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rtv 38 Toscana" group-title="Italy",Rtv 38 Toscana
 https://secure-272717.tatnet.app/845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-name="SL 48 Tv" group-title="Italy",SL 48 Tv
+#EXTINF:-1 tvg-name="SL48 TV (576p)" group-title="Music",SL48 TV (576p)
 https://secure-272717.tatnet.app/media.velcom.it:1935/sl48/sl48/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ST Europe Channel" group-title="Italy",ST Europe Channel
+#EXTINF:-1 tvg-name="ST Europe Channel" group-title="Entertainment",ST Europe Channel
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sardegna 1" group-title="Italy",Sardegna 1
@@ -43166,7 +43166,7 @@ https://secure-272717.tatnet.app/stream9.xdevel.com/video0s976441-1226/stream/pl
 #EXTINF:-1 tvg-name="Sienatv" group-title="Italy",Sienatv
 https://secure-272717.tatnet.app/router.xdevel.com/video0s976727-1441/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sophia Tv" group-title="Italy",Sophia Tv
+#EXTINF:-1 tvg-name="Sophia TV Italy" group-title="Undefined",Sophia TV Italy
 https://secure-272717.tatnet.app/bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Stiletv" group-title="Italy",Stiletv
@@ -43175,13 +43175,13 @@ https://secure-272717.tatnet.app/proxy.media.convergenze.it/stiletv/streams/oQOF
 #EXTINF:-1 tvg-name="Super J Tv" group-title="Italy",Super J Tv
 https://secure-272717.tatnet.app/59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Super Six" group-title="Italy",Super Six
+#EXTINF:-1 tvg-name="SuperSix Lombardia" group-title="General",SuperSix Lombardia
 https://secure-272717.tatnet.app/5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Supertv" group-title="Italy",Supertv
 https://secure-272717.tatnet.app/wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 
-#EXTINF:-1 tvg-name="T9" group-title="Italy",T9
+#EXTINF:-1 tvg-name="T9 (288p)" group-title="General",T9 (288p)
 https://secure-272717.tatnet.app/streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRC Santeramo" group-title="Italy",TRC Santeramo
@@ -43190,7 +43190,7 @@ https://secure-272717.tatnet.app/stream7.livinlive.it/trc/trc/playlist.m3u8
 #EXTINF:-1 tvg-name="TRL Tele Radio Leo" group-title="Italy",TRL Tele Radio Leo
 https://secure-272717.tatnet.app/5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TSD Tv Arezzo(Tele San Domenico)" group-title="Italy",TSD Tv Arezzo(Tele San Domenico)
+#EXTINF:-1 tvg-name="TeleSanDomenico" group-title="Religious",TeleSanDomenico
 https://secure-272717.tatnet.app/stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TVL (TV Libera Pistoia)" group-title="Italy",TVL (TV Libera Pistoia)
@@ -43202,13 +43202,13 @@ https://secure-272717.tatnet.app/stream10.xdevel.com/video1s977294-1864/stream/p
 #EXTINF:-1 tvg-name="Tci" group-title="Italy",Tci
 https://secure-272717.tatnet.app/tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
 
-#EXTINF:-1 tvg-name="Teatro Tv" group-title="Italy",Teatro Tv
+#EXTINF:-1 tvg-name="Teatro TV" group-title="Culture",Teatro TV
 https://secure-272717.tatnet.app/m.iostream.it/hls/teatrotv/teatrotv.m3u8
 
 #EXTINF:-1 tvg-name="Tele A" group-title="Italy",Tele A
 https://secure-272717.tatnet.app/lostream.it/hls/telea/video.m3u8
 
-#EXTINF:-1 tvg-name="Tele Abruzzo Tv" group-title="Italy",Tele Abruzzo Tv
+#EXTINF:-1 tvg-name="Tele Abruzzo (384p)" group-title="Undefined",Tele Abruzzo (384p)
 https://secure-272717.tatnet.app/uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele Acras" group-title="Italy",Tele Acras
@@ -43229,22 +43229,22 @@ https://secure-272717.tatnet.app/stream7.xdevel.com/video0s976425-1244/stream/pl
 #EXTINF:-1 tvg-name="Tele Bruzzano" group-title="Italy",Tele Bruzzano
 https://secure-272717.tatnet.app/playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
 
-#EXTINF:-1 tvg-name="Tele Chiara" group-title="Italy",Tele Chiara
+#EXTINF:-1 tvg-name="Telechiara" group-title="General",Telechiara
 https://secure-272717.tatnet.app/fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Telecolor" group-title="Italy",Telecolor
+#EXTINF:-1 tvg-name="Telecolor Lombardia" group-title="Undefined",Telecolor Lombardia
 https://secure-272717.tatnet.app/1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele Cupole" group-title="Italy",Tele Cupole
 https://secure-272717.tatnet.app/nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tele Estense" group-title="Italy",Tele Estense
+#EXTINF:-1 tvg-name="Telestense" group-title="General",Telestense
 https://secure-272717.tatnet.app/5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele Foggia" group-title="Italy",Tele Foggia
 https://secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tele Friuli" group-title="Italy",Tele Friuli
+#EXTINF:-1 tvg-name="Telefriuli" group-title="Undefined",Telefriuli
 https://secure-272717.tatnet.app/5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele Ischia" group-title="Italy",Tele Ischia
@@ -43259,16 +43259,16 @@ https://secure-272717.tatnet.app/streaming.liberta.it/hls/liberta.m3u8
 #EXTINF:-1 tvg-name="Tele Liguria Sud" group-title="Italy",Tele Liguria Sud
 https://secure-272717.tatnet.app/64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tele Mantova" group-title="Italy",Tele Mantova
+#EXTINF:-1 tvg-name="Telemantova" group-title="General",Telemantova
 https://secure-272717.tatnet.app/5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tele Mia" group-title="Italy",Tele Mia
+#EXTINF:-1 tvg-name="TeleMia (576p)" group-title="Undefined",TeleMia (576p)
 https://secure-272717.tatnet.app/playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
 
-#EXTINF:-1 tvg-name="Tele Mia Extra" group-title="Italy",Tele Mia Extra
+#EXTINF:-1 tvg-name="TeleMia Extra (576p)" group-title="Undefined",TeleMia Extra (576p)
 https://secure-272717.tatnet.app/playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
 
-#EXTINF:-1 tvg-name="Tele Mistretta" group-title="Italy",Tele Mistretta
+#EXTINF:-1 tvg-name="TeleMistretta" group-title="Undefined",TeleMistretta
 https://secure-272717.tatnet.app/live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele Molise" group-title="Italy",Tele Molise
@@ -43286,16 +43286,16 @@ https://secure-272717.tatnet.app/stream9.xdevel.com/video0s976532-1292/stream/pl
 #EXTINF:-1 tvg-name="Tele Oltre" group-title="Italy",Tele Oltre
 https://secure-272717.tatnet.app/1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
 
-#EXTINF:-1 tvg-name="Tele One" group-title="Italy",Tele One
+#EXTINF:-1 tvg-name="Tele One 16" group-title="General",Tele One 16
 https://secure-272717.tatnet.app/648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tele Pace Trento" group-title="Italy",Tele Pace Trento
+#EXTINF:-1 tvg-name="Telepace Trento (540p)" group-title="Religious",Telepace Trento (540p)
 https://secure-272717.tatnet.app/5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele Pavia" group-title="Italy",Tele Pavia
 https://secure-272717.tatnet.app/wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 
-#EXTINF:-1 tvg-name="Tele Pegaso" group-title="Italy",Tele Pegaso
+#EXTINF:-1 tvg-name="Tele Pegaso Catania (404p)" group-title="Undefined",Tele Pegaso Catania (404p)
 https://secure-272717.tatnet.app/flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele Piadena" group-title="Italy",Tele Piadena
@@ -43310,16 +43310,16 @@ https://secure-272717.tatnet.app/wms.shared.streamshow.it/telequattro/telequattr
 #EXTINF:-1 tvg-name="Tele Radio Ercolano" group-title="Italy",Tele Radio Ercolano
 https://secure-272717.tatnet.app/rst.saiuzwebnetwork.it:19360/teleradioercolano-1/teleradioercolano-1.m3u8
 
-#EXTINF:-1 tvg-name="Tele Radio Pace 1" group-title="Italy",Tele Radio Pace 1
+#EXTINF:-1 tvg-name="Telepace 1" group-title="Religious",Telepace 1
 https://secure-272717.tatnet.app/jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tele Radio Pace 2" group-title="Italy",Tele Radio Pace 2
+#EXTINF:-1 tvg-name="Telepace 2" group-title="Culture;Religious",Telepace 2
 https://secure-272717.tatnet.app/zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tele Radio Pace 3" group-title="Italy",Tele Radio Pace 3
+#EXTINF:-1 tvg-name="Telepace 3" group-title="Education;Religious",Telepace 3
 https://secure-272717.tatnet.app/932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tele Radio Pace 4" group-title="Italy",Tele Radio Pace 4
+#EXTINF:-1 tvg-name="Telepace 4" group-title="Religious",Telepace 4
 https://secure-272717.tatnet.app/j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele Radio Orte" group-title="Italy",Tele Radio Orte
@@ -43337,7 +43337,7 @@ https://secure-272717.tatnet.app/rtm.cyberspazio.cloud:5443/LiveApp/streams/0492
 #EXTINF:-1 tvg-name="Tele Sud Puglia" group-title="Italy",Tele Sud Puglia
 https://secure-272717.tatnet.app/64b16f23efbee.streamlock.net/telesud/telesud/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tele Tricolore" group-title="Italy",Tele Tricolore
+#EXTINF:-1 tvg-name="Teletricolore (480p)" group-title="Undefined",Teletricolore (480p)
 https://secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele Tutto" group-title="Italy",Tele Tutto
@@ -43394,13 +43394,13 @@ https://secure-272717.tatnet.app/telejato.liberotratto.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Teleleonessa" group-title="Italy",Teleleonessa
 https://secure-272717.tatnet.app/wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8
 
-#EXTINF:-1 tvg-name="TeleMajg" group-title="Italy",TeleMajg
+#EXTINF:-1 tvg-name="TeleMajg (480p)" group-title="General",TeleMajg (480p)
 https://secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Telenova" group-title="Italy",Telenova
+#EXTINF:-1 tvg-name="Telenova" group-title="Undefined",Telenova
 https://secure-272717.tatnet.app/64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Telerama" group-title="Italy",Telerama
+#EXTINF:-1 tvg-name="TeleRama (576p)" group-title="General",TeleRama (576p)
 https://secure-272717.tatnet.app/58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TeleRegione" group-title="Italy",TeleRegione
@@ -43415,10 +43415,10 @@ https://secure-272717.tatnet.app/router.xdevel.com/video0s86-21/stream/playlist.
 #EXTINF:-1 tvg-name="Telereporter" group-title="Italy",Telereporter
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Teleromagna" group-title="Italy",Teleromagna
+#EXTINF:-1 tvg-name="Teleromagna (480p)" group-title="General",Teleromagna (480p)
 https://secure-272717.tatnet.app/livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Teleromagna 24" group-title="Italy",Teleromagna 24
+#EXTINF:-1 tvg-name="TR Sport (480p)" group-title="Sports",TR Sport (480p)
 https://secure-272717.tatnet.app/livetr.teleromagna.it/mia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TeleRomaDue" group-title="Italy",TeleRomaDue
@@ -43436,16 +43436,16 @@ https://secure-272717.tatnet.app/stream.ets-sistemi.it:19360/teleuniverso/teleun
 #EXTINF:-1 tvg-name="Televallo Trapani" group-title="Italy",Televallo Trapani
 https://secure-272717.tatnet.app/64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TG Norba 24" group-title="Italy",TG Norba 24
+#EXTINF:-1 tvg-name="TG Norba 24 (404p)" group-title="Undefined",TG Norba 24 (404p)
 https://secure-272717.tatnet.app/router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-name="TLT Molise" group-title="Italy",TLT Molise
+#EXTINF:-1 tvg-name="TLT Molise" group-title="General",TLT Molise
 https://secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tremedia Tv" group-title="Italy",Tremedia Tv
 https://secure-272717.tatnet.app/stream4.xdevel.com/video0s976062-1263/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-name="Trentino Tv" group-title="Italy",Trentino Tv
+#EXTINF:-1 tvg-name="Trentino TV" group-title="Undefined",Trentino TV
 https://secure-272717.tatnet.app/5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tuscia Sabina 2000Tv" group-title="Italy",Tuscia Sabina 2000Tv
@@ -43463,16 +43463,16 @@ https://secure-272717.tatnet.app/diretta.arcapuglia.it:8080/live/teleluna/index.
 #EXTINF:-1 tvg-name="Tv Prato" group-title="Italy",Tv Prato
 https://secure-272717.tatnet.app/live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
 
-#EXTINF:-1 tvg-name="Tv Qui Modena" group-title="Italy",Tv Qui Modena
+#EXTINF:-1 tvg-name="TV Qui (Modena) (480p)" group-title="Undefined",TV Qui (Modena) (480p)
 https://secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tv Uno" group-title="Italy",Tv Uno
 https://secure-272717.tatnet.app/ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
 
-#EXTINF:-1 tvg-name="Tv Yes" group-title="Italy",Tv Yes
+#EXTINF:-1 tvg-name="TV Yes Italia" group-title="Undefined",TV Yes Italia
 https://secure-272717.tatnet.app/stream1.aswifi.it/radioyes/live/index.m3u8
 
-#EXTINF:-1 tvg-name="Tva Vicenza" group-title="Italy",Tva Vicenza
+#EXTINF:-1 tvg-name="TVA (Vicenza)" group-title="Undefined",TVA (Vicenza)
 https://secure-272717.tatnet.app/fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tvm Palermo" group-title="Italy",Tvm Palermo
@@ -43487,7 +43487,7 @@ https://secure-272717.tatnet.app/cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u
 #EXTINF:-1 tvg-name="Umbria+ TRT" group-title="Italy",Umbria+ TRT
 https://secure-272717.tatnet.app/diretta.teleterni.it:8080//show/show.m3u8
 
-#EXTINF:-1 tvg-name="Umbria Tv" group-title="Italy",Umbria Tv
+#EXTINF:-1 tvg-name="Umbria TV (576p)" group-title="Undefined",Umbria TV (576p)
 https://secure-272717.tatnet.app/umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uno Tv" group-title="Italy",Uno Tv
@@ -43517,7 +43517,7 @@ https://secure-272717.tatnet.app/stream9.xdevel.com/video0s976556-1321/stream/pl
 #EXTINF:-1 tvg-name="Video Touring Tv" group-title="Italy",Video Touring Tv
 https://secure-272717.tatnet.app/streamingvideo.auranex.cloud/memfs/70baacad-47c6-41a6-aee0-86530c31e080.m3u8
 
-#EXTINF:-1 tvg-name="Videolina" group-title="Italy",Videolina
+#EXTINF:-1 tvg-name="Videolina (Sardegna) (404p)" group-title="Undefined",Videolina (Sardegna) (404p)
 https://secure-272717.tatnet.app/livestreaming.videolina.it/live/Videolina/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Videonovara" group-title="Italy",Videonovara
@@ -43622,10 +43622,10 @@ https://secure-272717.tatnet.app/stream01.willfonk.com/live_playlist.m3u8?cid=BS
 #EXTINF:-1 tvg-name="日本映画専門チャンネル" group-title="日本 / Japan",日本映画専門チャンネル
 https://secure-272717.tatnet.app/stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-name="ショップチャンネル" group-title="日本 / Japan",ショップチャンネル
+#EXTINF:-1 tvg-name="Shop Channel" group-title="Shop",Shop Channel
 https://secure-272717.tatnet.app/stream3.shopch.jp/HLS/master.m3u8
 
-#EXTINF:-1 tvg-name="QVC" group-title="日本 / Japan",QVC
+#EXTINF:-1 tvg-name="QVC Japan" group-title="Shop",QVC Japan
 https://secure-272717.tatnet.app/cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
 #EXTINF:-1 tvg-name="東映チャンネル" group-title="日本 / Japan",東映チャンネル
@@ -43736,16 +43736,16 @@ https://secure-272717.tatnet.app/allanf181.github.io/adaptive-streams/streams/kr
 #EXTINF:-1 tvg-name="Arirang" group-title="Korea",Arirang
 https://secure-272717.tatnet.app/amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="EBS Kids Ⓢ" group-title="Korea",EBS Kids Ⓢ
+#EXTINF:-1 tvg-name="EBS kids (400p)" group-title="Kids",EBS kids (400p)
 https://secure-272717.tatnet.app/ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EBS Plus 1 Ⓢ" group-title="Korea",EBS Plus 1 Ⓢ
 https://secure-272717.tatnet.app/ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-name="EBS Plus 2 Ⓢ" group-title="Korea",EBS Plus 2 Ⓢ
+#EXTINF:-1 tvg-name="EBS+ 2 (400p)" group-title="Education",EBS+ 2 (400p)
 https://secure-272717.tatnet.app/ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-name="EBS English Ⓢ" group-title="Korea",EBS English Ⓢ
+#EXTINF:-1 tvg-name="EBS E (400p)" group-title="Education",EBS E (400p)
 https://secure-272717.tatnet.app/ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-name="KBS Drama" group-title="Korea",KBS Drama
@@ -43985,25 +43985,25 @@ https://secure-272717.tatnet.app/stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-name="Cool TV" group-title="North Macedonia",Cool TV
 https://secure-272717.tatnet.app/stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
 
-#EXTINF:-1 tvg-name="Folk TV" group-title="North Macedonia",Folk TV
+#EXTINF:-1 tvg-name="Folk TV" group-title="Music",Folk TV
 https://secure-272717.tatnet.app/stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
 
-#EXTINF:-1 tvg-name="Jazz TV" group-title="North Macedonia",Jazz TV
+#EXTINF:-1 tvg-name="Jazz TV" group-title="Music",Jazz TV
 https://secure-272717.tatnet.app/stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 
-#EXTINF:-1 tvg-name="Love TV" group-title="North Macedonia",Love TV
+#EXTINF:-1 tvg-name="Love TV" group-title="Music",Love TV
 https://secure-272717.tatnet.app/stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
 
-#EXTINF:-1 tvg-name="Rock TV" group-title="North Macedonia",Rock TV
+#EXTINF:-1 tvg-name="Rock TV" group-title="Music",Rock TV
 https://secure-272717.tatnet.app/stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
 #EXTINF:-1 tvg-name="Хуго 2" group-title="North Macedonia",Хуго 2
 https://secure-272717.tatnet.app/fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 
-#EXTINF:-1 tvg-name="Folk Club TV" group-title="North Macedonia",Folk Club TV
+#EXTINF:-1 tvg-name="Folk Klub" group-title="Music",Folk Klub
 https://secure-272717.tatnet.app/tv1.intv.mk:1935/live2/folkklub/index.m3u8
 
-#EXTINF:-1 tvg-name="INTV" group-title="North Macedonia",INTV
+#EXTINF:-1 tvg-name="INTV Australia" group-title="Music",INTV Australia
 https://secure-272717.tatnet.app/tv1.intv.mk:1935/live/intv/index.m3u8
 
 #EXTINF:-1 tvg-name="Macedonian Documentary Channel" group-title="North Macedonia",Macedonian Documentary Channel
@@ -44081,31 +44081,31 @@ https://secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=TVP
 #EXTINF:-1 tvg-name="TVP Kultura 2" group-title="Poland",TVP Kultura 2
 https://secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
 
-#EXTINF:-1 tvg-name="4fun.tv Ⓢ" group-title="Poland",4fun.tv Ⓢ
+#EXTINF:-1 tvg-name="4 Fun TV (576i)" group-title="Music",4 Fun TV (576i)
 https://secure-272717.tatnet.app/stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-name="RTP1" group-title="Portugal",RTP1
 https://secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTP2 Ⓖ" group-title="Portugal",RTP2 Ⓖ
+#EXTINF:-1 tvg-name="RTP 2" group-title="General",RTP 2
 https://secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="SIC" group-title="Portugal",SIC
+#EXTINF:-1 tvg-name="SIC" group-title="General",SIC
 https://secure-272717.tatnet.app/d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-#EXTINF:-1 tvg-name="RTP Açores" group-title="Portugal",RTP Açores
+#EXTINF:-1 tvg-name="RTP Açores" group-title="General",RTP Açores
 https://secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTP Madeira Ⓢ" group-title="Portugal",RTP Madeira Ⓢ
+#EXTINF:-1 tvg-name="RTP Madeira (504p)" group-title="General",RTP Madeira (504p)
 https://secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTP3" group-title="Portugal",RTP3
 https://secure-272717.tatnet.app/streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-name="RTP África" group-title="Portugal",RTP África
+#EXTINF:-1 tvg-name="RTP África (504p)" group-title="General",RTP África (504p)
 https://secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTP Mundo" group-title="Portugal",RTP Mundo
+#EXTINF:-1 tvg-name="RTP Mundo (504p)" group-title="General",RTP Mundo (504p)
 https://secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Porto Canal Ⓢ" group-title="Portugal",Porto Canal Ⓢ
@@ -44117,10 +44117,10 @@ https://secure-272717.tatnet.app/playout172.livextend.cloud/liveiframe/_definst_
 #EXTINF:-1 tvg-name="Qatar Television" group-title="Qatar",Qatar Television
 https://secure-272717.tatnet.app/qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 
-#EXTINF:-1 tvg-name="Al Rayyan" group-title="Qatar",Al Rayyan
+#EXTINF:-1 tvg-name="Al Rayyan" group-title="General",Al Rayyan
 https://secure-272717.tatnet.app/alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-name="Al Rayyan Old TV" group-title="Qatar",Al Rayyan Old TV
+#EXTINF:-1 tvg-name="Al Rayyan Al Qadeem" group-title="General",Al Rayyan Al Qadeem
 https://secure-272717.tatnet.app/alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher" group-title="Qatar",Al Jazeera Mubasher
@@ -44192,7 +44192,7 @@ https://secure-272717.tatnet.app/vk.com/video-213370539_456239018
 #EXTINF:-1 tvg-name="Белгород 24" group-title="Russia",Белгород 24
 https://secure-272717.tatnet.app/belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 
-#EXTINF:-1 tvg-name="Ветта 24" group-title="Russia",Ветта 24
+#EXTINF:-1 tvg-name="Ветта 24 (Пермь) (576p)" group-title="Undefined",Ветта 24 (Пермь) (576p)
 https://secure-272717.tatnet.app/serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Саратов 24" group-title="Russia",Саратов 24
@@ -44204,16 +44204,16 @@ https://secure-272717.tatnet.app/vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="San Marino Rtv" group-title="San Marino",San Marino Rtv
 https://secure-272717.tatnet.app/d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
 
-#EXTINF:-1 tvg-name="Al Saudiya" group-title="Saudi Arabia",Al Saudiya
+#EXTINF:-1 tvg-name="Al Saudiya" group-title="General",Al Saudiya
 https://secure-272717.tatnet.app/shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 
-#EXTINF:-1 tvg-name="SBC Saudi Arabia" group-title="Saudi Arabia",SBC Saudi Arabia
+#EXTINF:-1 tvg-name="SBC" group-title="General",SBC
 https://secure-272717.tatnet.app/shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 
-#EXTINF:-1 tvg-name="Al Ekhbariya" group-title="Saudi Arabia",Al Ekhbariya
+#EXTINF:-1 tvg-name="Al Ekhbariya" group-title="News",Al Ekhbariya
 https://secure-272717.tatnet.app/shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 
-#EXTINF:-1 tvg-name="Al Saudiya Alaan" group-title="Saudi Arabia",Al Saudiya Alaan
+#EXTINF:-1 tvg-name="Al Saudiya Alaan" group-title="Undefined",Al Saudiya Alaan
 https://secure-272717.tatnet.app/shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
 
 #EXTINF:-1 tvg-name="Al Quran Al Kareem TV" group-title="Saudi Arabia",Al Quran Al Kareem TV
@@ -44294,7 +44294,7 @@ https://secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=MMC
 #EXTINF:-1 tvg-name="Nova 24 TV Ⓨ" group-title="Slovenia",Nova 24 TV Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/@Nova24TVSlovenija/live
 
-#EXTINF:-1 tvg-name="Folx Slovenija" group-title="Slovenia",Folx Slovenija
+#EXTINF:-1 tvg-name="Folx Slovenija" group-title="Music",Folx Slovenija
 https://secure-272717.tatnet.app/cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
 
 #EXTINF:-1 tvg-name="Dacwa TV Ⓢ" group-title="Somalia",Dacwa TV Ⓢ
@@ -44372,7 +44372,7 @@ https://secure-272717.tatnet.app/185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-name="El País" group-title="Spain",El País
 https://secure-272717.tatnet.app/d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1 tvg-name="Negocios" group-title="Spain",Negocios
+#EXTINF:-1 tvg-name="Negocios TV" group-title="Business",Negocios TV
 https://secure-272717.tatnet.app/streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF:-1 tvg-name="Squirrel" group-title="Spain",Squirrel
@@ -44381,10 +44381,10 @@ https://secure-272717.tatnet.app/tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn
 #EXTINF:-1 tvg-name="BOM Cine" group-title="Spain",BOM Cine
 https://secure-272717.tatnet.app/tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Telemadrid" group-title="Spain",Telemadrid
+#EXTINF:-1 tvg-name="Telemadrid" group-title="Undefined",Telemadrid
 https://secure-272717.tatnet.app/telemadrid-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1 tvg-name="La Otra" group-title="Spain",La Otra
+#EXTINF:-1 tvg-name="LaOtra" group-title="General",LaOtra
 https://secure-272717.tatnet.app/laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-name="Canal Sur Andalucía" group-title="Spain",Canal Sur Andalucía
@@ -44402,7 +44402,7 @@ https://secure-272717.tatnet.app/www.youtube.com/c/ib3/live
 #EXTINF:-1 tvg-name="Canal Extremadura" group-title="Spain",Canal Extremadura
 https://secure-272717.tatnet.app/cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
 
-#EXTINF:-1 tvg-name="Aragón TV Ⓢ" group-title="Spain",Aragón TV Ⓢ
+#EXTINF:-1 tvg-name="Aragon TV Internacional" group-title="General;Public",Aragon TV Internacional
 https://secure-272717.tatnet.app/cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-name="ETB1" group-title="Spain",ETB1
@@ -44417,13 +44417,13 @@ https://secure-272717.tatnet.app/185.189.225.150:85/tv3/index.m3u8
 #EXTINF:-1 tvg-name="TV3Cat Ⓖ" group-title="Spain",TV3Cat Ⓖ
 https://secure-272717.tatnet.app/directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 
-#EXTINF:-1 tvg-name="3/24" group-title="Spain",3/24
+#EXTINF:-1 tvg-name="3CatInfo" group-title="News;Public",3CatInfo
 https://secure-272717.tatnet.app/directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-name="Bon Dia" group-title="Spain",Bon Dia
+#EXTINF:-1 tvg-name="Bon Dia TV" group-title="General;Public",Bon Dia TV
 https://secure-272717.tatnet.app/directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 
-#EXTINF:-1 tvg-name="SX3 Ⓖ" group-title="Spain",SX3 Ⓖ
+#EXTINF:-1 tvg-name="SX3 [Geo-blocked]" group-title="Animation;Kids;Public",SX3 [Geo-blocked]
 https://secure-272717.tatnet.app/directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-name="El 33 Ⓖ" group-title="Spain",El 33 Ⓖ
@@ -44501,7 +44501,7 @@ https://secure-272717.tatnet.app/ed2.cdn.svt.se/ed7/d1/c/se/svt2/manifest.mpd?de
 #EXTINF:-1 tvg-name="ATG Live Ⓢ" group-title="Sweden",ATG Live Ⓢ
 https://secure-272717.tatnet.app/httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 
-#EXTINF:-1 tvg-name="Expressen TV" group-title="Sweden",Expressen TV
+#EXTINF:-1 tvg-name="Expressen TV" group-title="News",Expressen TV
 https://secure-272717.tatnet.app/cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Kanal 10 Sverige" group-title="Sweden",Kanal 10 Sverige
@@ -44513,7 +44513,7 @@ https://secure-272717.tatnet.app/ed2.cdn.svt.se/ed7/d1/c/se/svtb/manifest.mpd?de
 #EXTINF:-1 tvg-name="Kunskapskanalen Ⓖ" group-title="Sweden",Kunskapskanalen Ⓖ
 https://secure-272717.tatnet.app/ed2.cdn.svt.se/ed7/d1/c/se/svtk/manifest.mpd?defaultSubLang=1
 
-#EXTINF:-1 tvg-name="Di TV" group-title="Sweden",Di TV
+#EXTINF:-1 tvg-name="Di TV" group-title="News",Di TV
 https://secure-272717.tatnet.app/cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Öppna Kanalen Stockholm Ⓢ" group-title="Sweden",Öppna Kanalen Stockholm Ⓢ
@@ -44564,13 +44564,13 @@ https://secure-272717.tatnet.app/www.youtube.com/watch?v=6KlRR_DGhmI
 #EXTINF:-1 tvg-name="TaiwanPlus Ⓨ" group-title="Taiwan",TaiwanPlus Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/watch?v=dZp87qnWelE
 
-#EXTINF:-1 tvg-name="民視無線台" group-title="Taiwan",民視無線台
+#EXTINF:-1 tvg-name="FTV (民視)" group-title="General",FTV (民視)
 https://secure-272717.tatnet.app/seb.sason.top/ptv/ftv.php?id=ms
 
-#EXTINF:-1 tvg-name="FTV One (民視第一台)" group-title="Taiwan",FTV One (民視第一台)
+#EXTINF:-1 tvg-name="FTV One (民視第一台)" group-title="General",FTV One (民視第一台)
 https://secure-272717.tatnet.app/seb.sason.top/ptv/ftv.php?id=dy
 
-#EXTINF:-1 tvg-name="FTV Taiwan (民視台灣台)" group-title="Taiwan",FTV Taiwan (民視台灣台)
+#EXTINF:-1 tvg-name="FTV Taiwan (民視台灣台)" group-title="News",FTV Taiwan (民視台灣台)
 https://secure-272717.tatnet.app/seb.sason.top/ptv/ftv.php?id=tw
 
 #EXTINF:-1 tvg-name="TTV Main Channel (臺灣電視台) Ⓨ Ⓖ" group-title="Taiwan",TTV Main Channel (臺灣電視台) Ⓨ Ⓖ
@@ -44600,55 +44600,55 @@ https://secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=IBN
 #EXTINF:-1 tvg-name="Trinity TV" group-title="Trinidad",Trinity TV
 https://secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=Trinity_TV
 
-#EXTINF:-1 tvg-name="TRT 1" group-title="Turkey",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" group-title="Undefined",TRT 1
 https://secure-272717.tatnet.app/tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT 2 Ⓖ" group-title="Turkey",TRT 2 Ⓖ
 https://secure-272717.tatnet.app/tv-trt2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Haber" group-title="Turkey",TRT Haber
+#EXTINF:-1 tvg-name="TRT Haber" group-title="News",TRT Haber
 https://secure-272717.tatnet.app/tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Spor Ⓖ" group-title="Turkey",TRT Spor Ⓖ
+#EXTINF:-1 tvg-name="TRT Spor [Geo-blocked]" group-title="Sports",TRT Spor [Geo-blocked]
 https://secure-272717.tatnet.app/tv-trtspor1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Spor 2 Ⓖ" group-title="Turkey",TRT Spor 2 Ⓖ
+#EXTINF:-1 tvg-name="TRT Spor Yildiz [Geo-blocked]" group-title="Sports",TRT Spor Yildiz [Geo-blocked]
 https://secure-272717.tatnet.app/tv-trtspor2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Çocuk" group-title="Turkey",TRT Çocuk
+#EXTINF:-1 tvg-name="TRT Çocuk" group-title="Kids",TRT Çocuk
 https://secure-272717.tatnet.app/tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Müzik" group-title="Turkey",TRT Müzik
+#EXTINF:-1 tvg-name="TRT Müzik" group-title="Music",TRT Müzik
 https://secure-272717.tatnet.app/tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Belgesel" group-title="Turkey",TRT Belgesel
+#EXTINF:-1 tvg-name="TRT Belgesel" group-title="Documentary",TRT Belgesel
 https://secure-272717.tatnet.app/tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Avaz" group-title="Turkey",TRT Avaz
+#EXTINF:-1 tvg-name="TRT Avaz" group-title="Undefined",TRT Avaz
 https://secure-272717.tatnet.app/tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Kurdî" group-title="Turkey",TRT Kurdî
+#EXTINF:-1 tvg-name="TRT Kurdî" group-title="Undefined",TRT Kurdî
 https://secure-272717.tatnet.app/tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Arabi" group-title="Turkey",TRT Arabi
+#EXTINF:-1 tvg-name="TRT Arabi" group-title="News",TRT Arabi
 https://secure-272717.tatnet.app/tv-trtarabi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT World" group-title="Turkey",TRT World
+#EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
 https://secure-272717.tatnet.app/tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Türk" group-title="Turkey",TRT Türk
+#EXTINF:-1 tvg-name="TRT Türk" group-title="Undefined",TRT Türk
 https://secure-272717.tatnet.app/tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT EBA Ilkokul" group-title="Turkey",TRT EBA Ilkokul
+#EXTINF:-1 tvg-name="TRT EBA Ilkokul" group-title="Education",TRT EBA Ilkokul
 https://secure-272717.tatnet.app/tv-e-okul00.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT EBA Ortaokul" group-title="Turkey",TRT EBA Ortaokul
+#EXTINF:-1 tvg-name="TRT EBA Ortaokul" group-title="Education",TRT EBA Ortaokul
 https://secure-272717.tatnet.app/tv-e-okul01.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT EBA Lise" group-title="Turkey",TRT EBA Lise
+#EXTINF:-1 tvg-name="TRT EBA Lise" group-title="Education",TRT EBA Lise
 https://secure-272717.tatnet.app/tv-e-okul02.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="S4C Ⓖ" group-title="UK",S4C Ⓖ
+#EXTINF:-1 tvg-name="S4C [Geo-blocked]" group-title="Undefined",S4C [Geo-blocked]
 https://secure-272717.tatnet.app/live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 
 #EXTINF:-1 tvg-name="E4 Ⓢ" group-title="UK",E4 Ⓢ
@@ -44657,7 +44657,7 @@ https://secure-272717.tatnet.app/176.65.146.105:8011/play/E4HD/index.m3u8
 #EXTINF:-1 tvg-name="QVC UK Ⓢ" group-title="UK",QVC UK Ⓢ
 https://secure-272717.tatnet.app/qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
 
-#EXTINF:-1 tvg-name="TJC" group-title="UK",TJC
+#EXTINF:-1 tvg-name="TJC" group-title="Shop",TJC
 https://secure-272717.tatnet.app/cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 
 #EXTINF:-1 tvg-name="GemsTV Ⓢ" group-title="UK",GemsTV Ⓢ
@@ -44729,7 +44729,7 @@ https://secure-272717.tatnet.app/lightning-now70s-samsungnz.amagi.tv/playlist.m3
 #EXTINF:-1 tvg-name="Now 80s" group-title="UK",Now 80s
 https://secure-272717.tatnet.app/lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Now Rock" group-title="UK",Now Rock
+#EXTINF:-1 tvg-name="NOW Rock" group-title="Music",NOW Rock
 https://secure-272717.tatnet.app/lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Pershyi" group-title="Ukraine",Pershyi
@@ -44738,7 +44738,7 @@ https://secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:-1 tvg-name="1+1 Marafon" group-title="Ukraine",1+1 Marafon
 https://secure-272717.tatnet.app/m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
 
-#EXTINF:-1 tvg-name="Suspilne Kultura" group-title="Ukraine",Suspilne Kultura
+#EXTINF:-1 tvg-name="like Gecko) Chrome/143.0.7499.109 Safari/537.36" group-title="Culture",Suspilne. Kultura [Geo-blocked]" group-title="Culture",like Gecko) Chrome/143.0.7499.109 Safari/537.36" group-title="Culture",Suspilne. Kultura [Geo-blocked]
 https://secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 
 #EXTINF:-1 tvg-name="ICTV2" group-title="Ukraine",ICTV2
@@ -44771,7 +44771,7 @@ https://secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.14:1234
 #EXTINF:-1 tvg-name="M1" group-title="Ukraine",M1
 https://secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.28:1234
 
-#EXTINF:-1 tvg-name="M2" group-title="Ukraine",M2
+#EXTINF:-1 tvg-name="M2 (540p)" group-title="Music",M2 (540p)
 https://secure-272717.tatnet.app/live.m2.tv/hls3/stream.m3u8
 
 #EXTINF:-1 tvg-name="NTN" group-title="Ukraine",NTN
@@ -44795,7 +44795,7 @@ https://secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.41:1234
 #EXTINF:-1 tvg-name="Піксель TV" group-title="Ukraine",Піксель TV
 https://secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.30:1234
 
-#EXTINF:-1 tvg-name="Суспільне Київ" group-title="Ukraine",Суспільне Київ
+#EXTINF:-1 tvg-name="Suspilne. Kyiv" group-title="General",Suspilne. Kyiv
 https://secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
 
 #EXTINF:-1 tvg-name="Суспільне Дніпро" group-title="Ukraine",Суспільне Дніпро
@@ -44813,7 +44813,7 @@ https://secure-272717.tatnet.app/cdnua05.hls.tv/632/hls/f62d71219200da4130d13b21
 #EXTINF:-1 tvg-name="Суспільне Луцьк" group-title="Ukraine",Суспільне Луцьк
 https://secure-272717.tatnet.app/193.107.168.98:7006/play/508/index.m3u8
 
-#EXTINF:-1 tvg-name="Суспільне Крим" group-title="Ukraine",Суспільне Крим
+#EXTINF:-1 tvg-name="like Gecko) Chrome/143.0.7499.109 Safari/537.36" group-title="General",Suspilne. Krym [Geo-blocked]" group-title="General",like Gecko) Chrome/143.0.7499.109 Safari/537.36" group-title="General",Suspilne. Krym [Geo-blocked]
 https://secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
 
 #EXTINF:-1 tvg-name="Суспільне Тернопіль" group-title="Ukraine",Суспільне Тернопіль
@@ -44825,13 +44825,13 @@ https://secure-272717.tatnet.app/95.67.106.242/mobile-app/main/freedom/master.m3
 #EXTINF:-1 tvg-name="ДІМ" group-title="Ukraine",ДІМ
 https://secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.18:1234
 
-#EXTINF:-1 tvg-name="Дніпро TV" group-title="Ukraine",Дніпро TV
+#EXTINF:-1 tvg-name="DniproTV" group-title="General",DniproTV
 https://secure-272717.tatnet.app/vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ГІТ" group-title="Ukraine",ГІТ
+#EXTINF:-1 tvg-name="GIT" group-title="News",GIT
 https://secure-272717.tatnet.app/stream.uagit.tv/gittv.m3u8
 
-#EXTINF:-1 tvg-name="Тернопіль 1" group-title="Ukraine",Тернопіль 1
+#EXTINF:-1 tvg-name="Тернопіль 1" group-title="News",Тернопіль 1
 https://secure-272717.tatnet.app/ott.columbus.te.ua/ternopil1/index.m3u8
 
 #EXTINF:-1 tvg-name="CK 1" group-title="Ukraine",CK 1
@@ -44849,13 +44849,13 @@ https://secure-272717.tatnet.app/stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-name="TVA" group-title="Ukraine",TVA
 https://secure-272717.tatnet.app/hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
 
-#EXTINF:-1 tvg-name="TV7+" group-title="Ukraine",TV7+
+#EXTINF:-1 tvg-name="TV7+" group-title="General",TV7+
 https://secure-272717.tatnet.app/tv7plus.com/hls/tv7_site.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network Arabic" group-title="United Arab Emirates",Cartoon Network Arabic
 https://secure-272717.tatnet.app/shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 
-#EXTINF:-1 tvg-name="Al Arabiya Business" group-title="United Arab Emirates",Al Arabiya Business
+#EXTINF:-1 tvg-name="Al Arabiya Business" group-title="Business",Al Arabiya Business
 https://secure-272717.tatnet.app/live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MBC 1" group-title="United Arab Emirates",MBC 1
@@ -44924,7 +44924,7 @@ https://secure-272717.tatnet.app/dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:sa
 #EXTINF:-1 tvg-name="Sharjah TV" group-title="United Arab Emirates",Sharjah TV
 https://secure-272717.tatnet.app/svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Al Wousta" group-title="United Arab Emirates",Al Wousta
+#EXTINF:-1 tvg-name="Al Wousta TV" group-title="General",Al Wousta TV
 https://secure-272717.tatnet.app/svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Buzzr Ⓖ" group-title="USA",Buzzr Ⓖ
@@ -45053,16 +45053,16 @@ https://secure-272717.tatnet.app/vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Telesur" group-title="Venezuela",Telesur
 https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8
 
-#EXTINF:-1 tvg-name="Latina TV" group-title="Venezuela",Latina TV
+#EXTINF:-1 tvg-name="Latina TV" group-title="General",Latina TV
 https://secure-272717.tatnet.app/streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 
 #EXTINF:-1 tvg-name="Al Jazeera Documentary Ⓖ" group-title="Documentaries (AR)",Al Jazeera Documentary Ⓖ
 https://secure-272717.tatnet.app/live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
-#EXTINF:-1 tvg-name="RT Documentary English Ⓖ" group-title="Documentaries (EN)",RT Documentary English Ⓖ
+#EXTINF:-1 tvg-name="RT Documentary English [Geo-blocked]" group-title="Documentary",RT Documentary English [Geo-blocked]
 https://secure-272717.tatnet.app/rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Peer TV South Tyrol" group-title="Documentaries (EN)",Peer TV South Tyrol
+#EXTINF:-1 tvg-name="Peer TV South Tyrol (1280p)" group-title="Outdoor;Travel",Peer TV South Tyrol (1280p)
 https://secure-272717.tatnet.app/iptv.peer.biz/live/peertv-en.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Spotlight" group-title="VOD Movies (EN)",Pluto TV Spotlight
@@ -45131,16 +45131,16 @@ https://secure-272717.tatnet.app/service-stitcher.clusters.pluto.tv/stitch/hls/c
 #EXTINF:-1 tvg-name="Al Jazeera العربية" group-title="News (AR)",Al Jazeera العربية
 https://secure-272717.tatnet.app/live-hls-web-aja.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1 tvg-name="Al Arabiya العربية" group-title="News (AR)",Al Arabiya العربية
+#EXTINF:-1 tvg-name="Al Arabiya" group-title="News",Al Arabiya
 https://secure-272717.tatnet.app/live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RT العربية" group-title="News (AR)",RT العربية
+#EXTINF:-1 tvg-name="RT Arabic [Geo-blocked]" group-title="News",RT Arabic [Geo-blocked]
 https://secure-272717.tatnet.app/rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sahara 24 صحراء" group-title="News (AR)",Sahara 24 صحراء
 https://secure-272717.tatnet.app/65.108.206.29/sahara24-live/video.m3u8
 
-#EXTINF:-1 tvg-name="Al Jazeera" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
 https://secure-272717.tatnet.app/live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-name="The Guardian" group-title="News",The Guardian
@@ -45179,13 +45179,13 @@ https://secure-272717.tatnet.app/www.youtube.com/channelstelevision/live
 #EXTINF:-1 tvg-name="Yahoo! Finance" group-title="Business",Yahoo! Finance
 https://secure-272717.tatnet.app/d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ausbiz" group-title="Business",Ausbiz
+#EXTINF:-1 tvg-name="ausbiz TV" group-title="Business",ausbiz TV
 https://secure-272717.tatnet.app/d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
 #EXTINF:-1 tvg-name="Moconomy" group-title="Business",Moconomy
 https://secure-272717.tatnet.app/amogonetworx-moconomy-2-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="AccuWeather NOW" group-title="Weather",AccuWeather NOW
+#EXTINF:-1 tvg-name="AccuWeather Now" group-title="Weather",AccuWeather Now
 https://secure-272717.tatnet.app/cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-name="KTCA-DT5" group-title="Weather",KTCA-DT5
@@ -45233,10 +45233,10 @@ https://secure-272717.tatnet.app/rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m
 #EXTINF:-1 tvg-name="Drammatico – Rakuten TV" group-title="VOD Italy",Drammatico – Rakuten TV
 https://secure-272717.tatnet.app/rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FailArmy" group-title="VOD Italy",FailArmy
+#EXTINF:-1 tvg-name="Failarmy" group-title="Comedy",Failarmy
 https://secure-272717.tatnet.app/failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="The Pet Collective" group-title="VOD Italy",The Pet Collective
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="Family",The Pet Collective
 https://secure-272717.tatnet.app/the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canale Europa" group-title="VOD Italy",Canale Europa
@@ -45308,7 +45308,7 @@ https://secure-272717.tatnet.app/minerva-cinemasegreto-1-it.samsung.wurl.tv/play
 #EXTINF:-1 tvg-name="Bizzarro Movies" group-title="VOD Italy",Bizzarro Movies
 https://secure-272717.tatnet.app/minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CGtv" group-title="VOD Italy",CGtv
+#EXTINF:-1 tvg-name="CG Entertainment" group-title="Entertainment",CG Entertainment
 https://secure-272717.tatnet.app/cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="WP" group-title="VOD Italy",WP
@@ -45593,7 +45593,7 @@ https://secure-272717.tatnet.app/service-stitcher.clusters.pluto.tv/v1/stitch/em
 #EXTINF:-1 tvg-name="ИНФОКАНАЛ" group-title="IPTV",ИНФОКАНАЛ
 https://github.com/CrocoUser/files/raw/refs/heads/main/infokanal.m3u8
 
-#EXTINF:-1 tvg-name="Пятый" group-title="Основные",Пятый
+#EXTINF:-1 tvg-name="Пятый Канал (540p) [Geo-blocked]" group-title="General",Пятый Канал (540p) [Geo-blocked]
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятый (+2)" group-title="Основные",Пятый (+2)
@@ -45608,7 +45608,7 @@ https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/varia
 #EXTINF:-1 tvg-name="ОТР" group-title="Основные",ОТР
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр" group-title="Основные",ТВ Центр
+#EXTINF:-1 tvg-name="ТВ Центр (450p) [Geo-blocked]" group-title="Undefined",ТВ Центр (450p) [Geo-blocked]
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ Центр (+2)" group-title="Основные",ТВ Центр (+2)
@@ -45620,7 +45620,7 @@ https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/varia
 #EXTINF:-1 tvg-name="ТВ Центр (+7)" group-title="Основные",ТВ Центр (+7)
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ3" group-title="Основные",ТВ3
+#EXTINF:-1 tvg-name="ТВ-3 (540p) [Geo-blocked]" group-title="Entertainment",ТВ-3 (540p) [Geo-blocked]
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ3 (+2)" group-title="Основные",ТВ3 (+2)
@@ -45644,7 +45644,7 @@ https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4
 #EXTINF:-1 tvg-name="Пятница (+7)" group-title="Основные",Пятница (+7)
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 
-#EXTINF:-1 tvg-name="МУЗ-ТВ" group-title="Основные",МУЗ-ТВ
+#EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="МУЗ-ТВ (+2)" group-title="Основные",МУЗ-ТВ (+2)
@@ -46271,7 +46271,7 @@ https://secure-272717.tatnet.app/rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R01_TV3
 #EXTINF:-1 tvg-name="Пятница! (Великий Новгород)" group-title="Великий Новгород",Пятница! (Великий Новгород)
 https://secure-272717.tatnet.app/rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_NOVG/variant.m3u8
 
-#EXTINF:-1 tvg-name="НОТ (Великий Новгород)" group-title="Великий Новгород",НОТ (Великий Новгород)
+#EXTINF:-1 tvg-name="Новгородское областное телевидение [Geo-blocked]" group-title="General",Новгородское областное телевидение [Geo-blocked]
 https://secure-272717.tatnet.app/rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятый (Петрозаводск)" group-title="Петрозаводск",Пятый (Петрозаводск)
@@ -46952,7 +46952,7 @@ https://secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_M
 #EXTINF:-1 tvg-name="Кубань 24 (Краснодар)" group-title="Краснодар",Кубань 24 (Краснодар)
 https://secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24-T/variant.m3u8
 
-#EXTINF:-1 tvg-name="Кубань 24 (Краснодар)" group-title="Краснодар",Кубань 24 (Краснодар)
+#EXTINF:-1 tvg-name="Кубань 24 [Geo-blocked]" group-title="General",Кубань 24 [Geo-blocked]
 https://secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Кубань 24 (Майкоп)" group-title="Краснодар",Кубань 24 (Майкоп)
@@ -48071,475 +48071,475 @@ https://secure-272717.tatnet.app/s97982.cdn.ngenix.net/hls/CH_R27_GUBERNYA/varia
 #EXTINF:-1 tvg-name="НТК (Биробиджан)" group-title="Хабаровск",НТК (Биробиджан)
 https://secure-272717.tatnet.app/s97982.cdn.ngenix.net/hls/CH_R79_NTK/variant.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="7TV (576p)" group-title="IPTV",7TV (576p)
 https://secure-272717.tatnet.app/31.148.48.15/7TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="360°" group-title="IPTV",360°
 https://secure-272717.tatnet.app/cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="365 Дней (576p)" group-title="IPTV",365 Дней (576p)
 https://secure-272717.tatnet.app/31.148.48.15/365_dney/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name=".red (576p)" group-title="IPTV",.red (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH147/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name=".sci-fi (576p)" group-title="IPTV",.sci-fi (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH175/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Amedia 1 (576p)" group-title="IPTV",Amedia 1 (576p)
 https://secure-272717.tatnet.app/31.148.48.15/A1/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Amedia 2 (576p)" group-title="IPTV",Amedia 2 (576p)
 https://secure-272717.tatnet.app/31.148.48.15/A2/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Amedia Hit" group-title="IPTV",Amedia Hit
 https://secure-272717.tatnet.app/31.148.48.15/Amedia_HIT_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Amedia Premium" group-title="IPTV",Amedia Premium
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH301/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Ani (576p)" group-title="IPTV",Ani (576p)
 https://secure-272717.tatnet.app/31.148.48.15/Ani/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Auto Plus (576p)" group-title="IPTV",Auto Plus (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH49/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="BRIDGE (576p)" group-title="IPTV",BRIDGE (576p)
 https://secure-272717.tatnet.app/31.148.48.15/Bridge_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="BRIDGE Classic (576p)" group-title="IPTV",BRIDGE Classic (576p)
 https://secure-272717.tatnet.app/31.148.48.15/Bridge_TV_Classic/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="BRIDGE Deluxe" group-title="IPTV",BRIDGE Deluxe
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH257/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="BRIDGE Hits (576p)" group-title="IPTV",BRIDGE Hits (576p)
 https://secure-272717.tatnet.app/31.148.48.15/Bridge_TV_Dance/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Carousel" group-title="IPTV",Carousel
 https://secure-272717.tatnet.app/31.148.48.15/Karusel_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Channel One" group-title="IPTV",Channel One
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH125/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Current Time TV" group-title="IPTV",Current Time TV
 https://secure-272717.tatnet.app/liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc015/currenttimehdraw/currenttimehdraw.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Da Vinci (576p)" group-title="IPTV",Da Vinci (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH205/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="DanceHits80" group-title="IPTV",DanceHits80
 https://secure-272717.tatnet.app/dancehits80.denvs.ru:8080/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Domashnie Zhivotnye" group-title="IPTV",Domashnie Zhivotnye
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH207/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Drive (576i)" group-title="IPTV",Drive (576i)
 https://secure-272717.tatnet.app/stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="English Class" group-title="IPTV",English Class
 https://secure-272717.tatnet.app/31.148.48.15/English_club_TV_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Euronews Russian (576p)" group-title="IPTV",Euronews Russian (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH31/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="IPTV",Europa Plus TV
 https://secure-272717.tatnet.app/31.148.48.15/Europa_Plus_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Evrokino (576p)" group-title="IPTV",Evrokino (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH163/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="FAN" group-title="IPTV",FAN
 https://secure-272717.tatnet.app/31.148.48.15/Fan/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="FASHION & LIFESTYLE" group-title="IPTV",FASHION & LIFESTYLE
 https://secure-272717.tatnet.app/31.148.48.15/Fashion_One_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="FoodTime" group-title="IPTV",FoodTime
 https://secure-272717.tatnet.app/31.148.48.15/Eda_Premium_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Glazami Turista (576i)" group-title="IPTV",Glazami Turista (576i)
 https://secure-272717.tatnet.app/stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Gulli Girl" group-title="IPTV",Gulli Girl
 https://secure-272717.tatnet.app/stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="L" group-title="IPTV",L
 https://secure-272717.tatnet.app/31.148.48.15/HD_Life/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Hollywood" group-title="IPTV",Hollywood
 https://secure-272717.tatnet.app/31.148.48.15/MGM_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Indiyskoye Kino" group-title="IPTV",Indiyskoye Kino
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH107/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="KHL" group-title="IPTV",KHL
 https://secure-272717.tatnet.app/31.148.48.15/KHL_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="24KZ" group-title="News",24KZ
 https://secure-272717.tatnet.app/tvcdn01.oktv.kz/tv/24kz/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="100% News (576p)" group-title="Business;News",100% News (576p)
 https://secure-272717.tatnet.app/85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="312 ТВ (406p)" group-title="Entertainment",312 ТВ (406p)
 https://secure-272717.tatnet.app/176.126.166.43:1935/live/312musik/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ARTN TV" group-title="General",ARTN TV
 https://secure-272717.tatnet.app/streamer1.connectto.com/ARTN_mobile/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ATR" group-title="Culture",ATR
 https://secure-272717.tatnet.app/atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Bălţi TV [Geo-blocked]" group-title="General",Bălţi TV [Geo-blocked]
 https://secure-272717.tatnet.app/77.89.199.174:8000/play/1024/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Channel 9 (540p)" group-title="News",Channel 9 (540p)
 https://secure-272717.tatnet.app/50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Dasturxon TV (576p)" group-title="General",Dasturxon TV (576p)
 https://secure-272717.tatnet.app/stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Detski mir (576p)" group-title="Kids",Detski mir (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH35/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ETV+" group-title="Entertainment",ETV+
 https://secure-272717.tatnet.app/sb.err.ee/live/etvpluss.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="2GB Sydney" group-title="News",2GB Sydney
 https://secure-272717.tatnet.app/2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="3AW Melbourne" group-title="News",3AW Melbourne
 https://secure-272717.tatnet.app/3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="3Cat Exclusiu 1 [Geo-blocked]" group-title="News;Public",3Cat Exclusiu 1 [Geo-blocked]
 https://secure-272717.tatnet.app/directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="3Cat Exclusiu 2 [Geo-blocked]" group-title="News;Public",3Cat Exclusiu 2 [Geo-blocked]
 https://secure-272717.tatnet.app/directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="3Cat Exclusiu 3 [Geo-blocked]" group-title="News;Public",3Cat Exclusiu 3 [Geo-blocked]
 https://secure-272717.tatnet.app/directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="4DmásNoticias TV" group-title="News",4DmásNoticias TV
 https://secure-272717.tatnet.app/rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="4TV News (576p)" group-title="News",4TV News (576p)
 https://secure-272717.tatnet.app/cdn-4.pishow.tv/live/1007/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="6PR Perth" group-title="News",6PR Perth
 https://secure-272717.tatnet.app/6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="6 TV Telugu (576p)" group-title="News",6 TV Telugu (576p)
 https://secure-272717.tatnet.app/cdn-1.pishow.tv/live/232/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="10 TV (576p)" group-title="News",10 TV (576p)
 https://secure-272717.tatnet.app/cdn-1.pishow.tv/live/391/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="13 Siam Thai" group-title="News",13 Siam Thai
 https://secure-272717.tatnet.app/live.x2.co.th/live/13livetv-th.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="22Scope News" group-title="News",22Scope News
 https://secure-272717.tatnet.app/thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="24/7 Canal de Noticias" group-title="News",24/7 Canal de Noticias
 https://secure-272717.tatnet.app/panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="24 News (576p)" group-title="News",24 News (576p)
 https://secure-272717.tatnet.app/segment.yuppcdn.net/110322/channel24/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="News",24 TV" group-title="News",like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="News",24 TV
 https://secure-272717.tatnet.app/mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="30A Georgia Hollywood Review TV" group-title="Entertainment;News",30A Georgia Hollywood Review TV
 https://secure-272717.tatnet.app/30a-tv.com/gh.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="30A Lionel Nation TV" group-title="News",30A Lionel Nation TV
 https://secure-272717.tatnet.app/30a-tv.com/ln.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="30A Loomered TV" group-title="Documentary;News",30A Loomered TV
 https://secure-272717.tatnet.app/30a-tv.com/loomer.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="99TV" group-title="News",99TV
 https://secure-272717.tatnet.app/cdn-1.pishow.tv/live/1211/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="101tv Malaga" group-title="News",101tv Malaga
 https://secure-272717.tatnet.app/liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="360 TV" group-title="News",360 TV
 https://secure-272717.tatnet.app/turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name=":24" group-title="News",:24
 https://secure-272717.tatnet.app/88.212.15.27/live/test_trojka_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="A24 Paraguay" group-title="News",A24 Paraguay
 https://secure-272717.tatnet.app/45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="A Türk Izmir (360p)" group-title="News",A Türk Izmir (360p)
 https://secure-272717.tatnet.app/vdo.digitalbox.xyz:3807/stream/play.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="AA Live" group-title="News",AA Live
 https://secure-272717.tatnet.app/mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Aaj Tak" group-title="News",Aaj Tak
 https://secure-272717.tatnet.app/103.213.31.109:90/AajtakHD/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Aaj Tak" group-title="News",Aaj Tak
 https://secure-272717.tatnet.app/feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Abante TV" group-title="News",Abante TV
 https://secure-272717.tatnet.app/amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC 2 Baltimore MD (WMAR)" group-title="News",ABC 2 Baltimore MD (WMAR)
 https://secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC 6 Indianapolis IN (WRTV)" group-title="News",ABC 6 Indianapolis IN (WRTV)
 https://secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/bc9ff1c7-4dc1-4e36-9ef0-25b28c595ada/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC 9 Manchester NH (WMUR-TV)" group-title="News;Weather",ABC 9 Manchester NH (WMUR-TV)
 https://secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC 9 Orlando FL (WFTV)" group-title="News",ABC 9 Orlando FL (WFTV)
 https://secure-272717.tatnet.app/amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC 27 Tallahassee FL (WTXL)" group-title="News",ABC 27 Tallahassee FL (WTXL)
 https://secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABC (WPLG-DT1) Miami FL" group-title="News",ABC (WPLG-DT1) Miami FL
 https://secure-272717.tatnet.app/pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",24 Hour Free Movies" group-title="Movies",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",24 Hour Free Movies
 https://secure-272717.tatnet.app/d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="27 TwentySeven [Geo-blocked]" group-title="Movies;Series",27 TwentySeven [Geo-blocked]
 https://secure-272717.tatnet.app/live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="30A TV Classic Movies" group-title="Movies",30A TV Classic Movies
 https://secure-272717.tatnet.app/30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="50 Cent Action" group-title="Movies;Series",50 Cent Action
 https://secure-272717.tatnet.app/jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="70s Cinema" group-title="Movies",70s Cinema
 https://secure-272717.tatnet.app/jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="80s Rewind" group-title="Movies",80s Rewind
 https://secure-272717.tatnet.app/jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="90s Throwback" group-title="Movies",90s Throwback
 https://secure-272717.tatnet.app/jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="&flix" group-title="Movies",&flix
 https://secure-272717.tatnet.app/103.72.101.252:8080/live/1322.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="&pictures" group-title="Movies",&pictures
 https://secure-272717.tatnet.app/103.72.101.252:8080/live/185.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="&TV (576p)" group-title="Movies",&TV (576p)
 https://secure-272717.tatnet.app/103.229.254.25:7001/play/a09v/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="&TV International" group-title="Movies",&TV International
 https://secure-272717.tatnet.app/amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="&xplor" group-title="Movies",&xplor
 https://secure-272717.tatnet.app/149.71.34.166:8000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="@TV" group-title="Movies;Series",@TV
 https://secure-272717.tatnet.app/49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ABN Bible Movies" group-title="Movies;Religious",ABN Bible Movies
 https://secure-272717.tatnet.app/mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Abzy Dhakad (504p)" group-title="Movies",Abzy Dhakad (504p)
 https://secure-272717.tatnet.app/57.129.53.130:21001/ABZY_Dhakad/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Abzy Movies (504p)" group-title="Movies",Abzy Movies (504p)
 https://secure-272717.tatnet.app/57.129.53.130:21001/ABZY_Movies/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Action 24" group-title="Movies",Action 24
 https://secure-272717.tatnet.app/actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Adrenalina Pura TV" group-title="Movies",Adrenalina Pura TV
 https://secure-272717.tatnet.app/jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Afghan Nobel Movies" group-title="Movies",Afghan Nobel Movies
 https://secure-272717.tatnet.app/live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Aflam" group-title="Movies",Aflam
 https://secure-272717.tatnet.app/shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Afra Film" group-title="Movies",Afra Film
 https://secure-272717.tatnet.app/afrafhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Afriwood Blockbuster" group-title="Movies",Afriwood Blockbuster
 https://secure-272717.tatnet.app/streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alankar TV" group-title="Movies",Alankar TV
 https://secure-272717.tatnet.app/livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alien Nation by DUST" group-title="Movies",Alien Nation by DUST
 https://secure-272717.tatnet.app/dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="All Time Movies (576p)" group-title="Movies",All Time Movies (576p)
 https://secure-272717.tatnet.app/mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV
 https://secure-272717.tatnet.app/tv.alterna.ar/stream/hls/live.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="American Horrors (480p)" group-title="Movies",American Horrors (480p)
 https://secure-272717.tatnet.app/107.167.7.162:8081/playlist/amhor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Anmol Cinema (576p)" group-title="Movies",Anmol Cinema (576p)
 https://secure-272717.tatnet.app/116.90.120.151:8000/play/a0j6/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Artflix Movie Classics" group-title="Classic;Movies",Artflix Movie Classics
 https://secure-272717.tatnet.app/amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Asianet Movies (576p)" group-title="Movies",Asianet Movies (576p)
 https://secure-272717.tatnet.app/anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Asianet Movies" group-title="Movies",Asianet Movies
 https://secure-272717.tatnet.app/149.71.34.166:8000/play/a06e/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Atrescine" group-title="Movies",Atrescine
 https://secure-272717.tatnet.app/181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Aurora Media Films" group-title="Movies",Aurora Media Films
 https://secure-272717.tatnet.app/cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="B4U Bhojpuri" group-title="Movies",B4U Bhojpuri
 https://secure-272717.tatnet.app/cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="B4U Kadak" group-title="Movies",B4U Kadak
 https://secure-272717.tatnet.app/cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="B4U Movies [Geo-blocked]" group-title="Movies",B4U Movies [Geo-blocked]
 https://secure-272717.tatnet.app/amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="BET Cinema" group-title="Movies",BET Cinema
 https://secure-272717.tatnet.app/jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="Movies",Bhojpuri Cinema
 https://secure-272717.tatnet.app/live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="BIZ Cinema" group-title="Movies",BIZ Cinema
 https://secure-272717.tatnet.app/fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Bollywood Classic" group-title="Classic;Movies",Bollywood Classic
 https://secure-272717.tatnet.app/103.213.31.109:90/BollywoodClassic/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Bollywood" group-title="Movies",Bollywood
 https://secure-272717.tatnet.app/103.213.31.109:90/BollywoodHD/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Boreal" group-title="Movies",Boreal
 https://secure-272717.tatnet.app/edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",Box Cinema" group-title="Movies",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",Box Cinema
 https://secure-272717.tatnet.app/d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Bravo Farsi TV (360p)" group-title="Movies",Bravo Farsi TV (360p)
 https://secure-272717.tatnet.app/bravoohls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="30A Golf Kingdom" group-title="Sports",30A Golf Kingdom
 https://secure-272717.tatnet.app/30a-tv.com/feeds/vidaa/golf.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ACCDN" group-title="Sports",ACCDN
 https://secure-272717.tatnet.app/raycom-accdn-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ACI Sport TV" group-title="Sports",ACI Sport TV
 https://secure-272717.tatnet.app/webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Sports",ACL Cornhole TV" group-title="Sports",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Sports",ACL Cornhole TV
 https://secure-272717.tatnet.app/d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8?ads.vf=Sl3XhzpgcOy
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Adjarasport 1" group-title="Sports",Adjarasport 1
 https://secure-272717.tatnet.app/live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ADO TV" group-title="Kids;Sports",ADO TV
 https://secure-272717.tatnet.app/strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alkass Five" group-title="Sports",Alkass Five
 https://secure-272717.tatnet.app/liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alkass Four" group-title="Sports",Alkass Four
 https://secure-272717.tatnet.app/liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alkass One" group-title="Sports",Alkass One
 https://secure-272717.tatnet.app/liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alkass Seven" group-title="Sports",Alkass Seven
 https://secure-272717.tatnet.app/liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alkass SHOOF" group-title="Sports",Alkass SHOOF
 https://secure-272717.tatnet.app/liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alkass SHOOF 2" group-title="Sports",Alkass SHOOF 2
 https://secure-272717.tatnet.app/liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alkass Six" group-title="Sports",Alkass Six
 https://secure-272717.tatnet.app/liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alkass Three" group-title="Sports",Alkass Three
 https://secure-272717.tatnet.app/liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Alkass Two" group-title="Sports",Alkass Two
 https://secure-272717.tatnet.app/liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="ATG Live" group-title="Sports",ATG Live
 https://secure-272717.tatnet.app/kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Awapa Sports TV" group-title="Sports",Awapa Sports TV
 https://secure-272717.tatnet.app/mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Barca TV" group-title="Sports",Barca TV
 https://secure-272717.tatnet.app/live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="BEK TV Sports West" group-title="Sports",BEK TV Sports West
 https://secure-272717.tatnet.app/cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Bellator MMA" group-title="Sports",Bellator MMA
 https://secure-272717.tatnet.app/jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Billiard TV" group-title="Sports",Billiard TV
 https://secure-272717.tatnet.app/1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Canal do Inter" group-title="Sports",Canal do Inter
 https://secure-272717.tatnet.app/video01.soultv.com.br/internacional/internacional/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="CazeTV (1080i)" group-title="Sports",CazeTV (1080i)
 https://secure-272717.tatnet.app/dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="CCTV-5" group-title="Sports",CCTV-5
 https://secure-272717.tatnet.app/74.91.26.218:82/live/cctv5hd.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="CCTV-5+" group-title="Sports",CCTV-5+
 https://secure-272717.tatnet.app/192.151.150.154/live/cctv5p.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="CCTV-16" group-title="Sports",CCTV-16
 https://secure-272717.tatnet.app/74.91.26.218:82/live/cctv16hd.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="CDN Deportes" group-title="Sports",CDN Deportes
 https://secure-272717.tatnet.app/200.125.170.122:8000/play/a03j/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Combate Global" group-title="Sports",Combate Global
 https://secure-272717.tatnet.app/stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="DD Sports SD" group-title="Sports",DD Sports SD
 https://secure-272717.tatnet.app/d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Đồng Nai 2 (480p)" group-title="Entertainment;Sports",Đồng Nai 2 (480p)
 https://secure-272717.tatnet.app/118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="DraftKings Network" group-title="Sports",DraftKings Network
 https://secure-272717.tatnet.app/na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="DSports Uruguay" group-title="Sports",DSports Uruguay
 https://secure-272717.tatnet.app/cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+#EXTINF:-1 tvg-name="Equidia" group-title="Sports",Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 
 #EXTINF:-1 tvg-name="Телерадиокомпания 555 (Алушта)" group-title="General",Телерадиокомпания 555 (Алушта)

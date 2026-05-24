@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Croatia
-# Каналов: 17
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 15
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTL" group-title="Croatia",RTL
@@ -31,9 +31,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.
 #EXTINF:-1 tvg-name="HRT 3" group-title="Croatia",HRT 3
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
 
-#EXTINF:-1 tvg-name="CMC TV" group-title="Croatia",CMC TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.cmctv.hr:49998/cmc/live.m3u8
-
 #EXTINF:-1 tvg-name="Plava Vinkovačka" group-title="Croatia",Plava Vinkovačka
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8
 
@@ -45,9 +42,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/player-api.new.livestr
 
 #EXTINF:-1 tvg-name="TV Nova" group-title="Croatia",TV Nova
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.agatin.hr:3727/live/tvnovalive.m3u8
-
-#EXTINF:-1 tvg-name="TV Jadran" group-title="Croatia",TV Jadran
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 
 #EXTINF:-1 tvg-name="Libertas TV" group-title="Croatia",Libertas TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.luci.xyz/hls/LTV.m3u8

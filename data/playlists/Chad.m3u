@@ -1,18 +1,15 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Chad
-# Каналов: 2
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 1
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Tchad 24" group-title="Chad",Tchad 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/102.131.58.110/out_1/index.m3u8
-
-#EXTINF:-1 tvg-name="Télé Tchad Ⓢ" group-title="Chad",Télé Tchad Ⓢ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 

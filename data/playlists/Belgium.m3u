@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Belgium
-# Каналов: 13
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 12
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTL-Be" group-title="Belgium",RTL-Be
@@ -30,9 +30,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/4ce5e2d62ee2c10e43c709
 
 #EXTINF:-1 tvg-name="LN24" group-title="Belgium",LN24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
-
-#EXTINF:-1 tvg-name="BX1" group-title="Belgium",BX1
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/59959724487e3.streamlock.net/stream/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EEN" group-title="Belgium",EEN
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-vrt.rabah.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8

@@ -1,20 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Bulgaria
-# Каналов: 3
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 2
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Euronews Bulgaria Ⓨ" group-title="Bulgaria",Euronews Bulgaria Ⓨ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.youtube.com/channel/UCU1i6qBMjY9El6q5L2OK8hA/live
-
-#EXTINF:-1 tvg-name="City TV Ⓢ" group-title="Bulgaria",City TV Ⓢ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
 
 #EXTINF:-1 tvg-name="TV1" group-title="Bulgaria",TV1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv1.cloudcdn.bg/temp/livestream.m3u8

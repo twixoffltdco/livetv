@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Legislative
-# Каналов: 169
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 175
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -516,6 +516,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.
 
 #EXTINF:-1 tvg-name="Tweede Kamer: Wttewaall van Stoetwegenzaal" group-title="Legislative",Tweede Kamer: Wttewaall van Stoetwegenzaal
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 tvg-name="TV Câmara" group-title="Legislative",TV Câmara
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-name="CPAC" group-title="Legislative",CPAC
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+
+#EXTINF:-1 tvg-name="Folketinget" group-title="Legislative",Folketinget
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-name="Althingi" group-title="Legislative",Althingi
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/althingi-live.secure.footprint.net/althingi/live/index.m3u8
+
+#EXTINF:-1 tvg-name="Senato TV" group-title="Legislative",Senato TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Camera dei Deputati (via RR) (240p)" group-title="Legislative",Camera dei Deputati (via RR) (240p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",Дума ТВ" group-title="Legislative",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",Дума ТВ
 https://dumatv.iptv2022.com/playlist.m3u8

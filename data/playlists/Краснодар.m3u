@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Краснодар
-# Каналов: 62
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 61
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Домашний (Краснодар)" group-title="Краснодар",Домашний (Краснодар)
@@ -183,9 +183,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-krdar-htlive.cd
 
 #EXTINF:-1 tvg-name="Кубань 24 (Краснодар)" group-title="Краснодар",Кубань 24 (Краснодар)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24-T/variant.m3u8
-
-#EXTINF:-1 tvg-name="Кубань 24 (Краснодар)" group-title="Краснодар",Кубань 24 (Краснодар)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Кубань 24 (Майкоп)" group-title="Краснодар",Кубань 24 (Майкоп)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_MAYKOP/variant.m3u8

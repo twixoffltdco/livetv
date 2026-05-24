@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Poland
-# Каналов: 13
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 12
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TVP ABC 2" group-title="Poland",TVP ABC 2
@@ -45,7 +45,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.tvkaista.net/strea
 
 #EXTINF:-1 tvg-name="TVP Kultura 2" group-title="Poland",TVP Kultura 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
-
-#EXTINF:-1 tvg-name="4fun.tv Ⓢ" group-title="Poland",4fun.tv Ⓢ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.4fun.tv:8888/hls/4f_high/index.m3u8
 

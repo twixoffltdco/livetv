@@ -1,14 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle
-# Каналов: 80
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 82
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Домашний (540p) [Geo-blocked]" group-title="Lifestyle",Домашний (540p) [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
@@ -243,6 +246,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/99d8b4b6.wurl.com/mast
 
 #EXTINF:-1 tvg-name="The Design Network" group-title="Lifestyle",The Design Network
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="13 Prime" group-title="Lifestyle",13 Prime
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 
 #EXTINF:-1 tvg-name="Divinity" group-title="Lifestyle",Divinity
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/92.176.119.180:2095/play/a1g1

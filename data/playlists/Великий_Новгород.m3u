@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Великий Новгород
-# Каналов: 34
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 33
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Великий Новгород)" group-title="Великий Новгород",Первый (Великий Новгород)
@@ -108,7 +108,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-novg-htlive.cdn.
 
 #EXTINF:-1 tvg-name="Пятница! (Великий Новгород)" group-title="Великий Новгород",Пятница! (Великий Новгород)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_NOVG/variant.m3u8
-
-#EXTINF:-1 tvg-name="НОТ (Великий Новгород)" group-title="Великий Новгород",НОТ (Великий Новгород)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 

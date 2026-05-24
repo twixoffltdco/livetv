@@ -1,23 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Qatar
-# Каналов: 9
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 7
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Qatar Television" group-title="Qatar",Qatar Television
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-
-#EXTINF:-1 tvg-name="Al Rayyan" group-title="Qatar",Al Rayyan
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-name="Al Rayyan Old TV" group-title="Qatar",Al Rayyan Old TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher" group-title="Qatar",Al Jazeera Mubasher
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-hls-web-ajm.getaj.net/AJM/index.m3u8

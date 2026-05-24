@@ -1,14 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business
-# Каналов: 62
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 65
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Bloomberg TV Europe" group-title="Business",Bloomberg TV Europe
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-name="Cheddar News" group-title="Business",Cheddar News
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/index.m3u8?ads.xumo_channelId=99991220&ads._fw_ifa_type=dpid&ads._fw_did=43135081-0e2e-2a3f-b10c-4ade81d0e829&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Cheddar&ads.csid=xumo_desktopweb_cheddar_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=News&ads._fw_content_category=IAB12&ads._fw_content_language=en&ads._fw_content_genre=News&ads._fw_content_rating=TV-PG&ads.xumo_contentId=161&ads.xumo_contentName=Cheddar&ads.xumo_providerId=161&ads.xumo_providerName=Cheddar&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991220&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
@@ -181,10 +184,16 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/s-pl-01.mediatool.tv/p
 #EXTINF:-1 tvg-name="Trends Z" group-title="Business",Trends Z
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 
+#EXTINF:-1 tvg-name="Negocios TV" group-title="Business",Negocios TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-name="Al Arabiya Business" group-title="Business",Al Arabiya Business
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Yahoo! Finance" group-title="Business",Yahoo! Finance
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ausbiz" group-title="Business",Ausbiz
+#EXTINF:-1 tvg-name="ausbiz TV" group-title="Business",ausbiz TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
 #EXTINF:-1 tvg-name="Moconomy" group-title="Business",Moconomy
@@ -196,6 +205,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/49.113.179.174:4022/ud
 #EXTINF:-1 tvg-name="IDX Channel" group-title="Business",IDX Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
+#EXTINF:-1 tvg-name="100% News (576p)" group-title="Business;News",100% News (576p)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-name="Bloomberg Originals" group-title="Business;Documentary",Bloomberg Originals
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Business",Bloomberg Television" group-title="Business",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Business",Bloomberg Television

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Canada
-# Каналов: 33
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 28
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC News" group-title="Canada",CBC News
@@ -79,12 +79,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/onntv.vantrix.tv:443/o
 #EXTINF:-1 tvg-name="Star TV" group-title="Canada",Star TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 
-#EXTINF:-1 tvg-name="CPAC (EN)" group-title="Canada",CPAC (EN)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-
-#EXTINF:-1 tvg-name="ICI RDI" group-title="Canada",ICI RDI
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-
 #EXTINF:-1 tvg-name="ICI Télé Ⓖ" group-title="Canada",ICI Télé Ⓖ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 
@@ -97,15 +91,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/pe-ak-lp04a-9c9media.a
 #EXTINF:-1 tvg-name="Télé Québec" group-title="Canada",Télé Québec
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Savoir Média" group-title="Canada",Savoir Média
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.savoir.media/live/stream.m3u8
-
 #EXTINF:-1 tvg-name="CPAC (FR)" group-title="Canada",CPAC (FR)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-
-#EXTINF:-1 tvg-name="ICI Montreal" group-title="Canada",ICI Montreal
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-
-#EXTINF:-1 tvg-name="Toronto 360 TV" group-title="Canada",Toronto 360 TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 

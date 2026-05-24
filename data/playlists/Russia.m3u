@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Russia
-# Каналов: 56
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 48
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый канал" group-title="Russia",Первый канал
@@ -58,9 +58,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.televizor-24
 #EXTINF:-1 tvg-name="Звезда" group-title="Russia",Звезда
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Мир" group-title="Russia",Мир
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
 #EXTINF:-1 tvg-name="ТНТ Ⓢ" group-title="Russia",ТНТ Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ott-cdn.ucom.am/s19/index.m3u8
 
@@ -79,14 +76,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/ifra
 #EXTINF:-1 tvg-name="Архыз 24" group-title="Russia",Архыз 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-name="Астрахан 24" group-title="Russia",Астрахан 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Башкортостан 24" group-title="Russia",Башкортостан 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-name="Волгоград 24 Ⓢ" group-title="Russia",Волгоград 24 Ⓢ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Запад 24" group-title="Russia",Запад 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
@@ -94,17 +85,11 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvid
 #EXTINF:-1 tvg-name="Катунь 24 Ⓞ" group-title="Russia",Катунь 24 Ⓞ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ok.ru/video/1166706155179
 
-#EXTINF:-1 tvg-name="Крым 24" group-title="Russia",Крым 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.1tvcrimea.ru/24tvcrimea.m3u8
-
 #EXTINF:-1 tvg-name="Кубань 24 Ⓞ" group-title="Russia",Кубань 24 Ⓞ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ok.ru/video/4157442498242
 
 #EXTINF:-1 tvg-name="Луганск 24" group-title="Russia",Луганск 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.gtrklnr.ru/hls/Lugansk24.m3u8
-
-#EXTINF:-1 tvg-name="Мир Белогорья" group-title="Russia",Мир Белогорья
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 
 #EXTINF:-1 tvg-name="Москва 24" group-title="Russia",Москва 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/1661
@@ -127,9 +112,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvid
 #EXTINF:-1 tvg-name="Якутия 24" group-title="Russia",Якутия 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="360 Новости" group-title="Russia",360 Новости
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Вести ФМ" group-title="Russia",Вести ФМ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/52035
 
@@ -141,9 +123,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-vgtrksmotrim.cdnv
 
 #EXTINF:-1 tvg-name="Смотрим: Тайны" group-title="Russia",Смотрим: Тайны
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Смотрим: Честный Детектив" group-title="Russia",Смотрим: Честный Детектив
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Соловьёв Live" group-title="Russia",Соловьёв Live
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/63338
@@ -168,9 +147,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/vk.com/video-213370539
 
 #EXTINF:-1 tvg-name="Белгород 24" group-title="Russia",Белгород 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
-
-#EXTINF:-1 tvg-name="Ветта 24" group-title="Russia",Ветта 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Саратов 24" group-title="Russia",Саратов 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/saratov24.tv/online/playlist.php

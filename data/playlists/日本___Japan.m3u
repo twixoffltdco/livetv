@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: 日本 / Japan
-# Каналов: 52
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 50
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="J SPORTS 1" group-title="日本 / Japan",J SPORTS 1
@@ -96,12 +96,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.willfonk.com/
 
 #EXTINF:-1 tvg-name="日本映画専門チャンネル" group-title="日本 / Japan",日本映画専門チャンネル
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-name="ショップチャンネル" group-title="日本 / Japan",ショップチャンネル
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream3.shopch.jp/HLS/master.m3u8
-
-#EXTINF:-1 tvg-name="QVC" group-title="日本 / Japan",QVC
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
 #EXTINF:-1 tvg-name="東映チャンネル" group-title="日本 / Japan",東映チャンネル
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1

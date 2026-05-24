@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Ukraine
-# Каналов: 52
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 43
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="1+1 Ukraina Ⓢ" group-title="Ukraine",1+1 Ukraina Ⓢ
@@ -40,9 +40,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdnua05.hls.tv/645/hls
 #EXTINF:-1 tvg-name="24 Kanal" group-title="Ukraine",24 Kanal
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Telekanal RAI" group-title="Ukraine",Telekanal RAI
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.rai.ua/rai/stream.m3u8
-
 #EXTINF:-1 tvg-name="ITV" group-title="Ukraine",ITV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 
@@ -51,9 +48,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/ext.cdn.nashnet.tv/228
 
 #EXTINF:-1 tvg-name="1+1 Marafon" group-title="Ukraine",1+1 Marafon
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
-
-#EXTINF:-1 tvg-name="Suspilne Kultura" group-title="Ukraine",Suspilne Kultura
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 
 #EXTINF:-1 tvg-name="ICTV2" group-title="Ukraine",ICTV2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
@@ -85,9 +79,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/212.79.122.11:5014/udp
 #EXTINF:-1 tvg-name="M1" group-title="Ukraine",M1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.28:1234
 
-#EXTINF:-1 tvg-name="M2" group-title="Ukraine",M2
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.m2.tv/hls3/stream.m3u8
-
 #EXTINF:-1 tvg-name="NTN" group-title="Ukraine",NTN
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
 
@@ -109,9 +100,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/212.79.122.11:5014/udp
 #EXTINF:-1 tvg-name="Піксель TV" group-title="Ukraine",Піксель TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.30:1234
 
-#EXTINF:-1 tvg-name="Суспільне Київ" group-title="Ukraine",Суспільне Київ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
-
 #EXTINF:-1 tvg-name="Суспільне Дніпро" group-title="Ukraine",Суспільне Дніпро
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4786/stream.m3u8
 
@@ -127,9 +115,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdnua05.hls.tv/632/hls
 #EXTINF:-1 tvg-name="Суспільне Луцьк" group-title="Ukraine",Суспільне Луцьк
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.107.168.98:7006/play/508/index.m3u8
 
-#EXTINF:-1 tvg-name="Суспільне Крим" group-title="Ukraine",Суспільне Крим
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
-
 #EXTINF:-1 tvg-name="Суспільне Тернопіль" group-title="Ukraine",Суспільне Тернопіль
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
 
@@ -138,15 +123,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/95.67.106.242/mobile-a
 
 #EXTINF:-1 tvg-name="ДІМ" group-title="Ukraine",ДІМ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.18:1234
-
-#EXTINF:-1 tvg-name="Дніпро TV" group-title="Ukraine",Дніпро TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vcdn1.produck.company:1935/out/dtv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ГІТ" group-title="Ukraine",ГІТ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.uagit.tv/gittv.m3u8
-
-#EXTINF:-1 tvg-name="Тернопіль 1" group-title="Ukraine",Тернопіль 1
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/ott.columbus.te.ua/ternopil1/index.m3u8
 
 #EXTINF:-1 tvg-name="CK 1" group-title="Ukraine",CK 1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
@@ -163,17 +139,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.ntktv.ua/s/ntk/
 #EXTINF:-1 tvg-name="TVA" group-title="Ukraine",TVA
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
 
-#EXTINF:-1 tvg-name="TV7+" group-title="Ukraine",TV7+
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv7plus.com/hls/tv7_site.m3u8
-
 #EXTINF:-1 tvg-name="BBC One Ⓖ" group-title="UK",BBC One Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-name="BBC Two Ⓖ" group-title="UK",BBC Two Ⓖ
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-name="Channel 4 Ⓢ" group-title="UK",Channel 4 Ⓢ
 http://176.65.146.105:8011/play/a07w/index.m3u8
-#EXTINF:-1 tvg-name="S4C Ⓖ" group-title="UK",S4C Ⓖ
-https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 tvg-name="BBC Alba Ⓖ" group-title="UK",BBC Alba Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-name="BBC Four Ⓖ" group-title="UK",BBC Four Ⓖ
@@ -186,8 +157,6 @@ http://176.65.146.105:8011/play/E4HD/index.m3u8
 http://176.65.146.105:8011/play/FILM4SD/index.m3u8
 #EXTINF:-1 tvg-name="QVC UK Ⓢ" group-title="UK",QVC UK Ⓢ
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
-#EXTINF:-1 tvg-name="TJC" group-title="UK",TJC
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-name="BBC Three Ⓖ" group-title="UK",BBC Three Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-name="GemsTV Ⓢ" group-title="UK",GemsTV Ⓢ
@@ -224,8 +193,6 @@ https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
 #EXTINF:-1 tvg-name="France 24" group-title="UK",France 24
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV" group-title="UK",Bloomberg TV
-https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan" group-title="UK",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-name="Arirang World" group-title="UK",Arirang World
@@ -254,8 +221,6 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Now 80s" group-title="UK",Now 80s
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Now Rock" group-title="UK",Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC World News Ⓢ" group-title="UK",BBC World News Ⓢ
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-name="BBC Radio 1" group-title="UK",BBC Radio 1

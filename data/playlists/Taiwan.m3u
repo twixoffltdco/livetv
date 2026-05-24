@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Taiwan
-# Каналов: 11
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 8
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CTV News Channel (中視新聞台) Ⓨ" group-title="Taiwan",CTV News Channel (中視新聞台) Ⓨ
@@ -24,15 +24,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.youtube.com/watch?
 
 #EXTINF:-1 tvg-name="TaiwanPlus Ⓨ" group-title="Taiwan",TaiwanPlus Ⓨ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.youtube.com/watch?v=dZp87qnWelE
-
-#EXTINF:-1 tvg-name="民視無線台" group-title="Taiwan",民視無線台
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/seb.sason.top/ptv/ftv.php?id=ms
-
-#EXTINF:-1 tvg-name="FTV One (民視第一台)" group-title="Taiwan",FTV One (民視第一台)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/seb.sason.top/ptv/ftv.php?id=dy
-
-#EXTINF:-1 tvg-name="FTV Taiwan (民視台灣台)" group-title="Taiwan",FTV Taiwan (民視台灣台)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/seb.sason.top/ptv/ftv.php?id=tw
 
 #EXTINF:-1 tvg-name="TTV Main Channel (臺灣電視台) Ⓨ Ⓖ" group-title="Taiwan",TTV Main Channel (臺灣電視台) Ⓨ Ⓖ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.youtube.com/watch?v=uDqQo8a7Xmk

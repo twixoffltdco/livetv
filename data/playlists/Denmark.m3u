@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Denmark
-# Каналов: 13
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 12
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV 2/Øst" group-title="Denmark",TV 2/Øst
@@ -24,9 +24,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/drlive02texthls.akamai
 
 #EXTINF:-1 tvg-name="DR Ramasjang Ⓖ" group-title="Denmark",DR Ramasjang Ⓖ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
-
-#EXTINF:-1 tvg-name="Folketinget TV" group-title="Denmark",Folketinget TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-name="TV Syd+" group-title="Denmark",TV Syd+
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-lt-live.tvsyd.dk/env/cluster-1-e.live.nvp1/live/hls/p/1956351/e/0_e9slj9wh/tl/main/st/0/t/rFEtaqAbdhUFGef_BNF4WQ/index-s32.m3u8

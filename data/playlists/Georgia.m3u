@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Georgia
-# Каналов: 8
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 7
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Euronews Georgia Ⓖ" group-title="Georgia",Euronews Georgia Ⓖ
@@ -27,9 +27,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/sktv-forwarders.7m.pl/
 
 #EXTINF:-1 tvg-name="Mtavari Arkhi" group-title="Georgia",Mtavari Arkhi
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bozztv.com/36bay2/mtavariarxi/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Formula" group-title="Georgia",Formula
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 
 #EXTINF:-1 tvg-name="Pos TV" group-title="Georgia",Pos TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.postv.media/stream/index.m3u8

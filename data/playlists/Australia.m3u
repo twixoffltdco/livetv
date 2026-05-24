@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Australia
-# Каналов: 9
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 2
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ABC" group-title="Australia",ABC
@@ -15,25 +15,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/c.mjh.nz/101002210221/
 
 #EXTINF:-1 tvg-name="ABC Me" group-title="Australia",ABC Me
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/c.mjh.nz/101002210224/
-
-#EXTINF:-1 tvg-name="ABC News" group-title="Australia",ABC News
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1 tvg-name="TVSN" group-title="Australia",TVSN
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
-
-#EXTINF:-1 tvg-name="M4TV" group-title="Australia",M4TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Racing.com" group-title="Australia",Racing.com
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-
-#EXTINF:-1 tvg-name="9Go! Ⓖ" group-title="Australia",9Go! Ⓖ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-
-#EXTINF:-1 tvg-name="9Life Ⓖ" group-title="Australia",9Life Ⓖ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-
-#EXTINF:-1 tvg-name="9Rush Ⓖ" group-title="Australia",9Rush Ⓖ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 

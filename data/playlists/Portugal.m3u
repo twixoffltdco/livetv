@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-24 12:46:53
+# Обновлено: 2026-05-24 14:43:44
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Portugal
-# Каналов: 12
-# Обновлено: 2026-05-24 12:46:53
+# Каналов: 6
+# Обновлено: 2026-05-24 14:43:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CNN Portugal" group-title="Portugal",CNN Portugal
@@ -19,26 +19,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.youtube.com/eurone
 #EXTINF:-1 tvg-name="RTP1" group-title="Portugal",RTP1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTP2 Ⓖ" group-title="Portugal",RTP2 Ⓖ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="SIC" group-title="Portugal",SIC
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-
-#EXTINF:-1 tvg-name="RTP Açores" group-title="Portugal",RTP Açores
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="RTP Madeira Ⓢ" group-title="Portugal",RTP Madeira Ⓢ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RTP3" group-title="Portugal",RTP3
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
-
-#EXTINF:-1 tvg-name="RTP África" group-title="Portugal",RTP África
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="RTP Mundo" group-title="Portugal",RTP Mundo
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Porto Canal Ⓢ" group-title="Portugal",Porto Canal Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
