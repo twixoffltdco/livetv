@@ -1,1 +1,1 @@
-Nothing needs to be added to .gitignore since only a Python source file (`scanner.py`) was modified and there are no build artifacts, dependencies, or temporary files in the changes.
+Nothing needs to be added to .gitignore since the changes only include HTML files (map.html, index.html) which are source files and not build artifacts, dependencies, or temporary files.

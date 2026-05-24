@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Карта ТВ каналов - LiveM3U</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/OinkTechLLC/cdnplayerjs@main/playerjs.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/OinkTechLtd/cdnplayerjs@main/playerjs.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/twixoffltdco/cdnplayerjs@main/playerjs.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            --glass-bg: rgba(255, 255, 255, 0.08);
+            --glass-border: rgba(255, 255, 255, 0.2);
+            --neon-blue: #00f5ff;
+            --neon-purple: #bd00ff;
+            --dark-bg: #0a0a0f;
+        }
+        body { font-family: 'Segoe UI', sans-serif; background: var(--dark-bg); color: #fff; min-height: 100vh; overflow: hidden; }
+        .header { position: absolute; top: 0; left: 0; right: 0; z-index: 1000; background: var(--glass-bg); backdrop-filter: blur(20px); border-bottom: 1px solid var(--glass-border); padding: 15px 30px; display: flex; justify-content: space-between; align-items: center; }
+        .header h1 { font-size: 1.5em; background: var(--primary-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        .close-btn { background: var(--primary-gradient); border: none; color: #fff; padding: 10px 25px; border-radius: 25px; cursor: pointer; font-weight: 600; transition: all 0.3s ease; }
+        .close-btn:hover { transform: scale(1.05); box-shadow: 0 0 30px rgba(102, 126, 234, 0.5); }
+        #map { width: 100%; height: 100vh; background: #1a1a2e; }
+        .leaflet-popup-content-wrapper { background: var(--glass-bg); backdrop-filter: blur(20px); border: 1px solid var(--glass-border); border-radius: 16px; color: #fff; }
+        .leaflet-popup-tip { background: var(--glass-bg); }
+        .country-info { min-width: 250px; }
+        .country-name { font-size: 1.3em; font-weight: 700; margin-bottom: 15px; background: var(--primary-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        .channel-select { width: 100%; padding: 12px; border-radius: 10px; border: 1px solid var(--glass-border); background: rgba(0, 0, 0, 0.4); color: #fff; font-size: 1em; margin-bottom: 15px; cursor: pointer; }
+        .channel-select:focus { outline: none; border-color: var(--neon-blue); }
+        .play-btn { width: 100%; padding: 12px; background: var(--primary-gradient); border: none; border-radius: 10px; color: #fff; font-size: 1em; font-weight: 600; cursor: pointer; transition: all 0.3s ease; }
+        .play-btn:hover { transform: scale(1.02); box-shadow: 0 0 20px rgba(102, 126, 234, 0.5); }
+        .player-modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.9); z-index: 2000; justify-content: center; align-items: center; flex-direction: column; }
+        .player-modal.active { display: flex; }
+        .player-container { width: 90%; max-width: 1200px; aspect-ratio: 16/9; background: #000; border-radius: 16px; overflow: hidden; box-shadow: 0 0 60px rgba(102, 126, 234, 0.3); }
+        .player-container iframe { width: 100%; height: 100%; border: none; }
+        .player-controls { margin-top: 20px; display: flex; gap: 15px; align-items: center; flex-wrap: wrap; justify-content: center; }
+        .player-title { font-size: 1.3em; color: #fff; }
+        .switch-player-btn { background: transparent; border: 2px solid var(--neon-purple); color: #fff; padding: 10px 20px; border-radius: 25px; cursor: pointer; font-weight: 600; transition: all 0.3s ease; }
+        .switch-player-btn:hover { background: var(--neon-purple); }
+        .close-player-btn { background: var(--primary-gradient); border: none; color: #fff; padding: 10px 25px; border-radius: 25px; cursor: pointer; font-weight: 600; }
+        .status-message { color: rgba(255, 255, 255, 0.7); font-size: 0.9em; margin-top: 10px; }
+        .legend { position: absolute; bottom: 30px; right: 30px; z-index: 1000; background: var(--glass-bg); backdrop-filter: blur(20px); border: 1px solid var(--glass-border); border-radius: 16px; padding: 20px; max-width: 300px; }
+        .legend h3 { font-size: 1em; margin-bottom: 10px; color: var(--neon-blue); }
+        .legend p { font-size: 0.85em; color: rgba(255, 255, 255, 0.7); line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🗺️ Карта ТВ каналов</h1>
+        <button class="close-btn" onclick="window.close()">✕ Закрыть</button>
+    </div>
+    <div id="map"></div>
+    <div class="legend">
+        <h3>📡 Как использовать</h3>
+        <p>1. Кликните на страну на карте<br>2. Выберите канал из списка<br>3. Нажмите "Смотреть"<br>4. Если плеер не работает, переключитесь на другой</p>
+    </div>
+    <div class="player-modal" id="playerModal">
+        <div class="player-container" id="playerContainer"></div>
+        <div class="player-controls">
+            <span class="player-title" id="playerTitle"></span>
+            <button class="switch-player-btn" onclick="switchPlayer()">🔄 Переключить плеер</button>
+            <button class="close-player-btn" onclick="closePlayer()">✕ Закрыть</button>
+        </div>
+        <div class="status-message" id="statusMessage"></div>
+    </div>
+    <script>
+        const countriesData = {
+            "Россия": { coords: [61.524, 105.3188], channels: [
+                { name: "Первый канал", url: "https://streaming.televizor-24.ru/live/1tv.m3u8" },
+                { name: "Россия 1", url: "https://streaming.televizor-24.ru/live/russia1.m3u8" },
+                { name: "НТВ", url: "https://streaming.televizor-24.ru/live/ntv.m3u8" },
+                { name: "ТНТ", url: "https://streaming.televizor-24.ru/live/tnt.m3u8" },
+                { name: "СТС", url: "https://streaming.televizor-24.ru/live/sts.m3u8" },
+                { name: "Матч ТВ", url: "https://streaming.televizor-24.ru/live/matchtv.m3u8" },
+                { name: "Дождь", url: "https://secure-272717.tatnet.app/stream.tvrain.tv/live/tvrain.m3u8" },
+                { name: "RTVI", url: "https://rtvi.com/live/rtvi.m3u8" },
+                { name: "Мир", url: "https://live.mediacdn.ru/sr1/mir/playlist.m3u8" },
+                { name: "Звезда", url: "https://streaming.televizor-24.ru/live/zvezda.m3u8" }
+            ]},
+            "Украина": { coords: [48.3794, 31.1656], channels: [
+                { name: "1+1", url: "https://1plus1-video-cdn.octaglobal.io/1plus1/1plus1/index.m3u8" },
+                { name: "ICTV", url: "https://ictv-online-video.cdn.vigocloud.com/ictv-online/ictv-online-ch0/mono.m3u8" },
+                { name: "СТБ", url: "https://stb-online-video.cdn.vigocloud.com/stb-online/stb-online-ch0/mono.m3u8" },
+                { name: "Новый канал", url: "https://novyivideo.cdn.vigocloud.com/novyi/novyi-ch0/mono.m3u8" }
+            ]},
+            "Беларусь": { coords: [53.7098, 27.9534], channels: [
+                { name: "Беларусь 1", url: "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8" },
+                { name: "ОНТ", url: "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8" },
+                { name: "СТВ", url: "https://stream.dc.beltelecom.by/stv/stv/playlist.m3u8" }
+            ]},
+            "Казахстан": { coords: [48.0196, 66.9237], channels: [
+                { name: "Хабар", url: "https://hls.khabar.kz/live/habartv/playlist.m3u8" },
+                { name: "КТК", url: "https://hls.ktk.kz/live/ktk/playlist.m3u8" },
+                { name: "Ел Арна", url: "https://hls.elarna.kz/live/elarna/playlist.m3u8" }
+            ]},
+            "Германия": { coords: [51.1657, 10.4515], channels: [
+                { name: "Das Erste", url: "https://mcdn.daserste.de/daserste/de/master.m3u8" },
+                { name: "ZDF", url: "https://zdf-hls-15.akamaized.net/hls/live/2003701/livetv-zdf-de/index.m3u8" },
+                { name: "RTL", url: "https://rtl-live.secure.footprint.net/rtl-live/master.m3u8" }
+            ]},
+            "Великобритания": { coords: [55.3781, -3.436], channels: [
+                { name: "BBC One", url: "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/main.m3u8" },
+                { name: "Sky News", url: "https://skynews.broadcast.livelink.io/skynews_main/master.m3u8" }
+            ]},
+            "Франция": { coords: [46.2276, 2.2137], channels: [
+                { name: "France 24", url: "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8" },
+                { name: "Arte", url: "https://arte-live-webfc.arte.tv/arte_fra_web_h264.m3u8" }
+            ]},
+            "Италия": { coords: [41.8719, 12.5674], channels: [
+                { name: "RAI 1", url: "https://mediapolis.videostreaming.rai.it/redirect/v1/channeldash/1?output=hls" },
+                { name: "La7", url: "https://hlslive-web-gcdn-skycdn-it.akamaized.net/hls/live/162975/LA7/master.m3u8" }
+            ]},
+            "Испания": { coords: [40.4637, -3.7492], channels: [
+                { name: "La 1", url: "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8" },
+                { name: "Antena 3", url: "https://antena3-live.secure.footprint.net/antena3/live/master.m3u8" }
+            ]},
+            "США": { coords: [37.0902, -95.7129], channels: [
+                { name: "ABC News", url: "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8" },
+                { name: "NBC News", url: "https://peacock-liveshow-nbcnewsnow-us.samsung.wurl.tv/playlist.m3u8" },
+                { name: "CBS News", url: "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8" }
+            ]},
+            "Китай": { coords: [35.8617, 104.1954], channels: [
+                { name: "CGTN", url: "https://live.cgtn.com/1000/prog_index.m3u8" },
+                { name: "CCTV-1", url: "https://live-play.cctvnews.cctv.com/cctv/merge_cctv1.m3u8" }
+            ]},
+            "Япония": { coords: [36.2048, 138.2529], channels: [
+                { name: "NHK World", url: "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8" }
+            ]},
+            "Турция": { coords: [38.9637, 35.2433], channels: [
+                { name: "TRT 1", url: "https://tv-trt1.medya.trt.com.tr/master.m3u8" },
+                { name: "Show TV", url: "https://ciner-live.ercdn.net/showtv/showtv.m3u8" }
+            ]},
+            "Индия": { coords: [20.5937, 78.9629], channels: [
+                { name: "DD National", url: "https://ddnational-live.akamaized.net/hls/live/2022765/ddnational/master.m3u8" },
+                { name: "NDTV 24x7", url: "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8" }
+            ]},
+            "Бразилия": { coords: [-14.235, -51.9253], channels: [
+                { name: "Globo", url: "https://globolivemedia-ac.akamaized.net/hls/live/2022615/globolivemedia/master.m3u8" }
+            ]},
+            "Австралия": { coords: [-25.2744, 133.7751], channels: [
+                { name: "ABC News", url: "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8" }
+            ]}
+        };
+
+        let currentCountry = null;
+        let currentChannel = null;
+        let currentPlayerIndex = 0;
+
+        const map = L.map('map', { center: [20, 0], zoom: 2, minZoom: 2, maxZoom: 8 });
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            attribution: '© OpenStreetMap © CARTO', subdomains: 'abcd', maxZoom: 20
+        }).addTo(map);
+
+        Object.entries(countriesData).forEach(([countryName, data]) => {
+            const marker = L.circleMarker(data.coords, { radius: 8, fillColor: '#667eea', color: '#fff', weight: 2, opacity: 1, fillOpacity: 0.7 }).addTo(map);
+            marker.bindTooltip(countryName, { permanent: false, direction: 'top' });
+            marker.on('click', () => openCountryPopup(countryName, data));
+        });
+
+        function openCountryPopup(countryName, data) {
+            currentCountry = countryName;
+            const popupContent = '<div class="country-info"><div class="country-name">' + countryName + '</div><select class="channel-select" id="channelSelect"><option value="">Выберите канал...</option>' + 
+                data.channels.map((ch, i) => '<option value="' + i + '">' + ch.name + '</option>').join('') + 
+                '</select><button class="play-btn" onclick="playChannel()">▶ Смотреть</button></div>';
+            L.popup({ maxWidth: 300, minWidth: 250 }).setLatLng(data.coords).setContent(popupContent).openOn(map);
+        }
+
+        function playChannel() {
+            const select = document.getElementById('channelSelect');
+            if (!select.value) { alert('Пожалуйста, выберите канал!'); return; }
+            currentChannel = countriesData[currentCountry].channels[select.value];
+            currentPlayerIndex = 0;
+            openPlayer(currentChannel);
+        }
+
+        function openPlayer(channel) {
+            document.getElementById('playerTitle').textContent = currentCountry + ' - ' + channel.name;
+            document.getElementById('statusMessage').textContent = 'Загрузка...';
+            document.getElementById('playerModal').classList.add('active');
+            loadPlayer(channel.url);
+        }
+
+        function loadPlayer(url) {
+            const container = document.getElementById('playerContainer');
+            const status = document.getElementById('statusMessage');
+            container.innerHTML = '';
+            const playerUrl = getPlayerUrl(url, currentPlayerIndex);
+            const iframe = document.createElement('iframe');
+            iframe.src = playerUrl;
+            iframe.allowFullscreen = true;
+            iframe.allow = 'autoplay; fullscreen; encrypted-media';
+            iframe.onload = () => { status.textContent = '✓ Воспроизводится'; status.style.color = '#00f5ff'; };
+            iframe.onerror = () => { status.textContent = '⚠ Ошибка, переключите плеер'; status.style.color = '#ff6b6b'; };
+            container.appendChild(iframe);
+            setTimeout(() => { if (status.textContent.includes('Ошибка')) switchPlayer(); }, 5000);
+        }
+
+        function getPlayerUrl(url, index) {
+            const players = [url, 'https://vidstack.io/player?url=' + encodeURIComponent(url), 'https://videojs.com/?url=' + encodeURIComponent(url)];
+            return players[index % players.length];
+        }
+
+        function switchPlayer() {
+            currentPlayerIndex = (currentPlayerIndex + 1) % 3;
+            document.getElementById('statusMessage').textContent = 'Переключение на плеер ' + (currentPlayerIndex + 1) + '...';
+            document.getElementById('statusMessage').style.color = '#bd00ff';
+            loadPlayer(currentChannel.url);
+        }
+
+        function closePlayer() {
+            document.getElementById('playerModal').classList.remove('active');
+            document.getElementById('playerContainer').innerHTML = '';
+            currentChannel = null;
+        }
+
+        document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closePlayer(); });
+    </script>
+</body>
+</html>
