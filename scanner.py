@@ -28,6 +28,17 @@ HISTORY_FILE = DATA_DIR / "channel_history.json"
 EPG_FILE = DATA_DIR / "epg_data.json"
 LOG_FILE = DATA_DIR / "search.log"
 
+# Таймауты HTTP и прогресс
+HTTP_TIMEOUT_TOTAL = 25
+HTTP_TIMEOUT_CONNECT = 10
+HTTP_TIMEOUT_SOCK_CONNECT = 10
+HTTP_TIMEOUT_SOCK_READ = 15
+REQUEST_TIMEOUT_SHORT = 8
+REQUEST_TIMEOUT_MEDIUM = 15
+REQUEST_TIMEOUT_LONG = 25
+SOURCE_PROGRESS_EVERY = 10
+CHANNEL_PROGRESS_EVERY = 1000
+
 # Прокси настройки из environment
 PROXY_HOST = os.environ.get("PROXY_HOST", "secure-272717.tatnet.app")
 PROXY_PORT = os.environ.get("PROXY_PORT", "8080")
@@ -665,7 +676,12 @@ class IPTVScanner:
         self.replaced_dead_count = 0
 
     async def init_session(self):
-        timeout = aiohttp.ClientTimeout(total=20)
+        timeout = aiohttp.ClientTimeout(
+            total=HTTP_TIMEOUT_TOTAL,
+            connect=HTTP_TIMEOUT_CONNECT,
+            sock_connect=HTTP_TIMEOUT_SOCK_CONNECT,
+            sock_read=HTTP_TIMEOUT_SOCK_READ,
+        )
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': '*/*',
@@ -730,7 +746,7 @@ class IPTVScanner:
             else:
                 # Для прямых CDN делаем быструю проверку
                 try:
-                    async with self.session.head(url, headers=headers, timeout=aiohttp.ClientTimeout(total=5)) as response:
+                    async with self.session.head(url, headers=headers, timeout=aiohttp.ClientTimeout(total=REQUEST_TIMEOUT_SHORT)) as response:
                         return response.status in [200, 206, 301, 302]
                 except Exception:
                     return True  # Разрешаем даже если не смогли проверить - НЕ УДАЛЯТЬ!
@@ -932,7 +948,7 @@ class IPTVScanner:
         """Загружает каналы из m3u плейлиста"""
         try:
             async with self.session.get(url, allow_redirects=True,
-                                       timeout=aiohttp.ClientTimeout(total=15)) as response:
+                                       timeout=aiohttp.ClientTimeout(total=REQUEST_TIMEOUT_MEDIUM)) as response:
                 if response.status == 200:
                     text = await response.text()
                     channels = []
@@ -1012,14 +1028,33 @@ class IPTVScanner:
     async def scan_m3u_sources(self):
         """Сканирует публичные m3u плейлисты"""
         self.log("🌐 Сканирование публичных IPTV плейлистов...")
-        tasks = [self.fetch_m3u_from_source(source) for source in M3U_SOURCES]
-        results = await asyncio.gather(*tasks, return_exceptions=True)
+        total_sources = len(M3U_SOURCES)
+        batch_size = 20
+        processed_sources = 0
+        added_channels = 0
+        for start in range(0, total_sources, batch_size):
+            batch = M3U_SOURCES[start:start + batch_size]
+            tasks = [self.fetch_m3u_from_source(source) for source in batch]
+            results = await asyncio.gather(*tasks, return_exceptions=True)
+            processed_sources += len(batch)
+            self.log(f"⏱️ Прогресс источников: {processed_sources}/{total_sources}")
+            for result in results:
+                if isinstance(result, list):
+                    for channel in result:
+                        was_added = await self.check_and_add(
+                            channel['url'],
+                            source="m3u_source",
+                            name=channel['name'],
+                            group=channel['group'],
+                        )
+                        if was_added:
+                            added_channels += 1
+                            if added_channels % CHANNEL_PROGRESS_EVERY == 0:
+                                self.log(f"📈 Прогресс добавления каналов: +{added_channels}")
+            if processed_sources % SOURCE_PROGRESS_EVERY == 0 or processed_sources == total_sources:
+                self.log(f"✅ Обработано источников: {processed_sources}/{total_sources}")
 
-        for result in results:
-            if isinstance(result, list):
-                for channel in result:
-                    await self.check_and_add(channel['url'], source="m3u_source", 
-                                           name=channel['name'], group=channel['group'])
+        self.log(f"🏁 Сканирование m3u-источников завершено: добавлено {added_channels} каналов")
 
     async def search_github_sources(self):
         """Ищет дополнительные m3u-источники через GitHub API."""
@@ -1036,13 +1071,13 @@ class IPTVScanner:
         ]
         dynamic_sources: Set[str] = set()
 
-        for query in queries:
+        for idx, query in enumerate(queries, start=1):
             search_url = (
                 f"https://api.github.com/search/code?"
                 f"q={urllib.parse.quote(query)}&sort=indexed&order=desc&per_page=25"
             )
             try:
-                async with self.session.get(search_url, headers=headers, timeout=aiohttp.ClientTimeout(total=20)) as response:
+                async with self.session.get(search_url, headers=headers, timeout=aiohttp.ClientTimeout(total=REQUEST_TIMEOUT_LONG)) as response:
                     if response.status != 200:
                         self.log(f"⚠️ GitHub API {response.status} для запроса '{query}'")
                         continue
@@ -1053,12 +1088,13 @@ class IPTVScanner:
                             raw_url = html_url.replace("https://github.com/", "https://raw.githubusercontent.com/").replace("/blob/", "/")
                             if raw_url.endswith((".m3u", ".m3u8", ".txt")):
                                 dynamic_sources.add(raw_url)
+                self.log(f"⏱️ GitHub поиск: {idx}/{len(queries)} запросов обработано")
             except Exception as e:
                 self.log(f"⚠️ GitHub API ошибка '{query}': {e}")
             await asyncio.sleep(0.25)
 
         self.log(f"📦 Найдено {len(dynamic_sources)} новых GitHub-источников")
-        for source_url in list(dynamic_sources)[:200]:
+        for idx, source_url in enumerate(list(dynamic_sources)[:200], start=1):
             channels = await self.fetch_m3u_from_source(source_url)
             for channel in channels[:300]:
                 await self.check_and_add(
@@ -1067,6 +1103,8 @@ class IPTVScanner:
                     name=channel["name"],
                     group=channel["group"],
                 )
+            if idx % SOURCE_PROGRESS_EVERY == 0:
+                self.log(f"⏱️ GitHub источники: {idx}/{min(len(dynamic_sources), 200)}")
             await asyncio.sleep(0.1)
 
     async def search_web(self):
@@ -1075,7 +1113,7 @@ class IPTVScanner:
 
         # 1. Сначала проверяем прямые URL сайтов (быстро и эффективно)
         self.log("📡 Проверка прямых источников...")
-        for site_url in DIRECT_SITES:
+        for idx, site_url in enumerate(DIRECT_SITES, start=1):
             try:
                 headers = {
                     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
@@ -1083,7 +1121,7 @@ class IPTVScanner:
                 }
                 
                 async with self.session.get(site_url, headers=headers,
-                                          timeout=aiohttp.ClientTimeout(total=10),
+                                          timeout=aiohttp.ClientTimeout(total=REQUEST_TIMEOUT_MEDIUM),
                                           allow_redirects=True) as response:
                     if response.status == 200:
                         text = await response.text()
@@ -1102,6 +1140,8 @@ class IPTVScanner:
             except Exception as e:
                 self.log(f"⚠️ Ошибка доступа к {site_url[:50]}: {e}")
             
+            if idx % SOURCE_PROGRESS_EVERY == 0 or idx == len(DIRECT_SITES):
+                self.log(f"⏱️ Прямые источники: {idx}/{len(DIRECT_SITES)}")
             await asyncio.sleep(0.5)  # Пауза между запросами
 
         # 2. Расширенный поиск через поисковые системы с прокси - Google, Yandex, Bing
@@ -1148,7 +1188,7 @@ class IPTVScanner:
                     }
                     
                     async with self.session.get(search_url, headers=headers,
-                                              timeout=aiohttp.ClientTimeout(total=15),
+                                              timeout=aiohttp.ClientTimeout(total=REQUEST_TIMEOUT_MEDIUM),
                                               allow_redirects=True) as response:
                         if response.status == 200:
                             text = await response.text()
@@ -1182,6 +1222,8 @@ class IPTVScanner:
                 except Exception as e:
                     self.log(f"⚠️ {engine_name} ошибка поиска по '{query[:30]}...': {e}")
 
+                if (i + 1) % SOURCE_PROGRESS_EVERY == 0 or (i + 1) == len(queries_to_use):
+                    self.log(f"⏱️ {engine_name}: запросы {i + 1}/{len(queries_to_use)}")
                 await asyncio.sleep(0.5)  # Пауза между запросами чтобы не блокировали
             
             self.log(f"✓ Завершен поиск через {engine_name}")
@@ -1206,7 +1248,7 @@ class IPTVScanner:
                     'Accept': 'text/html,application/xhtml+xml',
                 }
                 async with self.session.get(site, headers=headers,
-                                          timeout=aiohttp.ClientTimeout(total=10),
+                                          timeout=aiohttp.ClientTimeout(total=REQUEST_TIMEOUT_MEDIUM),
                                           allow_redirects=True) as response:
                     if response.status == 200:
                         text = await response.text()
