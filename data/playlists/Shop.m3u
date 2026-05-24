@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-05-24 11:28:04
+# Обновлено: 2026-05-24 12:46:53
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: Shop
 # Каналов: 71
-# Обновлено: 2026-05-24 11:28:04
+# Обновлено: 2026-05-24 12:46:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Leomax 24" group-title="Shop",Leomax 24
@@ -223,3 +223,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/49.113.179.174:4022/ud
 #EXTINF:-1 tvg-name="风尚购物" group-title="Shop",风尚购物
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/183.207.248.71/cntv/live1/fengshanggw/fengshanggw
 
+#EXTINF:-1 tvg-name="Fashion Finds" group-title="Lifestyle;Shop",Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+#EXTINF:-1 tvg-name="In the kitchen" group-title="Cooking;Shop",In the kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 tvg-name="Extra ProNews (576p)" group-title="Entertainment;News;Shop",Extra ProNews (576p)
+http://62.1.176.18:8888/extra/index.m3u8
