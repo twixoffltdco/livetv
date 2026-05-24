@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-05-24 15:45:57
+# Обновлено: 2026-05-24 16:02:34
 # Всего каналов: 16403
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -7,9 +7,21 @@
 
 # Категория: Documentaries (AR)
 # Каналов: 1
-# Обновлено: 2026-05-24 15:45:58
+# Обновлено: 2026-05-24 16:02:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Al Jazeera Documentary Ⓖ" group-title="Documentaries (AR)",Al Jazeera Documentary Ⓖ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
+#EXTINF:-1 tvg-name="CGTN Documentary English Ⓢ" group-title="Documentaries (EN)",CGTN Documentary English Ⓢ
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera العربية" group-title="News (AR)",Al Jazeera العربية
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-name="France 24 العربية Ⓨ" group-title="News (AR)",France 24 العربية Ⓨ
+https://www.youtube.com/c/FRANCE24Arabic/live
+#EXTINF:-1 tvg-name="DW العربية" group-title="News (AR)",DW العربية
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-name="CGTN العربية" group-title="News (AR)",CGTN العربية
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-name="Sahara 24 صحراء" group-title="News (AR)",Sahara 24 صحراء
+https://65.108.206.29/sahara24-live/video.m3u8
