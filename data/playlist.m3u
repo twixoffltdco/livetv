@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-05-26 13:45:59
-# Всего каналов: 16418
-# Новых за сессию: 0
+# Обновлено: 2026-05-26 16:59:32
+# Всего каналов: 16420
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -6203,7 +6203,7 @@ https://secure-272717.tatnet.app/kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1 tvg-name="FON Music" group-title="IPTV",FON Music
 https://secure-272717.tatnet.app/cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
+#EXTINF:-1 tvg-name="312 Kino" group-title="Фильмовые",312 Kino
 https://secure-272717.tatnet.app/176.126.166.43:1935/live/312kino/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CGTN Русский" group-title="News",CGTN Русский
@@ -6497,7 +6497,7 @@ https://secure-272717.tatnet.app/streaming.astrakhan.ru/astrakhanrulivehd/playli
 #EXTINF:-1 tvg-name="Башкортостан 24" group-title="General",Башкортостан 24
 https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Белгород 24" group-title="General",Белгород 24
+#EXTINF:-1 tvg-name="Белгород 24" group-title="ОПЛОТ",Белгород 24
 https://secure-272717.tatnet.app/belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 
 #EXTINF:-1 tvg-name="Бокс ТВ" group-title="Sports",Бокс ТВ
@@ -6617,7 +6617,7 @@ https://secure-272717.tatnet.app/31.148.48.15/Kineko_HD/index.m3u8
 #EXTINF:-1 tvg-name="Кино 1 International" group-title="Movies",Кино 1 International
 https://secure-272717.tatnet.app/kino-1.catcast.tv/content/38617/index.m3u8
 
-#EXTINF:-1 tvg-name="КИНО ТВ" group-title="Movies",КИНО ТВ
+#EXTINF:-1 tvg-name="Кино ТВ" group-title="Фильмовые",Кино ТВ
 https://secure-272717.tatnet.app/31.148.48.15/Kino_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Кинопоказ (576p)" group-title="Movies",Кинопоказ (576p)
@@ -6662,7 +6662,7 @@ https://secure-272717.tatnet.app/s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-name="Матур ТВ" group-title="Music",Матур ТВ
 https://secure-272717.tatnet.app/public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 
-#EXTINF:-1 tvg-name="МАТЧ! Арена" group-title="Sports",МАТЧ! Арена
+#EXTINF:-1 tvg-name="Матч! Арена" group-title="Спортивные",Матч! Арена
 https://secure-272717.tatnet.app/31.148.48.15/Match_Arena_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="МАТЧ! Игра" group-title="Sports",МАТЧ! Игра
@@ -6674,7 +6674,7 @@ https://secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FT
 #EXTINF:-1 tvg-name="Миллет" group-title="News",Миллет
 https://secure-272717.tatnet.app/live1.1tvcrimea.ru/milletlive.m3u8
 
-#EXTINF:-1 tvg-name="Мир 24" group-title="News",Мир 24
+#EXTINF:-1 tvg-name="МИР 24" group-title="Новости",МИР 24
 https://secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Мир (+4) (576p)" group-title="General",Мир (+4) (576p)
@@ -6854,7 +6854,7 @@ https://secure-272717.tatnet.app/uiptv.do.am/1ufc/701293058/playlist.m3u8
 #EXTINF:-1 tvg-name="РЖД ТВ [Geo-blocked]" group-title="Undefined",РЖД ТВ [Geo-blocked]
 https://secure-272717.tatnet.app/hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Россия 1" group-title="General",Россия 1
+#EXTINF:-1 tvg-name="Россия 1" group-title="Российские",Россия 1
 https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 (+6) (576p)" group-title="General",Россия 1 (+6) (576p)
@@ -7007,7 +7007,7 @@ https://secure-272717.tatnet.app/tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 tvg-name="Соловьёв LIVE (576p)" group-title="Undefined",Соловьёв LIVE (576p)
 https://secure-272717.tatnet.app/31.148.48.15/EuroNews/index.m3u8
 
-#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
+#EXTINF:-1 tvg-name="Sochi24" group-title="Новости",Sochi24
 https://secure-272717.tatnet.app/serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Союз (576p)" group-title="Religious",Союз (576p)
@@ -41128,6 +41128,12 @@ https://secure-272717.tatnet.app/shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u
 
 #EXTINF:-1 tvg-name="Spacetoon Arabic (576p)" group-title="Animation;Kids",Spacetoon Arabic (576p)
 https://secure-272717.tatnet.app/live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://github.com/hujingguang/ChinaIPTV/blob/main/Russia.m3u8
+
+#EXTINF:-1 tvg-name="City Eden MedZdrav" group-title="Развлекательные",City Eden MedZdrav
+https://secure-272717.tatnet.app/stream8.cinerama.uz/blocked/index.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
