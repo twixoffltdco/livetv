@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-26 17:19:37
+# Обновлено: 2026-05-26 19:26:03
 # Всего каналов: 16456
-# Новых за сессию: 36
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Education;Outdoor;Relax
 # Каналов: 1
-# Обновлено: 2026-05-26 17:19:37
+# Обновлено: 2026-05-26 19:26:04
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax",WildEarth
@@ -43,18 +43,30 @@ https://iptv.peer.biz/live/peertv-en.m3u8
 https://30a-tv.com/loomer.m3u8
 #EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV
 https://tv.alterna.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-name="Ohotnik i rybolov (576i)" group-title="Outdoor",Ohotnik i rybolov (576i)
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RT Documentary Russian" group-title="Documentary",RT Documentary Russian
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-name="Terra" group-title="Documentary",Terra
 http://31.148.48.15/Terra_HD/index.m3u8
+#EXTINF:-1 tvg-name="viju History (576p)" group-title="Documentary",viju History (576p)
+http://tmptv.sunduk.tv/CH133/index.m3u8
+#EXTINF:-1 tvg-name="viju Nature (576p)" group-title="Documentary",viju Nature (576p)
+http://tmptv.sunduk.tv/CH203/index.m3u8
 #EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
 http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-name="История (576p)" group-title="Documentary",История (576p)
 http://31.148.48.15/Istoriya/index.m3u8
+#EXTINF:-1 tvg-name="Конный Мир" group-title="Outdoor",Конный Мир
+https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
 #EXTINF:-1 tvg-name="Кто есть Кто (576p)" group-title="Education",Кто есть Кто (576p)
 http://31.148.48.15/Kto_est_kto/index.m3u8
+#EXTINF:-1 tvg-name="МосОбрТВ" group-title="Education",МосОбрТВ
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 tvg-name="Моя Планета" group-title="Outdoor",Моя Планета
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
+#EXTINF:-1 tvg-name="Нано ТВ (576p)" group-title="Documentary",Нано ТВ (576p)
+http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-name="НАУКА" group-title="Documentary",НАУКА
 http://31.148.48.15/Nauka_2.0/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-26 17:19:37
+# Обновлено: 2026-05-26 19:26:03
 # Всего каналов: 16456
-# Новых за сессию: 36
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 1
-# Обновлено: 2026-05-26 17:19:37
+# Обновлено: 2026-05-26 19:26:04
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -59,6 +59,10 @@ https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playli
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-name="Pro TV News" group-title="News",Pro TV News
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Астрахань 24" group-title="News",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-name="Крым 24" group-title="News",Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-name="Al Ekhbariya" group-title="News",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-name="3CatInfo" group-title="News;Public",3CatInfo
@@ -235,6 +239,8 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
 #EXTINF:-1 tvg-name="100% News (576p)" group-title="Business;News",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN Русский" group-title="News",CGTN Русский
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel 9 (540p)" group-title="News",Channel 9 (540p)
@@ -415,10 +421,34 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-name="Kino 24" group-title="Movies",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-name="KinoHit (576p)" group-title="Movies",KinoHit (576p)
+http://tmptv.sunduk.tv/CH57/index.m3u8
+#EXTINF:-1 tvg-name="Kinosemja (576p)" group-title="Movies",Kinosemja (576p)
+http://tmptv.sunduk.tv/CH25/index.m3u8
+#EXTINF:-1 tvg-name="Kinosvidanie (576p)" group-title="Movies",Kinosvidanie (576p)
+http://tmptv.sunduk.tv/CH21/index.m3u8
+#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-name="Rodnoe Kino (576p)" group-title="Movies",Rodnoe Kino (576p)
+http://tmptv.sunduk.tv/CH23/index.m3u8
 #EXTINF:-1 tvg-name="START Air" group-title="Movies",START Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-name="START World" group-title="Movies",START World
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 tvg-name="TV 21 (576p)" group-title="Movies",TV 21 (576p)
+http://tmptv.sunduk.tv/CH145/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 (576p)" group-title="Movies",viju TV1000 (576p)
+http://tmptv.sunduk.tv/CH141/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 action (576p)" group-title="Movies",viju TV1000 action (576p)
+http://tmptv.sunduk.tv/CH143/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 russkoe (576p)" group-title="Movies",viju TV1000 russkoe (576p)
+http://tmptv.sunduk.tv/CH139/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Megahit" group-title="Movies",viju+ Megahit
+http://tmptv.sunduk.tv/CH313/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Premiere" group-title="Movies",viju+ Premiere
+http://tmptv.sunduk.tv/CH315/index.m3u8
 #EXTINF:-1 tvg-name="Вести ФМ" group-title="News",Вести ФМ
 https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
 #EXTINF:-1 tvg-name="Детское кино International" group-title="Movies",Детское кино International
@@ -429,22 +459,36 @@ https://streaming.thestream.cyou/live/44.m3u8
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-name="Дон 24" group-title="News",Дон 24
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
+#EXTINF:-1 tvg-name="Известия" group-title="News",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-name="Иллюзион+ (576p)" group-title="Movies",Иллюзион+ (576p)
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 tvg-name="Кинеко" group-title="Movies",Кинеко
 http://31.148.48.15/Kineko_HD/index.m3u8
 #EXTINF:-1 tvg-name="Кино 1 International" group-title="Movies",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-name="КИНО ТВ" group-title="Movies",КИНО ТВ
+http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="Кинопоказ (576p)" group-title="Movies",Кинопоказ (576p)
 http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-name="КИНОСАТ (576p)" group-title="Movies",КИНОСАТ (576p)
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 tvg-name="КРИК-ТВ (Екатеринбург)" group-title="News",КРИК-ТВ (Екатеринбург)
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+#EXTINF:-1 tvg-name="Легендарный 24" group-title="News",Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 tvg-name="Миллет" group-title="News",Миллет
+https://live1.1tvcrimea.ru/milletlive.m3u8
+#EXTINF:-1 tvg-name="Мир 24" group-title="News",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-name="Новый Русский" group-title="Movies",Новый Русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
+#EXTINF:-1 tvg-name="Патриот (576i)" group-title="Movies",Патриот (576i)
+http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-name="Первый Республиканский" group-title="News",Первый Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
+#EXTINF:-1 tvg-name="Радио Говорит Москва (Веб-камера)" group-title="News",Радио Говорит Москва (Веб-камера)
+https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 tvg-name="Россия 24 (Хабаровск)" group-title="News",Россия 24 (Хабаровск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-name="Русский Бестселлер (576p)" group-title="Movies",Русский Бестселлер (576p)
@@ -477,6 +521,10 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% Классика" group-title="Classic;Movies",Смотрим 100% Классика
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Толк" group-title="News",Толк
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Феникс плюс Кино (576p)" group-title="Movies",Феникс плюс Кино (576p)
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-name="Apostrophe TV" group-title="News",Apostrophe TV

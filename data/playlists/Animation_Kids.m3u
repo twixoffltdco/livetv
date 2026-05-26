@@ -1,14 +1,20 @@
 #EXTM3U
-# Обновлено: 2026-05-26 17:19:37
+# Обновлено: 2026-05-26 19:26:03
 # Всего каналов: 16456
-# Новых за сессию: 36
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids
-# Каналов: 28
-# Обновлено: 2026-05-26 17:19:37
+# Каналов: 30
+# Обновлено: 2026-05-26 19:26:04
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Мультимания (576p)" group-title="Animation;Kids",Мультимания (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Солнце (576p)" group-title="Animation;Kids",Солнце (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.mediacdn.ru/live/solntse/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mr. Bean Animated" group-title="Animation;Kids",Mr. Bean Animated
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
@@ -108,14 +114,28 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 #EXTINF:-1 tvg-name="TRT Çocuk" group-title="Kids",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Detski mir (576p)" group-title="Kids",Detski mir (576p)
+http://tmptv.sunduk.tv/CH35/index.m3u8
 #EXTINF:-1 tvg-name="ADO TV" group-title="Kids;Sports",ADO TV
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
+http://tmptv.sunduk.tv/CH155/index.m3u8
+#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-name="Ryzhiy (576i)" group-title="Kids",Ryzhiy (576i)
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="STS kids" group-title="Kids",STS kids
+http://tmptv.sunduk.tv/CH729/index.m3u8
+#EXTINF:-1 tvg-name="TiJi (576p)" group-title="Kids",TiJi (576p)
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Мульт" group-title="Kids",Мульт
 http://31.148.48.15/Mult_HD/index.m3u8
 #EXTINF:-1 tvg-name="Мульт и Музыка (576p)" group-title="Kids",Мульт и Музыка (576p)
 http://31.148.48.15/Multimuzika/index.m3u8
 #EXTINF:-1 tvg-name="Радость моя (576p)" group-title="Kids",Радость моя (576p)
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1 tvg-name="Смайл ТВ" group-title="Kids",Смайл ТВ
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% Детское" group-title="Kids",Смотрим 100% Детское
 https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
 #EXTINF:-1 tvg-name="Тамыр (Уфа) (576p)" group-title="Kids",Тамыр (Уфа) (576p)
