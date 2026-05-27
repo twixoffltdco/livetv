@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-05-27 21:48:24
+# Обновлено: 2026-05-27 22:58:07
 # Всего каналов: 16476
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: Culture;Documentary;Travel
 # Каналов: 1
-# Обновлено: 2026-05-27 21:48:25
+# Обновлено: 2026-05-27 22:58:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="China Travel" group-title="Culture;Documentary;Travel",China Travel
@@ -51,8 +51,14 @@ http://31.148.48.15/RTG_HD/index.m3u8
 http://31.148.48.15/Terra_HD/index.m3u8
 #EXTINF:-1 tvg-name="Travel+Adventure" group-title="Travel",Travel+Adventure
 http://31.148.48.15/Travel_Adventure_HD/index.m3u8
+#EXTINF:-1 tvg-name="viju History (576p)" group-title="Documentary",viju History (576p)
+http://tmptv.sunduk.tv/CH133/index.m3u8
+#EXTINF:-1 tvg-name="viju Nature (576p)" group-title="Documentary",viju Nature (576p)
+http://tmptv.sunduk.tv/CH203/index.m3u8
 #EXTINF:-1 tvg-name="История (576p)" group-title="Documentary",История (576p)
 http://31.148.48.15/Istoriya/index.m3u8
+#EXTINF:-1 tvg-name="Нано ТВ (576p)" group-title="Documentary",Нано ТВ (576p)
+http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-name="НАУКА" group-title="Documentary",НАУКА
 http://31.148.48.15/Nauka_2.0/index.m3u8
 #EXTINF:-1 tvg-name="Россия К" group-title="Culture",Россия К

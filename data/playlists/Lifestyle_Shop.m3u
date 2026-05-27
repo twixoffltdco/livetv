@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-05-27 21:48:24
+# Обновлено: 2026-05-27 22:58:07
 # Всего каналов: 16476
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: Lifestyle;Shop
 # Каналов: 1
-# Обновлено: 2026-05-27 21:48:25
+# Обновлено: 2026-05-27 22:58:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Fashion Finds" group-title="Lifestyle;Shop",Fashion Finds
@@ -29,6 +29,8 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-name="Leomax 24" group-title="Shop",Leomax 24
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+#EXTINF:-1 tvg-name="Shopping Live (576p)" group-title="Shop",Shopping Live (576p)
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
 http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",Домашний International" group-title="Lifestyle",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",Домашний International
@@ -41,8 +43,12 @@ http://31.148.48.15/Zdorovoe_TV/index.m3u8
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-name="НТВ Стиль (576p)" group-title="Lifestyle",НТВ Стиль (576p)
 https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-name="Открытый мир. Здоровье (576p)" group-title="Lifestyle",Открытый мир. Здоровье (576p)
+https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем МедЗдрав" group-title="Lifestyle",Сити Эдем МедЗдрав
 https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 tvg-name="Ювелирочка ТВ (576p)" group-title="Shop",Ювелирочка ТВ (576p)
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 tvg-name="Тюсо" group-title="Shop",Тюсо
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 #EXTINF:-1 tvg-name="30A Luxe Life Discovered" group-title="Lifestyle",30A Luxe Life Discovered
