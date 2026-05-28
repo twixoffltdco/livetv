@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-28 00:07:44
-# Всего каналов: 16476
-# Новых за сессию: 0
+# Обновлено: 2026-05-28 01:22:23
+# Всего каналов: 16498
+# Новых за сессию: 22
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary;Travel
 # Каналов: 1
-# Обновлено: 2026-05-28 00:07:45
+# Обновлено: 2026-05-28 01:22:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="China Travel" group-title="Culture;Documentary;Travel",China Travel
@@ -647,3 +647,5 @@ https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-name="Andy Haryana (576p)" group-title="Culture;Music",Andy Haryana (576p)
 https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-Weapon & Technology" group-title="Documentary",CCTV-Weapon & Technology
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub

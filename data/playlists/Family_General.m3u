@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-28 00:07:44
-# Всего каналов: 16476
-# Новых за сессию: 0
+# Обновлено: 2026-05-28 01:22:23
+# Всего каналов: 16498
+# Новых за сессию: 22
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General
 # Каналов: 2
-# Обновлено: 2026-05-28 00:07:45
+# Обновлено: 2026-05-28 01:22:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CWB TV" group-title="Family;General",CWB TV
@@ -224,8 +224,6 @@ http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Башкортостан 24" group-title="General",Башкортостан 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1 tvg-name="Белгород 24" group-title="General",Белгород 24
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-name="Восток 24 (Владивосток)" group-title="General",Восток 24 (Владивосток)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Губерния (Самара) (576p)" group-title="General",Губерния (Самара) (576p)
@@ -290,8 +288,6 @@ http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-name="Первый Ярославский" group-title="General",Первый Ярославский
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
-#EXTINF:-1 tvg-name="Россия 1" group-title="General",Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-name="Россия 1 (+6) (576p)" group-title="General",Россия 1 (+6) (576p)
 http://31.148.48.15/Rossiya_1/index.m3u8
 #EXTINF:-1 tvg-name="Россия 1 (Архангельск)" group-title="General",Россия 1 (Архангельск)
@@ -306,8 +302,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
 https://cityeden.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="СТС (+4) (576p)" group-title="Family",СТС (+4) (576p)
 http://31.148.48.15/STS/index.m3u8
 #EXTINF:-1 tvg-name="Таврия" group-title="General",Таврия
@@ -3752,6 +3746,8 @@ https://live.canthotv.vn/live/tv/chunklist.m3u8
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Capital TV" group-title="General",Capital TV
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 Asia" group-title="General",CCTV-4 Asia
+http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-name="Celebes TV" group-title="General",Celebes TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Central TV" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Central TV
@@ -4344,6 +4340,8 @@ https://dvrfl06.bozztv.com/astv-djibouti/index.m3u8
 https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/index.m3u8
 #EXTINF:-1 tvg-name="RTL Radio Web TV" group-title="General",RTL Radio Web TV
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-name="RTP Mundo [Geo-Blocked]" group-title="General",RTP Mundo [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
 #EXTINF:-1 tvg-name="RTSH 1" group-title="General",RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH 2" group-title="General",RTSH 2
@@ -4702,3 +4700,7 @@ https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
 https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-name="JOEX-DTV" group-title="General",JOEX-DTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+#EXTINF:-1 tvg-name="Hebei TV (2160p)" group-title="General",Hebei TV (2160p)
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 tvg-name="GTV (540p)" group-title="General",GTV (540p)
+https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
