@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-04 23:43:04
-# Всего каналов: 16632
-# Новых за сессию: 0
+# Обновлено: 2026-06-05 01:39:25
+# Всего каналов: 16636
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
 # Каналов: 326
-# Обновлено: 2026-06-04 23:43:04
+# Обновлено: 2026-06-05 01:39:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -78,9 +78,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.astrakhan.ru
 
 #EXTINF:-1 tvg-name="Бокс ТВ" group-title="Sports",Бокс ТВ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Boks_TV/index.m3u8
-
-#EXTINF:-1 tvg-name="МАТЧ! Арена" group-title="Sports",МАТЧ! Арена
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Match_Arena_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="МАТЧ! Игра" group-title="Sports",МАТЧ! Игра
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Match_Igra_HD/index.m3u8
@@ -861,6 +858,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/indihuy.streamized.net
 
 #EXTINF:-1 tvg-name="T Sports" group-title="Sports",T Sports
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen7.aynaott.com/tsportsfhd/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-5" group-title="Sports",CCTV-5
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/192.151.150.154/live/cctv5hd.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
