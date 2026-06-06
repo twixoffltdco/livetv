@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-06 16:57:28
-# Всего каналов: 16719
-# Новых за сессию: 0
+# Обновлено: 2026-06-06 17:44:17
+# Всего каналов: 16722
+# Новых за сессию: 3
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;Series
 # Каналов: 1
-# Обновлено: 2026-06-06 16:57:28
+# Обновлено: 2026-06-06 17:44:17
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CNBC-e" group-title="Business;Series",CNBC-e
@@ -461,8 +461,6 @@ https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 #EXTINF:-1 tvg-name="CBC Drama (576p)" group-title="Series",CBC Drama (576p)
 https://flu.systemnet.tv/CBCDrama/index.m3u8
-#EXTINF:-1 tvg-name="CNBC Arabiya" group-title="Business",CNBC Arabiya
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-name="Maraya" group-title="Series",Maraya
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC Masr Drama" group-title="Series",MBC Masr Drama
