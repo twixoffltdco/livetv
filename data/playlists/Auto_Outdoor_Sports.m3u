@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-06-07 13:06:25
+# Обновлено: 2026-06-07 13:17:41
 # Всего каналов: 16730
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: Auto;Outdoor;Sports
 # Каналов: 1
-# Обновлено: 2026-06-07 13:06:25
+# Обновлено: 2026-06-07 13:17:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="INTROUBLE" group-title="Auto;Outdoor;Sports",INTROUBLE
@@ -149,8 +149,6 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 http://31.148.48.15/Boks_TV/index.m3u8
 #EXTINF:-1 tvg-name="Конный Мир" group-title="Outdoor",Конный Мир
 https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
-#EXTINF:-1 tvg-name="МАТЧ! Арена" group-title="Sports",МАТЧ! Арена
-http://31.148.48.15/Match_Arena_HD/index.m3u8
 #EXTINF:-1 tvg-name="МАТЧ! Игра" group-title="Sports",МАТЧ! Игра
 http://31.148.48.15/Match_Igra_HD/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Sports",Матч! Планета" group-title="Sports",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Sports",Матч! Планета
