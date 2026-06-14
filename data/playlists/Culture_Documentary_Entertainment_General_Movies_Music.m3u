@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 23:57:18
-# Всего каналов: 17016
-# Новых за сессию: 0
+# Обновлено: 2026-06-14 01:56:39
+# Всего каналов: 17091
+# Новых за сессию: 75
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary;Entertainment;General;Movies;Music
 # Каналов: 1
-# Обновлено: 2026-06-13 23:57:19
+# Обновлено: 2026-06-14 01:56:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV
@@ -333,8 +333,6 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-name="Кубань 24 [Geo-blocked]" group-title="General",Кубань 24 [Geo-blocked]
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-name="312 ТВ (406p)" group-title="Entertainment",312 ТВ (406p)
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-name="ARTN TV" group-title="General",ARTN TV
@@ -503,8 +501,6 @@ http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Башкортостан 24" group-title="General",Башкортостан 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1 tvg-name="Белгород 24" group-title="General",Белгород 24
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-name="Восток 24 (Владивосток)" group-title="General",Восток 24 (Владивосток)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Губерния (Самара) (576p)" group-title="General",Губерния (Самара) (576p)
@@ -543,8 +539,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 http://31.148.48.15/Kineko_HD/index.m3u8
 #EXTINF:-1 tvg-name="Кино 1 International" group-title="Movies",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-name="КИНО ТВ" group-title="Movies",КИНО ТВ
-http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="Кинопоказ (576p)" group-title="Movies",Кинопоказ (576p)
 http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-name="КИНОСАТ (576p)" group-title="Movies",КИНОСАТ (576p)
@@ -631,8 +625,6 @@ https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 http://lova.me/hls/hithd.m3u8
 #EXTINF:-1 tvg-name="Радио Шансон" group-title="Music",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 tvg-name="Россия 1" group-title="General",Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-name="Россия 1 (+6) (576p)" group-title="General",Россия 1 (+6) (576p)
 http://31.148.48.15/Rossiya_1/index.m3u8
 #EXTINF:-1 tvg-name="Россия 1 (Архангельск)" group-title="General",Россия 1 (Архангельск)
@@ -695,8 +687,6 @@ https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c9
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
 #EXTINF:-1 tvg-name="Смотрим 100% Факты" group-title="Documentary",Смотрим 100% Факты
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
-#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Страна FM" group-title="Music",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Таврия" group-title="General",Таврия
@@ -8563,6 +8553,8 @@ https://cdn1.etbon.eus/etb1/index.m3u8
 https://cdn1.etbon.eus/etb2/index.m3u8
 #EXTINF:-1 tvg-name="Channel 8 International (576p)" group-title="General",Channel 8 International (576p)
 https://v4.proofix.ru/8tv-europe/index.m3u8
+#EXTINF:-1 tvg-name="Kinosvidanie" group-title="Movies",Kinosvidanie
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Nashe Novoe Kino" group-title="Movies",Nashe Novoe Kino
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="viju TV1000 russkoe" group-title="Movies",viju TV1000 russkoe
@@ -8701,6 +8693,8 @@ https://str2.yodacdn.net/ntv/video.m3u8
 https://movil.ejeserver.com/live/mas23tv.m3u8
 #EXTINF:-1 tvg-name="Nex TV Canal 21" group-title="General",Nex TV Canal 21
 https://movil.ejeserver.com/live/nextv.m3u8
+#EXTINF:-1 tvg-name="2M" group-title="General",2M
+https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8
 #EXTINF:-1 tvg-name="Ev-tele" group-title="Culture",Ev-tele
 https://playtv4k.live/live/EVTELE/index.m3u8
 #EXTINF:-1 tvg-name="Lollywood TV" group-title="Movies",Lollywood TV
@@ -8729,3 +8723,57 @@ https://stmv2.srvif.com/puringla/puringla/playlist.m3u8
 https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
 #EXTINF:-1 tvg-name="Ritmu TV" group-title="Entertainment",Ritmu TV
 https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 10 Mar del Plata" group-title="Entertainment",Canal 10 Mar del Plata
+https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-name="Canal 99 Miramar" group-title="General",Canal 99 Miramar
+https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+#EXTINF:-1 tvg-name="Caras TV" group-title="Entertainment",Caras TV
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Chamame TV" group-title="Music",Chamame TV
+https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
+#EXTINF:-1 tvg-name="Correa Radiovision" group-title="General",Correa Radiovision
+https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
+#EXTINF:-1 tvg-name="Corrientes TV" group-title="General",Corrientes TV
+https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
+#EXTINF:-1 tvg-name="Eco TV" group-title="General",Eco TV
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Itel TV Canal 2" group-title="General",Itel TV Canal 2
+https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
+#EXTINF:-1 tvg-name="LAMIL35 TV" group-title="Animation;Classic;Entertainment",LAMIL35 TV
+https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
+#EXTINF:-1 tvg-name="Link TV" group-title="General",Link TV
+https://linktv.b-cdn.net/linktv.m3u8
+#EXTINF:-1 tvg-name="Neo TV" group-title="General",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-name="San Luis +" group-title="General",San Luis +
+https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
+#EXTINF:-1 tvg-name="Senal U" group-title="Culture",Senal U
+https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
+#EXTINF:-1 tvg-name="TV Publica Marcos Paz" group-title="General",TV Publica Marcos Paz
+https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8
+#EXTINF:-1 tvg-name="Pointe TV" group-title="General",Pointe TV
+https://tv.pointville.ag/hls/mystream.m3u8
+#EXTINF:-1 tvg-name="Canal 51" group-title="General",Canal 51
+https://live.cn51hn.com/live/cn51.m3u8
+#EXTINF:-1 tvg-name="Coral TV" group-title="General",Coral TV
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+#EXTINF:-1 tvg-name="La Potente Radio TV" group-title="Entertainment",La Potente Radio TV
+https://latamvdo.com:3626/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Makao TV (1080i)" group-title="Music",Makao TV (1080i)
+https://live.obslivestream.com/makaomux/index.m3u8
+#EXTINF:-1 tvg-name="Ozono TV" group-title="General",Ozono TV
+http://vps.chasquirouter.com/salida/ozono.m3u8
+#EXTINF:-1 tvg-name="Pindin TV" group-title="Music",Pindin TV
+https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
+#EXTINF:-1 tvg-name="Waldivision Internacional" group-title="General",Waldivision Internacional
+https://media.streambrothers.com:19360/8308/8308.m3u8
+#EXTINF:-1 tvg-name="BAM-TV" group-title="Culture",BAM-TV
+https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
+#EXTINF:-1 tvg-name="Kino Polska" group-title="Movies",Kino Polska
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6088/index.m3u8
+#EXTINF:-1 tvg-name="Polsat Film" group-title="Movies",Polsat Film
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6086/index.m3u8
+#EXTINF:-1 tvg-name="Disco Polo Music" group-title="Music",Disco Polo Music
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19169/index.m3u8
+#EXTINF:-1 tvg-name="VOX Music TV" group-title="Music",VOX Music TV
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19171/index.m3u8
