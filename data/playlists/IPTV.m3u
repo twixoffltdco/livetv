@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 00:17:22
-# Всего каналов: 17091
-# Новых за сессию: 0
+# Обновлено: 2026-06-15 05:34:14
+# Всего каналов: 17139
+# Новых за сессию: 48
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
 # Каналов: 178
-# Обновлено: 2026-06-15 00:17:23
+# Обновлено: 2026-06-15 05:34:15
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -295,11 +295,11 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestrea
 #EXTINF:-1 tvg-name="Channel 10 (576i)" group-title="IPTV",Channel 10 (576i)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 
-#EXTINF:-1 tvg-name="Kinopremyera" group-title="IPTV",Kinopremyera
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/gitea.jpt.land/jpt/IPTV/src/branch/master/playlists/playlist_russia.m3u8
+
+#EXTINF:-1 tvg-name="Da Vinci" group-title="IPTV",Da Vinci
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
