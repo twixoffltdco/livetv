@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-06-14 22:58:42
+# Обновлено: 2026-06-15 00:06:09
 # Всего каналов: 17091
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-06-14 22:58:43
+# Обновлено: 2026-06-15 00:06:09
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -215,8 +215,6 @@ http://31.148.48.15/Boks_TV/index.m3u8
 http://31.148.48.15/Zhara/index.m3u8
 #EXTINF:-1 tvg-name="Матур ТВ" group-title="Music",Матур ТВ
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 tvg-name="МАТЧ! Арена" group-title="Sports",МАТЧ! Арена
-http://31.148.48.15/Match_Arena_HD/index.m3u8
 #EXTINF:-1 tvg-name="МАТЧ! Игра" group-title="Sports",МАТЧ! Игра
 http://31.148.48.15/Match_Igra_HD/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Sports",Матч! Планета" group-title="Sports",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Sports",Матч! Планета
