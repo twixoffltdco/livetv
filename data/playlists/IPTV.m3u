@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 21:28:49
-# Всего каналов: 17187
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 21:59:37
+# Всего каналов: 17188
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
-# Каналов: 178
-# Обновлено: 2026-06-16 21:28:50
+# Каналов: 179
+# Обновлено: 2026-06-16 21:59:37
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -300,6 +300,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/gitea.jpt.land/jpt/IPT
 
 #EXTINF:-1 tvg-name="Da Vinci" group-title="IPTV",Da Vinci
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://github.com/smolnp/IPTVru/blob/gh-pages/IPTVstable.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8

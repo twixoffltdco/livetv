@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-06-16 21:28:49
-# Всего каналов: 17187
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 21:59:37
+# Всего каналов: 17188
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -43435,6 +43435,9 @@ https://secure-272717.tatnet.app/vs20.live.opencaster.com/diego_57244803/index.m
 
 #EXTINF:-1 tvg-name="Vahos TV" group-title="General",Vahos TV
 https://secure-272717.tatnet.app/canal.vahostv.com/stream/0.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://github.com/smolnp/IPTVru/blob/gh-pages/IPTVstable.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
