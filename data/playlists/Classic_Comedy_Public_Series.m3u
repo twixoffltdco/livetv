@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-21 00:12:50
-# Всего каналов: 17918
-# Новых за сессию: 0
+# Обновлено: 2026-06-21 05:23:46
+# Всего каналов: 18028
+# Новых за сессию: 110
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Comedy;Public;Series
 # Каналов: 1
-# Обновлено: 2026-06-21 00:12:51
+# Обновлено: 2026-06-21 05:23:46
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
@@ -981,3 +981,5 @@ http://185.246.209.113/TVLandHD/index.m3u8
 http://185.246.209.113/DISCOVERYHD/index.m3u8
 #EXTINF:-1 tvg-name="T+E" group-title="Series",T+E
 http://185.246.209.113/T+E/index.m3u8
+#EXTINF:-1 tvg-name="Juntos TV" group-title="Series",Juntos TV
+https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
