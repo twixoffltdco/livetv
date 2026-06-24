@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-06-24 21:45:44
+# Обновлено: 2026-06-24 22:44:35
 # Всего каналов: 18307
-# Новых за сессию: 8
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -6536,7 +6536,7 @@ https://secure-272717.tatnet.app/dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 tvg-name="Детское кино International" group-title="Movies",Детское кино International
 https://secure-272717.tatnet.app/autopilot.catcast.tv/content/38720/index.m3u8
 
-#EXTINF:-1 tvg-name="Доктор" group-title="IPTV",Доктор
+#EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
 https://secure-272717.tatnet.app/31.148.48.15/Doktor/index.m3u8
 
 #EXTINF:-1 tvg-name="Дом Кино" group-title="Movies",Дом Кино
@@ -6584,7 +6584,7 @@ https://secure-272717.tatnet.app/tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3
 #EXTINF:-1 tvg-name="Здоровое ТВ (576p)" group-title="Lifestyle",Здоровое ТВ (576p)
 https://secure-272717.tatnet.app/31.148.48.15/Zdorovoe_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Зоо ТВ (576p)" group-title="IPTV",Зоо ТВ (576p)
+#EXTINF:-1 tvg-name="Зоо ТВ (576p)" group-title="Undefined",Зоо ТВ (576p)
 https://secure-272717.tatnet.app/31.148.48.15/Zoo_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="Известия" group-title="News",Известия

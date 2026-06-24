@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-24 21:45:44
+# Обновлено: 2026-06-24 22:44:35
 # Всего каналов: 18307
-# Новых за сессию: 8
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Science
 # Каналов: 4
-# Обновлено: 2026-06-24 21:45:44
+# Обновлено: 2026-06-24 22:44:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="滁州科教 (450p)" group-title="Education;Science",滁州科教 (450p)
@@ -38,6 +38,8 @@ https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT EBA Lise" group-title="Education",TRT EBA Lise
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
+http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-name="Кто есть Кто (576p)" group-title="Education",Кто есть Кто (576p)
 http://31.148.48.15/Kto_est_kto/index.m3u8
 #EXTINF:-1 tvg-name="МосОбрТВ" group-title="Education",МосОбрТВ

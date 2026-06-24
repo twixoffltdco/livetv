@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-24 21:45:44
+# Обновлено: 2026-06-24 22:44:35
 # Всего каналов: 18307
-# Новых за сессию: 8
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Lifestyle;Music
 # Каналов: 1
-# Обновлено: 2026-06-24 21:45:44
+# Обновлено: 2026-06-24 22:44:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="PRIDEtv LATAM" group-title="Entertainment;Lifestyle;Music",PRIDEtv LATAM
@@ -125,6 +125,8 @@ https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https
 #EXTINF:-1 tvg-name="VIVA Russia" group-title="Music",VIVA Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
+#EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
+http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",Домашний International" group-title="Lifestyle",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",Домашний International
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 #EXTINF:-1 tvg-name="Жара TV (576p)" group-title="Music",Жара TV (576p)

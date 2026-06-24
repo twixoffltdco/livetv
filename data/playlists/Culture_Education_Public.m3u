@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-24 21:45:44
+# Обновлено: 2026-06-24 22:44:35
 # Всего каналов: 18307
-# Новых за сессию: 8
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;Public
 # Каналов: 1
-# Обновлено: 2026-06-24 21:45:44
+# Обновлено: 2026-06-24 22:44:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV UFOP" group-title="Culture;Education;Public",TV UFOP
@@ -67,6 +67,8 @@ https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
 #EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV
 https://tv.alterna.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
+http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-name="Кто есть Кто (576p)" group-title="Education",Кто есть Кто (576p)
 http://31.148.48.15/Kto_est_kto/index.m3u8
 #EXTINF:-1 tvg-name="МосОбрТВ" group-title="Education",МосОбрТВ
