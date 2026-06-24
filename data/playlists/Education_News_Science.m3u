@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-24 21:05:46
-# Всего каналов: 18299
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 21:45:44
+# Всего каналов: 18307
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;News;Science
 # Каналов: 1
-# Обновлено: 2026-06-24 21:05:47
+# Обновлено: 2026-06-24 21:45:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MediBizTV" group-title="Education;News;Science",MediBizTV
@@ -305,8 +305,6 @@ https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_400
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-name="Вести ФМ" group-title="News",Вести ФМ
 https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
-#EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
-http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-name="Дон 24" group-title="News",Дон 24
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 #EXTINF:-1 tvg-name="Известия" group-title="News",Известия

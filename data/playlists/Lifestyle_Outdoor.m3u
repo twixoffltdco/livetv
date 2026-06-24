@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-24 21:05:46
-# Всего каналов: 18299
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 21:45:44
+# Всего каналов: 18307
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Outdoor
 # Каналов: 1
-# Обновлено: 2026-06-24 21:05:47
+# Обновлено: 2026-06-24 21:45:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Cottage Life" group-title="Lifestyle;Outdoor",Cottage Life
@@ -25,8 +25,6 @@ https://iptv.peer.biz/live/peertv-en.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-name="Ohotnik i rybolov (576i)" group-title="Outdoor",Ohotnik i rybolov (576i)
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
-http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",Домашний International" group-title="Lifestyle",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",Домашний International
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 #EXTINF:-1 tvg-name="ЖИВИ!" group-title="Lifestyle",ЖИВИ!

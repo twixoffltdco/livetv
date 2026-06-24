@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-06-24 21:05:46
-# Всего каналов: 18299
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 21:45:44
+# Всего каналов: 18307
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -6536,7 +6536,7 @@ https://secure-272717.tatnet.app/dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 tvg-name="Детское кино International" group-title="Movies",Детское кино International
 https://secure-272717.tatnet.app/autopilot.catcast.tv/content/38720/index.m3u8
 
-#EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
+#EXTINF:-1 tvg-name="Доктор" group-title="IPTV",Доктор
 https://secure-272717.tatnet.app/31.148.48.15/Doktor/index.m3u8
 
 #EXTINF:-1 tvg-name="Дом Кино" group-title="Movies",Дом Кино
@@ -6584,7 +6584,7 @@ https://secure-272717.tatnet.app/tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3
 #EXTINF:-1 tvg-name="Здоровое ТВ (576p)" group-title="Lifestyle",Здоровое ТВ (576p)
 https://secure-272717.tatnet.app/31.148.48.15/Zdorovoe_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Зоо ТВ (576p)" group-title="Undefined",Зоо ТВ (576p)
+#EXTINF:-1 tvg-name="Зоо ТВ (576p)" group-title="IPTV",Зоо ТВ (576p)
 https://secure-272717.tatnet.app/31.148.48.15/Zoo_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="Известия" group-title="News",Известия
@@ -44798,7 +44798,7 @@ https://secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id630_MSKSG-P
 #EXTINF:-1 tvg-name="Живи активно" group-title="Познавательные",Живи активно
 https://secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id836_MSKSG-PVR-1--Zhivi_aktivno/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-name="Здоровое ТВ" group-title="Познавательные",Здоровое ТВ
+#EXTINF:-1 tvg-name="Здоровое ТВ" group-title="IPTV",Здоровое ТВ
 https://secure-272717.tatnet.app/178.212.71.253:8000/play/94/index.m3u8
 
 #EXTINF:-1 tvg-name="Приключения" group-title="Познавательные",Приключения
@@ -46765,6 +46765,30 @@ https://secure-272717.tatnet.app/193.111.244.35:7474/matcharena/index.m3u8
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/vcdn1.produck.company/out/ngrp:dtv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/77.235.1.19:8000/play/a07a/index.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/89.221.57.5:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/158.160.149.81:8080/1491/index.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/77.235.1.19:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/77.235.1.19:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8

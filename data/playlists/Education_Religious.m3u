@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-24 21:05:46
-# Всего каналов: 18299
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 21:45:44
+# Всего каналов: 18307
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Religious
 # Каналов: 2
-# Обновлено: 2026-06-24 21:05:47
+# Обновлено: 2026-06-24 21:45:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Paighan TV" group-title="Education;Religious",Paighan TV
@@ -66,8 +66,6 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
 #EXTINF:-1 tvg-name="Вера 24" group-title="Religious",Вера 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
-http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-name="Кто есть Кто (576p)" group-title="Education",Кто есть Кто (576p)
 http://31.148.48.15/Kto_est_kto/index.m3u8
 #EXTINF:-1 tvg-name="МосОбрТВ" group-title="Education",МосОбрТВ

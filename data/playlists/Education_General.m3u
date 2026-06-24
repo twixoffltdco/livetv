@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-24 21:05:46
-# Всего каналов: 18299
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 21:45:44
+# Всего каналов: 18307
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;General
 # Каналов: 2
-# Обновлено: 2026-06-24 21:05:47
+# Обновлено: 2026-06-24 21:45:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="DerryTV 23" group-title="Education;General",DerryTV 23
@@ -242,8 +242,6 @@ https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Губерния (Самара) (576p)" group-title="General",Губерния (Самара) (576p)
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
-http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-name="Евразия (Орск)" group-title="General",Евразия (Орск)
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 tvg-name="Енисей" group-title="General",Енисей
