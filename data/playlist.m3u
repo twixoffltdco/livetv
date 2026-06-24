@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-06-24 06:28:13
-# Всего каналов: 18296
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 07:51:16
+# Всего каналов: 18299
+# Новых за сессию: 3
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -7253,7 +7253,7 @@ https://secure-272717.tatnet.app/91.193.128.233:1935/live/irt.stream/playlist.m3
 #EXTINF:-1 tvg-name="Ланет.TV (486p)" group-title="Entertainment",Ланет.TV (486p)
 https://secure-272717.tatnet.app/kiev1-cdn.lanet.tv/live/1008.m3u8
 
-#EXTINF:-1 tvg-name="Надия/Новый канал (576p)" group-title="Religious",Надия/Новый канал (576p)
+#EXTINF:-1 tvg-name="Надия/Новый канал (576p)" group-title="IPTV",Надия/Новый канал (576p)
 https://secure-272717.tatnet.app/nadiya.home-net.com.ua/mob/mystream.m3u8
 
 #EXTINF:-1 tvg-name="НТК ТВ" group-title="General",НТК ТВ
@@ -44210,7 +44210,7 @@ https://secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id656_MSKSG-P
 #EXTINF:-1 tvg-name="ОТР" group-title="Эфирные",ОТР
 https://secure-272717.tatnet.app/live-stream-18.ott.tricolor.tv/live/live/otr/hls_enc/otr.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
 
-#EXTINF:-1 tvg-name="Москва. Доверие" group-title="Эфирные",Москва. Доверие
+#EXTINF:-1 tvg-name="Москва. Доверие" group-title="IPTV",Москва. Доверие
 https://secure-272717.tatnet.app/rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 #EXTINF:-1 tvg-name="Мир Белогорья" group-title="Эфирные",Мир Белогорья
@@ -46756,6 +46756,15 @@ https://secure-272717.tatnet.app/bethoven.af-stream.com:1600/s/kwtlxswl/yes-nick
 
 #EXTINF:-1 tvg-name="TVP ABC 2" group-title="Kids",TVP ABC 2
 https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpabc2.m3u
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/91.194.191.241:8081/chid143/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/193.111.244.35:7474/matcharena/index.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/vcdn1.produck.company/out/ngrp:dtv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
