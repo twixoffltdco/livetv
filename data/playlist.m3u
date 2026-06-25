@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-06-25 10:01:29
-# Всего каналов: 18383
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 12:25:25
+# Всего каналов: 18384
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -47017,6 +47017,9 @@ https://secure-272717.tatnet.app/82.78.243.219:45739/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-name="Disney Channel (576p)" group-title="Kids",Disney Channel (576p)
 https://secure-272717.tatnet.app/adpnetworkhd-cmd.github.io/iptv/DisneyChannelRomania.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU0ODk3ODAsImlhdCI6MTc0NTQwMzM4MCwiY2lkIjo2LCJ1aWQiOjkxMTE4OTg5NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.oyTM6pRx67qGX95xFgn5l5MooFjHjjEReMWMAFBqdO4&offset=3
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
