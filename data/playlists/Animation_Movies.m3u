@@ -5,43 +5,16 @@
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
-# Категория: Classic;Movies
-# Каналов: 10
+# Категория: Animation;Movies
+# Каналов: 1
 # Обновлено: 2026-06-25 01:33:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
-#EXTINF:-1 tvg-name="Смотрим 100% Классика" group-title="Classic;Movies",Смотрим 100% Классика
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Fan/index.m3u8
 
-#EXTINF:-1 tvg-name="ZB Cinema" group-title="Classic;Movies",ZB Cinema
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/server.zillarbarta.com/ZBCINEMA/index.m3u8
-
-#EXTINF:-1 tvg-name="Xtrema Cine Clasico" group-title="Classic;Movies",Xtrema Cine Clasico
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Movify Kino (576p)" group-title="Classic;Movies",Movify Kino (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
-
-#EXTINF:-1 tvg-name="Pluto TV Danske klassikere" group-title="Classic;Movies",Pluto TV Danske klassikere
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8
-
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Classic;Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/dokagents.site/live/bollyc/mono.m3u8
-
-#EXTINF:-1 tvg-name="Pluto TV Retro Action Movies" group-title="Classic;Movies",Pluto TV Retro Action Movies
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
-
-#EXTINF:-1 tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies",Smotrim 100% Klassika
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-
-#EXTINF:-1 tvg-name="Artflix Movie Classics" group-title="Classic;Movies",Artflix Movie Classics
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Bollywood Classic" group-title="Classic;Movies",Bollywood Classic
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.213.31.109:90/BollywoodClassic/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TVN3 [Geo-blocked]" group-title="Classic",TVN3 [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-name="SX3 [Geo-blocked]" group-title="Animation;Kids;Public",SX3 [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 #EXTINF:-1 tvg-name="FilmRise Movies" group-title="VOD Movies (EN)",FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="FilmRise Sci-Fi" group-title="VOD Movies (EN)",FilmRise Sci-Fi
@@ -92,8 +65,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d5
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Film Detective" group-title="VOD Movies (EN)",Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
-http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="Hollywood" group-title="Movies",Hollywood
 http://31.148.48.15/MGM_HD/index.m3u8
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -148,6 +119,8 @@ https://tv.alterna.ar/stream/hls/live.m3u8
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-name="Anmol Cinema (576p)" group-title="Movies",Anmol Cinema (576p)
 http://116.90.120.151:8000/play/a0j6/index.m3u8
+#EXTINF:-1 tvg-name="Artflix Movie Classics" group-title="Classic;Movies",Artflix Movie Classics
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Asianet Movies (576p)" group-title="Movies",Asianet Movies (576p)
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 tvg-name="Asianet Movies" group-title="Movies",Asianet Movies
@@ -168,6 +141,8 @@ https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="BIZ Cinema" group-title="Movies",BIZ Cinema
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:-1 tvg-name="Bollywood Classic" group-title="Classic;Movies",Bollywood Classic
+http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
 #EXTINF:-1 tvg-name="Bollywood" group-title="Movies",Bollywood
 http://103.213.31.109:90/BollywoodHD/playlist.m3u8
 #EXTINF:-1 tvg-name="Boreal" group-title="Movies",Boreal
@@ -186,8 +161,6 @@ http://tmptv.sunduk.tv/CH25/index.m3u8
 http://tmptv.sunduk.tv/CH21/index.m3u8
 #EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 tvg-name="Retro" group-title="Classic",Retro
-http://tmptv.sunduk.tv/CH149/index.m3u8
 #EXTINF:-1 tvg-name="Rodnoe Kino (576p)" group-title="Movies",Rodnoe Kino (576p)
 http://tmptv.sunduk.tv/CH23/index.m3u8
 #EXTINF:-1 tvg-name="START Air" group-title="Movies",START Air
@@ -224,10 +197,10 @@ http://31.148.48.15/Kino_TV_HD/index.m3u8
 http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-name="КИНОСАТ (576p)" group-title="Movies",КИНОСАТ (576p)
 http://31.148.48.15/Kineko/index.m3u8
+#EXTINF:-1 tvg-name="Мультимания (576p)" group-title="Animation;Kids",Мультимания (576p)
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Новый Русский" group-title="Movies",Новый Русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:-1 tvg-name="Ностальгия (576p)" group-title="Classic",Ностальгия (576p)
-http://31.148.48.15/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-name="Патриот (576i)" group-title="Movies",Патриот (576i)
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-name="Русский Бестселлер (576p)" group-title="Movies",Русский Бестселлер (576p)
@@ -258,14 +231,24 @@ https://v2.catcast.tv/content/38128/index.m3u8
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем КиноЭкшен" group-title="Movies",Сити Эдем КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-name="Смотрим 100% Классика" group-title="Classic;Movies",Смотрим 100% Классика
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 tvg-name="Солнце (576p)" group-title="Animation;Kids",Солнце (576p)
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 tvg-name="Феникс плюс Кино (576p)" group-title="Movies",Феникс плюс Кино (576p)
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-name="Viasat Kino (576p)" group-title="Movies",Viasat Kino (576p)
 http://89.254.128.5:22280/viasat_kino/index.m3u8
 #EXTINF:-1 tvg-name="Viasat Kino Action (576p)" group-title="Movies",Viasat Kino Action (576p)
 http://89.254.128.5:22280/viasat_kino_action/index.m3u8
-#EXTINF:-1 tvg-name="Beverly Hillbillies" group-title="Classic",Beverly Hillbillies
-https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
+#EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Animation+ [Geo-blocked]" group-title="Animation",Animation+ [Geo-blocked]
+https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-name="ANIME x HIDIVE [Geo-blocked]" group-title="Animation",ANIME x HIDIVE [Geo-blocked]
+https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Blues TV" group-title="Animation",Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Charge!" group-title="Movies",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-name="Cine adrenalina" group-title="Movies",Cine adrenalina
@@ -282,22 +265,16 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 #EXTINF:-1 tvg-name="Cinevault 80s" group-title="Movies",Cinevault 80s
 https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
-#EXTINF:-1 tvg-name="Cinevault Westerns" group-title="Classic",Cinevault Westerns
-https://aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8
 #EXTINF:-1 tvg-name="Classic Cinema (240p)" group-title="Movies",Classic Cinema (240p)
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 #EXTINF:-1 tvg-name="Classic Movies Channel" group-title="Movies",Classic Movies Channel
 https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
-#EXTINF:-1 tvg-name="Classic TV Drama" group-title="Classic",Classic TV Drama
-https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
-#EXTINF:-1 tvg-name="Classic TV: Families" group-title="Classic",Classic TV: Families
-https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 #EXTINF:-1 tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series",Ebony TV by Lionsgate
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS Cinema" group-title="Movies",EBS Cinema
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
-#EXTINF:-1 tvg-name="FilmRise Classic TV" group-title="Classic",FilmRise Classic TV
-https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+#EXTINF:-1 tvg-name="FilmRise Anime" group-title="Animation",FilmRise Anime
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="FilmRise Westerns" group-title="Movies",FilmRise Westerns
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="Forensic Files [Geo-blocked]" group-title="Movies",Forensic Files [Geo-blocked]
@@ -306,6 +283,8 @@ https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/maste
 https://tvpass.org/live/FXMovieChannel/hd
 #EXTINF:-1 tvg-name="Girlfriends" group-title="Movies",Girlfriends
 https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
+#EXTINF:-1 tvg-name="Gooder Nation Channel 32" group-title="Animation;General",Gooder Nation Channel 32
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/channel32/playlist.m3u8
 #EXTINF:-1 tvg-name="Gravitas Movies" group-title="Movies",Gravitas Movies
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 #EXTINF:-1 tvg-name="Grjngo Western Movies" group-title="Movies",Grjngo Western Movies
@@ -324,74 +303,56 @@ https://tvpass.org/live/LifetimeMoviesEast/hd
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Maverick Black Cinema" group-title="Movies",Maverick Black Cinema
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MCN6 Music Channel" group-title="Animation;Kids;Music",MCN6 Music Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1 tvg-name="Movies for Gamers" group-title="Animation",Movies for Gamers
+https://jmp2.uk/plu-6008ddf24ef92b00079d61cf.m3u8
 #EXTINF:-1 tvg-name="Movies! (480p)" group-title="Movies",Movies! (480p)
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:-1 tvg-name="MovieSphere" group-title="Movies",MovieSphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Mr. Bean Animated" group-title="Animation;Kids",Mr. Bean Animated
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="MyTime Movie Network" group-title="Movies",MyTime Movie Network
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Naruto" group-title="Animation",Naruto
+https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="NEW KMOVIES" group-title="Movies",NEW KMOVIES
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK
+#EXTINF:-1 tvg-name="Nickelodeon Pluto TV" group-title="Animation;Kids",Nickelodeon Pluto TV
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+#EXTINF:-1 tvg-name="One Piece" group-title="Animation",One Piece
+https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
 #EXTINF:-1 tvg-name="OuterSphere" group-title="Movies;Series",OuterSphere
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-name="Paramount+ Picks" group-title="Movies",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
-#EXTINF:-1 tvg-name="PBS Retro [Geo-blocked]" group-title="Classic;Kids",PBS Retro [Geo-blocked]
-https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Anime" group-title="Animation",Pluto TV Anime
+https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Anime Movies" group-title="Animation",Pluto TV Anime Movies
+https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Reaction" group-title="Movies",Pluto TV Reaction
 https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
+#EXTINF:-1 tvg-name="Pokémon" group-title="Animation;Kids",Pokémon
+https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 #EXTINF:-1 tvg-name="RetroCrush" group-title="Animation;Classic",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",Revry Her" group-title="Movies",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",Revry Her
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8?ads.vf=j5eHovd50EC
 #EXTINF:-1 tvg-name="Runtime Espanol" group-title="Movies",Runtime Espanol
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
-#EXTINF:-1 tvg-name="Samuel Goldwyn Classics" group-title="Classic",Samuel Goldwyn Classics
-https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony Canal Novelas" group-title="Movies",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 tvg-name="The Andy Griffith Show" group-title="Classic",The Andy Griffith Show
-https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
-#EXTINF:-1 tvg-name="The Archive" group-title="Classic",The Archive
-https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="The Carol Burnett Show" group-title="Classic",The Carol Burnett Show
-https://carolburnett-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="The Film Detective" group-title="Movies",The Film Detective
 https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="The Love Boat" group-title="Classic",The Love Boat
-https://jmp2.uk/plu-66275e41cee0d900085fde6e.m3u8
-#EXTINF:-1 tvg-name="The Twilight Zone" group-title="Classic;Series",The Twilight Zone
-https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
+#EXTINF:-1 tvg-name="Toonami Aftermath East (480p)" group-title="Animation",Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Land Drama" group-title="Movies",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
-#EXTINF:-1 tvg-name="TVS Cipher Network (360p)" group-title="Classic",TVS Cipher Network (360p)
-https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
-#EXTINF:-1 tvg-name="TVS Classic Movies (288p)" group-title="Classic",TVS Classic Movies (288p)
-https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 tvg-name="TVS Drive In Movie (360p)" group-title="Movies",TVS Drive In Movie (360p)
 https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 tvg-name="TVS Film Noir Network" group-title="Movies",TVS Film Noir Network
 https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
-#EXTINF:-1 tvg-name="TVS Hollywood History (582p)" group-title="Classic",TVS Hollywood History (582p)
-https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
-#EXTINF:-1 tvg-name="TVS Mainstreet (360p)" group-title="Classic",TVS Mainstreet (360p)
-https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8
-#EXTINF:-1 tvg-name="TVS Nostalgia (472p)" group-title="Classic",TVS Nostalgia (472p)
-https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
-#EXTINF:-1 tvg-name="TVS Nostalgia Movies (480p)" group-title="Classic",TVS Nostalgia Movies (480p)
-https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
-#EXTINF:-1 tvg-name="TVS Pet Parade Network (360p)" group-title="Classic",TVS Pet Parade Network (360p)
-https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
-#EXTINF:-1 tvg-name="TVS Quiz Show Network" group-title="Classic",TVS Quiz Show Network
-https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
-#EXTINF:-1 tvg-name="TVS Talk Network (360p)" group-title="Classic",TVS Talk Network (360p)
-https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
-#EXTINF:-1 tvg-name="TVS Tally Ho (360p)" group-title="Classic",TVS Tally Ho (360p)
-https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
-#EXTINF:-1 tvg-name="TVS Tavern (480p)" group-title="Classic",TVS Tavern (480p)
-https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
-#EXTINF:-1 tvg-name="TVS Western Movie (270p)" group-title="Classic",TVS Western Movie (270p)
-https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-name="Universal Cinema (480p)" group-title="Movies",Universal Cinema (480p)
 http://190.2.212.209:8050/play/a0q3
 #EXTINF:-1 tvg-name="Universal Comedy (480p)" group-title="Comedy;Movies;Series",Universal Comedy (480p)
@@ -400,12 +361,10 @@ http://190.2.212.209:8050/play/a0q4
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-name="Victor Valley Movies" group-title="Movies",Victor Valley Movies
 https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Wanted: Dead or Alive" group-title="Classic",Wanted: Dead or Alive
-https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
-#EXTINF:-1 tvg-name="WJLP-DT2 (360p)" group-title="Classic;Kids",WJLP-DT2 (360p)
-https://e3.thetvapp.to/hls/metv-toons/index.m3u8
 #EXTINF:-1 tvg-name="Wu Tang Collection" group-title="Movies",Wu Tang Collection
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
+#EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Animation",Yu-Gi-Oh!
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-name="MOVIEDOME" group-title="Movies",MOVIEDOME
 https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Kultfilme" group-title="Movies",Pluto TV Kultfilme
@@ -426,12 +385,20 @@ https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/
 https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Top Movies Germany" group-title="Movies",Rakuten TV Top Movies Germany
 https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1 tvg-name="ADN TV+" group-title="Animation",ADN TV+
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 tvg-name="Banijay Mr Bean Animé" group-title="Animation;Kids",Banijay Mr Bean Animé
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-name="Gong" group-title="Animation",Gong
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-name="Sony One Favoris" group-title="Movies",Sony One Favoris
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony One Hits Action" group-title="Movies",Sony One Hits Action
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony One Hits Comedie" group-title="Movies",Sony One Hits Comedie
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-name="South Park" group-title="Animation",South Park
+https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 #EXTINF:-1 tvg-name="TF1 Series Films [Geo-Blocked]" group-title="Movies",TF1 Series Films [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1 tvg-name="Wildside TV" group-title="Movies",Wildside TV
@@ -444,12 +411,18 @@ https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-name="Zylo ScreamIN" group-title="Movies",Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
-https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 tvg-name="Anime Vision" group-title="Animation",Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:-1 tvg-name="Anime Vision Classics" group-title="Animation",Anime Vision Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1 tvg-name="Anime Zone TV (480p)" group-title="Animation",Anime Zone TV (480p)
+http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Bom Cine" group-title="Movies",Bom Cine
 http://92.176.119.180:2095/play/a17f
 #EXTINF:-1 tvg-name="Cine comedia" group-title="Movies",Cine comedia
 https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
+#EXTINF:-1 tvg-name="Mr. Bean Anime Spain" group-title="Animation;Kids",Mr. Bean Anime Spain
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-name="MyTime movie network Spain" group-title="Movies",MyTime movie network Spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Action Movies Spain" group-title="Movies",Rakuten TV Action Movies Spain
@@ -472,6 +445,8 @@ https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 #EXTINF:-1 tvg-name="Cine 34 [Geo-blocked]" group-title="Movies",Cine 34 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+#EXTINF:-1 tvg-name="Mr. Bean Anime Italy" group-title="Animation;Kids",Mr. Bean Anime Italy
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai Movie (576p) [Geo-blocked]" group-title="Movies",Rai Movie (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
 #EXTINF:-1 tvg-name="Rakuten TV Action Movies Italy" group-title="Movies",Rakuten TV Action Movies Italy
@@ -498,16 +473,24 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 tvg-name="Home Plus" group-title="Movies",Home Plus
 https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Jiangxi Children's Channel" group-title="Animation;Kids",Jiangxi Children's Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
 #EXTINF:-1 tvg-name="Jiangxi Movie Channel" group-title="Movies",Jiangxi Movie Channel
 https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
 #EXTINF:-1 tvg-name="Jilin Movie Channel" group-title="Movies",Jilin Movie Channel
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
 #EXTINF:-1 tvg-name="QTV-3" group-title="Movies",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+#EXTINF:-1 tvg-name="优漫卡通 (576p)" group-title="Animation;Kids",优漫卡通 (576p)
+http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 #EXTINF:-1 tvg-name="动作电影" group-title="Movies",动作电影
 http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="江苏影视 (576p)" group-title="Movies",江苏影视 (576p)
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通 (576p)" group-title="Animation;Kids",金鹰卡通 (576p)
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+#EXTINF:-1 tvg-name="Animax Asia India [Geo-blocked]" group-title="Animation",Animax Asia India [Geo-blocked]
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla Cinema (576p)" group-title="Movies",Colors Bangla Cinema (576p)
 http://103.72.101.252:8080/live/1657.m3u8
 #EXTINF:-1 tvg-name="Colors Cineplex (576p)" group-title="Movies",Colors Cineplex (576p)
@@ -590,6 +573,8 @@ http://103.122.249.134:8000/play/a05a
 https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
 #EXTINF:-1 tvg-name="Sony Wah [Geo-blocked]" group-title="Movies",Sony Wah [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20WAH.m3u8
+#EXTINF:-1 tvg-name="Sony Yay! [Geo-blocked]" group-title="Animation;Kids",Sony Yay! [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
 #EXTINF:-1 tvg-name="South Station" group-title="Movies",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 tvg-name="Star Gold 2 (576p)" group-title="Movies",Star Gold 2 (576p)
@@ -624,6 +609,8 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
 #EXTINF:-1 tvg-name="Vijay Super" group-title="Movies",Vijay Super
 http://149.71.34.166:8000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-name="ZB Cinema" group-title="Classic;Movies",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-name="Zee Action (576p)" group-title="Movies",Zee Action (576p)
 http://103.72.101.252:8080/live/488.m3u8
 #EXTINF:-1 tvg-name="Zee Biskope (576p)" group-title="Movies",Zee Biskope (576p)
@@ -634,36 +621,46 @@ https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m
 https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Bollywood (576p)" group-title="Movies",Zee Bollywood (576p)
 http://149.71.34.166:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-name="Zee Cine Classic" group-title="Classic",Zee Cine Classic
-https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema" group-title="Movies",Zee Cinema
 http://103.72.101.252:8080/live/165.m3u8
 #EXTINF:-1 tvg-name="Zee Cinemalu (576p)" group-title="Movies",Zee Cinemalu (576p)
 http://103.72.101.252:8080/live/413.m3u8
 #EXTINF:-1 tvg-name="Zee Cinemalu" group-title="Movies",Zee Cinemalu
 https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
-#EXTINF:-1 tvg-name="Zee Classic (576p)" group-title="Classic",Zee Classic (576p)
-http://103.229.254.25:7001/play/a09w/index.m3u8
 #EXTINF:-1 tvg-name="Zee South Flix" group-title="Movies",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Talkies" group-title="Movies",Zee Talkies
 http://103.72.101.252:8080/live/1358.m3u8
 #EXTINF:-1 tvg-name="Zee Thirai" group-title="Movies",Zee Thirai
 http://149.71.34.166:8000/play/a06d/index.m3u8
-#EXTINF:-1 tvg-name="ZillarBarta News" group-title="Classic;News",ZillarBarta News
-https://server.zillarbarta.com/zillarbarta/index.m3u8
+#EXTINF:-1 tvg-name="Disney Jr. [Geo-blocked]" group-title="Animation;Kids",Disney Jr. [Geo-blocked]
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-name="MovieSmart Turk (576p)" group-title="Movies",MovieSmart Turk (576p)
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
-#EXTINF:-1 tvg-name="AWTV [Geo-blocked]" group-title="Classic;Series",AWTV [Geo-blocked]
-https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Classique TV (360p)" group-title="Movies",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-name="Filmes Suspense" group-title="Movies",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+#EXTINF:-1 tvg-name="Geekdot" group-title="Animation",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Ghost TV (712p)" group-title="Movies",Ghost TV (712p)
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kuriakos Kids" group-title="Animation;Kids;Religious",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="MyTime Movie Network Brazil" group-title="Movies",MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NickOnline (360p)" group-title="Animation;Kids",NickOnline (360p)
+https://x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-name="NickOnline SD (320p)" group-title="Animation;Kids",NickOnline SD (320p)
+https://sdnew.x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-name="NickOnline Spongebob" group-title="Animation;Kids",NickOnline Spongebob
+https://spongebobnew.x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-name="NickToons Brasil (480p)" group-title="Animation;Kids",NickToons Brasil (480p)
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-name="NickWeb" group-title="Animation;Kids",NickWeb
+https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Anime Ação" group-title="Animation",Pluto TV Anime Ação
+https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Cine Clássicos" group-title="Movies",Pluto TV Cine Clássicos
 https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Cine Drama" group-title="Movies",Pluto TV Cine Drama
@@ -682,14 +679,26 @@ https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
 https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Filmes Nacionais" group-title="Movies",Pluto TV Filmes Nacionais
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+#EXTINF:-1 tvg-name="Tokusato" group-title="Animation",Tokusato
+https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
+#EXTINF:-1 tvg-name="Disney Jr. Latin America South" group-title="Animation;Kids",Disney Jr. Latin America South
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-name="Magic Kids (486p)" group-title="Animation",Magic Kids (486p)
+https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-name="Xtrema Accion" group-title="Movies",Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-name="Xtrema Cartoons" group-title="Animation;Kids",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-name="Xtrema Cine Clasico" group-title="Classic;Movies",Xtrema Cine Clasico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTINF:-1 tvg-name="Xtrema Terror" group-title="Movies",Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-name="Filmex (Xumo) [Geo-blocked]" group-title="Movies",Filmex (Xumo) [Geo-blocked]
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Filmex Clásico [Geo-blocked]" group-title="Movies",Filmex Clásico [Geo-blocked]
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment",GikTVMX
+https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="MyTime Movie Network Mexico" group-title="Movies",MyTime Movie Network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="MovieSphere by Lionsgate" group-title="Movies",MovieSphere by Lionsgate
@@ -700,6 +709,20 @@ https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 https://movies.ctbperth.net.au/hls/stream.m3u8
 #EXTINF:-1 tvg-name="MovieSphere AU" group-title="Movies",MovieSphere AU
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="Movify Kino (576p)" group-title="Classic;Movies",Movify Kino (576p)
+https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-name="Multimania (Latvia) (576p)" group-title="Animation;Kids",Multimania (Latvia) (576p)
+https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon (576p)" group-title="Animation;Kids",Nickelodeon (576p)
+http://195.64.140.147:10121/121
+#EXTINF:-1 tvg-name="Aniplus Asia" group-title="Animation",Aniplus Asia
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:-1 tvg-name="BBC Three/CBBC [Geo-Blocked]" group-title="Animation;Family;Kids",BBC Three/CBBC [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Animation;Kids",Cartoon Classics" group-title="Animation;Kids",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Animation;Kids",Cartoon Classics
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
 #EXTINF:-1 tvg-name="CINDIE TV" group-title="Movies",CINDIE TV
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi
 #EXTINF:-1 tvg-name="Cinema Hausa" group-title="Movies",Cinema Hausa
@@ -742,10 +765,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
 #EXTINF:-1 tvg-name="OSN Movies Action" group-title="Movies",OSN Movies Action
 http://116.90.120.151:8000/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Classic TV" group-title="Classic",Pluto TV Classic TV
-https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Sherlock" group-title="Classic",Pluto TV Sherlock
-https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Animation" group-title="Animation;Comedy",Pluto TV Animation
+https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Retro Toons" group-title="Animation;Kids",Pluto TV Retro Toons
+https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 #EXTINF:-1 tvg-name="Rakuten Top Movies UK" group-title="Movies",Rakuten Top Movies UK
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Action Movies Finland" group-title="Movies",Rakuten TV Action Movies Finland
@@ -770,12 +793,22 @@ https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 #EXTINF:-1 tvg-name="TVCARiB Cinema" group-title="Movies",TVCARiB Cinema
 https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
-#EXTINF:-1 tvg-name="Cúcuta Retro TV" group-title="Classic",Cúcuta Retro TV
-https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
+#EXTINF:-1 tvg-name="DreikoTv" group-title="Animation",DreikoTv
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 tvg-name="EnerGeek" group-title="Animation",EnerGeek
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-name="EnerGeek Fan" group-title="Animation",EnerGeek Fan
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-name="Extrema Kids TV" group-title="Animation;Kids",Extrema Kids TV
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanade" group-title="Animation;Entertainment",Kanade
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-name="Mega Cine TV" group-title="Movies",Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Memorias TV Film [Geo-blocked]" group-title="Movies",Memorias TV Film [Geo-blocked]
 https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+#EXTINF:-1 tvg-name="Naruto Shippuden" group-title="Animation",Naruto Shippuden
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
 #EXTINF:-1 tvg-name="Next (480p)" group-title="Movies;Music",Next (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-name="Orbita Chile TV" group-title="Movies;Music",Orbita Chile TV
@@ -784,10 +817,8 @@ https://orbitachiletv.org/hls/0/stream.m3u8
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 tvg-name="Persiana Latino" group-title="Movies",Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Retrox TV" group-title="Classic",Retrox TV
-https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
-#EXTINF:-1 tvg-name="TVS Retro" group-title="Classic",TVS Retro
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-name="Tiguerito TV" group-title="Animation;Kids",Tiguerito TV
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Action Movies Austria" group-title="Movies",Rakuten TV Action Movies Austria
 https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Comedy Movies Austria" group-title="Movies",Rakuten TV Comedy Movies Austria
@@ -800,6 +831,8 @@ https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/
 https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
 #EXTINF:-1 tvg-name="ServusTV [Geo-blocked]" group-title="Movies",ServusTV [Geo-blocked]
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+#EXTINF:-1 tvg-name="Japanim TV" group-title="Animation;Kids",Japanim TV
+https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-name="Kuriakos Cine" group-title="Movies",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Celestial Movies (576i)" group-title="Movies",Celestial Movies (576i)
@@ -814,8 +847,8 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema KSA [Geo-blocked]" group-title="Movies",Rotana Cinema KSA [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-name="Rotana Classic [Geo-blocked]" group-title="Classic",Rotana Classic [Geo-blocked]
-https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="Spacetoon Arabic" group-title="Animation;Kids",Spacetoon Arabic
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-name="AXN Asia Indonesia" group-title="Movies;Series",AXN Asia Indonesia
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 tvg-name="Cafe Film" group-title="Movies",Cafe Film
@@ -914,8 +947,12 @@ https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema APAC [Geo-blocked]" group-title="Movies",Zee Cinema APAC [Geo-blocked]
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Persiana Nostalgia" group-title="Classic;Music",Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Pingviin (576p)" group-title="Animation;Kids",Pingviin (576p)
+https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-name="Пингвин" group-title="Animation;Kids",Пингвин
+https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+#EXTINF:-1 tvg-name="Ani-Blast" group-title="Animation",Ani-Blast
+https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 #EXTINF:-1 tvg-name="Ciné 666 by Pluto TV" group-title="Movies",Ciné 666 by Pluto TV
 https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
 #EXTINF:-1 tvg-name="Ciné Action by Pluto TV" group-title="Movies",Ciné Action by Pluto TV
@@ -940,16 +977,22 @@ https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
 https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 #EXTINF:-1 tvg-name="Ciné Western by Pluto TV" group-title="Movies",Ciné Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
-#EXTINF:-1 tvg-name="Classic TV" group-title="Classic",Classic TV
-https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Crunchyroll" group-title="Animation",Crunchyroll
+https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+#EXTINF:-1 tvg-name="Detective Conan" group-title="Animation;Kids",Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+#EXTINF:-1 tvg-name="Detective Conan France" group-title="Animation;Kids",Detective Conan France
+https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 #EXTINF:-1 tvg-name="Estrellas de Acción" group-title="Movies",Estrellas de Acción
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
-#EXTINF:-1 tvg-name="GEM Classic" group-title="Classic",GEM Classic
-https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-name="Las Tortugas Ninja" group-title="Animation",Las Tortugas Ninja
+https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
 #EXTINF:-1 tvg-name="Moviepilot TV mit Pluto TV" group-title="Movies",Moviepilot TV mit Pluto TV
 https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
 #EXTINF:-1 tvg-name="Paramount Network de Pluto TV" group-title="Movies",Paramount Network de Pluto TV
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+#EXTINF:-1 tvg-name="Pixel.tv" group-title="Animation;Kids",Pixel.tv
+https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8
 #EXTINF:-1 tvg-name="Pluto TV 80's Action" group-title="Movies;Series",Pluto TV 80's Action
 https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8
 #EXTINF:-1 tvg-name="Pluto TV 90's Classics" group-title="Movies;Series",Pluto TV 90's Classics
@@ -960,6 +1003,8 @@ https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Action Movies" group-title="Movies",Pluto TV Action Movies
 https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Adult Animation" group-title="Animation;Comedy",Pluto TV Adult Animation
+https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Alberto Sordi" group-title="Movies",Pluto TV Alberto Sordi
 https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Bang Bang" group-title="Movies",Pluto TV Bang Bang
@@ -1002,10 +1047,6 @@ https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
 https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Cinema Orientale" group-title="Movies",Pluto TV Cinema Orientale
 https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Classic TV Families" group-title="Classic",Pluto TV Classic TV Families
-https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Classic TV Variety" group-title="Classic",Pluto TV Classic TV Variety
-https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Comedias Románticas" group-title="Comedy;Movies",Pluto TV Comedias Románticas
 https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Comédies Cultes" group-title="Comedy;Movies",Pluto TV Comédies Cultes
@@ -1014,8 +1055,8 @@ https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
 https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Crime Drama" group-title="Movies",Pluto TV Crime Drama
 https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Desenhos Clássicos" group-title="Classic",Pluto TV Desenhos Clássicos
-https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Danske klassikere" group-title="Classic;Movies",Pluto TV Danske klassikere
+https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Dive Italiane" group-title="Movies",Pluto TV Dive Italiane
 https://jmp2.uk/plu-6875080e3484d607323641f8.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Drama Movies" group-title="Movies",Pluto TV Drama Movies
@@ -1042,6 +1083,8 @@ https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
 https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Filmes de Luta" group-title="Movies",Pluto TV Filmes de Luta
 https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Gaming por Ubisoft" group-title="Animation",Pluto TV Gaming por Ubisoft
+https://jmp2.uk/plu-64c815e8a1c6130008fef928.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Harlequin" group-title="Movies",Pluto TV Harlequin
 https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Humor" group-title="Comedy;Movies",Pluto TV Humor
@@ -1076,8 +1119,6 @@ https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
 https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Psycho" group-title="Movies",Pluto TV Psycho
 https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Retro Crime Drama" group-title="Classic",Pluto TV Retro Crime Drama
-https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Romantik" group-title="Movies",Pluto TV Romantik
 https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Romantikk" group-title="Movies",Pluto TV Romantikk
@@ -1086,8 +1127,6 @@ https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Serie Sci-Fi" group-title="Movies",Pluto TV Serie Sci-Fi
 https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Series Retro" group-title="Classic",Pluto TV Series Retro
-https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Star Trek" group-title="Movies;Series",Pluto TV Star Trek
 https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Terror Trash" group-title="Movies",Pluto TV Terror Trash
@@ -1104,34 +1143,32 @@ https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 #EXTINF:-1 tvg-name="Runtime" group-title="Movies",Runtime
 https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
-#EXTINF:-1 tvg-name="Western TV" group-title="Classic",Western TV
-https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
 #EXTINF:-1 tvg-name="Wild Side TV" group-title="Movies",Wild Side TV
 https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
 #EXTINF:-1 tvg-name="Whiplash Cinema (480p)" group-title="Movies",Whiplash Cinema (480p)
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies",MN+" group-title="Movies",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies",MN+
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
+#EXTINF:-1 tvg-name="Spacetoon Arabic (576p)" group-title="Animation;Kids",Spacetoon Arabic (576p)
+https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)
 http://103.175.73.12:8080/live/271/271_0.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema 2 (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema 2 (576p)
 http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" group-title="Movies",CCTV-6
 http://198.204.240.250:82/live/cctv6.m3u8
-#EXTINF:-1 tvg-name="CCTV-Nostalgia Theater" group-title="Classic",CCTV-Nostalgia Theater
-http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-Storm Theater" group-title="Movies",CCTV-Storm Theater
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-The First Theater" group-title="Movies",CCTV-The First Theater
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Thikrayat TV" group-title="Classic",Thikrayat TV
-https://aloula-redirect.vercel.app/3/playlist.m3u8
 #EXTINF:-1 tvg-name="viju TV1000 Русское (576p)" group-title="Movies",viju TV1000 Русское (576p)
 http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
 #EXTINF:-1 tvg-name="Еврокино (576p)" group-title="Movies",Еврокино (576p)
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-name="Родное Кино (576p)" group-title="Movies",Родное Кино (576p)
 http://31.148.48.15/Rodnoe_kino/index.m3u8
+#EXTINF:-1 tvg-name="Placid" group-title="Animation",Placid
+https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-name="Vijay Super (576p)" group-title="Movies",Vijay Super (576p)
 http://202.70.146.135:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-name="De Pelicula Latin America" group-title="Movies",De Pelicula Latin America
@@ -1142,6 +1179,8 @@ https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 https://iptv.prosto.tv/ch63/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193843&st=TtdsKDYQcxuuOa_50TuApw
 #EXTINF:-1 tvg-name="FilmBox Baltics" group-title="Movies",FilmBox Baltics
 https://iptv.prosto.tv/ch64/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193705&st=MZPvPD4AwsRPTggeYFQLrA
+#EXTINF:-1 tvg-name="Slime (576p)" group-title="Animation;Kids",Slime (576p)
+https://slime.x1co.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-name="My Cinema Europe" group-title="Movies",My Cinema Europe
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-name="Indiyskoye Kino" group-title="Movies",Indiyskoye Kino
@@ -1236,14 +1275,14 @@ http://23.239.31.26:8989/amc/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Magnificent Movies Network" group-title="Movies;Shop",Magnificent Movies Network
 https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
-#EXTINF:-1 tvg-name="Timeless TV" group-title="Classic;Shop",Timeless TV
-https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Star Trek: Animation" group-title="Animation",Pluto TV Star Trek: Animation
+https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Azione Cult" group-title="Movies",Pluto TV Azione Cult
 https://jmp2.uk/plu-6994800c470389f33df8e090.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Film Ancora Più Romantici" group-title="Movies",Pluto TV Film Ancora Più Romantici
 https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Retro Crime Action" group-title="Classic",Pluto TV Retro Crime Action
-https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Retro Action Movies" group-title="Classic;Movies",Pluto TV Retro Action Movies
+https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Extra" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Extra
 https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Premium" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Premium
@@ -1286,8 +1325,6 @@ https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime Movies" group-title="Movies",Lifetime Movies
 http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:-1 tvg-name="TV Land" group-title="Classic",TV Land
-http://185.246.209.113/TVLandHD/index.m3u8
 #EXTINF:-1 tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports",USA Network
 http://185.246.209.113/DISCOVERYHD/index.m3u8
 #EXTINF:-1 tvg-name="Action" group-title="Movies",Action
@@ -1296,8 +1333,18 @@ http://rezofoot.tv/Action/index.m3u8
 http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox
 http://193.239.186.231/FILMBOX/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America Panregional" group-title="Animation;Kids",Disney Channel Latin America Panregional
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Jr. Latin America North" group-title="Animation;Kids",Disney Jr. Latin America North
+http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Four/CBeebies" group-title="Animation;General;Kids",BBC Four/CBeebies
+http://193.46.58.239:8080/CbeebiesHD/index.m3u8
+#EXTINF:-1 tvg-name="BBC Three/CBBC" group-title="Animation;Family;Kids",BBC Three/CBBC
+http://193.46.58.239:8080/CBBCHD/index.m3u8
 #EXTINF:-1 tvg-name="DHE" group-title="Movies",DHE
 http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="MAX Anime" group-title="Animation",MAX Anime
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Czech Republic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Czech Republic
 http://88.212.15.19/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Extra Czech Republic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Extra Czech Republic
@@ -1308,16 +1355,22 @@ http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN
 http://cdn.haititivi.com/AXN/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America North (576p)" group-title="Animation;Kids",Disney Channel Latin America North (576p)
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AMC Europe Czech Republic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AMC Europe Czech Republic
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Black Czech Republic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Black Czech Republic
 http://88.212.15.19/live/test_black/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Family" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Family
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-name="DreamWorks Channel Latin America" group-title="Animation",DreamWorks Channel Latin America
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-name="Zee Aflam" group-title="Movies",Zee Aflam
 http://41.223.30.230/ZEEAFLAM/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic
 http://88.212.15.19/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-name="Animax Asia (480i) [Geo-blocked]" group-title="Animation",Animax Asia (480i) [Geo-blocked]
+https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Adria" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Adria
 http://5.57.74.130:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-name="Sony Movies Latin America" group-title="Movies",Sony Movies Latin America
@@ -1326,10 +1379,16 @@ https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand
 http://54.37.19.157/axn/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America" group-title="Animation;Kids",Disney Channel Latin America
+http://45.185.163.75:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-name="AXN Latin America Mexico" group-title="Movies",AXN Latin America Mexico
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="13Rec (576p)" group-title="Classic",13Rec (576p)
-http://45.4.1.201:8000/play/a11i/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America Center" group-title="Animation;Kids",Disney Channel Latin America Center
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-name="ETC TV (576p)" group-title="Animation",ETC TV (576p)
+http://181.119.93.83:8000/play/a217/index.m3u8
+#EXTINF:-1 tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies",Smotrim 100% Klassika
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-name="Star Cinema" group-title="Movies",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Family" group-title="Movies",Star Family
@@ -1338,6 +1397,8 @@ https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 tvg-name="&TV" group-title="Movies",&TV
 https://trs1.aynaott.com/andtvhd/index.m3u8
+#EXTINF:-1 tvg-name="Plim Plim" group-title="Animation;Kids",Plim Plim
+http://8.243.126.131:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania
 http://82.78.243.219:45739/play/a00e/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AXN CEE Romania" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AXN CEE Romania
