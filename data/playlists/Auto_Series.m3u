@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 23:54:27
-# Всего каналов: 18384
-# Новых за сессию: 0
+# Обновлено: 2026-06-26 01:35:07
+# Всего каналов: 18469
+# Новых за сессию: 85
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Series
 # Каналов: 1
-# Обновлено: 2026-06-25 23:54:27
+# Обновлено: 2026-06-26 01:35:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Choppertown" group-title="Auto;Series",Choppertown
@@ -679,3 +679,9 @@ https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8
 #EXTINF:-1 tvg-name="Atreseries" group-title="Series",Atreseries
 https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8
+#EXTINF:-1 tvg-name="Nashe" group-title="Movies;Series",Nashe
+https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8
+#EXTINF:-1 tvg-name="NTV Series" group-title="Series",NTV Series
+https://adpnetworkhd-cmd.github.io/iptv/NTVSerial.m3u8
+#EXTINF:-1 tvg-name="Pershyi avtomobilnyi (576p)" group-title="Auto",Pershyi avtomobilnyi (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Pershyiavtomobilnyi.m3u8
