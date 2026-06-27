@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:02:40
-# Всего каналов: 18469
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 01:29:38
+# Всего каналов: 18537
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Series
 # Каналов: 6
-# Обновлено: 2026-06-27 00:02:40
+# Обновлено: 2026-06-27 01:29:38
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Anger Management Channel" group-title="Comedy;Series",Anger Management Channel
@@ -802,3 +802,5 @@ https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8
 #EXTINF:-1 tvg-name="NTV Series" group-title="Series",NTV Series
 https://adpnetworkhd-cmd.github.io/iptv/NTVSerial.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy",Comedy Central" group-title="Comedy",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy",Comedy Central
+https://lb.dstvmultimedia.com/ComedyCentral/index.m3u8

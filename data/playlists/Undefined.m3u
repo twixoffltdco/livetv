@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:02:40
-# Всего каналов: 18469
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 01:29:38
+# Всего каналов: 18537
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4450
-# Обновлено: 2026-06-27 00:02:40
+# Каналов: 4454
+# Обновлено: 2026-06-27 01:29:38
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -12946,6 +12946,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/vivatv.juanjuiserver.c
 #EXTINF:-1 tvg-name="Imperial Television" group-title="Undefined",Imperial Television
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/sc1.wasidata.com/Imperial/index.m3u8
 
+#EXTINF:-1 tvg-name="NTV Law (576p)" group-title="Undefined",NTV Law (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
+
+#EXTINF:-1 tvg-name="Ocean-TV (576p)" group-title="Undefined",Ocean-TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/Ocean_TV/video.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lb.dstvmultimedia.com/SciFiHD/index.m3u8
+
+#EXTINF:-1 tvg-name="TV Bella Asuncion" group-title="Undefined",TV Bella Asuncion
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s2.tvdatta.com:3687/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 
@@ -13688,3 +13700,5 @@ https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Undefined",Syfy" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Undefined",Syfy
 http://99.27.51.147:8080/SYFY/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Undefined",Sci Fi" group-title="Undefined",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Undefined",Sci Fi
+https://lb.dstvmultimedia.com/SciFiHD/index.m3u8
