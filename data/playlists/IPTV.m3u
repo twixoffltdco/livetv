@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-06 23:57:27
-# Всего каналов: 19032
-# Новых за сессию: 0
+# Обновлено: 2026-07-07 02:13:03
+# Всего каналов: 19108
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
 # Каналов: 217
-# Обновлено: 2026-07-06 23:57:27
+# Обновлено: 2026-07-07 02:13:03
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -33,9 +33,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/abc-iview-mediapackage
 
 #EXTINF:-1 tvg-name="ORF Sport + Ⓖ" group-title="IPTV",ORF Sport + Ⓖ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
-
-#EXTINF:-1 tvg-name="Первый канал" group-title="IPTV",Первый канал
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-name="Звезда" group-title="IPTV",Звезда
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
@@ -304,7 +301,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-mos-htlive.cdn.ngen
 #EXTINF:-1 tvg-name="Здоровое ТВ" group-title="IPTV",Здоровое ТВ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.212.71.253:8000/play/94/index.m3u8
 
-#EXTINF:-1 tvg-name="Channel 5 (576p)" group-title="IPTV",Channel 5 (576p)
+#EXTINF:-1 tvg-name="Channel 5 +2 (576p)" group-title="IPTV",Channel 5 +2 (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/94.230.128.107:8080/5_kanal/index.m3u8
 
 #EXTINF:-1 tvg-name="Bolt (576p)" group-title="IPTV",Bolt (576p)
@@ -426,6 +423,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/example.com/stream3.ts
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Carousel" group-title="IPTV",Carousel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.37.150.46/Karusel/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel One +8 (576p)" group-title="IPTV",Channel One +8 (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/188.113.190.13/1/video.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
@@ -639,9 +642,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH163/
 
 #EXTINF:-1 tvg-name="FAN" group-title="IPTV",FAN
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Fan/index.m3u8
-
-#EXTINF:-1 tvg-name="FASHION & LIFESTYLE" group-title="IPTV",FASHION & LIFESTYLE
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Fashion_One_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Indiyskoye Kino" group-title="IPTV",Indiyskoye Kino
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH107/index.m3u8
