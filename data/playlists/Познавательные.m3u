@@ -1,14 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-07-08 13:07:59
-# Всего каналов: 19247
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 13:27:00
+# Всего каналов: 19248
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Познавательные
-# Каналов: 94
-# Обновлено: 2026-07-08 13:08:00
+# Каналов: 96
+# Обновлено: 2026-07-08 13:27:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Большая Азия" group-title="Познавательные",Большая Азия
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet" group-title="Познавательные",Animal Planet
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Animal_Planet_HD/index.m3u8
@@ -120,6 +123,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tric
 
 #EXTINF:-1 tvg-name="Живи активно" group-title="Познавательные",Живи активно
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id836_MSKSG-PVR-1--Zhivi_aktivno/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Здоровое ТВ" group-title="Познавательные",Здоровое ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.212.71.253:8000/play/94/index.m3u8
 
 #EXTINF:-1 tvg-name="Приключения" group-title="Познавательные",Приключения
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-08 13:07:59
-# Всего каналов: 19247
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 13:27:00
+# Всего каналов: 19248
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Shop
 # Каналов: 1
-# Обновлено: 2026-07-08 13:08:00
+# Обновлено: 2026-07-08 13:27:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Fashion Finds" group-title="Lifestyle;Shop",Fashion Finds
@@ -29,8 +29,6 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-name="FASHION & LIFESTYLE" group-title="Lifestyle",FASHION & LIFESTYLE
 http://31.148.48.15/Fashion_One_HD/index.m3u8
-#EXTINF:-1 tvg-name="Leomax 24" group-title="Shop",Leomax 24
-https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-name="Shopping Live (576p)" group-title="Shop",Shopping Live (576p)
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
@@ -41,10 +39,6 @@ https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 http://31.148.48.15/Zhivi/index.m3u8
 #EXTINF:-1 tvg-name="Здоровое ТВ (576p)" group-title="Lifestyle",Здоровое ТВ (576p)
 http://31.148.48.15/Zdorovoe_TV/index.m3u8
-#EXTINF:-1 tvg-name="Магнат ТВ" group-title="Shop",Магнат ТВ
-https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:-1 tvg-name="НТВ Стиль (576p)" group-title="Lifestyle",НТВ Стиль (576p)
-https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-name="Открытый мир. Здоровье (576p)" group-title="Lifestyle",Открытый мир. Здоровье (576p)
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем МедЗдрав" group-title="Lifestyle",Сити Эдем МедЗдрав
@@ -415,8 +409,6 @@ https://webtvstream.bhtelecom.ba/hls6/fashion_box.m3u8
 https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-name="Timeless TV" group-title="Classic;Shop",Timeless TV
 https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
-#EXTINF:-1 tvg-name="Moy mir" group-title="Shop",Moy mir
-https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-name="Wapp" group-title="Lifestyle",Wapp
 https://stream.wapptv.cl/video/index.m3u8
 #EXTINF:-1 tvg-name="FYI" group-title="Lifestyle",FYI
