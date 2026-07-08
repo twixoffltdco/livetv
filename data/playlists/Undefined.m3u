@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-08 01:25:21
-# Всего каналов: 19229
-# Новых за сессию: 121
+# Обновлено: 2026-07-08 03:38:36
+# Всего каналов: 19247
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4064
-# Обновлено: 2026-07-08 01:25:21
+# Каналов: 4065
+# Обновлено: 2026-07-08 03:38:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -11787,6 +11787,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/177.234.249.135:8888/G
 
 #EXTINF:-1 tvg-name="Sony Channel Andes" group-title="Undefined",Sony Channel Andes
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/177.234.249.178:8888/SONY-TV/index.m3u8
+
+#EXTINF:-1 tvg-name="Telefe Buenos Aires" group-title="Undefined",Telefe Buenos Aires
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
