@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 00:09:41
-# Всего каналов: 20574
-# Новых за сессию: 1
+# Обновлено: 2026-07-17 01:26:26
+# Всего каналов: 20592
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 1147
-# Обновлено: 2026-07-17 00:09:42
+# Каналов: 1149
+# Обновлено: 2026-07-17 01:26:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -110,7 +110,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.corusdigitaldev.c
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNN" group-title="News",CNN
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 
 #EXTINF:-1 tvg-name="CNN International" group-title="News",CNN International
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -2692,6 +2692,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/backupmaxmedia.hvmulti
 #EXTINF:-1 tvg-name="El Centro TV" group-title="News",El Centro TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/v1.tustreaming.cl/diarioelcentrotv/index.m3u8
 
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+
 #EXTINF:-1 tvg-name="Africanews English" group-title="News",Africanews English
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 
@@ -3234,6 +3237,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/dyjmyiv3bp2ez.cloudfro
 
 #EXTINF:-1 tvg-name="TV Punjab [Geo-blocked]" group-title="News",TV Punjab [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="VEJA+ TV" group-title="News",VEJA+ TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8

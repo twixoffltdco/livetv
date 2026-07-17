@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-07-17 00:09:41
-# Всего каналов: 20574
-# Новых за сессию: 1
+# Обновлено: 2026-07-17 01:26:26
+# Всего каналов: 20592
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -43637,7 +43637,7 @@ https://secure-272717.tatnet.app/de1.dstv.cx/RTSMuzika/index.m3u8
 #EXTINF:-1 tvg-name="BelRos" group-title="IPTV",BelRos
 https://secure-272717.tatnet.app/souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Russian" group-title="IPTV",Euronews Russian
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
 https://secure-272717.tatnet.app/cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 
 #EXTINF:-1 tvg-name="Magnificent Movies Network" group-title="Movies;Shop",Magnificent Movies Network
@@ -53578,6 +53578,60 @@ https://yandexwebcache.net/yandbtm?fmode=inject&tm=1784163784&tld=ru&lang=en&la=
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://yandexwebcache.net/yandbtm?fmode=inject&tm=1784246927&tld=ru&lang=en&la=1783542272&text=%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB+%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D0%B9+%D1%8D%D1%84%D0%B8%D1%80+m3u8&url=https%3A//github.com/Free-TV/IPTV/blob/master/playlists/playlist_russia.m3u8&l10n=ru&mime=html&sign=a10a5b149f5de4a9cdb55369fc465955&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Agithub.com%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D0%B9%20%D1%8D%D1%84%D0%B8%D1%80%20m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=github.com&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_russia.m3u8&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;5&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" group-title="General",Channel 8 Novosibirsk (480i)" group-title="IPTV",like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" group-title="General",Channel 8 Novosibirsk (480i)
+https://secure-272717.tatnet.app/live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Auto",Automoto la chaine" group-title="Auto",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Auto",Automoto la chaine
+https://secure-272717.tatnet.app/futbol9865.ultratv13.workers.dev/deportivo111/23.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Canal+ Sport 360" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Canal+ Sport 360
+https://secure-272717.tatnet.app/futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",TF1 (576p)" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",TF1 (576p)
+https://secure-272717.tatnet.app/futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
+
+#EXTINF:-1 tvg-name="Star TV" group-title="Undefined",Star TV
+https://secure-272717.tatnet.app/dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+
+#EXTINF:-1 tvg-name="A&E Latin America Brazil" group-title="Entertainment",A&E Latin America Brazil
+https://secure-272717.tatnet.app/45.190.28.50/AE_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="E! Latin America Brazil" group-title="Entertainment;News",E! Latin America Brazil
+https://secure-272717.tatnet.app/45.190.156.152/E/index.m3u8
+
+#EXTINF:-1 tvg-name="History 2 Latin America Brazil" group-title="Documentary",History 2 Latin America Brazil
+https://secure-272717.tatnet.app/45.190.28.50/H2_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Studio Universal Latin America Brazil" group-title="Undefined",Studio Universal Latin America Brazil
+https://secure-272717.tatnet.app/45.190.156.152/STUDIO_UNIVERSAL/index.m3u8
+
+#EXTINF:-1 tvg-name="Universal TV Latin America Brazil" group-title="Undefined",Universal TV Latin America Brazil
+https://secure-272717.tatnet.app/45.190.156.152/UNIVERSAL_TV/index.m3u8
+
+#EXTINF:-1 tvg-name="VEJA+ TV" group-title="News",VEJA+ TV
+https://secure-272717.tatnet.app/gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+
+#EXTINF:-1 tvg-name="Stingray iConcerts" group-title="Music",Stingray iConcerts
+https://secure-272717.tatnet.app/dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FilmBox Family Hungary (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FilmBox Family Hungary (576p)
+https://secure-272717.tatnet.app/88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ShowVen TV" group-title="Culture;Music",ShowVen TV
+https://secure-272717.tatnet.app/cdnbarinas.tvzamora.com/showven/index.m3u8
+
+#EXTINF:-1 tvg-name="Star Channel Latin America Central America" group-title="Movies;Series",Star Channel Latin America Central America
+https://secure-272717.tatnet.app/streamer.metronethn.com/StarChannel/index.m3u8
+
+#EXTINF:-1 tvg-name="RTS 3" group-title="General",RTS 3
+https://secure-272717.tatnet.app/145.239.5.177/224/index.m3u8
+
+#EXTINF:-1 tvg-name="2M" group-title="General",2M
+https://secure-272717.tatnet.app/185.9.2.18/chid_218/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FilmBox Extra Hungary" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FilmBox Extra Hungary
+https://secure-272717.tatnet.app/88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
