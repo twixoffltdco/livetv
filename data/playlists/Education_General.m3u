@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-19 14:19:17
-# Всего каналов: 20728
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 15:29:43
+# Всего каналов: 20762
+# Новых за сессию: 34
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;General
 # Каналов: 2
-# Обновлено: 2026-07-19 14:19:18
+# Обновлено: 2026-07-19 15:29:43
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="DerryTV 23" group-title="Education;General",DerryTV 23
@@ -6196,3 +6196,5 @@ https://nhk4.mov3.co/hls/nhk.m3u8
 http://stream.mcquack.net/39/index.m3u8
 #EXTINF:-1 tvg-name="Fortis TV" group-title="General",Fortis TV
 https://stream.fortistv.com/hls/fortis-news/index.m3u8
+#EXTINF:-1 tvg-name="YOL TV" group-title="General",YOL TV
+https://live.yoltv.com/hls/stream.m3u8
