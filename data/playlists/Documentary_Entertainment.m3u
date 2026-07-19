@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-18 23:41:19
-# Всего каналов: 20680
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 01:05:13
+# Всего каналов: 20728
+# Новых за сессию: 48
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Entertainment
 # Каналов: 1
-# Обновлено: 2026-07-18 23:41:19
+# Обновлено: 2026-07-19 01:05:13
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="The Nest" group-title="Documentary;Entertainment",The Nest
@@ -2167,3 +2167,5 @@ http://stream.mcquack.net/161/index.m3u8
 http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 tvg-name="Logo" group-title="Entertainment",Logo
 http://206.212.244.63/4242/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Mason TV" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Mason TV
+http://stream.mcquack.net/346/index.m3u8
