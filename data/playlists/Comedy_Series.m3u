@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-24 00:07:27
-# Всего каналов: 21011
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 01:27:10
+# Всего каналов: 21055
+# Новых за сессию: 44
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Series
 # Каналов: 6
-# Обновлено: 2026-07-24 00:07:27
+# Обновлено: 2026-07-24 01:27:10
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Anger Management Channel" group-title="Comedy;Series",Anger Management Channel
@@ -974,8 +974,6 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-name="We TV" group-title="Series",We TV
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Comedy",Comedy Central" group-title="Comedy",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Comedy",Comedy Central
-http://86.87.15.10:8002/play/a02k/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tlnovelas Latin America" group-title="Series",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tlnovelas Latin America
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports",USA Network
@@ -984,6 +982,8 @@ http://185.246.209.113/DISCOVERYHD/index.m3u8
 http://185.246.209.113/T+E/index.m3u8
 #EXTINF:-1 tvg-name="Fillka TV" group-title="Entertainment;Movies;Series",Fillka TV
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Comedy",Comedy Central" group-title="Comedy",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Comedy",Comedy Central
+http://82.78.243.219:45739/play/a00f/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand
 http://54.37.19.157/axn/playlist.m3u8
 #EXTINF:-1 tvg-name="Smotrim 100% Lyubov" group-title="Series",Smotrim 100% Lyubov
@@ -1102,3 +1102,5 @@ http://stream.mcquack.net/73/index.m3u8
 http://185.102.171.218/FOX_Life/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Comedy",Comedy Central (576p)" group-title="Comedy",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Comedy",Comedy Central (576p)
 https://aes.m3u8simplu.workers.dev/comedycentral/index.m3u8
+#EXTINF:-1 tvg-name="+SBT Novelas [Geo-blocked]" group-title="Series",+SBT Novelas [Geo-blocked]
+https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
