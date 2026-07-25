@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-25 01:26:41
-# Всего каналов: 21079
-# Новых за сессию: 1
+# Обновлено: 2026-07-25 02:56:01
+# Всего каналов: 21158
+# Новых за сессию: 79
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
-# Каналов: 962
-# Обновлено: 2026-07-25 01:26:41
+# Каналов: 967
+# Обновлено: 2026-07-25 02:56:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -564,9 +564,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:808
 
 #EXTINF:-1 tvg-name="Chizhik" group-title="IPTV",Chizhik
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/de.russkoe-iptv.com:88/s/s-e3dc39e0/chizik-hd.m3u8
-
-#EXTINF:-1 tvg-name="Den Pobedy" group-title="IPTV",Den Pobedy
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tchaikovsky.af-stream.com:991/s/xzztutfc/den-pobedy-hd/video.m3u8
 
 #EXTINF:-1 tvg-name="Big Planet" group-title="IPTV",Big Planet
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/de.russkoe-iptv.com:88/s/s-e3dc39e0/big-planet-hd.m3u8
@@ -2590,9 +2587,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/92/
 #EXTINF:-1 tvg-name="Classic Music" group-title="IPTV",Classic Music
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/312/index.m3u8
 
-#EXTINF:-1 tvg-name="Dikaya okhota" group-title="IPTV",Dikaya okhota
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/274/index.m3u8
-
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/http-referrer=https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 
@@ -2655,6 +2649,27 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yan
 
 #EXTINF:-1 tvg-name="RN7" group-title="IPTV",RN7
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
+
+#EXTINF:-1 tvg-name="365 days TV (576p)" group-title="IPTV",365 days TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/70/index.m3u8
+
+#EXTINF:-1 tvg-name=".sci-fi (576p)" group-title="IPTV",.sci-fi (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/180/index.m3u8
+
+#EXTINF:-1 tvg-name="Afontovo" group-title="IPTV",Afontovo
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.afontovo.ru/hd.m3u8
+
+#EXTINF:-1 tvg-name="Blokbaster" group-title="IPTV",Blokbaster
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/364/index.m3u8
+
+#EXTINF:-1 tvg-name="BRIDGE (576p)" group-title="IPTV",BRIDGE (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/318/index.m3u8
+
+#EXTINF:-1 tvg-name="BRIDGE Classic (576p)" group-title="IPTV",BRIDGE Classic (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/272/index.m3u8
+
+#EXTINF:-1 tvg-name="BRIDGE Hits (576p)" group-title="IPTV",BRIDGE Hits (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/320/index.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8

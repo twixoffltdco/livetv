@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-25 01:26:41
-# Всего каналов: 21079
-# Новых за сессию: 1
+# Обновлено: 2026-07-25 02:56:01
+# Всего каналов: 21158
+# Новых за сессию: 79
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3027
-# Обновлено: 2026-07-25 01:26:41
+# Каналов: 3041
+# Обновлено: 2026-07-25 02:56:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -6403,6 +6403,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/videostream.shockmedia
 #EXTINF:-1 tvg-name="Ecos Canal 57" group-title="General",Ecos Canal 57
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Russia-1 +4" group-title="General",Russia-1 +4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Russia-1 +5" group-title="General",Russia-1 +5
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Russia-1 +6" group-title="General",Russia-1 +6
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Russia-1 +7" group-title="General",Russia-1 +7
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Russia-1 +8" group-title="General",Russia-1 +8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+
 #EXTINF:-1 tvg-name="BCN Gospel TV" group-title="General",BCN Gospel TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 
@@ -6975,6 +6990,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/snrtworker.kharazbelai
 
 #EXTINF:-1 tvg-name="Tamazight TV (480p)" group-title="General",Tamazight TV (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/snrtworker.kharazbelaid.workers.dev/?id=tamazight.m3u8
+
+#EXTINF:-1 tvg-name="Russia-1" group-title="General",Russia-1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV (576p)" group-title="General",NTV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/94.230.128.107:8080/HTB/index.m3u8
@@ -8773,6 +8791,30 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mdstrm.com/live-stream
 #EXTINF:-1 tvg-name="MNTV" group-title="General",MNTV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.khuwemultimedia.com/hls/mntv/mntv.m3u8
 
+#EXTINF:-1 tvg-name="Groznyj" group-title="General",Groznyj
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 (Адыгея)" group-title="General",Россия 1 (Адыгея)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.youtv.com.ua/4481/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Qazaqstan International" group-title="General",Qazaqstan International
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/duna_world_hun/index.m3u8
+
+#EXTINF:-1 tvg-name="Color Vision" group-title="General",Color Vision
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn3.wind.do/streams/colorvision/colorvision_master.m3u8
+
+#EXTINF:-1 tvg-name="Telesistema 11" group-title="General",Telesistema 11
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn3.wind.do/streams/telesistema/telesistema_master.m3u8
+
+#EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 
@@ -9451,3 +9493,7 @@ https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 https://mn-nl.mncdn.com/primetv/live/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Armenia TV Satellite (576p)" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Armenia TV Satellite (576p)
 http://stream.mcquack.net/175/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Lux TV" group-title="General",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Lux TV
+https://stream.youtv.com.ua/4481/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Duna World" group-title="General",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Duna World
+http://88.212.15.19/live/duna_world_hun/index.m3u8
