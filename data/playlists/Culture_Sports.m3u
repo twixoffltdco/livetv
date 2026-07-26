@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-25 23:36:43
-# Всего каналов: 21172
-# Новых за сессию: 1
+# Обновлено: 2026-07-26 01:04:46
+# Всего каналов: 21201
+# Новых за сессию: 29
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Sports
 # Каналов: 2
-# Обновлено: 2026-07-25 23:36:44
+# Обновлено: 2026-07-26 01:04:46
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="LRT Plius [Geo-blocked]" group-title="Culture;Sports",LRT Plius [Geo-blocked]
@@ -1542,3 +1542,7 @@ https://cdn.rabta.stream/M-Sports/index.m3u8
 http://88.212.15.19/live/spiler1/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Spiler 2" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Spiler 2
 http://88.212.15.19/live/spiler2/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Digi Sport 1" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Digi Sport 1
+https://aes.m3u8simplu.workers.dev/digi1/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Digi Sport 2" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Digi Sport 2
+https://aes.m3u8simplu.workers.dev/digi2/index.m3u8
