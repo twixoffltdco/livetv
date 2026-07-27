@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-27 00:03:35
-# Всего каналов: 21217
-# Новых за сессию: 1
+# Обновлено: 2026-07-27 01:06:09
+# Всего каналов: 21223
+# Новых за сессию: 6
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;News
 # Каналов: 3
-# Обновлено: 2026-07-27 00:03:35
+# Обновлено: 2026-07-27 01:06:10
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NowMedia Television" group-title="Lifestyle;News",NowMedia Television
@@ -2627,3 +2627,5 @@ https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-name="M News" group-title="News",M News
 https://cdn.rabta.stream/M-News/index.m3u8
+#EXTINF:-1 tvg-name="Ma'an TV" group-title="News",Ma'an TV
+https://htvmada.mada.ps:4443/maannews/index.m3u8
