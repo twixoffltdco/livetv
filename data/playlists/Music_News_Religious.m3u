@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-28 23:49:18
-# Всего каналов: 21293
-# Новых за сессию: 1
+# Обновлено: 2026-07-29 00:59:28
+# Всего каналов: 21326
+# Новых за сессию: 33
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-07-28 23:49:19
+# Обновлено: 2026-07-29 00:59:29
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -4859,6 +4859,8 @@ https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 #EXTINF:-1 tvg-name="Assadissa (480p)" group-title="Religious",Assadissa (480p)
 https://snrtworker.kharazbelaid.workers.dev/?id=assadisa.m3u8
+#EXTINF:-1 tvg-name="Настоящее Время" group-title="News",Настоящее Время
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-name="Spas (576p)" group-title="Religious",Spas (576p)
 https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 tvg-name="Trece TV (576p)" group-title="Religious",Trece TV (576p)
@@ -5547,3 +5549,9 @@ http://109.157.194.186:4040/clublandhls/now.m3u8
 https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-name="Muz TV Uzbekistan" group-title="Music",Muz TV Uzbekistan
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="KTO (504p)" group-title="Religious",KTO (504p)
+http://145.239.5.177/354/index.m3u8
+#EXTINF:-1 tvg-name="E! Latin America Brazil (432p)" group-title="Entertainment;News",E! Latin America Brazil (432p)
+http://145.239.5.177/111/index.m3u8
+#EXTINF:-1 tvg-name="Exploits TV" group-title="Religious",Exploits TV
+https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8

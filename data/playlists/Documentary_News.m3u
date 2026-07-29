@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-28 23:49:18
-# Всего каналов: 21293
-# Новых за сессию: 1
+# Обновлено: 2026-07-29 00:59:28
+# Всего каналов: 21326
+# Новых за сессию: 33
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;News
 # Каналов: 5
-# Обновлено: 2026-07-28 23:49:19
+# Обновлено: 2026-07-29 00:59:29
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="India TV Aap Ki Adalat [Geo-blocked]" group-title="Documentary;News",India TV Aap Ki Adalat [Geo-blocked]
@@ -2371,6 +2371,8 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 http://46.32.176.50/natgeowild/index.m3u8
 #EXTINF:-1 tvg-name="Opinionsur" group-title="News",Opinionsur
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
+#EXTINF:-1 tvg-name="Настоящее Время" group-title="News",Настоящее Время
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-name="Canal I" group-title="News",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-name="CN3 Television" group-title="News",CN3 Television
@@ -2721,3 +2723,5 @@ https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-name="Wedo Big Stories" group-title="Documentary",Wedo Big Stories
 https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="E! Latin America Brazil (432p)" group-title="Entertainment;News",E! Latin America Brazil (432p)
+http://145.239.5.177/111/index.m3u8
