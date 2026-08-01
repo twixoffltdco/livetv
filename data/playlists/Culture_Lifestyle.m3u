@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-31 23:31:01
-# Всего каналов: 21407
-# Новых за сессию: 1
+# Обновлено: 2026-08-01 01:05:11
+# Всего каналов: 21424
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Lifestyle
 # Каналов: 1
-# Обновлено: 2026-07-31 23:31:01
+# Обновлено: 2026-08-01 01:05:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Salira TV" group-title="Culture;Lifestyle",Salira TV
@@ -717,3 +717,5 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-name="Russia-K +7" group-title="Culture",Russia-K +7
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-name="JTBS Classic (480p)" group-title="Culture;Religious",JTBS Classic (480p)
+https://jtbsclassic.dpdns.org/live.m3u8
