@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 23:55:01
-# Всего каналов: 21672
-# Новых за сессию: 1
+# Обновлено: 2026-08-08 00:44:32
+# Всего каналов: 21689
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Legislative;News
 # Каналов: 1
-# Обновлено: 2026-08-07 23:55:02
+# Обновлено: 2026-08-08 00:44:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Korea TV" group-title="Legislative;News",Korea TV
@@ -2735,3 +2735,5 @@ http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
 https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
 #EXTINF:-1 tvg-name="Observator News (360p)" group-title="News",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-name="Ekamra Bharat Odia (400p)" group-title="News",Ekamra Bharat Odia (400p)
+https://live.ekamraott.com/bharat/bharat/index.m3u8
