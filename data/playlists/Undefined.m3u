@@ -1,14 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-08-09 22:24:10
-# Всего каналов: 22191
-# Новых за сессию: 413
+# Обновлено: 2026-08-09 22:35:28
+# Всего каналов: 22192
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4250
-# Обновлено: 2026-08-09 22:24:11
+# Каналов: 4229
+# Обновлено: 2026-08-09 22:35:29
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="UniNettuno University TV" group-title="Undefined",UniNettuno University TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
@@ -24,9 +27,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mirbelogorya.ru:8080/m
 
 #EXTINF:-1 tvg-name="Сибирь 24 (Новосибирск)" group-title="Undefined",Сибирь 24 (Новосибирск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-name="Смотрим" group-title="Undefined",Смотрим
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DAZN Combat" group-title="Undefined",DAZN Combat
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
@@ -52,23 +52,14 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.universmotri.ru/li
 #EXTINF:-1 tvg-name="Usadba (576p)" group-title="Undefined",Usadba (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH137/index.m3u8
 
-#EXTINF:-1 tvg-name="A21 VITAL AUTOSPORT" group-title="Undefined",A21 VITAL AUTOSPORT
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/autopilot.catcast.tv/content/37909/index.m3u8
-
 #EXTINF:-1 tvg-name="Zoopark (576i)" group-title="Undefined",Zoopark (576i)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Арктика 24" group-title="Undefined",Арктика 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Архыз 24" group-title="Undefined",Архыз 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Астрахань.Ru TV (480p)" group-title="Undefined",Астрахань.Ru TV (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Башкортостан 24" group-title="Undefined",Башкортостан 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Большая Азия" group-title="Undefined",Большая Азия
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
@@ -82,50 +73,29 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/qcpdqumitwf.a.trbcdn.n
 #EXTINF:-1 tvg-name="Волга ( )" group-title="Undefined",Волга ( )
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Восток 24" group-title="Undefined",Восток 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
-
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 
 #EXTINF:-1 tvg-name="Дагестан" group-title="Undefined",Дагестан
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Детское кино International" group-title="Undefined",Детское кино International
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/autopilot.catcast.tv/content/38720/index.m3u8
-
 #EXTINF:-1 tvg-name="Живая Планета (576p)" group-title="Undefined",Живая Планета (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Zhivaya_Planeta/index.m3u8
-
-#EXTINF:-1 tvg-name="Запад 24 (Калининград)" group-title="Undefined",Запад 24 (Калининград)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Zvezda Plus" group-title="Undefined",Zvezda Plus
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Зоо ТВ" group-title="Undefined",Зоо ТВ
+#EXTINF:-1 tvg-name="Зоо ТВ (576p)" group-title="Undefined",Зоо ТВ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Zoo_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Кино 1 International" group-title="Undefined",Кино 1 International
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/kino-1.catcast.tv/content/38617/index.m3u8
-
-#EXTINF:-1 tvg-name="Красная линия" group-title="Undefined",Красная линия
+#EXTINF:-1 tvg-name="Красная линия (480p)" group-title="Undefined",Красная линия (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-
-#EXTINF:-1 tvg-name="Музыка 1 International" group-title="Undefined",Музыка 1 International
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/kino-1.catcast.tv/content/37745/index.m3u8
-
-#EXTINF:-1 tvg-name="Музыка Кино International" group-title="Undefined",Музыка Кино International
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/kino-1.catcast.tv/content/37739/index.m3u8
 
 #EXTINF:-1 tvg-name="Неизвестная Россия" group-title="Undefined",Неизвестная Россия
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/unknown_russia/playlist.m3u8
 
 #EXTINF:-1 tvg-name="НТВ Право" group-title="Undefined",НТВ Право
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/th_pravo/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Первый Ярославский" group-title="Undefined",Первый Ярославский
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
@@ -148,9 +118,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/sitv.ru/hls/stv.m3u8
 #EXTINF:-1 tvg-name="Салям (Уфа) (576p)" group-title="Undefined",Салям (Уфа) (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Самара 24" group-title="Undefined",Самара 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
-
 #EXTINF:-1 tvg-name="Самара ГИС" group-title="Undefined",Самара ГИС
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 
@@ -162,9 +129,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/svoetv.mediacdn.ru/cdn
 
 #EXTINF:-1 tvg-name="Север (Нарьян-Мар)" group-title="Undefined",Север (Нарьян-Мар)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Сибирь 24 (Красноярск)" group-title="Undefined",Сибирь 24 (Красноярск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Соловьёв LIVE (576p)" group-title="Undefined",Соловьёв LIVE (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/EuroNews/index.m3u8
@@ -178,16 +142,13 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn4.skygo.mn/live/dis
 #EXTINF:-1 tvg-name="ТВК 24 (576p)" group-title="Undefined",ТВК 24 (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/air.tvk6.ru/tvk24/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Телеканал Краснодар" group-title="Undefined",Телеканал Краснодар
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Телплюс ТВ (Астрахань) (360p)" group-title="Undefined",Телплюс ТВ (Астрахань) (360p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.astrakhan.ru/telplushd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ТКР (Рязань)" group-title="Undefined",ТКР (Рязань)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ТНВ-Планета (Казань)" group-title="Undefined",ТНВ-Планета (Казань)
+#EXTINF:-1 tvg-name="ТНВ-Планета (Казань) (576p)" group-title="Undefined",ТНВ-Планета (Казань) (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Тонус (576p)" group-title="Undefined",Тонус (576p)
@@ -195,9 +156,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Zdorovie/
 
 #EXTINF:-1 tvg-name="Точка ТВ (576p)" group-title="Undefined",Точка ТВ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Tochka_TV/index.m3u8
-
-#EXTINF:-1 tvg-name="Урал 24 (Челябинск)" group-title="Undefined",Урал 24 (Челябинск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Шаян ТВ (Татарстан)" group-title="Undefined",Шаян ТВ (Татарстан)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
@@ -2178,9 +2136,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/d39g1vxj2ef6in.cloudfr
 
 #EXTINF:-1 tvg-name="Crime and Evidence" group-title="Undefined",Crime and Evidence
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Fail Army" group-title="Undefined",Fail Army
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FIFA+" group-title="Undefined",FIFA+
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -10051,18 +10006,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3p8ecnk6t4t73.cloudfr
 #EXTINF:-1 tvg-name="Zougla TV" group-title="Undefined",Zougla TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
 
-#EXTINF:-1 tvg-name="НТВ +1" group-title="Undefined",НТВ +1
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/ntv1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="НТВ +2" group-title="Undefined",НТВ +2
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/ntv2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="НТВ +4" group-title="Undefined",НТВ +4
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/ntv4/playlist.m3u8
-
-#EXTINF:-1 tvg-name="НТВ +7" group-title="Undefined",НТВ +7
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/ntv7/playlist.m3u8
-
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 
@@ -11965,9 +11908,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/account31.livebox.co.i
 #EXTINF:-1 tvg-name="Wild TV" group-title="Undefined",Wild TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
-#EXTINF:-1 tvg-name="Россия РТР" group-title="Undefined",Россия РТР
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/211.m3u8
-
 #EXTINF:-1 tvg-name="Star TV" group-title="Undefined",Star TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
@@ -12492,9 +12432,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-uk.s4c-cdn.co.uk/
 
 #EXTINF:-1 tvg-name="ТВ Центр (450p) [Geo-blocked]" group-title="Undefined",ТВ Центр (450p) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-
-#EXTINF:-1 tvg-name="DanceHits80" group-title="Undefined",DanceHits80
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/dancehits80.denvs.ru:8080/index.m3u8
 
 #EXTINF:-1 tvg-name="WTTW-DT1" group-title="Undefined",WTTW-DT1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/68.251.105.81:5004/auto/v11.1

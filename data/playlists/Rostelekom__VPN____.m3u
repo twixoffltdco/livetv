@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 22:24:10
-# Всего каналов: 22191
-# Новых за сессию: 413
+# Обновлено: 2026-08-09 22:35:28
+# Всего каналов: 22192
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Rostelekom (VPN 🇷🇺)
-# Каналов: 260
-# Обновлено: 2026-08-09 22:24:11
+# Каналов: 256
+# Обновлено: 2026-08-09 22:35:29
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый канал" group-title="Rostelekom (VPN 🇷🇺)",Первый канал
@@ -45,9 +45,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-mos-htlive.cdn.ngen
 
 #EXTINF:-1 tvg-name="Первый областной" group-title="Rostelekom (VPN 🇷🇺)",Первый областной
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
-
-#EXTINF:-1 tvg-name="Лен ТВ 24" group-title="Rostelekom (VPN 🇷🇺)",Лен ТВ 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 
 #EXTINF:-1 tvg-name="Санкт-Петербург" group-title="Rostelekom (VPN 🇷🇺)",Санкт-Петербург
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
@@ -90,9 +87,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.
 
 #EXTINF:-1 tvg-name="ОРТ-Планета (Оренбург)" group-title="Rostelekom (VPN 🇷🇺)",ОРТ-Планета (Оренбург)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
-
-#EXTINF:-1 tvg-name="НТК" group-title="Rostelekom (VPN 🇷🇺)",НТК
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 
 #EXTINF:-1 tvg-name="Матч ТВ" group-title="Rostelekom (VPN 🇷🇺)",Матч ТВ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -643,9 +637,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-murm-htlive.cdn.
 #EXTINF:-1 tvg-name="Арктик-ТВ" group-title="Rostelekom (VPN 🇷🇺)",Арктик-ТВ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
 
-#EXTINF:-1 tvg-name="Новгородское областное телевидение" group-title="Rostelekom (VPN 🇷🇺)",Новгородское областное телевидение
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-
 #EXTINF:-1 tvg-name="Сампо ТВ 360°" group-title="Rostelekom (VPN 🇷🇺)",Сампо ТВ 360°
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
 
@@ -669,9 +660,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-astrh-htlive.cd
 
 #EXTINF:-1 tvg-name="Сочи24" group-title="Rostelekom (VPN 🇷🇺)",Сочи24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-
-#EXTINF:-1 tvg-name="Кубань 24" group-title="Rostelekom (VPN 🇷🇺)",Кубань 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
 #EXTINF:-1 tvg-name="БСТ" group-title="Rostelekom (VPN 🇷🇺)",БСТ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
