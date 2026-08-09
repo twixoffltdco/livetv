@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Киров
-# Каналов: 22
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 20
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Киров)" group-title="Киров",Первый (Киров)
@@ -49,9 +49,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kirov-htlive.cd
 #EXTINF:-1 tvg-name="Че! (Киров)" group-title="Киров",Че! (Киров)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 
-#EXTINF:-1 tvg-name="Первый городской канал (Киров)" group-title="Киров",Первый городской канал (Киров)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-
 #EXTINF:-1 tvg-name="Пятый (Киров)" group-title="Киров",Пятый (Киров)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 
@@ -72,7 +69,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kirov-htlive.cd
 
 #EXTINF:-1 tvg-name="Пятница! (Киров)" group-title="Киров",Пятница! (Киров)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_KIROV/variant.m3u8
-
-#EXTINF:-1 tvg-name="Девятка ТВ (Киров)" group-title="Киров",Девятка ТВ (Киров)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 

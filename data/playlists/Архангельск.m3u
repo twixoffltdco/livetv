@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Архангельск
-# Каналов: 43
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 40
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Архангельск)" group-title="Архангельск",Первый (Архангельск)
@@ -129,13 +129,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-arkh-htlive.cdn.
 
 #EXTINF:-1 tvg-name="Пятница! (Ненецкий АО)" group-title="Архангельск",Пятница! (Ненецкий АО)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_NAO/variant.m3u8
-
-#EXTINF:-1 tvg-name="Север (Ненецкий АО)" group-title="Архангельск",Север (Ненецкий АО)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_SEVER/variant.m3u8
-
-#EXTINF:-1 tvg-name="СТВ 24 (Северодвинск)" group-title="Архангельск",СТВ 24 (Северодвинск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
-
-#EXTINF:-1 tvg-name="Регион 29 (Архангельск)" group-title="Архангельск",Регион 29 (Архангельск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 

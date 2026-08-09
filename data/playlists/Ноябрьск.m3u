@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Ноябрьск
-# Каналов: 31
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 27
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Че! (Ноябрьск)" group-title="Ноябрьск",Че! (Ноябрьск)
@@ -55,9 +55,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn
 #EXTINF:-1 tvg-name="ТНТ (Ноябрьск)" group-title="Ноябрьск",ТНТ (Ноябрьск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNT_URAL_NOY/variant.m3u8
 
-#EXTINF:-1 tvg-name="Импульс Севера (Новый Уренгой)" group-title="Ноябрьск",Импульс Севера (Новый Уренгой)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
-
 #EXTINF:-1 tvg-name="ТНВ Планета (Ноябрьск)" group-title="Ноябрьск",ТНВ Планета (Ноябрьск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8
 
@@ -82,12 +79,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn
 #EXTINF:-1 tvg-name="Луч (Пуровск)" group-title="Ноябрьск",Луч (Пуровск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_LUTCH/variant.m3u8
 
-#EXTINF:-1 tvg-name="Муравленко 24 (Муравленко)" group-title="Ноябрьск",Муравленко 24 (Муравленко)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
-
-#EXTINF:-1 tvg-name="Вектор 24 (Губкинский)" group-title="Ноябрьск",Вектор 24 (Губкинский)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
-
 #EXTINF:-1 tvg-name="Ямал 1 (ЯНАО)" group-title="Ноябрьск",Ямал 1 (ЯНАО)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
 
@@ -99,7 +90,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn
 
 #EXTINF:-1 tvg-name="Вестник Надыма (Надым)" group-title="Ноябрьск",Вестник Надыма (Надым)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VESTN_URAL_NAD/variant.m3u8
-
-#EXTINF:-1 tvg-name="Ямал (ЯНАО)" group-title="Ноябрьск",Ямал (ЯНАО)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 

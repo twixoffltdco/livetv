@@ -1,14 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 799
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 802
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="СПАС (576p)" group-title="Religious",СПАС (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/spas.mediacdn.ru/cdn/spas/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
@@ -883,7 +886,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/ap02.iqplay.tv:8082/iq
 #EXTINF:-1 tvg-name="Enlace" group-title="Religious",Enlace
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="EWTN Africa-Asia" group-title="Religious",EWTN Africa-Asia
+#EXTINF:-1 tvg-name="EWTN Africa Asia" group-title="Religious",EWTN Africa Asia
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EWTN Asia-Pacific" group-title="Religious",EWTN Asia-Pacific
@@ -2326,6 +2329,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/evandis.streamakaci.tv
 #EXTINF:-1 tvg-name="CVC" group-title="Religious",CVC
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/15.204.246.24:8080/CVCHD/index.m3u8
 
+#EXTINF:-1 tvg-name="Каббала ТВ (360p)" group-title="Religious",Каббала ТВ (360p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
+
 #EXTINF:-1 tvg-name="KTO (504p)" group-title="Religious",KTO (504p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/145.239.5.177/354/index.m3u8
 
@@ -2352,6 +2358,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/m.live.net.sa:1935/liv
 
 #EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" group-title="Religious",Al Sunnah Al Nabawiyah TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+
+#EXTINF:-1 tvg-name="Три Ангела" group-title="Religious",Три Ангела
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8

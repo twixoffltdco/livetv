@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Religious
 # Каналов: 1
-# Обновлено: 2026-08-09 21:58:14
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Karbala Documentary" group-title="Documentary;Religious",Karbala Documentary
@@ -43,6 +43,8 @@ https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6
 https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Telepace 4" group-title="Religious",Telepace 4
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="СПАС (576p)" group-title="Religious",СПАС (576p)
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel" group-title="Documentary",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="RT Documentary English [Geo-blocked]" group-title="Documentary",RT Documentary English [Geo-blocked]
@@ -69,13 +71,13 @@ http://tmptv.sunduk.tv/CH133/index.m3u8
 http://tmptv.sunduk.tv/CH203/index.m3u8
 #EXTINF:-1 tvg-name="Вера 24" group-title="Religious",Вера 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-name="История (576p)" group-title="Documentary",История (576p)
+#EXTINF:-1 tvg-name="История" group-title="Documentary",История
 http://31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-name="Надежда" group-title="Religious",Надежда
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Нано ТВ (576p)" group-title="Documentary",Нано ТВ (576p)
+#EXTINF:-1 tvg-name="Нано ТВ" group-title="Documentary",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-name="НАУКА" group-title="Documentary",НАУКА
 http://31.148.48.15/Nauka_2.0/index.m3u8
@@ -853,7 +855,7 @@ https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 tvg-name="Enlace" group-title="Religious",Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="EWTN Africa-Asia" group-title="Religious",EWTN Africa-Asia
+#EXTINF:-1 tvg-name="EWTN Africa Asia" group-title="Religious",EWTN Africa Asia
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="EWTN Asia-Pacific" group-title="Religious",EWTN Asia-Pacific
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
@@ -1733,6 +1735,8 @@ https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 http://157.245.196.186/live/livestream.m3u8
 #EXTINF:-1 tvg-name="WiseHumanTv" group-title="Religious",WiseHumanTv
 https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
+#EXTINF:-1 tvg-name="viju History" group-title="Documentary",viju History
+http://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Atlas (480p)" group-title="Documentary",Atlas (480p)
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-name="GOD TV (396p)" group-title="Religious",GOD TV (396p)
@@ -2007,6 +2011,8 @@ http://stream.mcquack.net/239/index.m3u8
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 tvg-name="DocuBay TV" group-title="Documentary",DocuBay TV
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+#EXTINF:-1 tvg-name="Каббала ТВ (360p)" group-title="Religious",Каббала ТВ (360p)
+https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
 #EXTINF:-1 tvg-name="Wedo Big Stories" group-title="Documentary",Wedo Big Stories
 https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="KTO (504p)" group-title="Religious",KTO (504p)
@@ -2023,3 +2029,9 @@ http://starcius-cinema.com/11586/index.m3u8
 https://jothi.inet.moe/jothitv/index.m3u8
 #EXTINF:-1 tvg-name="BBC Earth Asia" group-title="Documentary",BBC Earth Asia
 https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8
+#EXTINF:-1 tvg-name="RTД" group-title="Documentary",RTД
+https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Mobile/15E148",Арсенал (480p)" group-title="Documentary",like Gecko) Mobile/15E148",Арсенал (480p)
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 tvg-name="Наука 2.0" group-title="Documentary",Наука 2.0
+http://stream01.vnet.am/Nauka/mono.m3u8

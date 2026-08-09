@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Outdoor
 # Каналов: 3
-# Обновлено: 2026-08-09 21:58:14
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CCTV-17" group-title="Education;Outdoor",CCTV-17
@@ -53,8 +53,6 @@ https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
 http://31.148.48.15/Kto_est_kto/index.m3u8
 #EXTINF:-1 tvg-name="Моя Планета" group-title="Outdoor",Моя Планета
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
-#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
-http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="30A Darcizzle Offshore" group-title="Outdoor",30A Darcizzle Offshore
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-name="AKC TV" group-title="Outdoor",AKC TV
@@ -583,6 +581,8 @@ https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
 #EXTINF:-1 tvg-name="Monroe Community Media Education Channel" group-title="Education",Monroe Community Media Education Channel
 https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-name="MOSOBR.TV" group-title="Education",MOSOBR.TV
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-World Geography" group-title="Education",CCTV-World Geography
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="Rybalka" group-title="Outdoor",Rybalka

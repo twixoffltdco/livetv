@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;Series
 # Каналов: 1
-# Обновлено: 2026-08-09 21:58:14
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CNBC-e" group-title="Business;Series",CNBC-e
@@ -15,8 +15,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/hnpsechtsc.turknet.erc
 
 #EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Negocios TV" group-title="Business",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV Europe" group-title="Business",Bloomberg TV Europe
@@ -29,7 +27,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/index.m3u8?ads.xumo_chan
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-name="Yahoo! Finance" group-title="Business",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="CNBC Europe" group-title="Business",CNBC Europe
+#EXTINF:-1 tvg-name="CNBC Europe/World [Geo-blocked]" group-title="Business",CNBC Europe/World [Geo-blocked]
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBC Indonesia" group-title="Business",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
@@ -37,6 +35,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-name="Moconomy" group-title="Business",Moconomy
 https://amogonetworx-moconomy-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Amedia 2" group-title="Series",Amedia 2
+http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 tvg-name="100% News (576p)" group-title="Business;News",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-name="27 TwentySeven [Geo-blocked]" group-title="Movies;Series",27 TwentySeven [Geo-blocked]
@@ -47,6 +47,10 @@ https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 tvg-name="Мир Сериала (576p)" group-title="Series",Мир Сериала (576p)
 http://31.148.48.15/Mir_Seriala/index.m3u8
+#EXTINF:-1 tvg-name="НТВ Сериал" group-title="Series",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-name="НТВ Хит" group-title="Series",НТВ Хит
+https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-name="Сапфир" group-title="Series",Сапфир
 http://31.148.48.15/Sapfir_HD/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок
@@ -827,6 +831,8 @@ https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
 https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
 #EXTINF:-1 tvg-name="Z Nation" group-title="Series",Z Nation
 https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
+#EXTINF:-1 tvg-name="РБК-ТВ" group-title="Business",РБК-ТВ
+http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 tvg-name="All Reality We TV [Geo-blocked]" group-title="Series",All Reality We TV [Geo-blocked]
 https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-name="The Walking Dead Universe [Geo-blocked]" group-title="Series",The Walking Dead Universe [Geo-blocked]
@@ -1001,3 +1007,5 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-name="AXN Asia Philippines (576p)" group-title="Movies;Series",AXN Asia Philippines (576p)
 https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
+#EXTINF:-1 tvg-name="Amedia Premium" group-title="Movies;Series",Amedia Premium
+http://stream01.vnet.am/AmediaPremium/mono.m3u8

@@ -1,14 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Познавательные
-# Каналов: 95
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 115
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Россия К ( )" group-title="Познавательные",Россия К ( )
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet" group-title="Познавательные",Animal Planet
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Animal_Planet_HD/index.m3u8
@@ -18,9 +21,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls
 
 #EXTINF:-1 tvg-name="RTG" group-title="Познавательные",RTG
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/194.143.148.28:8080/RTG_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Viju History" group-title="Познавательные",Viju History
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Моя Планета" group-title="Познавательные",Моя Планета
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/194.143.148.28:8080/Nauka20/tracks-v1a1/mono.m3u8
@@ -39,6 +39,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cityeden.catcast.tv/co
 
 #EXTINF:-1 tvg-name="City Eden Recepty Gurmana" group-title="Познавательные",City Eden Recepty Gurmana
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cityeden.catcast.tv/content/47516/index.m3u8
+
+#EXTINF:-1 tvg-name="ЕГЭ ТВ (EDTV)" group-title="Познавательные",ЕГЭ ТВ (EDTV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="UNIVER ( )" group-title="Познавательные",UNIVER ( )
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Просвещение (SDTV)" group-title="Познавательные",Просвещение (SDTV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-name="Viju History" group-title="Познавательные",Viju History
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg3ODQ1ODAsImlhdCI6MTc1ODY5ODE4MCwiY2lkIjo2LCJ1aWQiOjk0NzMzNjI3OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.X9BXdvBm96FOknyyRRYW904ZIcLm8ZqXlHI7FlgTKdA&offset=3
@@ -294,4 +303,55 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/ikomg-kazakh.akamaized
 
 #EXTINF:-1 tvg-name="лекторий DОСТОЕВСКИЙ" group-title="Познавательные",лекторий DОСТОЕВСКИЙ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Discovery ( )" group-title="Познавательные",Discovery ( )
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-name="Galaxy TV (EDTV)" group-title="Познавательные",Galaxy TV (EDTV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Galaxy/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="ID ( )" group-title="Познавательные",ID ( )
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-name="animal-planet" group-title="Познавательные",animal-planet
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge06-alm.beetv.kz/bpk-token/3an@oyrinsmwhcvjcotos1xejdr0ezdoekteoohdfsaa/bpk-tv/000000216/tve/000000216-audio_82882_rus=82400-video=5287600.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic (EDTV)" group-title="Познавательные",National Geographic (EDTV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.lamro.tv/NationalGeographic/mono.m3u8
+
+#EXTINF:-1 tvg-name="Nat Geo Wild (EDTV)" group-title="Познавательные",Nat Geo Wild (EDTV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/NatGeoWild/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Travel+Adventure (EDTV)" group-title="Познавательные",Travel+Adventure (EDTV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.lamro.tv/Amedia1/mono.m3u8
+
+#EXTINF:-1 tvg-name="TERRA (EDTV)" group-title="Познавательные",TERRA (EDTV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7707/NationalGeographic/index.m3u8
+
+#EXTINF:-1 tvg-name="Viju HISTORY (EDTV)" group-title="Познавательные",Viju HISTORY (EDTV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/ViasatHistory/index.m3u8
+
+#EXTINF:-1 tvg-name="Viju NATURE (EDTV)" group-title="Познавательные",Viju NATURE (EDTV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/213.226.137.140:81/tl/l96/index.m3u8
+
+#EXTINF:-1 tvg-name="Арсенал ( )" group-title="Познавательные",Арсенал ( )
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Arsenal_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="Беларусь 3 ( )" group-title="Познавательные",Беларусь 3 ( )
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+
+#EXTINF:-1 tvg-name="В мире животных ( )" group-title="Познавательные",В мире животных ( )
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/VMireZhivotnyx/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="Вопросы и ответы (EDTV)" group-title="Познавательные",Вопросы и ответы (EDTV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/flu.ttk.mx:90/Voprosy_i_otvety/mono.m3u8?token=hs06e
+
+#EXTINF:-1 tvg-name="Живая Природа ( )" group-title="Познавательные",Живая Природа ( )
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.212.71.253:8002/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-name="Наша Сибирь ( )" group-title="Познавательные",Наша Сибирь ( )
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/NashaSibir/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="Поехали! (EDTV)" group-title="Познавательные",Поехали! (EDTV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/91.247.68.229:8000/play/Poehali/index.m3u8
 

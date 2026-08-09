@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Тюмень
-# Каналов: 24
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 23
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Че! (Тюмень)" group-title="Тюмень",Че! (Тюмень)
@@ -75,9 +75,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-tum-htlive.cdn
 
 #EXTINF:-1 tvg-name="Тобольское время (Тобольск)" group-title="Тюмень",Тобольское время (Тобольск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
-
-#EXTINF:-1 tvg-name="Тюменское время (Тюмень)" group-title="Тюмень",Тюменское время (Тюмень)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
 
 #EXTINF:-1 tvg-name="TVоя Тюмень (Тюмень)" group-title="Тюмень",TVоя Тюмень (Тюмень)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8

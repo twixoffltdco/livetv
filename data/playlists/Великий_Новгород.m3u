@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Великий Новгород
 # Каналов: 33
-# Обновлено: 2026-08-09 21:58:14
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Великий Новгород)" group-title="Великий Новгород",Первый (Великий Новгород)
@@ -143,17 +143,9 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-name="ТНТ (Нижний Новгород)" group-title="Нижний Новгород",ТНТ (Нижний Новгород)
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
-#EXTINF:-1 tvg-name="ТНВ Планета (Нижний Новгород)" group-title="Нижний Новгород",ТНВ Планета (Нижний Новгород)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
-#EXTINF:-1 tvg-name="Дзержинск-ТВ (Дзержинск)" group-title="Нижний Новгород",Дзержинск-ТВ (Дзержинск)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 #EXTINF:-1 tvg-name="Нижний Новгород 24 (Нижний Новгород)" group-title="Нижний Новгород",Нижний Новгород 24 (Нижний Новгород)
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NN24/variant.m3u8
 #EXTINF:-1 tvg-name="Новое Телевидение Сарова (Саров)" group-title="Нижний Новгород",Новое Телевидение Сарова (Саров)
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NTS/variant.m3u8
 #EXTINF:-1 tvg-name="Хузур ТВ (Татарстан)" group-title="Нижний Новгород",Хузур ТВ (Татарстан)
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_HUZUR/variant.m3u8
-#EXTINF:-1 tvg-name="Волга-ТВ (Нижний Новгород)" group-title="Нижний Новгород",Волга-ТВ (Нижний Новгород)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
-#EXTINF:-1 tvg-name="Волга-24 (Нижний Новгород)" group-title="Нижний Новгород",Волга-24 (Нижний Новгород)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cooking;Documentary
 # Каналов: 2
-# Обновлено: 2026-08-09 21:58:14
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Food" group-title="Cooking;Documentary",Pluto TV Food
@@ -36,11 +36,11 @@ http://31.148.48.15/Terra_HD/index.m3u8
 http://tmptv.sunduk.tv/CH133/index.m3u8
 #EXTINF:-1 tvg-name="viju Nature (576p)" group-title="Documentary",viju Nature (576p)
 http://tmptv.sunduk.tv/CH203/index.m3u8
-#EXTINF:-1 tvg-name="История (576p)" group-title="Documentary",История (576p)
+#EXTINF:-1 tvg-name="История" group-title="Documentary",История
 http://31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1 tvg-name="Кухня ТВ (576p)" group-title="Cooking",Кухня ТВ (576p)
 http://31.148.48.15/Kuhnya_TV/index.m3u8
-#EXTINF:-1 tvg-name="Нано ТВ (576p)" group-title="Documentary",Нано ТВ (576p)
+#EXTINF:-1 tvg-name="Нано ТВ" group-title="Documentary",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-name="НАУКА" group-title="Documentary",НАУКА
 http://31.148.48.15/Nauka_2.0/index.m3u8
@@ -410,6 +410,8 @@ https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
 https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
 #EXTINF:-1 tvg-name="Til Middag Hos" group-title="Cooking;Lifestyle",Til Middag Hos
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
+#EXTINF:-1 tvg-name="viju History" group-title="Documentary",viju History
+http://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Atlas (480p)" group-title="Documentary",Atlas (480p)
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-Weapon & Technology" group-title="Documentary",CCTV-Weapon & Technology
@@ -508,9 +510,21 @@ http://stream.mcquack.net/239/index.m3u8
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 tvg-name="DocuBay TV" group-title="Documentary",DocuBay TV
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+#EXTINF:-1 tvg-name="Kulinar TV Show" group-title="Cooking",Kulinar TV Show
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1 tvg-name="Wedo Big Stories" group-title="Documentary",Wedo Big Stories
 https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Documentary",BBC Earth" group-title="Documentary",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Documentary",BBC Earth
 http://starcius-cinema.com/11586/index.m3u8
 #EXTINF:-1 tvg-name="BBC Earth Asia" group-title="Documentary",BBC Earth Asia
 https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8
+#EXTINF:-1 tvg-name="RTД" group-title="Documentary",RTД
+https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Mobile/15E148",Арсенал (480p)" group-title="Documentary",like Gecko) Mobile/15E148",Арсенал (480p)
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 tvg-name="Кухня ТВ" group-title="Cooking",Кухня ТВ
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+#EXTINF:-1 tvg-name="Наука 2.0" group-title="Documentary",Наука 2.0
+http://stream01.vnet.am/Nauka/mono.m3u8
+#EXTINF:-1 tvg-name="Телекафе" group-title="Cooking",Телекафе
+http://stream01.vnet.am/Telekafe/mono.m3u8

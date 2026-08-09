@@ -1,0 +1,794 @@
+#EXTM3U
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Rostelekom (VPN 🇷🇺)
+# Каналов: 260
+# Обновлено: 2026-08-09 22:24:11
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Первый канал" group-title="Rostelekom (VPN 🇷🇺)",Первый канал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1" group-title="Rostelekom (VPN 🇷🇺)",Россия 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 (+2)" group-title="Rostelekom (VPN 🇷🇺)",Россия 1 (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 (+4)" group-title="Rostelekom (VPN 🇷🇺)",Россия 1 (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 (+6)" group-title="Rostelekom (VPN 🇷🇺)",Россия 1 (+6)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Домашний +2" group-title="Rostelekom (VPN 🇷🇺)",Домашний +2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Домашний +4" group-title="Rostelekom (VPN 🇷🇺)",Домашний +4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Домашний +7" group-title="Rostelekom (VPN 🇷🇺)",Домашний +7
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Че! (+4)" group-title="Rostelekom (VPN 🇷🇺)",Че! (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Москва. Доверие" group-title="Rostelekom (VPN 🇷🇺)",Москва. Доверие
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+
+#EXTINF:-1 tvg-name="Москва 24" group-title="Rostelekom (VPN 🇷🇺)",Москва 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый областной" group-title="Rostelekom (VPN 🇷🇺)",Первый областной
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+
+#EXTINF:-1 tvg-name="Лен ТВ 24" group-title="Rostelekom (VPN 🇷🇺)",Лен ТВ 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+
+#EXTINF:-1 tvg-name="Санкт-Петербург" group-title="Rostelekom (VPN 🇷🇺)",Санкт-Петербург
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+
+#EXTINF:-1 tvg-name="12 канал Череповец" group-title="Rostelekom (VPN 🇷🇺)",12 канал Череповец
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+
+#EXTINF:-1 tvg-name="31 канал Челябинск" group-title="Rostelekom (VPN 🇷🇺)",31 канал Челябинск
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТВ Челябинск" group-title="Rostelekom (VPN 🇷🇺)",ОТВ Челябинск
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый канал (+2)" group-title="Rostelekom (VPN 🇷🇺)",Первый канал (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТВ Екатеринбург" group-title="Rostelekom (VPN 🇷🇺)",ОТВ Екатеринбург
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+
+#EXTINF:-1 tvg-name="НТС-Ирбит (Екатеринбург)" group-title="Rostelekom (VPN 🇷🇺)",НТС-Ирбит (Екатеринбург)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
+
+#EXTINF:-1 tvg-name="Импульс" group-title="Rostelekom (VPN 🇷🇺)",Импульс
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
+
+#EXTINF:-1 tvg-name="Рифей-ТВ" group-title="Rostelekom (VPN 🇷🇺)",Рифей-ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+
+#EXTINF:-1 tvg-name="Информационная служба Югры" group-title="Rostelekom (VPN 🇷🇺)",Информационная служба Югры
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
+
+#EXTINF:-1 tvg-name="ЮТВ Чебоксары" group-title="Rostelekom (VPN 🇷🇺)",ЮТВ Чебоксары
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый городской (Киров)" group-title="Rostelekom (VPN 🇷🇺)",Первый городской (Киров)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
+
+#EXTINF:-1 tvg-name="Эфир" group-title="Rostelekom (VPN 🇷🇺)",Эфир
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОРТ-Планета (Оренбург)" group-title="Rostelekom (VPN 🇷🇺)",ОРТ-Планета (Оренбург)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
+
+#EXTINF:-1 tvg-name="НТК" group-title="Rostelekom (VPN 🇷🇺)",НТК
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+
+#EXTINF:-1 tvg-name="Матч ТВ" group-title="Rostelekom (VPN 🇷🇺)",Матч ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Русский Экстрим U 4K" group-title="Rostelekom (VPN 🇷🇺)",Русский Экстрим U 4K
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_3840x2160_avc1/variant.m3u8
+
+#EXTINF:-1 tvg-name="Наша Сибирь 4k" group-title="Rostelekom (VPN 🇷🇺)",Наша Сибирь 4k
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/video_3840x2160_avc1/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ultra Cinema" group-title="Rostelekom (VPN 🇷🇺)",Ultra Cinema
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_3840x2160_avc1/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый канал (+1)" group-title="Rostelekom (VPN 🇷🇺)",Первый канал (+1)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый канал (+3)" group-title="Rostelekom (VPN 🇷🇺)",Первый канал (+3)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый канал (+4)" group-title="Rostelekom (VPN 🇷🇺)",Первый канал (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый канал (+5)" group-title="Rostelekom (VPN 🇷🇺)",Первый канал (+5)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый канал (+6)" group-title="Rostelekom (VPN 🇷🇺)",Первый канал (+6)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый канал (+7)" group-title="Rostelekom (VPN 🇷🇺)",Первый канал (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый канал (+8)" group-title="Rostelekom (VPN 🇷🇺)",Первый канал (+8)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый канал (+9)" group-title="Rostelekom (VPN 🇷🇺)",Первый канал (+9)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+
+#EXTINF:-1 tvg-name="НТВ" group-title="Rostelekom (VPN 🇷🇺)",НТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="НТВ (+2)" group-title="Rostelekom (VPN 🇷🇺)",НТВ (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="НТВ (+4)" group-title="Rostelekom (VPN 🇷🇺)",НТВ (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="НТВ (+7)" group-title="Rostelekom (VPN 🇷🇺)",НТВ (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="РЕН ТВ" group-title="Rostelekom (VPN 🇷🇺)",РЕН ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="РЕН ТВ (+2)" group-title="Rostelekom (VPN 🇷🇺)",РЕН ТВ (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Рен ТВ +4" group-title="Rostelekom (VPN 🇷🇺)",Рен ТВ +4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Рен ТВ +7" group-title="Rostelekom (VPN 🇷🇺)",Рен ТВ +7
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Репортер 73" group-title="Rostelekom (VPN 🇷🇺)",Репортер 73
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 (+1)" group-title="Rostelekom (VPN 🇷🇺)",Россия 1 (+1)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 (+3)" group-title="Rostelekom (VPN 🇷🇺)",Россия 1 (+3)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 (+5)" group-title="Rostelekom (VPN 🇷🇺)",Россия 1 (+5)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 (+8)" group-title="Rostelekom (VPN 🇷🇺)",Россия 1 (+8)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 (+9)" group-title="Rostelekom (VPN 🇷🇺)",Россия 1 (+9)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия 24" group-title="Rostelekom (VPN 🇷🇺)",Россия 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия К" group-title="Rostelekom (VPN 🇷🇺)",Россия К
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия К (+2)" group-title="Rostelekom (VPN 🇷🇺)",Россия К (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия К (+4)" group-title="Rostelekom (VPN 🇷🇺)",Россия К (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Россия К (+7)" group-title="Rostelekom (VPN 🇷🇺)",Россия К (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ" group-title="Rostelekom (VPN 🇷🇺)",ТНТ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ (+2)" group-title="Rostelekom (VPN 🇷🇺)",ТНТ (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ (+4)" group-title="Rostelekom (VPN 🇷🇺)",ТНТ (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ (+7)" group-title="Rostelekom (VPN 🇷🇺)",ТНТ (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ4" group-title="Rostelekom (VPN 🇷🇺)",ТНТ4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ4 (+2)" group-title="Rostelekom (VPN 🇷🇺)",ТНТ4 (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ4 (+4)" group-title="Rostelekom (VPN 🇷🇺)",ТНТ4 (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ4 (+7)" group-title="Rostelekom (VPN 🇷🇺)",ТНТ4 (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="2x2" group-title="Rostelekom (VPN 🇷🇺)",2x2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
+#EXTINF:-1 tvg-name="2x2 (+2)" group-title="Rostelekom (VPN 🇷🇺)",2x2 (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="2x2 (+4)" group-title="Rostelekom (VPN 🇷🇺)",2x2 (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="2x2 (+7)" group-title="Rostelekom (VPN 🇷🇺)",2x2 (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="СОЛНЦЕ" group-title="Rostelekom (VPN 🇷🇺)",СОЛНЦЕ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+
+#EXTINF:-1 tvg-name="СОЛНЦЕ (+2)" group-title="Rostelekom (VPN 🇷🇺)",СОЛНЦЕ (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="СОЛНЦЕ (+4)" group-title="Rostelekom (VPN 🇷🇺)",СОЛНЦЕ (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="СОЛНЦЕ (+7)" group-title="Rostelekom (VPN 🇷🇺)",СОЛНЦЕ (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница" group-title="Rostelekom (VPN 🇷🇺)",Пятница
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница! (+5)" group-title="Rostelekom (VPN 🇷🇺)",Пятница! (+5)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятый канал" group-title="Rostelekom (VPN 🇷🇺)",Пятый канал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятый канал (+2)" group-title="Rostelekom (VPN 🇷🇺)",Пятый канал (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="СТС" group-title="Rostelekom (VPN 🇷🇺)",СТС
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+
+#EXTINF:-1 tvg-name="СТС (+2)" group-title="Rostelekom (VPN 🇷🇺)",СТС (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="СТС (+4)" group-title="Rostelekom (VPN 🇷🇺)",СТС (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="СТС (+7)" group-title="Rostelekom (VPN 🇷🇺)",СТС (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="СТС Love" group-title="Rostelekom (VPN 🇷🇺)",СТС Love
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+
+#EXTINF:-1 tvg-name="Сургут 24" group-title="Rostelekom (VPN 🇷🇺)",Сургут 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр" group-title="Rostelekom (VPN 🇷🇺)",ТВ Центр
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ3" group-title="Rostelekom (VPN 🇷🇺)",ТВ3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ3 (+2)" group-title="Rostelekom (VPN 🇷🇺)",ТВ3 (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ3 (+4)" group-title="Rostelekom (VPN 🇷🇺)",ТВ3 (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ3 (+7)" group-title="Rostelekom (VPN 🇷🇺)",ТВ3 (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Че" group-title="Rostelekom (VPN 🇷🇺)",Че
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+
+#EXTINF:-1 tvg-name="Че! (+2)" group-title="Rostelekom (VPN 🇷🇺)",Че! (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
+
+#EXTINF:-1 tvg-name="Че! (+7)" group-title="Rostelekom (VPN 🇷🇺)",Че! (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ю" group-title="Rostelekom (VPN 🇷🇺)",Ю
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ю (+4)" group-title="Rostelekom (VPN 🇷🇺)",Ю (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ю (+7)" group-title="Rostelekom (VPN 🇷🇺)",Ю (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Домашний" group-title="Rostelekom (VPN 🇷🇺)",Домашний
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+
+#EXTINF:-1 tvg-name="Звезда" group-title="Rostelekom (VPN 🇷🇺)",Звезда
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+
+#EXTINF:-1 tvg-name="Звезда (+2)" group-title="Rostelekom (VPN 🇷🇺)",Звезда (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Звезда (+4)" group-title="Rostelekom (VPN 🇷🇺)",Звезда (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Звезда (+7)" group-title="Rostelekom (VPN 🇷🇺)",Звезда (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Карусель" group-title="Rostelekom (VPN 🇷🇺)",Карусель
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+
+#EXTINF:-1 tvg-name="Карусель (+2)" group-title="Rostelekom (VPN 🇷🇺)",Карусель (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Карусель (+4)" group-title="Rostelekom (VPN 🇷🇺)",Карусель (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Карусель (+7)" group-title="Rostelekom (VPN 🇷🇺)",Карусель (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Мир" group-title="Rostelekom (VPN 🇷🇺)",Мир
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+
+#EXTINF:-1 tvg-name="МИР (+2)" group-title="Rostelekom (VPN 🇷🇺)",МИР (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="МИР (+4)" group-title="Rostelekom (VPN 🇷🇺)",МИР (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="МИР (+7)" group-title="Rostelekom (VPN 🇷🇺)",МИР (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Муз ТВ" group-title="Rostelekom (VPN 🇷🇺)",Муз ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="МУЗ ТВ (+2)" group-title="Rostelekom (VPN 🇷🇺)",МУЗ ТВ (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="МУЗ ТВ (+4)" group-title="Rostelekom (VPN 🇷🇺)",МУЗ ТВ (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="МУЗ ТВ (+7)" group-title="Rostelekom (VPN 🇷🇺)",МУЗ ТВ (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="41 Регион" group-title="Rostelekom (VPN 🇷🇺)",41 Регион
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
+
+#EXTINF:-1 tvg-name="12 канал" group-title="Rostelekom (VPN 🇷🇺)",12 канал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+
+#EXTINF:-1 tvg-name="5 канал +4" group-title="Rostelekom (VPN 🇷🇺)",5 канал +4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="5 канал +7" group-title="Rostelekom (VPN 🇷🇺)",5 канал +7
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="6 ТВ" group-title="Rostelekom (VPN 🇷🇺)",6 ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+
+#EXTINF:-1 tvg-name="7 канал Красноярск" group-title="Rostelekom (VPN 🇷🇺)",7 канал Красноярск
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="8 канал" group-title="Rostelekom (VPN 🇷🇺)",8 канал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+
+#EXTINF:-1 tvg-name="8 канал (Владивосток)" group-title="Rostelekom (VPN 🇷🇺)",8 канал (Владивосток)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+
+#EXTINF:-1 tvg-name="8 канал (Красноярский край)" group-title="Rostelekom (VPN 🇷🇺)",8 канал (Красноярский край)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+
+#EXTINF:-1 tvg-name="8 канал (Новосибирск)" group-title="Rostelekom (VPN 🇷🇺)",8 канал (Новосибирск)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+
+#EXTINF:-1 tvg-name="TMTV" group-title="Rostelekom (VPN 🇷🇺)",TMTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
+
+#EXTINF:-1 tvg-name="АИСТ" group-title="Rostelekom (VPN 🇷🇺)",АИСТ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+
+#EXTINF:-1 tvg-name="Амурское областное телевидение" group-title="Rostelekom (VPN 🇷🇺)",Амурское областное телевидение
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
+
+#EXTINF:-1 tvg-name="Арктика 24" group-title="Rostelekom (VPN 🇷🇺)",Арктика 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
+
+#EXTINF:-1 tvg-name="Архыз-24" group-title="Rostelekom (VPN 🇷🇺)",Архыз-24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
+
+#EXTINF:-1 tvg-name="АТВ-Ставрополь" group-title="Rostelekom (VPN 🇷🇺)",АТВ-Ставрополь
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Барс плюс" group-title="Rostelekom (VPN 🇷🇺)",Барс плюс
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
+
+#EXTINF:-1 tvg-name="Белгород 24" group-title="Rostelekom (VPN 🇷🇺)",Белгород 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Брянская Губерния" group-title="Rostelekom (VPN 🇷🇺)",Брянская Губерния
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+
+#EXTINF:-1 tvg-name="Вариант V" group-title="Rostelekom (VPN 🇷🇺)",Вариант V
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ветта-24" group-title="Rostelekom (VPN 🇷🇺)",Ветта-24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
+
+#EXTINF:-1 tvg-name="Волгоград 1" group-title="Rostelekom (VPN 🇷🇺)",Волгоград 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
+
+#EXTINF:-1 tvg-name="Волгоград 1" group-title="Rostelekom (VPN 🇷🇺)",Волгоград 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
+
+#EXTINF:-1 tvg-name="Волгоград-24" group-title="Rostelekom (VPN 🇷🇺)",Волгоград-24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Восток 24" group-title="Rostelekom (VPN 🇷🇺)",Восток 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+
+#EXTINF:-1 tvg-name="ВОТтв" group-title="Rostelekom (VPN 🇷🇺)",ВОТтв
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Всё ТВ" group-title="Rostelekom (VPN 🇷🇺)",Всё ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s72169.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+
+#EXTINF:-1 tvg-name="Городской телеканал Ярославль" group-title="Rostelekom (VPN 🇷🇺)",Городской телеканал Ярославль
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
+
+#EXTINF:-1 tvg-name="Губерния 33" group-title="Rostelekom (VPN 🇷🇺)",Губерния 33
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
+
+#EXTINF:-1 tvg-name="ДОН 24" group-title="Rostelekom (VPN 🇷🇺)",ДОН 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Енисей" group-title="Rostelekom (VPN 🇷🇺)",Енисей
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ивановское общественное телевидение" group-title="Rostelekom (VPN 🇷🇺)",Ивановское общественное телевидение
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
+
+#EXTINF:-1 tvg-name="Кавказ 24" group-title="Rostelekom (VPN 🇷🇺)",Кавказ 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Камчатка" group-title="Rostelekom (VPN 🇷🇺)",Камчатка
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
+
+#EXTINF:-1 tvg-name="Каскад" group-title="Rostelekom (VPN 🇷🇺)",Каскад
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+
+#EXTINF:-1 tvg-name="Катунь 24" group-title="Rostelekom (VPN 🇷🇺)",Катунь 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Краснодар" group-title="Rostelekom (VPN 🇷🇺)",Краснодар
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
+
+#EXTINF:-1 tvg-name="КТВ-Город" group-title="Rostelekom (VPN 🇷🇺)",КТВ-Город
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8
+
+#EXTINF:-1 tvg-name="Кузбасс 1" group-title="Rostelekom (VPN 🇷🇺)",Кузбасс 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
+
+#EXTINF:-1 tvg-name="Липецкое время" group-title="Rostelekom (VPN 🇷🇺)",Липецкое время
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
+
+#EXTINF:-1 tvg-name="Майдан" group-title="Rostelekom (VPN 🇷🇺)",Майдан
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8?version2
+
+#EXTINF:-1 tvg-name="Майкопское Телевидение" group-title="Rostelekom (VPN 🇷🇺)",Майкопское Телевидение
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_MAYKOP/variant.m3u8
+
+#EXTINF:-1 tvg-name="МИГ ТВ" group-title="Rostelekom (VPN 🇷🇺)",МИГ ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
+
+#EXTINF:-1 tvg-name="Мир Белогорья" group-title="Rostelekom (VPN 🇷🇺)",Мир Белогорья
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+
+#EXTINF:-1 tvg-name="Котлас ТВ (Арх. область)" group-title="Rostelekom (VPN 🇷🇺)",Котлас ТВ (Арх. область)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_KOTLASTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="НВК (Саха)" group-title="Rostelekom (VPN 🇷🇺)",НВК (Саха)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+
+#EXTINF:-1 tvg-name="ННТВ" group-title="Rostelekom (VPN 🇷🇺)",ННТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Новый век (Тамбов)" group-title="Rostelekom (VPN 🇷🇺)",Новый век (Тамбов)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
+
+#EXTINF:-1 tvg-name="НСК 49" group-title="Rostelekom (VPN 🇷🇺)",НСК 49
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+
+#EXTINF:-1 tvg-name="НТС Иркутск" group-title="Rostelekom (VPN 🇷🇺)",НТС Иркутск
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
+
+#EXTINF:-1 tvg-name="Объектив 59" group-title="Rostelekom (VPN 🇷🇺)",Объектив 59
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
+
+#EXTINF:-1 tvg-name="Осетия Ирыстон" group-title="Rostelekom (VPN 🇷🇺)",Осетия Ирыстон
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТВ-Владивосток" group-title="Rostelekom (VPN 🇷🇺)",ОТВ-Владивосток
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТВ-Сахалин" group-title="Rostelekom (VPN 🇷🇺)",ОТВ-Сахалин
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТР" group-title="Rostelekom (VPN 🇷🇺)",ОТР
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТС" group-title="Rostelekom (VPN 🇷🇺)",ОТС
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый Тульский" group-title="Rostelekom (VPN 🇷🇺)",Первый Тульский
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
+
+#EXTINF:-1 tvg-name="Первый Ярославский" group-title="Rostelekom (VPN 🇷🇺)",Первый Ярославский
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+
+#EXTINF:-1 tvg-name="Прима-ТВ" group-title="Rostelekom (VPN 🇷🇺)",Прима-ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+
+#EXTINF:-1 tvg-name="РГВК Дагестан" group-title="Rostelekom (VPN 🇷🇺)",РГВК Дагестан
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
+
+#EXTINF:-1 tvg-name="РТС-Абакан" group-title="Rostelekom (VPN 🇷🇺)",РТС-Абакан
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
+
+#EXTINF:-1 tvg-name="Русь (Кострома)" group-title="Rostelekom (VPN 🇷🇺)",Русь (Кострома)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
+
+#EXTINF:-1 tvg-name="Саха" group-title="Rostelekom (VPN 🇷🇺)",Саха
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+
+#EXTINF:-1 tvg-name="Своё ТВ Ставрополь" group-title="Rostelekom (VPN 🇷🇺)",Своё ТВ Ставрополь
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
+
+#EXTINF:-1 tvg-name="Спас" group-title="Rostelekom (VPN 🇷🇺)",Спас
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+
+#EXTINF:-1 tvg-name="СТВ-Байкал" group-title="Rostelekom (VPN 🇷🇺)",СТВ-Байкал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ-Губерния" group-title="Rostelekom (VPN 🇷🇺)",ТВ-Губерния
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ-Колыма-Плюс" group-title="Rostelekom (VPN 🇷🇺)",ТВ-Колыма-Плюс
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТК Центр Красноярск" group-title="Rostelekom (VPN 🇷🇺)",ТК Центр Красноярск
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТКР Рязань" group-title="Rostelekom (VPN 🇷🇺)",ТКР Рязань
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
+
+#EXTINF:-1 tvg-name="Толк" group-title="Rostelekom (VPN 🇷🇺)",Толк
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
+
+#EXTINF:-1 tvg-name="Толпар ТВ" group-title="Rostelekom (VPN 🇷🇺)",Толпар ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
+
+#EXTINF:-1 tvg-name="Томское время" group-title="Rostelekom (VPN 🇷🇺)",Томское время
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
+
+#EXTINF:-1 tvg-name="Хамдан" group-title="Rostelekom (VPN 🇷🇺)",Хамдан
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
+
+#EXTINF:-1 tvg-name="Югорск ТВ" group-title="Rostelekom (VPN 🇷🇺)",Югорск ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_YUGORSKTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Якутия 24" group-title="Rostelekom (VPN 🇷🇺)",Якутия 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятый канал (+4)" group-title="Rostelekom (VPN 🇷🇺)",Пятый канал (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятый канал (+7)" group-title="Rostelekom (VPN 🇷🇺)",Пятый канал (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (+2)" group-title="Rostelekom (VPN 🇷🇺)",ТВ Центр (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВЦ +4" group-title="Rostelekom (VPN 🇷🇺)",ТВЦ +4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВЦ +7" group-title="Rostelekom (VPN 🇷🇺)",ТВЦ +7
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница! (+2)" group-title="Rostelekom (VPN 🇷🇺)",Пятница! (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница! (+4)" group-title="Rostelekom (VPN 🇷🇺)",Пятница! (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница! (+7)" group-title="Rostelekom (VPN 🇷🇺)",Пятница! (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Супер" group-title="Rostelekom (VPN 🇷🇺)",Супер
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
+#EXTINF:-1 tvg-name="Супер (+2)" group-title="Rostelekom (VPN 🇷🇺)",Супер (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Супер (+4)" group-title="Rostelekom (VPN 🇷🇺)",Супер (+4)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+
+#EXTINF:-1 tvg-name="Супер (+7)" group-title="Rostelekom (VPN 🇷🇺)",Супер (+7)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ю (+2)" group-title="Rostelekom (VPN 🇷🇺)",Ю (+2)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ника-ТВ" group-title="Rostelekom (VPN 🇷🇺)",Ника-ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
+
+#EXTINF:-1 tvg-name="ВТК 41 " group-title="Rostelekom (VPN 🇷🇺)",ВТК 41 
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
+
+#EXTINF:-1 tvg-name="Рыбинск-40" group-title="Rostelekom (VPN 🇷🇺)",Рыбинск-40
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+
+#EXTINF:-1 tvg-name="Север (Нарьян-Мар)" group-title="Rostelekom (VPN 🇷🇺)",Север (Нарьян-Мар)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_SEVER/variant.m3u8
+
+#EXTINF:-1 tvg-name="СТВ 24 (Северодвинск)" group-title="Rostelekom (VPN 🇷🇺)",СТВ 24 (Северодвинск)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Регион 29" group-title="Rostelekom (VPN 🇷🇺)",Регион 29
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+
+#EXTINF:-1 tvg-name="Юрган" group-title="Rostelekom (VPN 🇷🇺)",Юрган
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ21+" group-title="Rostelekom (VPN 🇷🇺)",ТВ21+
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+
+#EXTINF:-1 tvg-name="Арктик-ТВ" group-title="Rostelekom (VPN 🇷🇺)",Арктик-ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
+
+#EXTINF:-1 tvg-name="Новгородское областное телевидение" group-title="Rostelekom (VPN 🇷🇺)",Новгородское областное телевидение
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Сампо ТВ 360°" group-title="Rostelekom (VPN 🇷🇺)",Сампо ТВ 360°
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Русский Север" group-title="Rostelekom (VPN 🇷🇺)",Русский Север
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ-7 Абакан" group-title="Rostelekom (VPN 🇷🇺)",ТВ-7 Абакан
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ариг Ус 24" group-title="Rostelekom (VPN 🇷🇺)",Ариг Ус 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+
+#EXTINF:-1 tvg-name="АТВ-Медиа" group-title="Rostelekom (VPN 🇷🇺)",АТВ-Медиа
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
+
+#EXTINF:-1 tvg-name="Тивиком" group-title="Rostelekom (VPN 🇷🇺)",Тивиком
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
+
+#EXTINF:-1 tvg-name="Астрахань 24" group-title="Rostelekom (VPN 🇷🇺)",Астрахань 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Сочи24" group-title="Rostelekom (VPN 🇷🇺)",Сочи24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+
+#EXTINF:-1 tvg-name="Кубань 24" group-title="Rostelekom (VPN 🇷🇺)",Кубань 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+
+#EXTINF:-1 tvg-name="БСТ" group-title="Rostelekom (VPN 🇷🇺)",БСТ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ-ИН-Магнитогорск" group-title="Rostelekom (VPN 🇷🇺)",ТВ-ИН-Магнитогорск
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+
+#EXTINF:-1 tvg-name="Область 45" group-title="Rostelekom (VPN 🇷🇺)",Область 45
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+
+#EXTINF:-1 tvg-name="Инфо 24" group-title="Rostelekom (VPN 🇷🇺)",Инфо 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
+
+#EXTINF:-1 tvg-name="Муравленко 24" group-title="Rostelekom (VPN 🇷🇺)",Муравленко 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Вектор 24" group-title="Rostelekom (VPN 🇷🇺)",Вектор 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ямал-Регион" group-title="Rostelekom (VPN 🇷🇺)",Ямал-Регион
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ветта 24 Пермь" group-title="Rostelekom (VPN 🇷🇺)",Ветта 24 Пермь
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНР24" group-title="Rostelekom (VPN 🇷🇺)",ТНР24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
+
+#EXTINF:-1 tvg-name="С1 Сургут" group-title="Rostelekom (VPN 🇷🇺)",С1 Сургут
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+
+#EXTINF:-1 tvg-name="Наши города" group-title="Rostelekom (VPN 🇷🇺)",Наши города
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
+
+#EXTINF:-1 tvg-name="Новое время (Радужный)" group-title="Rostelekom (VPN 🇷🇺)",Новое время (Радужный)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
+
+#EXTINF:-1 tvg-name="UGRA TRAVEL" group-title="Rostelekom (VPN 🇷🇺)",UGRA TRAVEL
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+
+#EXTINF:-1 tvg-name="Югра" group-title="Rostelekom (VPN 🇷🇺)",Югра
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
+
+#EXTINF:-1 tvg-name="Тюменское время" group-title="Rostelekom (VPN 🇷🇺)",Тюменское время
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+
+#EXTINF:-1 tvg-name="Национальное ТВ Чувашии" group-title="Rostelekom (VPN 🇷🇺)",Национальное ТВ Чувашии
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Удмуртия" group-title="Rostelekom (VPN 🇷🇺)",Удмуртия
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
+
+#EXTINF:-1 tvg-name="Девятка ТВ" group-title="Rostelekom (VPN 🇷🇺)",Девятка ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНВ-Татарстан" group-title="Rostelekom (VPN 🇷🇺)",ТНВ-Татарстан
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+
+#EXTINF:-1 tvg-name="Татарстан 24" group-title="Rostelekom (VPN 🇷🇺)",Татарстан 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНВ-Планета" group-title="Rostelekom (VPN 🇷🇺)",ТНВ-Планета
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Дзержинск ТВ" group-title="Rostelekom (VPN 🇷🇺)",Дзержинск ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+
+#EXTINF:-1 tvg-name="Волга" group-title="Rostelekom (VPN 🇷🇺)",Волга
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+
+#EXTINF:-1 tvg-name="Время Н" group-title="Rostelekom (VPN 🇷🇺)",Время Н
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
+
+#EXTINF:-1 tvg-name="Евразия" group-title="Rostelekom (VPN 🇷🇺)",Евразия
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
+
+#EXTINF:-1 tvg-name="Экспресс" group-title="Rostelekom (VPN 🇷🇺)",Экспресс
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
+
+#EXTINF:-1 tvg-name="Наш дом" group-title="Rostelekom (VPN 🇷🇺)",Наш дом
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
+
+#EXTINF:-1 tvg-name="Тольятти-24" group-title="Rostelekom (VPN 🇷🇺)",Тольятти-24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Губерния Самара" group-title="Rostelekom (VPN 🇷🇺)",Губерния Самара
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
+
+#EXTINF:-1 tvg-name="Самара-Гис" group-title="Rostelekom (VPN 🇷🇺)",Самара-Гис
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
+
+#EXTINF:-1 tvg-name="Самара-24" group-title="Rostelekom (VPN 🇷🇺)",Самара-24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Саратов-24" group-title="Rostelekom (VPN 🇷🇺)",Саратов-24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Народное телевидение Мордовии" group-title="Rostelekom (VPN 🇷🇺)",Народное телевидение Мордовии
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+
+#EXTINF:-1 tvg-name="Мордовия-24" group-title="Rostelekom (VPN 🇷🇺)",Мордовия-24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ул. Правда" group-title="Rostelekom (VPN 🇷🇺)",Ул. Правда
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
+
+#EXTINF:-1 tvg-name="МЭТР" group-title="Rostelekom (VPN 🇷🇺)",МЭТР
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
+
+#EXTINF:-1 tvg-name="Башкортостан 24" group-title="Rostelekom (VPN 🇷🇺)",Башкортостан 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Матур ТВ" group-title="Rostelekom (VPN 🇷🇺)",Матур ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Шаян ТВ" group-title="Rostelekom (VPN 🇷🇺)",Шаян ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="ВТК 41 "Аргус"" group-title="Rostelekom (VPN 🇷🇺)",ВТК 41 "Аргус"
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Наш спорт
 # Каналов: 29
-# Обновлено: 2026-08-09 21:58:14
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Наш спорт 1" group-title="Наш спорт",Наш спорт 1
@@ -97,3 +97,5 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tric
 #EXTINF:-1 tvg-name="Наш спорт 29" group-title="Наш спорт",Наш спорт 29
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1--Nash_sport29/03/plst.m3u8
 
+#EXTINF:-1 tvg-name="Setanta Sports" group-title="Спорт",Setanta Sports
+https://s.pokaz.me/208/index.m3u8?k=1773194214p04i71i741i502S9ba1bfcb0c474e82858d96e4308a7230

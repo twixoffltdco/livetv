@@ -1,0 +1,60 @@
+#EXTM3U
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: общие
+# Каналов: 16
+# Обновлено: 2026-08-09 22:24:11
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Рен ТВ" group-title="общие",Рен ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/14.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1" group-title="общие",Россия 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="САРАФАН" group-title="общие",САРАФАН
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Sarafan/index.m3u8
+
+#EXTINF:-1 tvg-name="Первый канал" group-title="общие",Первый канал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 tvg-name="Россия 1" group-title="общие",Россия 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/544/index.m3u8?k=1770073062p502i89i921i19Sdb5ac5795cd0057b1d322a6bdcb9d9a5
+
+#EXTINF:-1 tvg-name="НТВ" group-title="общие",НТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/river-4-432.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/7u12FG2ijOhU8K0nziETpw/1774701467/c37cd74192c6bc3d6cd6077c0c4fd686/360p_stream.m3u8
+
+#EXTINF:-1 tvg-name="НТВ-Мир" group-title="общие",НТВ-Мир
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/188.225.31.197/bpk-tv/000000079/tve/index.m3u8
+
+#EXTINF:-1 tvg-name="Рен ТВ Международный" group-title="общие",Рен ТВ Международный
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр" group-title="общие",ТВ Центр
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Беларусь РТР ( )" group-title="общие",Беларусь РТР ( )
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/93.189.224.246:52900/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-name="РТР-Планета Европа" group-title="общие",РТР-Планета Европа
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603/playlist.m3u8
+
+#EXTINF:-1 tvg-name="НТВ-Мир" group-title="общие",НТВ-Мир
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge02-alm.beetv.kz/bpk-token/3an@dkwqz0dzzcglpvrf2eg5nmbtvxqsfmw4duyvzhba/bpk-tv/000000079/tve/000000079-audio_82882_rus=82400-video=562400.m3u8
+
+#EXTINF:-1 tvg-name="Звезда" group-title="общие",Звезда
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-name="Охота и Рыбалка" group-title="общие",Охота и Рыбалка
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-name="МИР" group-title="общие",МИР
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-name="СТВ" group-title="общие",СТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+

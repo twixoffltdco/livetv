@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cooking
-# Каналов: 43
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 46
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Кухня ТВ (576p)" group-title="Cooking",Кухня ТВ (576p)
@@ -133,8 +133,17 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/216
 #EXTINF:-1 tvg-name="Kuhnya (576p)" group-title="Cooking",Kuhnya (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/179/index.m3u8
 
+#EXTINF:-1 tvg-name="Kulinar TV Show" group-title="Cooking",Kulinar TV Show
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.alpaca.t62a.com/hls/9110/index.m3u8
+
 #EXTINF:-1 tvg-name="ETV Abhiruchi" group-title="Cooking",ETV Abhiruchi
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
+
+#EXTINF:-1 tvg-name="Кухня ТВ" group-title="Cooking",Кухня ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/KukhnyaTv/mono.m3u8
+
+#EXTINF:-1 tvg-name="Телекафе" group-title="Cooking",Телекафе
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/Telekafe/mono.m3u8
 
 #EXTINF:-1 tvg-name="FoodTime" group-title="Cooking",FoodTime
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Eda_Premium_HD/index.m3u8

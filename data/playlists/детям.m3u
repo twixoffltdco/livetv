@@ -1,0 +1,33 @@
+#EXTM3U
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: детям
+# Каналов: 7
+# Обновлено: 2026-08-09 22:24:11
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Мульт" group-title="детям",Мульт
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-name="Ani" group-title="детям",Ani
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+
+#EXTINF:-1 tvg-name="Карусель Международный" group-title="детям",Карусель Международный
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+
+#EXTINF:-1 tvg-name="Смайлик ТВ" group-title="детям",Смайлик ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Мульт" group-title="детям",Мульт
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
+
+#EXTINF:-1 tvg-name="Мульт и музыка" group-title="детям",Мульт и музыка
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
+
+#EXTINF:-1 tvg-name="СуперГерои" group-title="детям",СуперГерои
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.124.179.122:8088/Malish/index.m3u8
+

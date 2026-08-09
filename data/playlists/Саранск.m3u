@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Саранск
-# Каналов: 24
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 22
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Саранск)" group-title="Саранск",Первый (Саранск)
@@ -70,14 +70,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-srnk-htlive.cdn
 #EXTINF:-1 tvg-name="ТНВ Планета (Саранск)" group-title="Саранск",ТНВ Планета (Саранск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
 
-#EXTINF:-1 tvg-name="НТМ (Мордовия)" group-title="Саранск",НТМ (Мордовия)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
-
 #EXTINF:-1 tvg-name="10 канал (Саранск)" group-title="Саранск",10 канал (Саранск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_10CHENAL/variant.m3u8
-
-#EXTINF:-1 tvg-name="Мордовия 24 (Саранск)" group-title="Саранск",Мордовия 24 (Саранск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВС (Саранск)" group-title="Саранск",ТВС (Саранск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_TVSARANSK/variant.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Детские
-# Каналов: 9
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 18
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Мульт" group-title="Детские",Мульт
@@ -36,4 +36,31 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/2x2/track
 
 #EXTINF:-1 tvg-name="СОЛНЦЕ" group-title="Детские",СОЛНЦЕ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/194.143.148.28:8080/Disney/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="В Гостях у Сказки" group-title="Детские",В Гостях у Сказки
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/550/index.m3u8?k=1773194276p04i71i741i502Seb67d1b094bafc439438164875a74391
+
+#EXTINF:-1 tvg-name="СоюзМультфильм" group-title="Детские",СоюзМультфильм
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/511/index.m3u8?k=1773194280p04i71i741i502S3b41cfee069ed7715cc123adf46e5bdc
+
+#EXTINF:-1 tvg-name="Tiji" group-title="Детские",Tiji
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/202/index.m3u8?k=1773194284p04i71i741i502Sd0c45b7cce0baaccc5b6c9d7eb67d43b
+
+#EXTINF:-1 tvg-name="Ералаш" group-title="Детские",Ералаш
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/512/index.m3u8?k=1773194288p04i71i741i502S5891f4dd0bd7e51c2d11391c4d8a0ced
+
+#EXTINF:-1 tvg-name="Gulli" group-title="Детские",Gulli
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/180/index.m3u8?k=1773194292p04i71i741i502Sa3022ec1478eed18a63e5963988fff4b
+
+#EXTINF:-1 tvg-name="Карусель" group-title="Детские",Карусель
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/157/index.m3u8?k=1773194295p04i71i741i502S76abe64c2dc3f3299ec44bacef7765c2
+
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Nickelodeon
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/155/index.m3u8?k=1773194299p04i71i741i502Sc1e043cab6ceac7ee9d77155344f1492
+
+#EXTINF:-1 tvg-name="Солнце" group-title="Детские",Солнце
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/154/index.m3u8?k=1773194303p04i71i741i502Sbe1fc8804d1bdbfca90b2a168b3a85b2
+
+#EXTINF:-1 tvg-name="Nick Jr" group-title="Детские",Nick Jr
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/ohCJzARJ2x0TEhAuCkzYlw/210/1773194309/index.m3u8
 

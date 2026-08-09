@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Russia
-# Каналов: 44
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 39
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Россия 1" group-title="Russia",Россия 1
@@ -33,12 +33,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming102.interskyt
 
 #EXTINF:-1 tvg-name="ОТР Ⓢ" group-title="Russia",ОТР Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/12.m3u8
-
-#EXTINF:-1 tvg-name="Рен ТВ Ⓢ" group-title="Russia",Рен ТВ Ⓢ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/14.m3u8
-
-#EXTINF:-1 tvg-name="Спас Ⓢ" group-title="Russia",Спас Ⓢ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/spas.mediacdn.ru/cdn/spas/playlist.m3u8
 
 #EXTINF:-1 tvg-name="СТС Ⓢ" group-title="Russia",СТС Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ott-cdn.ucom.am/s52/04.m3u8
@@ -70,12 +64,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/ifra
 #EXTINF:-1 tvg-name="Архыз 24" group-title="Russia",Архыз 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-name="Башкортостан 24" group-title="Russia",Башкортостан 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-name="Запад 24" group-title="Russia",Запад 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
-
 #EXTINF:-1 tvg-name="Катунь 24 Ⓞ" group-title="Russia",Катунь 24 Ⓞ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ok.ru/video/1166706155179
 
@@ -90,9 +78,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/ifra
 
 #EXTINF:-1 tvg-name="Самара 24" group-title="Russia",Самара 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Сибирь 24" group-title="Russia",Сибирь 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Тольятти 24" group-title="Russia",Тольятти 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvtogliatti24.ru/hls/live1080/index.m3u8

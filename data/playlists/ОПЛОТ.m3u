@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: ОПЛОТ
-# Каналов: 20
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 17
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="НТС Севастополь" group-title="ОПЛОТ",НТС Севастополь
@@ -42,15 +42,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/radm.mediacdn.ru/cdn/r
 
 #EXTINF:-1 tvg-name="Муз Союз" group-title="ОПЛОТ",Муз Союз
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ЕГЭ ТВ" group-title="ОПЛОТ",ЕГЭ ТВ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="UNIVER" group-title="ОПЛОТ",UNIVER
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Просвещение" group-title="ОПЛОТ",Просвещение
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-name="НТС" group-title="ОПЛОТ",НТС
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/region/CH_NTSHD_SVTPL.m3u8

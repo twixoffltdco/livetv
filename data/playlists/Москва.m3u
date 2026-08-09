@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Москва
-# Каналов: 13
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 11
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Москва)" group-title="Москва",Первый (Москва)
@@ -42,10 +42,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-mos-htlive.cdn.ngen
 
 #EXTINF:-1 tvg-name="СТС Love (Москва)" group-title="Москва",СТС Love (Москва)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STSLOVE/variant.m3u8
-
-#EXTINF:-1 tvg-name="Москва Доверие (Москва)" group-title="Москва",Москва Доверие (Москва)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-
-#EXTINF:-1 tvg-name="Москва 24 (Москва)" group-title="Москва",Москва 24 (Москва)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 

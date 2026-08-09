@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Documentary
 # Каналов: 1
-# Обновлено: 2026-08-09 21:58:14
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Turbo" group-title="Auto;Documentary",Pluto TV Turbo
@@ -31,9 +31,9 @@ http://31.148.48.15/Terra_HD/index.m3u8
 http://tmptv.sunduk.tv/CH133/index.m3u8
 #EXTINF:-1 tvg-name="viju Nature (576p)" group-title="Documentary",viju Nature (576p)
 http://tmptv.sunduk.tv/CH203/index.m3u8
-#EXTINF:-1 tvg-name="История (576p)" group-title="Documentary",История (576p)
+#EXTINF:-1 tvg-name="История" group-title="Documentary",История
 http://31.148.48.15/Istoriya/index.m3u8
-#EXTINF:-1 tvg-name="Нано ТВ (576p)" group-title="Documentary",Нано ТВ (576p)
+#EXTINF:-1 tvg-name="Нано ТВ" group-title="Documentary",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-name="НАУКА" group-title="Documentary",НАУКА
 http://31.148.48.15/Nauka_2.0/index.m3u8
@@ -357,6 +357,8 @@ https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
 https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
 #EXTINF:-1 tvg-name="wedotv Auta (480p)" group-title="Auto",wedotv Auta (480p)
 https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8
+#EXTINF:-1 tvg-name="viju History" group-title="Documentary",viju History
+http://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Atlas (480p)" group-title="Documentary",Atlas (480p)
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-Weapon & Technology" group-title="Documentary",CCTV-Weapon & Technology
@@ -471,3 +473,9 @@ https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg0073
 http://starcius-cinema.com/11586/index.m3u8
 #EXTINF:-1 tvg-name="BBC Earth Asia" group-title="Documentary",BBC Earth Asia
 https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8
+#EXTINF:-1 tvg-name="RTД" group-title="Documentary",RTД
+https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Mobile/15E148",Арсенал (480p)" group-title="Documentary",like Gecko) Mobile/15E148",Арсенал (480p)
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 tvg-name="Наука 2.0" group-title="Documentary",Наука 2.0
+http://stream01.vnet.am/Nauka/mono.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Чебоксары
-# Каналов: 21
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 19
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Чебоксары)" group-title="Чебоксары",Первый (Чебоксары)
@@ -66,10 +66,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-chr-htlive.cdn.
 
 #EXTINF:-1 tvg-name="ТНВ Планета (Чебоксары)" group-title="Чебоксары",ТНВ Планета (Чебоксары)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
-
-#EXTINF:-1 tvg-name="ЮТВ (Чебоксары)" group-title="Чебоксары",ЮТВ (Чебоксары)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
-
-#EXTINF:-1 tvg-name="НТРК (Чувашия)" group-title="Чебоксары",НТРК (Чувашия)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 

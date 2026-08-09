@@ -1,0 +1,48 @@
+#EXTM3U
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Общенациональные
+# Каналов: 12
+# Обновлено: 2026-08-09 22:24:11
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Первый канал" group-title="Общенациональные",Первый канал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/540/index.m3u8?k=1770172164p502i89i921i19S7d4c958f47a059f7f7b502cfba827af1
+
+#EXTINF:-1 tvg-name="Россия 1" group-title="Общенациональные",Россия 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/544/index.m3u8?k=1770172181p502i89i921i19S8bc480b7b6654e59073ca5325323fae6
+
+#EXTINF:-1 tvg-name="НТВ" group-title="Общенациональные",НТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/537/index.m3u8?k=1770172199p502i89i921i19S20414f5ce0f3cd9a7f2f75f9493de4a2
+
+#EXTINF:-1 tvg-name="Рен ТВ" group-title="Общенациональные",Рен ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/543/index.m3u8?k=1770172213p502i89i921i19Sc5d4dab0fa8769688fd07b41a44d7f90
+
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Общенациональные",ТВЦ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/548/index.m3u8?k=1770172226p502i89i921i19S96616d08a3424bad399784fcb6337e9b
+
+#EXTINF:-1 tvg-name="Пятый канал" group-title="Общенациональные",Пятый канал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/524/index.m3u8?k=1770172243p502i89i921i19S1e8cdc874674d065cf47ef5e475ac02f
+
+#EXTINF:-1 tvg-name="Звезда" group-title="Общенациональные",Звезда
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/125/index.m3u8?k=1770172256p502i89i921i19Sce4049450852ba558b44b0061ec17da2
+
+#EXTINF:-1 tvg-name="Домашний" group-title="Общенациональные",Домашний
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/561/index.m3u8?k=1770172270p502i89i921i19Sef0820c11c462bc12794b0830f6bba68
+
+#EXTINF:-1 tvg-name="Че" group-title="Общенациональные",Че
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/526/index.m3u8?k=1770172283p502i89i921i19Sd85635da8e50176926b917112d137e51
+
+#EXTINF:-1 tvg-name="Крым 1" group-title="Общенациональные",Крым 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/533/index.m3u8?k=1770172298p502i89i921i19S053928024bfe512b0f4f741ec30bfdab
+
+#EXTINF:-1 tvg-name="9 канал Израиль" group-title="Общенациональные",9 канал Израиль
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/185/index.m3u8?k=1770172312p502i89i921i19Sac3831eff4c0c4dbf6133a75ac6bc3a4
+
+#EXTINF:-1 tvg-name="360" group-title="Общенациональные",360
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ontivi.net/523/index.m3u8?k=1770172324p502i89i921i19S1a0fbcf89a03ed92db0e98e60dca6b4b
+

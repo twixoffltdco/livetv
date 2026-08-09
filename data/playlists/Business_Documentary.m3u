@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;Documentary
 # Каналов: 3
-# Обновлено: 2026-08-09 21:58:14
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Bloomberg Originals" group-title="Business;Documentary",Bloomberg Originals
@@ -35,7 +35,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/index.m3u8?ads.xumo_chan
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-name="Yahoo! Finance" group-title="Business",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="CNBC Europe" group-title="Business",CNBC Europe
+#EXTINF:-1 tvg-name="CNBC Europe/World [Geo-blocked]" group-title="Business",CNBC Europe/World [Geo-blocked]
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBC Indonesia" group-title="Business",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
@@ -59,9 +59,9 @@ http://31.148.48.15/Terra_HD/index.m3u8
 http://tmptv.sunduk.tv/CH133/index.m3u8
 #EXTINF:-1 tvg-name="viju Nature (576p)" group-title="Documentary",viju Nature (576p)
 http://tmptv.sunduk.tv/CH203/index.m3u8
-#EXTINF:-1 tvg-name="История (576p)" group-title="Documentary",История (576p)
+#EXTINF:-1 tvg-name="История" group-title="Documentary",История
 http://31.148.48.15/Istoriya/index.m3u8
-#EXTINF:-1 tvg-name="Нано ТВ (576p)" group-title="Documentary",Нано ТВ (576p)
+#EXTINF:-1 tvg-name="Нано ТВ" group-title="Documentary",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-name="НАУКА" group-title="Documentary",НАУКА
 http://31.148.48.15/Nauka_2.0/index.m3u8
@@ -471,6 +471,10 @@ https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
 https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
 #EXTINF:-1 tvg-name="Smithsonian Channel Selects" group-title="Documentary",Smithsonian Channel Selects
 https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+#EXTINF:-1 tvg-name="РБК-ТВ" group-title="Business",РБК-ТВ
+http://online-video.rbc.ru/online2/rbctv.m3u8
+#EXTINF:-1 tvg-name="viju History" group-title="Documentary",viju History
+http://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Atlas (480p)" group-title="Documentary",Atlas (480p)
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-Weapon & Technology" group-title="Documentary",CCTV-Weapon & Technology
@@ -587,3 +591,9 @@ https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 http://starcius-cinema.com/11586/index.m3u8
 #EXTINF:-1 tvg-name="BBC Earth Asia" group-title="Documentary",BBC Earth Asia
 https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8
+#EXTINF:-1 tvg-name="RTД" group-title="Documentary",RTД
+https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Mobile/15E148",Арсенал (480p)" group-title="Documentary",like Gecko) Mobile/15E148",Арсенал (480p)
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 tvg-name="Наука 2.0" group-title="Documentary",Наука 2.0
+http://stream01.vnet.am/Nauka/mono.m3u8

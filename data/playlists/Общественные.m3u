@@ -1,0 +1,90 @@
+#EXTM3U
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Общественные
+# Каналов: 26
+# Обновлено: 2026-08-09 22:24:11
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Первый канал" group-title="Общественные",Первый канал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/540/index.m3u8?k=1773195232p04i71i741i502S4cd14029c0c8e19b4924d57562229e33
+
+#EXTINF:-1 tvg-name="Россия 1" group-title="Общественные",Россия 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/544/index.m3u8?k=1773194314p04i71i741i502Sbc1ff7aaf8857a66a6d599feee96eea8
+
+#EXTINF:-1 tvg-name="НТВ" group-title="Общественные",НТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/537/index.m3u8?k=1773194318p04i71i741i502S94081c4f03b42851c31dfcf2e0c1c243
+
+#EXTINF:-1 tvg-name="Рен ТВ" group-title="Общественные",Рен ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/A7WCNncmaIr-o5-h_snFZQ/543/1773194324/index.m3u8
+
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Общественные",ТВЦ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/548/index.m3u8?k=1773194326p04i71i741i502Sf496bfaace536adc6af41fb2f683ba26
+
+#EXTINF:-1 tvg-name="Домашний" group-title="Общественные",Домашний
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/561/index.m3u8?k=1773194329p04i71i741i502S8e103c032e3e0ea0c12d9a2b543dfa8b
+
+#EXTINF:-1 tvg-name="Пятый канал" group-title="Общественные",Пятый канал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/524/index.m3u8?k=1773194333p04i71i741i502S900ac722b97cf940efe3a923f4b49eb6
+
+#EXTINF:-1 tvg-name="Россия К" group-title="Общественные",Россия К
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/579/index.m3u8?k=1773194337p04i71i741i502Sd51c94e0329c7d535fc6e4463fea91e3
+
+#EXTINF:-1 tvg-name="360 Подмосковье" group-title="Общественные",360 Подмосковье
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/523/index.m3u8?k=1773194341p04i71i741i502S756082c269154ff410a015248335ef16
+
+#EXTINF:-1 tvg-name="Крым 1" group-title="Общественные",Крым 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/533/index.m3u8?k=1773194345p04i71i741i502S8ecb7de50c9609456b1440c67e0103f6
+
+#EXTINF:-1 tvg-name="РТР Планета" group-title="Общественные",РТР Планета
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me//index.m3u8?k=1773194349p04i71i741i502Sf53035bd00e8ebcaaaf9950028a9359f
+
+#EXTINF:-1 tvg-name="Мир ТВ" group-title="Общественные",Мир ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/587/index.m3u8?k=1773194352p04i71i741i502S32626d8e8ca44f9b8a5b290b16501f2f
+
+#EXTINF:-1 tvg-name="Звезда" group-title="Общественные",Звезда
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/i3uxqbr8fIw7kv2yW9gcVg/125/1773194358/index.m3u8
+
+#EXTINF:-1 tvg-name="Первый канал" group-title="Общественные",Первый канал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/540/index.m3u8?k=1773194360p04i71i741i502Sb93dca39a16b118bb736412ea6000176
+
+#EXTINF:-1 tvg-name="Россия 1" group-title="Общественные",Россия 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/544/index.m3u8?k=1773194364p04i71i741i502S8cb73de8d9102d2148139a4b72f1dd23
+
+#EXTINF:-1 tvg-name="НТВ" group-title="Общественные",НТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/537/index.m3u8?k=1773194367p04i71i741i502Sb653b0348204317bd1a90bd71d47b2c9
+
+#EXTINF:-1 tvg-name="Рен ТВ" group-title="Общественные",Рен ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/543/index.m3u8?k=1773194371p04i71i741i502Sef1056ef96cb32de0b788f65ccb5aa55
+
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Общественные",ТВЦ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/548/index.m3u8?k=1773194375p04i71i741i502S6f90df8c00893bb1629b41e741abea2c
+
+#EXTINF:-1 tvg-name="Домашний" group-title="Общественные",Домашний
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/561/index.m3u8?k=1773194379p04i71i741i502Sb4d258c4536d9f64a938538f59c9e294
+
+#EXTINF:-1 tvg-name="Пятый канал" group-title="Общественные",Пятый канал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/_H4Si2Hk8ouUC2vTHVHpLQ/524/1773194385/index.m3u8
+
+#EXTINF:-1 tvg-name="Россия К" group-title="Общественные",Россия К
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/579/index.m3u8?k=1773194386p04i71i741i502S350e09b9205fe99427fe75b07b51d9a2
+
+#EXTINF:-1 tvg-name="360 Подмосковье" group-title="Общественные",360 Подмосковье
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/523/index.m3u8?k=1773194390p04i71i741i502S56761a20889b56f8ce55d7662c845e64
+
+#EXTINF:-1 tvg-name="Крым 1" group-title="Общественные",Крым 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/533/index.m3u8?k=1773194394p04i71i741i502S7a26c2f06ea87a73ca3e922b2578c0e2
+
+#EXTINF:-1 tvg-name="РТР Планета" group-title="Общественные",РТР Планета
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me//index.m3u8?k=1773194398p04i71i741i502Sa8898033bb3435e8726cf15b30ec300b
+
+#EXTINF:-1 tvg-name="Мир ТВ" group-title="Общественные",Мир ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/587/index.m3u8?k=1773194402p04i71i741i502Sb917e4172f366d49ce4f3a44d13b54d7
+
+#EXTINF:-1 tvg-name="Звезда" group-title="Общественные",Звезда
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/125/index.m3u8?k=1773194406p04i71i741i502S749e29a779da9ffbe3ec2c05d388f332
+

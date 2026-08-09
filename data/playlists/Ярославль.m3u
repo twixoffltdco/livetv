@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Ярославль
-# Каналов: 39
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 38
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Ярославль)" group-title="Ярославль",Первый (Ярославль)
@@ -120,9 +120,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.
 
 #EXTINF:-1 tvg-name="Пятница! (Рыбинск)" group-title="Ярославль",Пятница! (Рыбинск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_RYB/variant.m3u8
-
-#EXTINF:-1 tvg-name="Рыбинск-40 (Рыбинск)" group-title="Ярославль",Рыбинск-40 (Рыбинск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 
 #EXTINF:-1 tvg-name="Городской телеканал (Ярославль)" group-title="Ярославль",Городской телеканал (Ярославль)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_GTREG/variant.m3u8

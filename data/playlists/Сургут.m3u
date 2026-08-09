@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Сургут
-# Каналов: 36
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 29
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Че! (Сургут)" group-title="Сургут",Че! (Сургут)
@@ -58,9 +58,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn
 #EXTINF:-1 tvg-name="ТНТ (Сургут)" group-title="Сургут",ТНТ (Сургут)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNT_URAL_SUR/variant.m3u8
 
-#EXTINF:-1 tvg-name="Первый Советский (Советский)" group-title="Сургут",Первый Советский (Советский)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
-
 #EXTINF:-1 tvg-name="Ю (Сургут)" group-title="Сургут",Ю (Сургут)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 
@@ -88,33 +85,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn
 #EXTINF:-1 tvg-name="С86 (Сургут)" group-title="Сургут",С86 (Сургут)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKANAL86/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТНР24 (Нижневартовск)" group-title="Сургут",ТНР24 (Нижневартовск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
-
 #EXTINF:-1 tvg-name="Юганск (Нефтеюганск)" group-title="Сургут",Юганск (Нефтеюганск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
 
 #EXTINF:-1 tvg-name="Самотлор (Нижневартовск)" group-title="Сургут",Самотлор (Нижневартовск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
 
-#EXTINF:-1 tvg-name="С1 (ХМАО-Югра)" group-title="Сургут",С1 (ХМАО-Югра)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
-
-#EXTINF:-1 tvg-name="Наши города (ХМАО-Югра)" group-title="Сургут",Наши города (ХМАО-Югра)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
-
 #EXTINF:-1 tvg-name="Няганский Телеканал (Нягань)" group-title="Сургут",Няганский Телеканал (Нягань)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NYAGANTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пыть-Яхинформ (Пыть-Ях)" group-title="Сургут",Пыть-Яхинформ (Пыть-Ях)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_PYT-YAHINFORM/variant.m3u8
-
-#EXTINF:-1 tvg-name="Новое Время (Радужный)" group-title="Сургут",Новое Время (Радужный)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
-
-#EXTINF:-1 tvg-name="Ugra Travel (ХМАО-Югра)" group-title="Сургут",Ugra Travel (ХМАО-Югра)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="Югра (ХМАО-Югра)" group-title="Сургут",Югра (ХМАО-Югра)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
 

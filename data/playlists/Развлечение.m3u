@@ -1,0 +1,30 @@
+#EXTM3U
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Развлечение
+# Каналов: 6
+# Обновлено: 2026-08-09 22:24:11
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="ТНТ" group-title="Развлечение",ТНТ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/547/index.m3u8?k=1773194191p04i71i741i502S5258843abd4204a251e96a87a59eeb03
+
+#EXTINF:-1 tvg-name="СТС" group-title="Развлечение",СТС
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/591/index.m3u8?k=1773194195p04i71i741i502S7168cd8d5e60e8565edf4316753a0f06
+
+#EXTINF:-1 tvg-name="ТНТ4" group-title="Развлечение",ТНТ4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/105/index.m3u8?k=1773194199p04i71i741i502S81f714a77b8f314317a38546ddbb9f61
+
+#EXTINF:-1 tvg-name="Ю ТВ" group-title="Развлечение",Ю ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/107/index.m3u8?k=1773194202p04i71i741i502S38df9f4243b41e90135ba1cbf8867363
+
+#EXTINF:-1 tvg-name="Че ТВ" group-title="Развлечение",Че ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/526/index.m3u8?k=1773194206p04i71i741i502Sde1d71c1fff555d034ad72c578f3bbfd
+
+#EXTINF:-1 tvg-name="СТС Love" group-title="Развлечение",СТС Love
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/123/index.m3u8?k=1773194210p04i71i741i502S89bebc305d7312e9b6576c2d8ece41b2
+

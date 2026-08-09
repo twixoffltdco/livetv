@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News
 # Каналов: 12
-# Обновлено: 2026-08-09 21:58:14
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Vergina TV" group-title="Entertainment;News",Vergina TV
@@ -114,6 +114,8 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-name="Крым 24" group-title="News",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 tvg-name="360° Новости" group-title="News",360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Ekhbariya" group-title="News",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-name="3CatInfo" group-title="News;Public",3CatInfo
@@ -130,6 +132,8 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Mobile/15E148",BBC World News (480p)" group-title="News",like Gecko) Mobile/15E148",BBC World News (480p)
+http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-name="GIT" group-title="News",GIT
 https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-name="Тернопіль 1" group-title="News",Тернопіль 1
@@ -256,8 +260,6 @@ https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-name="DW Russian" group-title="News",DW Russian
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
-#EXTINF:-1 tvg-name="ETV+" group-title="Entertainment",ETV+
-https://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-name="2GB Sydney" group-title="News",2GB Sydney
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-name="3AW Melbourne" group-title="News",3AW Melbourne
@@ -313,7 +315,7 @@ https://vdo.digitalbox.xyz:3807/stream/play.m3u8
 #EXTINF:-1 tvg-name="AA Live" group-title="News",AA Live
 https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Aaj Tak" group-title="News",Aaj Tak
-http://103.213.31.109:90/AajtakHD/playlist.m3u8
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-name="Abante TV" group-title="News",Abante TV
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC 2 Baltimore MD (WMAR)" group-title="News",ABC 2 Baltimore MD (WMAR)
@@ -354,7 +356,7 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="NSC+" group-title="Entertainment",NSC+
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
-#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+#EXTINF:-1 tvg-name="Pro100TV" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="U" group-title="Entertainment",U
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https
@@ -372,13 +374,13 @@ http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-name="Миллет" group-title="News",Миллет
 https://live1.1tvcrimea.ru/milletlive.m3u8
-#EXTINF:-1 tvg-name="Мир 24" group-title="News",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="МТВ (Волгоград)" group-title="Entertainment",МТВ (Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="ОТВ Приморье" group-title="Entertainment",ОТВ Приморье
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Первый Республиканский" group-title="News",Первый Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
-#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
+#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment",Поехали!
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="Пятница! (576p)" group-title="Entertainment",Пятница! (576p)
 https://vod.tuva.ru/friday/index.m3u8
@@ -390,9 +392,9 @@ https://video.govoritmoskva.ru/rufm/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% Праздник" group-title="Entertainment",Смотрим 100% Праздник
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
-#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
+#EXTINF:-1 tvg-name="Sochi 24" group-title="General;News",Sochi 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Твое TV" group-title="Entertainment",Твое TV
+#EXTINF:-1 tvg-name="Tvoe TV" group-title="Entertainment",Tvoe TV
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-name="ТНТ4 (576p)" group-title="Entertainment",ТНТ4 (576p)
 http://31.148.48.15/TNT4/index.m3u8
@@ -2952,8 +2954,6 @@ https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6j
 https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-1 tvg-name="YES" group-title="News",YES
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
-#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
-https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-name="247 Box TV" group-title="Entertainment",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="A-Plus TV (576p)" group-title="Entertainment",A-Plus TV (576p)
@@ -3550,8 +3550,6 @@ https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
 https://vdochile.com:3194/live/mvqutymylive.m3u8
 #EXTINF:-1 tvg-name="Opinionsur" group-title="News",Opinionsur
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
-#EXTINF:-1 tvg-name="Настоящее Время" group-title="News",Настоящее Время
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-name="TV-3 (576p)" group-title="Entertainment",TV-3 (576p)
 http://178.124.179.122:8080/TB-3/index.m3u8
 #EXTINF:-1 tvg-name="Pear TV (576p)" group-title="Entertainment",Pear TV (576p)
@@ -3566,8 +3564,6 @@ https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="PBO" group-title="News",PBO
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr." group-title="Entertainment;Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr.
-http://86.87.15.10:8003/play/a01x/index.m3u8
 #EXTINF:-1 tvg-name="BET Her" group-title="Entertainment",BET Her
 http://41.205.93.154/BETHER/index.m3u8
 #EXTINF:-1 tvg-name="GetTV" group-title="Entertainment",GetTV
@@ -4150,6 +4146,10 @@ http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 https://cdn.rabta.stream/M-News/index.m3u8
 #EXTINF:-1 tvg-name="Ma'an TV" group-title="News",Ma'an TV
 https://htvmada.mada.ps:4443/maannews/index.m3u8
+#EXTINF:-1 tvg-name="Миллет (540p)" group-title="News",Миллет (540p)
+https://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 tvg-name="Ратник [Geo-blocked]" group-title="Entertainment",Ратник [Geo-blocked]
+https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="News24" group-title="News",News24
 https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 #EXTINF:-1 tvg-name="Lifetime Asia" group-title="Entertainment",Lifetime Asia
@@ -4194,3 +4194,27 @@ https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 https://live.ekamraott.com/bharat/bharat/index.m3u8
 #EXTINF:-1 tvg-name="One Paschima (400p)" group-title="Entertainment",One Paschima (400p)
 https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
+#EXTINF:-1 tvg-name="7 TV" group-title="Entertainment",7 TV
+http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="9 Волна (Черкесск)" group-title="Entertainment",9 Волна (Черкесск)
+http://cdn-01.bonus-tv.ru/9volna/playlist.m3u8
+#EXTINF:-1 tvg-name="24 Horas Internacional [Geo-blocked]" group-title="News",24 Horas Internacional [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-name="Индия" group-title="Entertainment",Индия
+https://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1 tvg-name="Пятница" group-title="Entertainment",Пятница
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:-1 tvg-name="Пятница International" group-title="Entertainment",Пятница International
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1 tvg-name="Россия 24" group-title="News",Россия 24
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+#EXTINF:-1 tvg-name="ТВ3" group-title="Entertainment",ТВ3
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+#EXTINF:-1 tvg-name="ТНТ" group-title="Entertainment",ТНТ
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Mobile/15E148",ТНТ4 (480p)" group-title="Entertainment",like Gecko) Mobile/15E148",ТНТ4 (480p)
+http://ott-cdn.ucom.am/s100/index.m3u8
+#EXTINF:-1 tvg-name="Че!" group-title="Entertainment",Че!
+http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
+#EXTINF:-1 tvg-name="Ю" group-title="Entertainment",Ю
+https://cdn-01.bonus-tv.ru/u/playlist.m3u8

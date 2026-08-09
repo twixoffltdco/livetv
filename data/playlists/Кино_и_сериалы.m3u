@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Кино и сериалы
 # Каналов: 45
-# Обновлено: 2026-08-09 21:58:14
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="VIP PREMIERE" group-title="Кино и сериалы",VIP PREMIERE
@@ -145,3 +145,55 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-03.ott.tric
 #EXTINF:-1 tvg-name="KION Хит" group-title="Кино и сериалы",KION Хит
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-16.ott.tricolor.tv/dtv/id982_MSKSG-PVR-1--KIONHIT/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OG
 
+#EXTINF:-1 tvg-name="Перец" group-title="кино",Перец
+https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
+#EXTINF:-1 tvg-name="Кино ТВ" group-title="кино",Кино ТВ
+http://cdn.lamro.tv/KinoTVHD/mono.m3u8
+#EXTINF:-1 tvg-name="Plevako 10" group-title="кино",Plevako 10
+https://cdn4574.entouaedon.com/stream2/b-401/2b926bc418116254599a37486b368b45/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lFVspWTqF1dORVR31ERJd3TUpFbaRVV0kFVVpXW6RGaOpWT3l1VVRTWXVVP:1752789410:212.231.121.4:9834f03dc86e7652564e4cad6a9a83fa4d84c1de92daf0ceddc2b936a1d88581/index.m3u8
+#EXTINF:-1 tvg-name="Смотрим" group-title="кино",Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="Мосфильм. Золотая коллекция" group-title="кино",Мосфильм. Золотая коллекция
+https://s.ontivi.net/235/index.m3u8?k=1745695944p4i121i132i212S5d096f8a1e33f285d157e353225286de
+#EXTINF:-1 tvg-name="amedia-1" group-title="кино",amedia-1
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:-1 tvg-name="amedia-2" group-title="кино",amedia-2
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:-1 tvg-name="amedia-premium" group-title="кино",amedia-premium
+https://edge03-alm.beetv.kz/bpk-token/3an@fv0jadulkhbmq0grdn5stvtagyjvocyaf3jma4ca/bpk-tv/000000709/tve/000000709-audio_82882_rus=82400-video=3712400.m3u8
+#EXTINF:-1 tvg-name="Иллюзион+" group-title="Кино",Иллюзион+
+https://s.pokaz.me/130/index.m3u8?k=1773194072p04i71i741i502Sd96f1f0d75849e8b635fc7c02cc1b17f
+#EXTINF:-1 tvg-name="Мир сериала" group-title="Кино",Мир сериала
+https://s.pokaz.me/589/index.m3u8?k=1773194082p04i71i741i502S1d22feb143915d519a89fa318a635c71
+#EXTINF:-1 tvg-name="Дом кино" group-title="Кино",Дом кино
+https://s.pokaz.me/QV3CqQYUxOPuEUtLWq4yHg/186/1773194088/index.m3u8
+#EXTINF:-1 tvg-name="НТВ Хит" group-title="Кино",НТВ Хит
+https://s.pokaz.me/508/index.m3u8?k=1773194091p04i71i741i502Se83bf87e75d67f26b6b3cf25fe364158
+#EXTINF:-1 tvg-name="НТВ Сериал" group-title="Кино",НТВ Сериал
+https://s.pokaz.me/509/index.m3u8?k=1773194095p04i71i741i502Sdd777fe67fb722ca8e6076c35072e159
+#EXTINF:-1 tvg-name="Hollywood" group-title="Кино",Hollywood
+https://s.pokaz.me/507/index.m3u8?k=1773194098p04i71i741i502Sb662096a243f8714979909a1555e6a74
+#EXTINF:-1 tvg-name="Шокирующее" group-title="Кино",Шокирующее
+https://s.pokaz.me/169/index.m3u8?k=1773194102p04i71i741i502Sd59f3e67de67d91173044855d9be625e
+#EXTINF:-1 tvg-name="Дорама" group-title="Кино",Дорама
+https://s.pokaz.me/562/index.m3u8?k=1773194106p04i71i741i502S6813100a0b4b3c0d0a8abd44b535ee61
+#EXTINF:-1 tvg-name="Любимое Кино" group-title="Кино",Любимое Кино
+https://s.pokaz.me/534/index.m3u8?k=1773194109p04i71i741i502S50f1a1cb5e2e1bcae96ba15c0ee1f235
+#EXTINF:-1 tvg-name="Русский бестселлер" group-title="Кино",Русский бестселлер
+https://s.pokaz.me/135/index.m3u8?k=1773194113p04i71i741i502S6581d078ebaa65f90276daea028a3bb3
+#EXTINF:-1 tvg-name="Sci-Fi" group-title="Кино",Sci-Fi
+https://s.pokaz.me/145/index.m3u8?k=1773194116p04i71i741i502Sc0b293231f57bc0ae2e36b905730b7f3
+#EXTINF:-1 tvg-name="Русский иллюзион" group-title="Кино",Русский иллюзион
+https://s.pokaz.me/131/index.m3u8?k=1773194120p04i71i741i502S4f6427b484cf6fdbf8930263da5216e7
+#EXTINF:-1 tvg-name="Наше крутое" group-title="Кино",Наше крутое
+https://s.pokaz.me/171/index.m3u8?k=1773194123p04i71i741i502S9c810c661efcfee7090bde6903d18d52
+#EXTINF:-1 tvg-name="ЕвроКино" group-title="Кино",ЕвроКино
+https://s.pokaz.me/126/index.m3u8?k=1773194126p04i71i741i502S43957cde247ce6ce332b162e0bf7f15d
+#EXTINF:-1 tvg-name="Дом кино Премиум" group-title="Кино",Дом кино Премиум
+https://s.pokaz.me/187/index.m3u8?k=1773194129p04i71i741i502S28e092d48f3454d8a72d995b970022c0
+#EXTINF:-1 tvg-name="Fox live" group-title="Кино",Fox live
+https://s.pokaz.me/568/index.m3u8?k=1773194133p04i71i741i502S5a4f66cef5929e141c4dc7345ede4bcd
+#EXTINF:-1 tvg-name="Остросюжетное" group-title="Кино",Остросюжетное
+https://s.pokaz.me/578/index.m3u8?k=1773194136p04i71i741i502Sd45698c5d0c45317c5ea00efc91d9e33
+#EXTINF:-1 tvg-name="Bollywood" group-title="Кино",Bollywood
+https://s.pokaz.me/184/index.m3u8?k=1773194139p04i71i741i502S1c08f2ae8c591ae821eda973cc501382

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Музыкальные
 # Каналов: 7
-# Обновлено: 2026-08-09 21:58:14
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RU.TV" group-title="Музыкальные",RU.TV
@@ -31,3 +31,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls
 #EXTINF:-1 tvg-name="OneBY" group-title="Музыкальные",OneBY
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtmp.one.by:2200
 
+#EXTINF:-1 tvg-name="МСМ ТОР" group-title="Музыка",МСМ ТОР
+https://s.pokaz.me/535/index.m3u8?k=1773194143p04i71i741i502S5221c0fa2e4b1d4ed62dcab794532f30
+#EXTINF:-1 tvg-name="Шансон ТВ" group-title="Музыка",Шансон ТВ
+https://s.pokaz.me/165/index.m3u8?k=1773194147p04i71i741i502S70281fdb09bceb7b59b1b6d0512e08c7
+#EXTINF:-1 tvg-name="VH1 Classik" group-title="Музыка",VH1 Classik
+https://s.pokaz.me/174/index.m3u8?k=1773194151p04i71i741i502Se08fd16bcd056f6bc5c17c601a6b6366
+#EXTINF:-1 tvg-name="Муз ТВ" group-title="Музыка",Муз ТВ
+https://s.pokaz.me/163/index.m3u8?k=1773194159p04i71i741i502S206dba009c87d736093fb23dc5ea9630
+#EXTINF:-1 tvg-name="MTV Hits" group-title="Музыка",MTV Hits
+https://s.pokaz.me/204/index.m3u8?k=1773194162p04i71i741i502Se1e40f4ac83de7680f6c7cf5faf481e7
+#EXTINF:-1 tvg-name="VH1 Europe" group-title="Музыка",VH1 Europe
+https://s.pokaz.me/175/index.m3u8?k=1773194168p04i71i741i502Se30e1109f6fb7c3b223597caa1ef9079

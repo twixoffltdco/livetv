@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;News
 # Каналов: 9
-# Обновлено: 2026-08-09 21:58:14
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="Business;News",like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -87,6 +87,8 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-name="Крым 24" group-title="News",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 tvg-name="360° Новости" group-title="News",360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Ekhbariya" group-title="News",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-name="Negocios TV" group-title="Business",Negocios TV
@@ -107,6 +109,8 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV Europe" group-title="Business",Bloomberg TV Europe
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Mobile/15E148",BBC World News (480p)" group-title="News",like Gecko) Mobile/15E148",BBC World News (480p)
+http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-name="GIT" group-title="News",GIT
 https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-name="Тернопіль 1" group-title="News",Тернопіль 1
@@ -209,7 +213,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/index.m3u8?ads.xumo_chan
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-name="Yahoo! Finance" group-title="Business",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="CNBC Europe" group-title="Business",CNBC Europe
+#EXTINF:-1 tvg-name="CNBC Europe/World [Geo-blocked]" group-title="Business",CNBC Europe/World [Geo-blocked]
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBC Indonesia" group-title="Business",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
@@ -294,7 +298,7 @@ https://vdo.digitalbox.xyz:3807/stream/play.m3u8
 #EXTINF:-1 tvg-name="AA Live" group-title="News",AA Live
 https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Aaj Tak" group-title="News",Aaj Tak
-http://103.213.31.109:90/AajtakHD/playlist.m3u8
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-name="Abante TV" group-title="News",Abante TV
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC 2 Baltimore MD (WMAR)" group-title="News",ABC 2 Baltimore MD (WMAR)
@@ -341,15 +345,13 @@ http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-name="Миллет" group-title="News",Миллет
 https://live1.1tvcrimea.ru/milletlive.m3u8
-#EXTINF:-1 tvg-name="Мир 24" group-title="News",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-name="Первый Республиканский" group-title="News",Первый Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 tvg-name="Радио Говорит Москва (Веб-камера)" group-title="News",Радио Говорит Москва (Веб-камера)
 https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 tvg-name="Россия 24 (Хабаровск)" group-title="News",Россия 24 (Хабаровск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
-#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
+#EXTINF:-1 tvg-name="Sochi 24" group-title="General;News",Sochi 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Толк" group-title="News",Толк
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
@@ -2091,6 +2093,8 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlis
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="RNN DOS" group-title="News",RNN DOS
 https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8
+#EXTINF:-1 tvg-name="РБК-ТВ" group-title="Business",РБК-ТВ
+http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 tvg-name="News 1 India (396p)" group-title="News",News 1 India (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
 #EXTINF:-1 tvg-name="Republic Bharat" group-title="News",Republic Bharat
@@ -2185,8 +2189,6 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:-1 tvg-name="Opinionsur" group-title="News",Opinionsur
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
-#EXTINF:-1 tvg-name="Настоящее Время" group-title="News",Настоящее Время
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-name="Canal I" group-title="News",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-name="CN3 Television" group-title="News",CN3 Television
@@ -2497,6 +2499,8 @@ http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 https://cdn.rabta.stream/M-News/index.m3u8
 #EXTINF:-1 tvg-name="Ma'an TV" group-title="News",Ma'an TV
 https://htvmada.mada.ps:4443/maannews/index.m3u8
+#EXTINF:-1 tvg-name="Миллет (540p)" group-title="News",Миллет (540p)
+https://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 tvg-name="E! Latin America Brazil (432p)" group-title="Entertainment;News",E! Latin America Brazil (432p)
 http://145.239.5.177/111/index.m3u8
 #EXTINF:-1 tvg-name="ET Now [Geo-blocked]" group-title="Business",ET Now [Geo-blocked]
@@ -2521,3 +2525,7 @@ https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 tvg-name="Ekamra Bharat Odia (400p)" group-title="News",Ekamra Bharat Odia (400p)
 https://live.ekamraott.com/bharat/bharat/index.m3u8
+#EXTINF:-1 tvg-name="24 Horas Internacional [Geo-blocked]" group-title="News",24 Horas Internacional [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-name="Россия 24" group-title="News",Россия 24
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8

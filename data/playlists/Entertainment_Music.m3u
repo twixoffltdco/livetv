@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Music
-# Каналов: 6
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 5
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Radio Carnaval TV" group-title="Entertainment;Music",Radio Carnaval TV
@@ -21,9 +21,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live20.bozztv.com/akam
 
 #EXTINF:-1 tvg-name="GO TV" group-title="Entertainment;Music",GO TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.beatfm.nl/live.m3u8
 
 #EXTINF:-1 tvg-name="Global TV" group-title="Entertainment;Music",Global TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen6.aynaott.com/globaltvhd/index.m3u8
@@ -66,8 +63,6 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 tvg-name="NRG 91" group-title="Music",NRG 91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-name="Dance Television" group-title="Music",Dance Television
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-name="Gold TV Sat (576p)" group-title="Entertainment",Gold TV Sat (576p)
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-name="Gold TV (576p)" group-title="Entertainment",Gold TV (576p)
@@ -110,6 +105,10 @@ https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name="Amedia 1" group-title="Music",Amedia 1
+http://31.148.48.15/A1/index.m3u8
+#EXTINF:-1 tvg-name="Bridge" group-title="Music",Bridge
+http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 tvg-name="DTR Music 1" group-title="Music",DTR Music 1
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1 tvg-name="DTR Zona 1" group-title="Entertainment",DTR Zona 1
@@ -118,12 +117,10 @@ https://kino-stream.online/hls/DTRZONA1.m3u8
 https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-name="FON Music" group-title="Music",FON Music
+#EXTINF:-1 tvg-name="ТНТ MUSIC" group-title="Music",ТНТ MUSIC
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="312 ТВ (406p)" group-title="Entertainment",312 ТВ (406p)
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 tvg-name="ETV+" group-title="Entertainment",ETV+
-https://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-name="30A Georgia Hollywood Review TV" group-title="Entertainment;News",30A Georgia Hollywood Review TV
 https://30a-tv.com/gh.m3u8
 #EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV
@@ -136,7 +133,7 @@ http://tmptv.sunduk.tv/CH77/index.m3u8
 http://tmptv.sunduk.tv/CH81/index.m3u8
 #EXTINF:-1 tvg-name="NSC+" group-title="Entertainment",NSC+
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
-#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+#EXTINF:-1 tvg-name="Pro100TV" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="RU.TV" group-title="Music",RU.TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=d-E-bxKy2v3EEJ94RQX9CA&e=2069285076&scheme=https
@@ -152,14 +149,12 @@ http://31.148.48.15/Zhara/index.m3u8
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1 tvg-name="Матур ТВ" group-title="Music",Матур ТВ
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 tvg-name="МТВ (Волгоград)" group-title="Entertainment",МТВ (Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-name="Музыка 1 International" group-title="Music",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-name="Музыка Live (576p)" group-title="Music",Музыка Live (576p)
 http://31.148.48.15/La-Minor_TV/index.m3u8
-#EXTINF:-1 tvg-name="Музыка Кино International" group-title="Music",Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-name="Музыка Первого" group-title="Music",Музыка Первого
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-name="о2тв" group-title="Music",о2тв
@@ -170,7 +165,7 @@ https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-name="Первый Музыкальный Канал Россия" group-title="Music",Первый Музыкальный Канал Россия
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
+#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment",Поехали!
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="Пятница! (576p)" group-title="Entertainment",Пятница! (576p)
 https://vod.tuva.ru/friday/index.m3u8
@@ -194,7 +189,7 @@ https://cityeden.catcast.tv/content/46421/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
 #EXTINF:-1 tvg-name="Страна FM" group-title="Music",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Твое TV" group-title="Entertainment",Твое TV
+#EXTINF:-1 tvg-name="Tvoe TV" group-title="Entertainment",Tvoe TV
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-name="ТНТ4 (576p)" group-title="Entertainment",ТНТ4 (576p)
 http://31.148.48.15/TNT4/index.m3u8
@@ -484,12 +479,8 @@ https://tv2.fastcast4u.com:3943/stream/play.m3u8
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 #EXTINF:-1 tvg-name="XITE Classic Country [Geo-blocked]" group-title="Music",XITE Classic Country [Geo-blocked]
 https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
-#EXTINF:-1 tvg-name="XITE Just Chill" group-title="Music",XITE Just Chill
-https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #EXTINF:-1 tvg-name="XITE Nuevo Latino" group-title="Music",XITE Nuevo Latino
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 tvg-name="XITE Reggae Vibes" group-title="Music",XITE Reggae Vibes
-https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 #EXTINF:-1 tvg-name="XITE Rock x Metal" group-title="Music",XITE Rock x Metal
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 #EXTINF:-1 tvg-name="XITE Siempre Latino" group-title="Music",XITE Siempre Latino
@@ -552,8 +543,6 @@ https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Volksmusik TV" group-title="Music",Volksmusik TV
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-#EXTINF:-1 tvg-name="XITE Hits Germany" group-title="Music",XITE Hits Germany
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
 #EXTINF:-1 tvg-name="Zee One German" group-title="Entertainment",Zee One German
 https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-name="ZWEI2 Music" group-title="Music",ZWEI2 Music
@@ -1388,8 +1377,6 @@ http://158.180.39.89:5033/hayatovci.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
 #EXTINF:-1 tvg-name="Hitz TV" group-title="Music",Hitz TV
 https://streamer2.nexgen.bz/13-HITZ/index.m3u8
-#EXTINF:-1 tvg-name="Hype Visual Radio" group-title="Music",Hype Visual Radio
-https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Island Luck TV" group-title="Entertainment",Island Luck TV
 https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV3 [Geo-Blocked]" group-title="Entertainment",ITV3 [Geo-Blocked]
@@ -2106,8 +2093,6 @@ https://busuioctv.iforward.eu/hls/busuioc.m3u8
 https://mini.allinonereborn.fun/tata.php?id=11588
 #EXTINF:-1 tvg-name="D Music (1280p)" group-title="Music",D Music (1280p)
 http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
-#EXTINF:-1 tvg-name="DeepHouse District" group-title="Music",DeepHouse District
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-name="DM Sat (576p) [Geo-Blocked]" group-title="Music",DM Sat (576p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd
 #EXTINF:-1 tvg-name="DSTV (614p)" group-title="Music",DSTV (614p)
@@ -2118,8 +2103,6 @@ https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 https://ythls.armelin.one/channel/UCXxTnMoETkhNTmsqZc0JMhQ.m3u8
 #EXTINF:-1 tvg-name="Extra TV" group-title="Music",Extra TV
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
-#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="FTV (576p)" group-title="Music",FTV (576p)
 https://stream8.cinerama.uz/1018/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM 24B" group-title="Music",GEM 24B
@@ -2128,8 +2111,6 @@ https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202
 https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-name="GEM Mifa Plus" group-title="Music",GEM Mifa Plus
 https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-name="Gigant FM" group-title="Music",Gigant FM
-https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 #EXTINF:-1 tvg-name="GugakTV 국악방송" group-title="Music",GugakTV 국악방송
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="H!T Music Channel (480p)" group-title="Music",H!T Music Channel (480p)
@@ -2202,16 +2183,12 @@ https://pmcrohls.wns.live/hls/stream.m3u8
 https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g
 #EXTINF:-1 tvg-name="Q-Music (Belgium)" group-title="Music",Q-Music (Belgium)
 https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
-#EXTINF:-1 tvg-name="Qmusic" group-title="Music",Qmusic
-https://stream.qmusic.nl/qmusic/videohls.m3u8
 #EXTINF:-1 tvg-name="Radio Hit FM TV" group-title="Music",Radio Hit FM TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
 #EXTINF:-1 tvg-name="Radio Italia Trend" group-title="Music",Radio Italia Trend
 https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-name="Radio Javan TV" group-title="Music",Radio Javan TV
 https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Radio JND" group-title="Music",Radio JND
-https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Karolina TV" group-title="Music",Radio Karolina TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
 #EXTINF:-1 tvg-name="Radio Lola" group-title="Music",Radio Lola
@@ -2228,8 +2205,6 @@ https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTL Gold" group-title="Music",RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
-#EXTINF:-1 tvg-name="Salto Brasa Music" group-title="Music",Salto Brasa Music
-https://salto-streams.nl/hls/sotv1.m3u8
 #EXTINF:-1 tvg-name="Sky Folk TV" group-title="Music",Sky Folk TV
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-name="Slager Muzika" group-title="Music",Slager Muzika
@@ -2282,8 +2257,6 @@ https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6
 https://vs20.live.opencaster.com/wavezfm1075aruba_37766c9d/index.m3u8
 #EXTINF:-1 tvg-name="XITE" group-title="Music",XITE
 https://xite-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="ZFM Zoetermeer" group-title="Music",ZFM Zoetermeer
-https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1 tvg-name="ZU TV" group-title="Music",ZU TV
 https://hls.rundletv.eu.org/LIVE$RadioZU/6.m3u8/Level/300720051?end=END&start=LIVE
 #EXTINF:-1 tvg-name="247 Box TV" group-title="Entertainment",247 Box TV
@@ -2898,8 +2871,6 @@ http://178.124.179.122:8080/TB-3/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",FX Latin America" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",FX Latin America
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr." group-title="Entertainment;Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr.
-http://86.87.15.10:8003/play/a01x/index.m3u8
 #EXTINF:-1 tvg-name="BET Her" group-title="Entertainment",BET Her
 http://41.205.93.154/BETHER/index.m3u8
 #EXTINF:-1 tvg-name="GetTV" group-title="Entertainment",GetTV
@@ -3078,6 +3049,8 @@ https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-name="Nuta TV (576p)" group-title="Music",Nuta TV (576p)
 https://adpnetworkhd-cmd.github.io/iptv/NutaTV.m3u8
+#EXTINF:-1 tvg-name="Fon Music" group-title="Music",Fon Music
+http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 #EXTINF:-1 tvg-name="Maidan (576p)" group-title="Music",Maidan (576p)
 http://hls127.freeott.top:8080/Maydan/video.m3u8
 #EXTINF:-1 tvg-name="Shanson TV (576p)" group-title="Music",Shanson TV (576p)
@@ -3476,6 +3449,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://109.157.194.186:4040/clublandhls/now.m3u8
 #EXTINF:-1 tvg-name="Muz TV Uzbekistan" group-title="Music",Muz TV Uzbekistan
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="RU TV" group-title="Music",RU TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg-name="Russian MusicBox" group-title="Music",Russian MusicBox
+https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.4044.138 Safari/537.36",VIVA Russia" group-title="Music",like Gecko) Chrome/120.0.4044.138 Safari/537.36",VIVA Russia
+https://hls.goodgame.ru/hls/180805.m3u8
+#EXTINF:-1 tvg-name="Жар Птица (404p) [Geo-blocked]" group-title="Music",Жар Птица (404p) [Geo-blocked]
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ратник [Geo-blocked]" group-title="Entertainment",Ратник [Geo-blocked]
+https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="E! Latin America Brazil (432p)" group-title="Entertainment;News",E! Latin America Brazil (432p)
 http://145.239.5.177/111/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime Asia" group-title="Entertainment",Lifetime Asia
@@ -3526,3 +3509,31 @@ https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
 https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="StuBru" group-title="Music",StuBru
 https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
+#EXTINF:-1 tvg-name="7 TV" group-title="Entertainment",7 TV
+http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="9 Волна (Черкесск)" group-title="Entertainment",9 Волна (Черкесск)
+http://cdn-01.bonus-tv.ru/9volna/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Mobile/15E148",Mezzo (480p)" group-title="Music",like Gecko) Mobile/15E148",Mezzo (480p)
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1 tvg-name="Индия" group-title="Entertainment",Индия
+https://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1 tvg-name="Муз ТВ" group-title="Music",Муз ТВ
+http://stream01.vnet.am/MuzTv/mono.m3u8
+#EXTINF:-1 tvg-name="Пятница" group-title="Entertainment",Пятница
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:-1 tvg-name="Пятница International" group-title="Entertainment",Пятница International
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1 tvg-name="Страна ФМ" group-title="Music",Страна ФМ
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ТВ3" group-title="Entertainment",ТВ3
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+#EXTINF:-1 tvg-name="ТНТ" group-title="Entertainment",ТНТ
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Mobile/15E148",ТНТ4 (480p)" group-title="Entertainment",like Gecko) Mobile/15E148",ТНТ4 (480p)
+http://ott-cdn.ucom.am/s100/index.m3u8
+#EXTINF:-1 tvg-name="Че!" group-title="Entertainment",Че!
+http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
+#EXTINF:-1 tvg-name="Шансон ТВ" group-title="Music",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Ю" group-title="Entertainment",Ю
+https://cdn-01.bonus-tv.ru/u/playlist.m3u8

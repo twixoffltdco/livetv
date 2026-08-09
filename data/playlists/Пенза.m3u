@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Пенза
-# Каналов: 22
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 20
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Пенза)" group-title="Пенза",Первый (Пенза)
@@ -69,10 +69,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-penza-htlive.cd
 
 #EXTINF:-1 tvg-name="ТНВ Планета (Пенза)" group-title="Пенза",ТНВ Планета (Пенза)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
-
-#EXTINF:-1 tvg-name="Экспресс (Пенза)" group-title="Пенза",Экспресс (Пенза)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
-
-#EXTINF:-1 tvg-name="11 канал. Экспресс (Пенза)" group-title="Пенза",11 канал. Экспресс (Пенза)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
 

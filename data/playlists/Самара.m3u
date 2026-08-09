@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Самара
-# Каналов: 24
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 20
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Самара)" group-title="Самара",Первый (Самара)
@@ -69,16 +69,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-samara-htlive.c
 
 #EXTINF:-1 tvg-name="КТВ-Луч (Сызрань)" group-title="Самара",КТВ-Луч (Сызрань)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_KTVLUCH/variant.m3u8
-
-#EXTINF:-1 tvg-name="Тольятти 24 (Тольятти)" group-title="Самара",Тольятти 24 (Тольятти)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
-
-#EXTINF:-1 tvg-name="Губерния (Самара)" group-title="Самара",Губерния (Самара)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
-
-#EXTINF:-1 tvg-name="Самара-ГИС (Самара)" group-title="Самара",Самара-ГИС (Самара)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
-
-#EXTINF:-1 tvg-name="Самара 24 (Самара)" group-title="Самара",Самара 24 (Самара)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
 

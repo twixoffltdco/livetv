@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Мурманск
-# Каналов: 21
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 19
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Россия 1 (Мурманск)" group-title="Мурманск",Россия 1 (Мурманск)
@@ -66,10 +66,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-murm-htlive.cdn.
 
 #EXTINF:-1 tvg-name="ОТР (Мурманск)" group-title="Мурманск",ОТР (Мурманск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_OTR_MURM_FILIAL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ21+ (Мурманск)" group-title="Мурманск",ТВ21+ (Мурманск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
-
-#EXTINF:-1 tvg-name="Арктик-ТВ (Мурманск)" group-title="Мурманск",Арктик-ТВ (Мурманск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
 

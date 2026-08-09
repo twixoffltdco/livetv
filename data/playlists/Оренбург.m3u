@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Оренбург
-# Каналов: 35
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 33
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Оренбург)" group-title="Оренбург",Первый (Оренбург)
@@ -91,9 +91,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.
 #EXTINF:-1 tvg-name="Курай (Башкортостан)" group-title="Оренбург",Курай (Башкортостан)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
 
-#EXTINF:-1 tvg-name="ОРТ-Планета (Оренбург)" group-title="Оренбург",ОРТ-Планета (Оренбург)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
-
 #EXTINF:-1 tvg-name="Шаян ТВ (Оренбург)" group-title="Оренбург",Шаян ТВ (Оренбург)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
 
@@ -108,9 +105,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.
 
 #EXTINF:-1 tvg-name="Пятница! (Орск)" group-title="Оренбург",Пятница! (Орск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_ORSK/variant.m3u8
-
-#EXTINF:-1 tvg-name="Евразия (Орск)" group-title="Оренбург",Евразия (Орск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
 
 #EXTINF:-1 tvg-name="Салям (Башкортостан)" group-title="Оренбург",Салям (Башкортостан)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8

@@ -1,17 +1,14 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Екатеринбург
-# Каналов: 42
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 39
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
-
-#EXTINF:-1 tvg-name="Первый (Екатеринбург)" group-title="Екатеринбург",Первый (Екатеринбург)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 (Екатеринбург)" group-title="Екатеринбург",Россия 1 (Екатеринбург)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
@@ -81,12 +78,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-ekt-htlive.cdn
 
 #EXTINF:-1 tvg-name="ОТВ (Екатеринбург)" group-title="Екатеринбург",ОТВ (Екатеринбург)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_INKOMTV/variant.m3u8
-
-#EXTINF:-1 tvg-name="ОТВ (Екатеринбург)" group-title="Екатеринбург",ОТВ (Екатеринбург)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
-
-#EXTINF:-1 tvg-name="НТС-Ирбит (Ирбит)" group-title="Екатеринбург",НТС-Ирбит (Ирбит)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Четвёртый канал (Екатеринбург)" group-title="Екатеринбург",Четвёртый канал (Екатеринбург)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8

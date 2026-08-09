@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Казань
-# Каналов: 25
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 22
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Казань)" group-title="Казань",Первый (Казань)
@@ -67,20 +67,11 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.
 #EXTINF:-1 tvg-name="ТНВ Планета (Казань)" group-title="Казань",ТНВ Планета (Казань)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
 
-#EXTINF:-1 tvg-name="Эфир (Казань)" group-title="Казань",Эфир (Казань)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-
 #EXTINF:-1 tvg-name="Шаян ТВ (Казань)" group-title="Казань",Шаян ТВ (Казань)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Майдан (Казань)" group-title="Казань",Майдан (Казань)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТНВ-Татарстан (Татарстан)" group-title="Казань",ТНВ-Татарстан (Татарстан)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-
-#EXTINF:-1 tvg-name="Татарстан-24 (Татарстан)" group-title="Казань",Татарстан-24 (Татарстан)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
 
 #EXTINF:-1 tvg-name="TMTV (Татарстан)" group-title="Казань",TMTV (Татарстан)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8

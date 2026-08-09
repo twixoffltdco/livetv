@@ -1,0 +1,57 @@
+#EXTM3U
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
+# LiveM3U Scanner - автоматическое обновление
+# ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
+
+# Категория: Образование
+# Каналов: 15
+# Обновлено: 2026-08-09 22:24:11
+# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Galaxy TV" group-title="Образование",Galaxy TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/205/index.m3u8?k=1773194218p04i71i741i502S653473204b8f8587618d3035c5046f17
+
+#EXTINF:-1 tvg-name="Моя стихия" group-title="Образование",Моя стихия
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/LlnO4-SZXp7hxv1GRdzgUA/592/1773194224/index.m3u8
+
+#EXTINF:-1 tvg-name="Наука 2" group-title="Образование",Наука 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/115/index.m3u8?k=1773194225p04i71i741i502S549105336af9a0259d9e838eb4255e05
+
+#EXTINF:-1 tvg-name="RTG" group-title="Образование",RTG
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/545/index.m3u8?k=1773194229p04i71i741i502S9f9d732d1654d1f4f32165edfd891bc9
+
+#EXTINF:-1 tvg-name="Бобёр" group-title="Образование",Бобёр
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/189/index.m3u8?k=1773194233p04i71i741i502S65d45e69ff20fa57d4c7d932f61e4546
+
+#EXTINF:-1 tvg-name="Оружие" group-title="Образование",Оружие
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/jdK1iUj4AarGmZuExUwepw/117/1773194239/index.m3u8
+
+#EXTINF:-1 tvg-name="History Channel" group-title="Образование",History Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/114/index.m3u8?k=1773194241p04i71i741i502S44649ed26b6568000fc512f55411c5e8
+
+#EXTINF:-1 tvg-name="24 Техно" group-title="Образование",24 Техно
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/iUgTWv-MgIvf9uKlUp4VSA/116/1773194247/index.m3u8
+
+#EXTINF:-1 tvg-name="Приключения" group-title="Образование",Приключения
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/542/index.m3u8?k=1773194249p04i71i741i502Sbbf600df8c16cf0cdad92535dfd0fd44
+
+#EXTINF:-1 tvg-name="Совершенно секретно" group-title="Образование",Совершенно секретно
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/546/index.m3u8?k=1773194253p04i71i741i502Sc4fd8c88f8afe152e131c0a5ce280b98
+
+#EXTINF:-1 tvg-name="Travel Channel" group-title="Образование",Travel Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/113/index.m3u8?k=1773194257p04i71i741i502S73a8bbc7068551c3553f7a56cd35b2b5
+
+#EXTINF:-1 tvg-name="Охота и рыбалка" group-title="Образование",Охота и рыбалка
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/WUp-0HUok4FejwR6G81Bnw/538/1773194263/index.m3u8
+
+#EXTINF:-1 tvg-name="Охотник и рыболов" group-title="Образование",Охотник и рыболов
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/121/index.m3u8?k=1773194265p04i71i741i502S83c5f0042f6e9afaa8665c4a1b4246fd
+
+#EXTINF:-1 tvg-name="Еда ТВ" group-title="Образование",Еда ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/198/index.m3u8?k=1773194268p04i71i741i502S3431fb2bbed763774bb7ff778feade1e
+
+#EXTINF:-1 tvg-name="Travel and Adventure" group-title="Образование",Travel and Adventure
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.pokaz.me/112/index.m3u8?k=1773194272p04i71i741i502S9f3d47e79a1c4e329107f7cf780bf2ea
+

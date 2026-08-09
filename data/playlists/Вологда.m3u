@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 21:58:13
-# Всего каналов: 21778
-# Новых за сессию: 1
+# Обновлено: 2026-08-09 22:24:10
+# Всего каналов: 22191
+# Новых за сессию: 413
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Вологда
-# Каналов: 37
-# Обновлено: 2026-08-09 21:58:14
+# Каналов: 35
+# Обновлено: 2026-08-09 22:24:11
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый (Вологда)" group-title="Вологда",Первый (Вологда)
@@ -88,9 +88,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.n
 #EXTINF:-1 tvg-name="ТНТ (Вологда)" group-title="Вологда",ТНТ (Вологда)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TNT_VLGD/variant.m3u8
 
-#EXTINF:-1 tvg-name="Канал 12 (Череповец)" group-title="Вологда",Канал 12 (Череповец)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
-
 #EXTINF:-1 tvg-name="Пятый (Вологда)" group-title="Вологда",Пятый (Вологда)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 
@@ -117,7 +114,4 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.n
 
 #EXTINF:-1 tvg-name="Пятница! (Вологда)" group-title="Вологда",Пятница! (Вологда)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_VLGD/variant.m3u8
-
-#EXTINF:-1 tvg-name="Русский Север (Вологда)" group-title="Вологда",Русский Север (Вологда)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 
