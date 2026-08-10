@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 23:55:52
-# Всего каналов: 22196
-# Новых за сессию: 1
+# Обновлено: 2026-08-10 00:49:32
+# Всего каналов: 22242
+# Новых за сессию: 46
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
-# Каналов: 451
-# Обновлено: 2026-08-09 23:55:52
+# Каналов: 453
+# Обновлено: 2026-08-10 00:49:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -1297,6 +1297,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/ott-cdn.ucom.am/s57/in
 #EXTINF:-1 tvg-name="СТС Kids" group-title="Kids",СТС Kids
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream02.vnet.am/DisneyChannel/mono.m3u8
 
+#EXTINF:-1 tvg-name="BeJoy.kids" group-title="Kids",BeJoy.kids
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.paroledivita.org/bejoy.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Kids",Nickelodeon
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.61.157.250/Nickelodeon/index.m3u8
+
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8
 
@@ -1623,3 +1629,5 @@ http://ott-cdn.ucom.am/s59/index.m3u8
 http://ott-cdn.ucom.am/s57/index.m3u8
 #EXTINF:-1 tvg-name="Солнце" group-title="Animation;Kids",Солнце
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
+#EXTINF:-1 tvg-name="NickOnline Bob Esponja" group-title="Animation;Kids",NickOnline Bob Esponja
+https://bob.x1colegal.com/hls/stream.m3u8

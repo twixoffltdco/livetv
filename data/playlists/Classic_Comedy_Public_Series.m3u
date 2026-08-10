@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 23:55:52
-# Всего каналов: 22196
-# Новых за сессию: 1
+# Обновлено: 2026-08-10 00:49:32
+# Всего каналов: 22242
+# Новых за сессию: 46
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Comedy;Public;Series
 # Каналов: 1
-# Обновлено: 2026-08-09 23:55:52
+# Обновлено: 2026-08-10 00:49:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
@@ -1345,3 +1345,5 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c9627573574
 http://185.47.212.25:8080/tdp_HD/index.m3u8
 #EXTINF:-1 tvg-name="Amedia Premium" group-title="Movies;Series",Amedia Premium
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="General;Public",La 1" group-title="General;Public",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="General;Public",La 1
+https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 23:55:52
-# Всего каналов: 22196
-# Новых за сессию: 1
+# Обновлено: 2026-08-10 00:49:32
+# Всего каналов: 22242
+# Новых за сессию: 46
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Religious
 # Каналов: 1
-# Обновлено: 2026-08-09 23:55:52
+# Обновлено: 2026-08-10 00:49:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ABN Bible Movies" group-title="Movies;Religious",ABN Bible Movies
@@ -3267,3 +3267,7 @@ http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playli
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:-1 tvg-name="СТРК" group-title="Movies",СТРК
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",B4U Movies (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",B4U Movies (576p)
+http://103.175.73.12:8080/live/43/43_0.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Action" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Action
+https://polska.hach.workers.dev/14864.m3u8
