@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:49:52
-# Всего каналов: 22305
-# Новых за сессию: 0
+# Обновлено: 2026-08-11 13:56:46
+# Всего каналов: 22474
+# Новых за сессию: 169
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Education;Science
 # Каналов: 2
-# Обновлено: 2026-08-11 13:49:53
+# Обновлено: 2026-08-11 13:56:47
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science",UMSA TVU Internacional
@@ -950,3 +950,5 @@ http://ott-cdn.ucom.am/s68/index.m3u8
 http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-name="Первый космический" group-title="Science",Первый космический
 http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-name="Reelz" group-title="Documentary",Reelz
+http://23.237.104.106:8080/USA_REELZ/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:49:52
-# Всего каналов: 22305
-# Новых за сессию: 0
+# Обновлено: 2026-08-11 13:56:46
+# Всего каналов: 22474
+# Новых за сессию: 169
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cooking;Documentary
 # Каналов: 2
-# Обновлено: 2026-08-11 13:49:53
+# Обновлено: 2026-08-11 13:56:47
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Food" group-title="Cooking;Documentary",Pluto TV Food
@@ -528,3 +528,5 @@ http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-name="Телекафе" group-title="Cooking",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
+#EXTINF:-1 tvg-name="Reelz" group-title="Documentary",Reelz
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
