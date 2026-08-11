@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-10 23:57:51
-# Всего каналов: 22272
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 01:07:04
+# Всего каналов: 22291
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids
-# Каналов: 72
-# Обновлено: 2026-08-10 23:57:52
+# Каналов: 73
+# Обновлено: 2026-08-11 01:07:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Мультимания (576p)" group-title="Animation;Kids",Мультимания (576p)
@@ -222,6 +222,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.mediacdn.ru/live/di
 
 #EXTINF:-1 tvg-name="NickOnline Bob Esponja" group-title="Animation;Kids",NickOnline Bob Esponja
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bob.x1colegal.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Sony Yay!" group-title="Animation;Kids",Sony Yay!
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s3.itcnbd.live/channel/b22941f1341d7243.m3u8
 
 #EXTINF:-1 tvg-name="Nickelodeon (576p)" group-title="Animation;Kids",Nickelodeon (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/195.64.140.147:10121/121

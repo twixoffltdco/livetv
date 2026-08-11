@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-10 23:57:51
-# Всего каналов: 22272
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 01:07:04
+# Всего каналов: 22291
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Lifestyle
 # Каналов: 1
-# Обновлено: 2026-08-10 23:57:52
+# Обновлено: 2026-08-11 01:07:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="QTV-6" group-title="Kids;Lifestyle",QTV-6
@@ -1167,3 +1167,5 @@ http://tv.mediacdn.ru/live/disney/playlist.m3u8
 http://stream02.vnet.am/DisneyChannel/mono.m3u8
 #EXTINF:-1 tvg-name="NickOnline Bob Esponja" group-title="Animation;Kids",NickOnline Bob Esponja
 https://bob.x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Sony Yay!" group-title="Animation;Kids",Sony Yay!
+https://s3.itcnbd.live/channel/b22941f1341d7243.m3u8
