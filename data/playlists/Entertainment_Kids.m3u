@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-12 00:05:59
-# Всего каналов: 22500
-# Новых за сессию: 0
+# Обновлено: 2026-08-12 02:12:16
+# Всего каналов: 22504
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Kids
 # Каналов: 3
-# Обновлено: 2026-08-12 00:06:00
+# Обновлено: 2026-08-12 02:12:17
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Unique TV (576p)" group-title="Entertainment;Kids",Unique TV (576p)
@@ -2135,7 +2135,7 @@ http://86.87.15.10:8004/play/a02g/index.m3u8
 http://31.148.48.15/Radost_moya/index.m3u8
 #EXTINF:-1 tvg-name="BET Her" group-title="Entertainment",BET Her
 http://41.205.93.154/BETHER/index.m3u8
-#EXTINF:-1 tvg-name="GetTV" group-title="Entertainment",GetTV
+#EXTINF:-1 tvg-name="Great Entertainment Television" group-title="Entertainment",Great Entertainment Television
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Kids Street" group-title="Kids",Kids Street
 http://181.78.121.15:8000/play/a00a/index.m3u8
@@ -2389,8 +2389,6 @@ http://206.212.244.63/10/index.m3u8
 http://206.212.244.63/19/index.m3u8
 #EXTINF:-1 tvg-name="Cozi TV" group-title="Entertainment",Cozi TV
 http://206.212.244.63/49/index.m3u8
-#EXTINF:-1 tvg-name="Great Entertainment Television" group-title="Entertainment",Great Entertainment Television
-http://206.212.244.63/80/index.m3u8
 #EXTINF:-1 tvg-name="Grit" group-title="Entertainment",Grit
 http://206.212.244.63/83/index.m3u8
 #EXTINF:-1 tvg-name="INSP" group-title="Entertainment",INSP
