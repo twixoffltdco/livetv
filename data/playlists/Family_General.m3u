@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-14 23:50:12
-# Всего каналов: 22645
-# Новых за сессию: 0
+# Обновлено: 2026-08-15 00:33:10
+# Всего каналов: 22662
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General
 # Каналов: 2
-# Обновлено: 2026-08-14 23:50:12
+# Обновлено: 2026-08-15 00:33:10
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CWB TV" group-title="Family;General",CWB TV
@@ -6020,3 +6020,5 @@ https://streams.comclark.com/pknsd/gma_7/playlist.m3u8
 https://streams.comclark.com/pknsd/net_25/playlist.m3u8
 #EXTINF:-1 tvg-name="UNTV (480p)" group-title="General",UNTV (480p)
 https://streams.comclark.com/pknsd/untv/playlist.m3u8
+#EXTINF:-1 tvg-name="Telemundo West (2160p)" group-title="General",Telemundo West (2160p)
+http://168.228.44.241:9997/play/a07g/index.m3u8

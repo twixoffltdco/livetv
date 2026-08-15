@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-14 23:50:12
-# Всего каналов: 22645
-# Новых за сессию: 0
+# Обновлено: 2026-08-15 00:33:10
+# Всего каналов: 22662
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Sports
 # Каналов: 2
-# Обновлено: 2026-08-14 23:50:12
+# Обновлено: 2026-08-15 00:33:10
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Esport3" group-title="Public;Sports",Esport3
@@ -1338,3 +1338,5 @@ https://streams.comclark.com/pknsd/one_sports/playlist.m3u8
 https://7nyaler.streamhostingcdn.top/stream/38/index.m3u8
 #EXTINF:-1 tvg-name="Solar Sports (480p)" group-title="Sports",Solar Sports (480p)
 https://streams.comclark.com/pknsd/solar_sports/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT Spor" group-title="Sports",TRT Spor
+https://corestream.siteyaptim.live/trt-spor/index.m3u8
