@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:34:20
-# Всего каналов: 22910
-# Новых за сессию: 2
+# Обновлено: 2026-08-15 13:49:35
+# Всего каналов: 22911
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -533,7 +533,7 @@ https://secure-272717.tatnet.app/www.youtube.com/euronewsro/live
 #EXTINF:-1 tvg-name="TVR Craiova Ⓖ" group-title="Romania",TVR Craiova Ⓖ
 https://secure-272717.tatnet.app/mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8
 
-#EXTINF:-1 tvg-name="Первый канал" group-title="General",Первый канал
+#EXTINF:-1 tvg-name="Channel One" group-title="General",Channel One
 https://secure-272717.tatnet.app/edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-name="Россия 1" group-title="Russia",Россия 1
@@ -581,7 +581,7 @@ https://secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/19.m3u8
 #EXTINF:-1 tvg-name="Звезда" group-title="IPTV",Звезда
 https://secure-272717.tatnet.app/tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Мир" group-title="General",Мир
+#EXTINF:-1 tvg-name="Mir" group-title="General",Mir
 https://secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ Ⓢ" group-title="Russia",ТНТ Ⓢ
@@ -650,7 +650,7 @@ https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/r
 #EXTINF:-1 tvg-name="Якутия 24" group-title="Russia",Якутия 24
 https://secure-272717.tatnet.app/live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="360° Новости" group-title="News",360° Новости
+#EXTINF:-1 tvg-name="360° Новости" group-title="IPTV",360° Новости
 https://secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Вести ФМ" group-title="Russia",Вести ФМ
@@ -665,7 +665,7 @@ https://secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smot
 #EXTINF:-1 tvg-name="Смотрим: Тайны" group-title="Russia",Смотрим: Тайны
 https://secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Смотрим" group-title="Undefined",Смотрим
+#EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
 https://secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Соловьёв Live" group-title="Russia",Соловьёв Live
@@ -6350,7 +6350,7 @@ https://secure-272717.tatnet.app/stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="OTR (576p)" group-title="General",OTR (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH317/index.m3u8
 
-#EXTINF:-1 tvg-name="Pro100TV" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
+#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
 https://secure-272717.tatnet.app/sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
 #EXTINF:-1 tvg-name="REN TV" group-title="General",REN TV
@@ -6467,7 +6467,7 @@ https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH315/index.m3u8
 #EXTINF:-1 tvg-name="viju+ Sport (576p)" group-title="Sports",viju+ Sport (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH131/index.m3u8
 
-#EXTINF:-1 tvg-name="A21 VITAL AUTOSPORT" group-title="Undefined",A21 VITAL AUTOSPORT
+#EXTINF:-1 tvg-name="VITAL Drive" group-title="Sports",VITAL Drive
 https://secure-272717.tatnet.app/autopilot.catcast.tv/content/37909/index.m3u8
 
 #EXTINF:-1 tvg-name="VIVA Russia" group-title="Music",VIVA Russia
@@ -6482,7 +6482,7 @@ https://secure-272717.tatnet.app/live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/pla
 #EXTINF:-1 tvg-name="Арис 24" group-title="General",Арис 24
 https://secure-272717.tatnet.app/serv25.vintera.tv:8081/test/aris/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Арктика 24" group-title="Undefined",Арктика 24
+#EXTINF:-1 tvg-name="Арктика 24 (Архангельск)" group-title="General",Арктика 24 (Архангельск)
 https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Архыз 24" group-title="Undefined",Архыз 24
@@ -6494,7 +6494,7 @@ https://secure-272717.tatnet.app/streaming.astrakhan.ru/astrakhanrusporthd/playl
 #EXTINF:-1 tvg-name="Астрахань.Ru TV (480p)" group-title="Undefined",Астрахань.Ru TV (480p)
 https://secure-272717.tatnet.app/streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Башкортостан 24" group-title="Undefined",Башкортостан 24
+#EXTINF:-1 tvg-name="Башкортостан 24" group-title="General",Башкортостан 24
 https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Белгород 24" group-title="General",Белгород 24
@@ -6521,7 +6521,7 @@ https://secure-272717.tatnet.app/qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lv
 #EXTINF:-1 tvg-name="Волга ( )" group-title="Undefined",Волга ( )
 https://secure-272717.tatnet.app/tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Восток 24" group-title="Undefined",Восток 24
+#EXTINF:-1 tvg-name="Восток 24 (Владивосток)" group-title="General",Восток 24 (Владивосток)
 https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Время" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Время
@@ -6533,7 +6533,7 @@ https://secure-272717.tatnet.app/live.guberniatv.cdnvideo.ru/guberniatv/gubernia
 #EXTINF:-1 tvg-name="Дагестан" group-title="Undefined",Дагестан
 https://secure-272717.tatnet.app/dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Детское кино International" group-title="Undefined",Детское кино International
+#EXTINF:-1 tvg-name="Детское кино International" group-title="Movies",Детское кино International
 https://secure-272717.tatnet.app/autopilot.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
@@ -6572,10 +6572,10 @@ https://secure-272717.tatnet.app/31.148.48.15/Zhivi/index.m3u8
 #EXTINF:-1 tvg-name="За!ТВ" group-title="General",За!ТВ
 https://secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/25.m3u8
 
-#EXTINF:-1 tvg-name="Запад 24 (Калининград)" group-title="Undefined",Запад 24 (Калининград)
+#EXTINF:-1 tvg-name="Запад 24 (Калининград)" group-title="General",Запад 24 (Калининград)
 https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Звезда" group-title="General",Звезда
+#EXTINF:-1 tvg-name="Zvezda" group-title="General",Zvezda
 https://secure-272717.tatnet.app/tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zvezda Plus" group-title="Undefined",Zvezda Plus
@@ -6584,7 +6584,7 @@ https://secure-272717.tatnet.app/tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3
 #EXTINF:-1 tvg-name="Здоровое ТВ (576p)" group-title="Lifestyle",Здоровое ТВ (576p)
 https://secure-272717.tatnet.app/31.148.48.15/Zdorovoe_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Зоо ТВ" group-title="Undefined",Зоо ТВ
+#EXTINF:-1 tvg-name="Зоо ТВ (576p)" group-title="Undefined",Зоо ТВ (576p)
 https://secure-272717.tatnet.app/31.148.48.15/Zoo_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="Известия" group-title="News",Известия
@@ -6605,7 +6605,7 @@ https://secure-272717.tatnet.app/31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1 tvg-name="К16 (Саров) (406p)" group-title="General",К16 (Саров) (406p)
 https://secure-272717.tatnet.app/serv25.vintera.tv:8081/test/k16/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Кавказ 24 (Ставрополь)" group-title="General",Кавказ 24 (Ставрополь)
+#EXTINF:-1 tvg-name="Кавказ 24 (Ставрополь) (576p)" group-title="General",Кавказ 24 (Ставрополь) (576p)
 https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="КВН ТВ (576p)" group-title="Comedy",КВН ТВ (576p)
@@ -6614,7 +6614,7 @@ https://secure-272717.tatnet.app/31.148.48.15/KVN_TV/index.m3u8
 #EXTINF:-1 tvg-name="Кинеко" group-title="Movies",Кинеко
 https://secure-272717.tatnet.app/31.148.48.15/Kineko_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Кино 1 International" group-title="Undefined",Кино 1 International
+#EXTINF:-1 tvg-name="Кино 1 International" group-title="Movies",Кино 1 International
 https://secure-272717.tatnet.app/kino-1.catcast.tv/content/38617/index.m3u8
 
 #EXTINF:-1 tvg-name="КИНО ТВ" group-title="Movies",КИНО ТВ
@@ -6629,7 +6629,7 @@ https://secure-272717.tatnet.app/31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 tvg-name="Конный Мир" group-title="Outdoor",Конный Мир
 https://secure-272717.tatnet.app/cdn-01.bonus-tv.ru/kmir/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Красная линия" group-title="Undefined",Красная линия
+#EXTINF:-1 tvg-name="Красная линия (480p)" group-title="Undefined",Красная линия (480p)
 https://secure-272717.tatnet.app/s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 
 #EXTINF:-1 tvg-name="КРИК-ТВ (Екатеринбург)" group-title="News",КРИК-ТВ (Екатеринбург)
@@ -6698,19 +6698,19 @@ https://secure-272717.tatnet.app/retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 tvg-name="Моя Планета" group-title="Outdoor",Моя Планета
 https://secure-272717.tatnet.app/31.148.48.15/Moya_Planeta_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="МТВ (Волгоград)" group-title="Entertainment",МТВ (Волгоград)
+#EXTINF:-1 tvg-name="МТВ (Волгоград)" group-title="General",МТВ (Волгоград)
 https://secure-272717.tatnet.app/hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
 https://secure-272717.tatnet.app/hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Музыка 1 International" group-title="Undefined",Музыка 1 International
+#EXTINF:-1 tvg-name="Музыка 1 International" group-title="Music",Музыка 1 International
 https://secure-272717.tatnet.app/kino-1.catcast.tv/content/37745/index.m3u8
 
 #EXTINF:-1 tvg-name="Музыка Live (576p)" group-title="Music",Музыка Live (576p)
 https://secure-272717.tatnet.app/31.148.48.15/La-Minor_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Музыка Кино International" group-title="Undefined",Музыка Кино International
+#EXTINF:-1 tvg-name="Музыка Кино International" group-title="Music",Музыка Кино International
 https://secure-272717.tatnet.app/kino-1.catcast.tv/content/37739/index.m3u8
 
 #EXTINF:-1 tvg-name="Музыка Первого" group-title="Music",Музыка Первого
@@ -6728,7 +6728,7 @@ https://secure-272717.tatnet.app/sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1
 #EXTINF:-1 tvg-name="Надежда" group-title="Religious",Надежда
 https://secure-272717.tatnet.app/live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Нано ТВ" group-title="Documentary",Нано ТВ
+#EXTINF:-1 tvg-name="Нано ТВ (576p)" group-title="Documentary",Нано ТВ (576p)
 https://secure-272717.tatnet.app/s1.tv-nano.com/Nano_rec/index.m3u8
 
 #EXTINF:-1 tvg-name="НАУКА" group-title="Documentary",НАУКА
@@ -6767,7 +6767,7 @@ https://secure-272717.tatnet.app/cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-name="НТВ Хит" group-title="Series",НТВ Хит
 https://secure-272717.tatnet.app/cdn.ntv.ru/th_style/playlist.m3u8
 
-#EXTINF:-1 tvg-name="НТВ Стиль" group-title="Lifestyle",НТВ Стиль
+#EXTINF:-1 tvg-name="НТВ Хит (576p)" group-title="Series",НТВ Хит (576p)
 https://secure-272717.tatnet.app/cdn.ntv.ru/th_hit/playlist.m3u8
 
 #EXTINF:-1 tvg-name="НТК 21 (Биробиджан) [Geo-blocked]" group-title="General",НТК 21 (Биробиджан) [Geo-blocked]
@@ -6812,13 +6812,13 @@ https://secure-272717.tatnet.app/rtmp.one.by:2300
 #EXTINF:-1 tvg-name="Первый Республиканский" group-title="News",Первый Республиканский
 https://secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/27.m3u8
 
-#EXTINF:-1 tvg-name="Первый Ярославский" group-title="Undefined",Первый Ярославский
+#EXTINF:-1 tvg-name="Первый Ярославский" group-title="General",Первый Ярославский
 https://secure-272717.tatnet.app/yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Победа 720p (576p)" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Победа 720p (576p)
 https://secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 
-#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment",Поехали!
+#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
 https://secure-272717.tatnet.app/31.148.48.15/Poehali/index.m3u8
 
 #EXTINF:-1 tvg-name="Прима" group-title="Undefined",Прима
@@ -6887,7 +6887,7 @@ https://secure-272717.tatnet.app/sitv.ru/hls/stv.m3u8
 #EXTINF:-1 tvg-name="Салям (Уфа) (576p)" group-title="Undefined",Салям (Уфа) (576p)
 https://secure-272717.tatnet.app/bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Самара 24" group-title="Undefined",Самара 24
+#EXTINF:-1 tvg-name="Самара 24" group-title="General",Самара 24
 https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Самара ГИС" group-title="Undefined",Самара ГИС
@@ -6908,7 +6908,7 @@ https://secure-272717.tatnet.app/svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Север (Нарьян-Мар)" group-title="Undefined",Север (Нарьян-Мар)
 https://secure-272717.tatnet.app/2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Сибирь 24 (Красноярск)" group-title="Undefined",Сибирь 24 (Красноярск)
+#EXTINF:-1 tvg-name="Сибирь 24 (Красноярск)" group-title="General",Сибирь 24 (Красноярск)
 https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Сибирь 24 (Новосибирск)" group-title="General",Сибирь 24 (Новосибирск)
@@ -7007,7 +7007,7 @@ https://secure-272717.tatnet.app/tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 tvg-name="Соловьёв LIVE (576p)" group-title="Undefined",Соловьёв LIVE (576p)
 https://secure-272717.tatnet.app/31.148.48.15/EuroNews/index.m3u8
 
-#EXTINF:-1 tvg-name="Sochi 24" group-title="General;News",Sochi 24
+#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
 https://secure-272717.tatnet.app/serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Союз (576p)" group-title="Religious",Союз (576p)
@@ -7040,7 +7040,7 @@ https://secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV
 #EXTINF:-1 tvg-name="ТВК 24 (576p)" group-title="Undefined",ТВК 24 (576p)
 https://secure-272717.tatnet.app/air.tvk6.ru/tvk24/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tvoe TV" group-title="Entertainment",Tvoe TV
+#EXTINF:-1 tvg-name="Твое TV" group-title="Entertainment",Твое TV
 https://secure-272717.tatnet.app/tvoetv.space:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-name="Твое ТВ Юмор" group-title="Comedy",Твое ТВ Юмор
@@ -7052,7 +7052,7 @@ https://secure-272717.tatnet.app/31.148.48.15/Sochi_HD/index.m3u8
 #EXTINF:-1 tvg-name="Телеканал 86 (Сургут)" group-title="General",Телеканал 86 (Сургут)
 https://secure-272717.tatnet.app/sitv.ru/hls/s86.m3u8
 
-#EXTINF:-1 tvg-name="Телеканал Краснодар" group-title="Undefined",Телеканал Краснодар
+#EXTINF:-1 tvg-name="Телеканал Краснодар" group-title="General",Телеканал Краснодар
 https://secure-272717.tatnet.app/live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Телекафе" group-title="Cooking",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Телекафе
@@ -7070,7 +7070,7 @@ https://secure-272717.tatnet.app/stream.almaz-media.tv:8080/hls/576.m3u8
 #EXTINF:-1 tvg-name="ТКР (Рязань)" group-title="Undefined",ТКР (Рязань)
 https://secure-272717.tatnet.app/live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ТНВ-Планета (Казань)" group-title="Undefined",ТНВ-Планета (Казань)
+#EXTINF:-1 tvg-name="ТНВ-Планета (Казань) (576p)" group-title="Undefined",ТНВ-Планета (Казань) (576p)
 https://secure-272717.tatnet.app/planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ4 (576p)" group-title="Entertainment",ТНТ4 (576p)
@@ -7091,7 +7091,7 @@ https://secure-272717.tatnet.app/31.148.48.15/Tochka_TV/index.m3u8
 #EXTINF:-1 tvg-name="Три Ангела" group-title="Religious",Три Ангела
 https://secure-272717.tatnet.app/hls.tv.3angels.ru/stream.m3u8
 
-#EXTINF:-1 tvg-name="Урал 24 (Челябинск)" group-title="Undefined",Урал 24 (Челябинск)
+#EXTINF:-1 tvg-name="Урал 24 (Челябинск)" group-title="General",Урал 24 (Челябинск)
 https://secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Феникс плюс Кино (576p)" group-title="Movies",Феникс плюс Кино (576p)
@@ -18971,7 +18971,7 @@ https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH211/index.m3u8
 #EXTINF:-1 tvg-name="Zo'r TV (576p)" group-title="Entertainment;Music",Zo'r TV (576p)
 https://secure-272717.tatnet.app/stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Abaza TV" group-title="General",Abaza TV
+#EXTINF:-1 tvg-name="АБАЗА-ТВ" group-title="General",АБАЗА-ТВ
 https://secure-272717.tatnet.app/public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Kids",Карусель International" group-title="Kids",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Kids",Карусель International
@@ -19784,7 +19784,7 @@ https://secure-272717.tatnet.app/d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e83
 #EXTINF:-1 tvg-name="Euronews English" group-title="News",Euronews English
 https://secure-272717.tatnet.app/dash4.antik.sk/live/test_euronews/playlist.m3u8
 
-#EXTINF:-1 tvg-name="EWTN Africa Asia" group-title="Religious",EWTN Africa Asia
+#EXTINF:-1 tvg-name="EWTN Africa-Asia" group-title="Religious",EWTN Africa-Asia
 https://secure-272717.tatnet.app/cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EWTN Asia-Pacific" group-title="Religious",EWTN Asia-Pacific
@@ -19793,7 +19793,7 @@ https://secure-272717.tatnet.app/cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/
 #EXTINF:-1 tvg-name="EWTN Europe" group-title="Religious",EWTN Europe
 https://secure-272717.tatnet.app/cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Fail Army" group-title="Undefined",Fail Army
+#EXTINF:-1 tvg-name="Fail Army" group-title="Comedy",Fail Army
 https://secure-272717.tatnet.app/bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FailArmy" group-title="Comedy",FailArmy
@@ -39908,16 +39908,16 @@ https://secure-272717.tatnet.app/d3p8ecnk6t4t73.cloudfront.net/scheduler/schedul
 #EXTINF:-1 tvg-name="Zougla TV" group-title="Undefined",Zougla TV
 https://secure-272717.tatnet.app/zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
 
-#EXTINF:-1 tvg-name="НТВ +1" group-title="Undefined",НТВ +1
+#EXTINF:-1 tvg-name="НТВ +1 (576p)" group-title="General",НТВ +1 (576p)
 https://secure-272717.tatnet.app/cdn.ntv.ru/ntv1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="НТВ +2" group-title="Undefined",НТВ +2
+#EXTINF:-1 tvg-name="НТВ +2 (576p)" group-title="General",НТВ +2 (576p)
 https://secure-272717.tatnet.app/cdn.ntv.ru/ntv2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="НТВ +4" group-title="Undefined",НТВ +4
+#EXTINF:-1 tvg-name="НТВ +4 (576p)" group-title="General",НТВ +4 (576p)
 https://secure-272717.tatnet.app/cdn.ntv.ru/ntv4/playlist.m3u8
 
-#EXTINF:-1 tvg-name="НТВ +7" group-title="Undefined",НТВ +7
+#EXTINF:-1 tvg-name="НТВ +7 (576p)" group-title="General",НТВ +7 (576p)
 https://secure-272717.tatnet.app/cdn.ntv.ru/ntv7/playlist.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Өлзий ТВ" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Өлзий ТВ
@@ -60578,6 +60578,9 @@ https://secure-272717.tatnet.app/stream-server.com:8080/live/username/password/1
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_italy.m3u8
 
+#EXTINF:-1 tvg-name="CNN International" group-title="News",CNN International
+https://secure-272717.tatnet.app/stream-server.com:8080/live/username/password/12346.ts</code></pre></div><p>Every IPTV player — whether it's IPTV Smarters Pro, TiviMate, XCIPTV, VLC, or Smart IPTV — can read M3U files. It's the universal format for IPTV channel lists.</p><!-- M3U vs Xtream Codes --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">M3U Playlist vs. Xtream Codes API: What's the Difference?</h2><p>When you subscribe to an IPTV service, you'll typically receive your credentials in one of two formats:</p><div class="grid grid-cols-1 sm:grid-cols-2 gap-5 !my-8"><div class="glass-card rounded-xl p-6"><h4 class="text-lg font-semibold text-accent mb-3">M3U Playlist URL</h4><p class="text-base text-text-muted mb-3">A single URL that points to your full channel list. You paste it directly into your IPTV app.</p><div class="bg-black/40 rounded-lg p-3 text-xs text-text-dim overflow-x-auto"><code>http://server.com:8080/get.php?username=USER&password=PASS&type=m3u_plus</code></div><ul class="list-disc pl-5 space-y-1 text-sm text-text-muted mt-3"><li>Works with every IPTV player</li><li>Simple to set up</li><li>No EPG integration by default</li></ul></div><div class="glass-card rounded-xl p-6"><h4 class="text-lg font-semibold text-accent mb-3">Xtream Codes API</h4><p class="text-base text-text-muted mb-3">Server URL + username + password. The app connects directly to the IPTV server for a richer experience.</p><div class="bg-black/40 rounded-lg p-3 text-xs text-text-dim overflow-x-auto"><code>Server: http://server.com:8080<br>User: your_username<br>Pass: your_password</code></div><ul class="list-disc pl-5 space-y-1 text-sm text-text-muted mt-3"><li>Built-in EPG (TV guide)</li><li>Organized categories</li><li>Catch-up TV support</li></ul></div></div><p><strong>Which should you use?</strong> If your IPTV app supports Xtream Codes (most do), use that — it provides a better experience with EPG and organized channel categories. If not, the <strong>M3U playlist URL</strong> works universally.</p><!-- How to use M3U playlists --><h2 class="text-3xl font-bold text-white !mt-14 !mb-6">How to Use M3U Playlists in IPTV Apps</h2><p>Once you have your <strong>M3U URL</strong> or M3U file, here's how to load it into the most popular IPTV players.</p><!-- TiviMate --><h3 class="text-xl font-semibold text-white !mt-10 !mb-4">TiviMate — Best M3U Player for Fire Stick</h3><p>TiviMate is widely considered the best IPTV player for <a href="/iptv/test-iptv-fire-stick/" class="text-accent hover:text-accent-hover transition underline">Amazon Fire Stick</a> and Android TV. Here's how to add a <strong>TiviMate playlist M3U</strong>:</p><div class="space-y-3 !my-6"><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div><p class="text-text-muted leading-relaxed">Open TiviMate and go to <strong class="text-white">Settings → Playlists</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div><p class="text-text-muted leading-relaxed">Select <strong class="text-white">Add Playlist</strong> and choose <strong class="text-white">M3U Playlist</strong> or <strong class="text-white">Xtream Codes</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div><p class="text-text-muted leading-relaxed">Paste your <strong class="text-white">TiviMate playlist URL</strong> (M3U URL from your IPTV provider).</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div><p class="text-text-muted leading-relaxed">Wait for channels to load. Add an EPG URL if your provider gave you one separately.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">5</div><p class="text-text-muted leading-relaxed">Done. Browse channels by category and start streaming.</p></div></div><!-- IPTV Smarters Pro --><h3 class="text-xl font-semibold text-white !mt-10 !mb-4">IPTV Smarters Pro — Load M3U Playlist</h3><p>IPTV Smarters Pro supports both M3U and Xtream Codes. To load an <strong>IPTV M3U playlist</strong>:</p><div class="space-y-3 !my-6"><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div><p class="text-text-muted leading-relaxed">Open IPTV Smarters Pro and select <strong class="text-white">Add User → Load Your Playlist or File/URL</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div><p class="text-text-muted leading-relaxed">Choose <strong class="text-white">M3U URL</strong> and paste your playlist URL.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div><p class="text-text-muted leading-relaxed">Give it a name (e.g., "My IPTV") and tap <strong class="text-white">Add User</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div><p class="text-text-muted leading-relaxed">Channels load automatically. Navigate via Live TV, Movies, or Series sections.</p></div></div><!-- VLC --><h3 class="text-xl font-semibold text-white !mt-10 !mb-4">VLC Media Player — Open M3U Files on PC or Mac</h3><p>VLC is a free, open-source media player that can play <strong>M3U files</strong> directly on your computer.</p><div class="space-y-3 !my-6"><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div><p class="text-text-muted leading-relaxed">Download and install <a href="https://www.videolan.org/" class="text-accent hover:text-accent-hover transition underline" target="_blank" rel="noopener noreferrer">VLC Media Player</a>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div><p class="text-text-muted leading-relaxed">Go to <strong class="text-white">Media → Open Network Stream</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div><p class="text-text-muted leading-relaxed">Paste your <strong class="text-white">M3U playlist URL</strong> and click Play.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div><p class="text-text-muted leading-relaxed">Or drag a downloaded <code class="bg-white/10 px-2 py-0.5 rounded text-sm">.m3u</code> file directly into VLC.</p></div></div><!-- Free vs Paid M3U --><h2 class="text-3xl font-bold text-white !mt-14 !mb-6">Free M3U Playlists vs. Paid IPTV Subscriptions</h2><p>There are two ways to get IPTV playlists: free public lists scattered around the internet, or paid subscriptions from IPTV providers.</p><p>Here's the honest comparison:</p><div class="grid grid-cols-1 sm:grid-cols-2 gap-5 !my-8"><div class="glass-card rounded-xl p-6"><h4 class="text-lg font-semibold text-red-400 mb-3">Free M3U Playlists</h4><ul class="list-disc pl-5 space-y-2 text-base text-text-muted"><li>Channels go offline constantly</li><li>No EPG or TV guide</li><li>Low quality — many are SD or 480p</li><li>No support or reliability</li><li>Often outdated within hours or days</li><li>Security risks from unknown sources</li><li>No catch-up TV or VOD</li></ul></div><div class="glass-card rounded-xl p-6 border border-accent/20"><h4 class="text-lg font-semibold text-green mb-3">Paid IPTV Subscription</h4><ul class="list-disc pl-5 space-y-2 text-base text-text-muted"><li>20,000+ stable, working channels</li><li>Full EPG with program guide</li><li>HD, FHD, and 4K quality</li><li>24/7 customer support</li><li>Regular updates and new channels</li><li>Dedicated servers with anti-buffering</li><li>VOD library + catch-up TV</li></ul></div></div><p>Free <strong>public IPTV playlists</strong> might sound appealing, but in practice they're unreliable. Channels break within hours, streams buffer constantly, and there's no support when things stop working.</p><p>If you're serious about IPTV, a paid subscription with a <a href="/free-trial/" class="text-accent hover:text-accent-hover transition underline">free trial</a> is always the better long-term choice.</p><!-- Where people find M3U playlists --><h2 class="text-3xl font-bold text-white !mt-14 !mb-6">Where Do People Find Free IPTV M3U Playlists?</h2><p>People searching for <strong>free M3U playlists</strong>, <strong>free IPTV M3U playlist HD channels download</strong>, or <strong>public IPTV playlists</strong> typically find them on:</p><div class="space-y-3 !my-6"><div class="glass-card rounded-xl p-5"><strong class="text-white">GitHub Repositories</strong> — <span class="text-text-muted">Developers maintain public M3U lists on GitHub. These are the most commonly shared free IPTV lists, but channels frequently go offline.</span></div><div class="glass-card rounded-xl p-5"><strong class="text-white">Reddit Communities</strong> — <span class="text-text-muted">Subreddits dedicated to IPTV sometimes share M3U links and playlist URLs. Quality varies wildly.</span></div><div class="glass-card rounded-xl p-5"><strong class="text-white">IPTV Forums & Telegram Groups</strong> — <span class="text-text-muted">Community-driven groups share IPTV links, but many are unreliable or even malicious.</span></div><div class="glass-card rounded-xl p-5"><strong class="text-white">Dedicated Websites</strong> — <span class="text-text-muted">Some websites curate and update <strong>free M3U lists</strong>. These tend to have the shortest lifespan as streams get taken down regularly.</span></div></div><div class="glass-card rounded-xl p-6 border-l-4 border-l-yellow-400 !my-8"><h4 class="text-lg font-semibold text-yellow-400 mb-2">Important Warning</h4><p class="text-base text-text-muted">Free IPTV playlists from unknown sources can contain malicious URLs, tracking scripts, or redirect to harmful content. Always use a VPN, avoid downloading executable files, and never enter personal information on unknown sites. For a safe, reliable experience, use a trusted <a href="/iptv/" class="text-accent hover:text-accent-hover transition underline">IPTV provider</a> with proper support.</p></div><!-- IPTV Global Channels --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">IPTV Global Channels Playlist — What's Available?</h2><p>One of the biggest draws of IPTV is access to <strong>global channels</strong>. A quality <strong>IPTV global channels playlist</strong> typically includes:</p><div class="grid grid-cols-2 sm:grid-cols-3 gap-3 !my-6"><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇺🇸</span><span class="text-sm font-semibold text-white">USA</span><span class="text-xs text-text-dim block">ABC, CBS, NBC, ESPN, Fox</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇬🇧</span><span class="text-sm font-semibold text-white">UK</span><span class="text-xs text-text-dim block">BBC, ITV, Sky Sports</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇨🇦</span><span class="text-sm font-semibold text-white">Canada</span><span class="text-xs text-text-dim block">TSN, CBC, Sportsnet</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇫🇷</span><span class="text-sm font-semibold text-white">France</span><span class="text-xs text-text-dim block">TF1, Canal+, beIN</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇩🇪</span><span class="text-sm font-semibold text-white">Germany</span><span class="text-xs text-text-dim block">ARD, ZDF, Sky DE</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇧🇷</span><span class="text-sm font-semibold text-white">Brazil</span><span class="text-xs text-text-dim block">Globo, SporTV, Band</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇮🇳</span><span class="text-sm font-semibold text-white">India</span><span class="text-xs text-text-dim block">Star, Zee, Sony</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇸🇦</span><span class="text-sm font-semibold text-white">Arabic</span><span class="text-xs text-text-dim block">MBC, Al Jazeera, OSN</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🌍</span><span class="text-sm font-semibold text-white">100+ Countries</span><span class="text-xs text-text-dim block">Latino, Asian, African</span></div></div><p>A <strong>paid IPTV subscription</strong> includes all of these in a single, organized playlist — with EPG, channel logos, and category grouping. Free M3U lists might have some of these channels, but they'll be scattered, poorly labeled, and frequently broken.</p><!-- Live Sports M3U --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">Live Sports M3U Playlists</h2><p>People searching for <strong>live sports M3U</strong> playlists want access to channels like ESPN, Fox Sports, beIN Sports, Sky Sports, and PPV events.</p><p>Free sports M3U playlists are the most unreliable type — they go down during peak demand (exactly when you need them most). During major events like the Super Bowl, NBA Finals, or UFC cards, free streams buffer, crash, or get taken offline.</p><p>For reliable live sports streaming, a paid IPTV service is the only consistent option. Most <a href="/iptv/" class="text-accent hover:text-accent-hover transition underline">top IPTV providers</a> include every major sports network worldwide, plus PPV events, in their standard channel package.</p><!-- Best M3U playlist --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">What Makes the Best M3U Playlist?</h2><p>Whether you're using a free or paid <strong>IPTV list</strong>, here's what separates a good M3U playlist from a bad one:</p><div class="space-y-4 !my-6"><div class="glass-card rounded-xl p-5"><strong class="text-accent">Channel Organization</strong> — <span class="text-text-muted">Channels should be grouped by country, category (Sports, News, Entertainment, Movies), and quality (HD, FHD, 4K).</span></div><div class="glass-card rounded-xl p-5"><strong class="text-accent">Working Stream URLs</strong> — <span class="text-text-muted">Every channel link should actually load. Dead links are the 
+
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
 
@@ -67580,10 +67583,10 @@ https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH147/index.m3u8
 #EXTINF:-1 tvg-name=".sci-fi (576p)" group-title="IPTV",.sci-fi (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH175/index.m3u8
 
-#EXTINF:-1 tvg-name="Amedia 1" group-title="Music",Amedia 1
+#EXTINF:-1 tvg-name="Amedia 1 (576p)" group-title="IPTV",Amedia 1 (576p)
 https://secure-272717.tatnet.app/31.148.48.15/A1/index.m3u8
 
-#EXTINF:-1 tvg-name="Amedia 2" group-title="Series",Amedia 2
+#EXTINF:-1 tvg-name="Amedia 2 (576p)" group-title="IPTV",Amedia 2 (576p)
 https://secure-272717.tatnet.app/31.148.48.15/A2/index.m3u8
 
 #EXTINF:-1 tvg-name="Amedia Hit" group-title="IPTV",Amedia Hit
@@ -67622,7 +67625,7 @@ https://secure-272717.tatnet.app/liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/175387
 #EXTINF:-1 tvg-name="Da Vinci (576p)" group-title="IPTV",Da Vinci (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH205/index.m3u8
 
-#EXTINF:-1 tvg-name="DanceHits80" group-title="Undefined",DanceHits80
+#EXTINF:-1 tvg-name="DanceHits80" group-title="IPTV",DanceHits80
 https://secure-272717.tatnet.app/dancehits80.denvs.ru:8080/index.m3u8
 
 #EXTINF:-1 tvg-name="Domashnie Zhivotnye" group-title="IPTV",Domashnie Zhivotnye

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:34:20
-# Всего каналов: 22910
-# Новых за сессию: 2
+# Обновлено: 2026-08-15 13:49:35
+# Всего каналов: 22911
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Movies
 # Каналов: 3
-# Обновлено: 2026-08-15 13:34:21
+# Обновлено: 2026-08-15 13:49:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Great American Faith & Living" group-title="Lifestyle;Movies",Great American Faith & Living
@@ -171,7 +171,7 @@ http://tmptv.sunduk.tv/CH57/index.m3u8
 http://tmptv.sunduk.tv/CH25/index.m3u8
 #EXTINF:-1 tvg-name="Kinosvidanie (576p)" group-title="Movies",Kinosvidanie (576p)
 http://tmptv.sunduk.tv/CH21/index.m3u8
-#EXTINF:-1 tvg-name="Pro100TV" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
+#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="Rodnoe Kino (576p)" group-title="Movies",Rodnoe Kino (576p)
 http://tmptv.sunduk.tv/CH23/index.m3u8
@@ -191,6 +191,8 @@ http://tmptv.sunduk.tv/CH139/index.m3u8
 http://tmptv.sunduk.tv/CH313/index.m3u8
 #EXTINF:-1 tvg-name="viju+ Premiere" group-title="Movies",viju+ Premiere
 http://tmptv.sunduk.tv/CH315/index.m3u8
+#EXTINF:-1 tvg-name="Детское кино International" group-title="Movies",Детское кино International
+https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
 http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-name="Дом Кино" group-title="Movies",Дом Кино
@@ -207,6 +209,8 @@ http://31.148.48.15/Zdorovoe_TV/index.m3u8
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 tvg-name="Кинеко" group-title="Movies",Кинеко
 http://31.148.48.15/Kineko_HD/index.m3u8
+#EXTINF:-1 tvg-name="Кино 1 International" group-title="Movies",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-name="КИНО ТВ" group-title="Movies",КИНО ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="Кинопоказ" group-title="Movies",Кинопоказ
@@ -215,8 +219,6 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 tvg-name="Новый Русский" group-title="Movies",Новый Русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:-1 tvg-name="НТВ Стиль" group-title="Lifestyle",НТВ Стиль
-https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-name="Открытый мир. Здоровье (576p)" group-title="Lifestyle",Открытый мир. Здоровье (576p)
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-name="Патриот (576i)" group-title="Movies",Патриот (576i)
