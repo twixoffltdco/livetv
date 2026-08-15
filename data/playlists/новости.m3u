@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 11:23:39
-# Всего каналов: 22705
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 11:41:44
+# Всего каналов: 22906
+# Новых за сессию: 201
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: новости
-# Каналов: 15
-# Обновлено: 2026-08-15 11:23:39
+# Каналов: 14
+# Обновлено: 2026-08-15 11:41:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ETV" group-title="новости",ETV
@@ -21,9 +21,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tass-hls.servicecdn.ru
 
 #EXTINF:-1 tvg-name="RTVi (EDTV)" group-title="новости",RTVi (EDTV)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.134.1.158:8081/rtvi/index.m3u8
-
-#EXTINF:-1 tvg-name="DW" group-title="новости",DW
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 #EXTINF:-1 tvg-name="Известия" group-title="новости",Известия
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8

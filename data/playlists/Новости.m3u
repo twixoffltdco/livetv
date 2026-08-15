@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 11:23:39
-# Всего каналов: 22705
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 11:41:44
+# Всего каналов: 22906
+# Новых за сессию: 201
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Новости
 # Каналов: 35
-# Обновлено: 2026-08-15 11:23:39
+# Обновлено: 2026-08-15 11:41:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="News Front TV" group-title="Новости",News Front TV
@@ -123,8 +123,6 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVi (EDTV)" group-title="новости",RTVi (EDTV)
 http://178.134.1.158:8081/rtvi/index.m3u8
-#EXTINF:-1 tvg-name="DW" group-title="новости",DW
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 tvg-name="Соловьёв LIVE" group-title="новости",Соловьёв LIVE
 http://178.212.71.253:8000/play/111/index.m3u8
 #EXTINF:-1 tvg-name="TV BRICS" group-title="новости",TV BRICS

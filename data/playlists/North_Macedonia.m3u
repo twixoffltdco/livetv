@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 11:23:39
-# Всего каналов: 22705
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 11:41:44
+# Всего каналов: 22906
+# Новых за сессию: 201
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: North Macedonia
 # Каналов: 17
-# Обновлено: 2026-08-15 11:23:39
+# Обновлено: 2026-08-15 11:41:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Телевизија Здравкин" group-title="North Macedonia",Телевизија Здравкин
@@ -61,5 +61,3 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/giganet.mk/hls/macdoc.
 #EXTINF:-1 tvg-name="Вистел" group-title="North Macedonia",Вистел
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.vtv.mk/live/vtv/chunks.m3u8
 
-#EXTINF:-1 tvg-name="KCTV" group-title="North Korea",KCTV
-https://tv.nknews.org/tvdash/stream.mpd
