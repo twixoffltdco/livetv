@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:05:16
-# Всего каналов: 22908
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 13:34:20
+# Всего каналов: 22910
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-08-15 13:05:17
+# Обновлено: 2026-08-15 13:34:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -87,6 +87,8 @@ https://live.m2.tv/hls3/stream.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name="Amedia 1" group-title="Music",Amedia 1
+http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-name="Bridge" group-title="Music",Bridge
 http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 tvg-name="DTR Music 1" group-title="Music",DTR Music 1
@@ -211,8 +213,6 @@ http://tmptv.sunduk.tv/CH67/index.m3u8
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-name="viju+ Sport (576p)" group-title="Sports",viju+ Sport (576p)
 http://tmptv.sunduk.tv/CH131/index.m3u8
-#EXTINF:-1 tvg-name="VITAL Drive" group-title="Sports",VITAL Drive
-https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 tvg-name="VIVA Russia" group-title="Music",VIVA Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 #EXTINF:-1 tvg-name="Астрахань.Ru Sport" group-title="Sports",Астрахань.Ru Sport
@@ -231,12 +231,8 @@ http://31.148.48.15/Match_Igra_HD/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-name="Музыка 1 International" group-title="Music",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-name="Музыка Live (576p)" group-title="Music",Музыка Live (576p)
 http://31.148.48.15/La-Minor_TV/index.m3u8
-#EXTINF:-1 tvg-name="Музыка Кино International" group-title="Music",Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-name="Музыка Первого" group-title="Music",Музыка Первого
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-name="о2тв" group-title="Music",о2тв

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:05:16
-# Всего каналов: 22908
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 13:34:20
+# Всего каналов: 22910
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Family;Kids
 # Каналов: 3
-# Обновлено: 2026-08-15 13:05:17
+# Обновлено: 2026-08-15 13:34:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Three/CBBC [Geo-Blocked]" group-title="Animation;Family;Kids",BBC Three/CBBC [Geo-Blocked]
@@ -49,7 +49,7 @@ http://tmptv.sunduk.tv/CH35/index.m3u8
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
 http://tmptv.sunduk.tv/CH155/index.m3u8
-#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+#EXTINF:-1 tvg-name="Pro100TV" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="Ryzhiy (576i)" group-title="Kids",Ryzhiy (576i)
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8

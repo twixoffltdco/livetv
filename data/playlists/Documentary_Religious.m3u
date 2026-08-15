@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:05:16
-# Всего каналов: 22908
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 13:34:20
+# Всего каналов: 22910
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Religious
 # Каналов: 1
-# Обновлено: 2026-08-15 13:05:17
+# Обновлено: 2026-08-15 13:34:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Karbala Documentary" group-title="Documentary;Religious",Karbala Documentary
@@ -77,7 +77,7 @@ http://31.148.48.15/Istoriya/index.m3u8
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-name="Надежда" group-title="Religious",Надежда
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Нано ТВ (576p)" group-title="Documentary",Нано ТВ (576p)
+#EXTINF:-1 tvg-name="Нано ТВ" group-title="Documentary",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-name="НАУКА" group-title="Documentary",НАУКА
 http://31.148.48.15/Nauka_2.0/index.m3u8
@@ -855,7 +855,7 @@ https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 tvg-name="Enlace" group-title="Religious",Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="EWTN Africa-Asia" group-title="Religious",EWTN Africa-Asia
+#EXTINF:-1 tvg-name="EWTN Africa Asia" group-title="Religious",EWTN Africa Asia
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="EWTN Asia-Pacific" group-title="Religious",EWTN Asia-Pacific
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8

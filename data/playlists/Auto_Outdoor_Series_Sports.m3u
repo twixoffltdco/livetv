@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:05:16
-# Всего каналов: 22908
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 13:34:20
+# Всего каналов: 22910
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Outdoor;Series;Sports
 # Каналов: 2
-# Обновлено: 2026-08-15 13:05:17
+# Обновлено: 2026-08-15 13:34:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="REV'N Action" group-title="Auto;Outdoor;Series;Sports",REV'N Action
@@ -34,8 +34,6 @@ https://iptv.peer.biz/live/peertv.m3u8
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-name="M-Net Sport" group-title="Sports",M-Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Spor [Geo-blocked]" group-title="Sports",TRT Spor [Geo-blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Spor Yildiz [Geo-blocked]" group-title="Sports",TRT Spor Yildiz [Geo-blocked]
@@ -44,6 +42,8 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Peer TV South Tyrol (1280p)" group-title="Outdoor;Travel",Peer TV South Tyrol (1280p)
 https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 tvg-name="Amedia 2" group-title="Series",Amedia 2
+http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 tvg-name="Drive (576i)" group-title="Auto",Drive (576i)
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="KHL" group-title="Sports",KHL
@@ -160,8 +160,6 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 http://tmptv.sunduk.tv/CH67/index.m3u8
 #EXTINF:-1 tvg-name="viju+ Sport (576p)" group-title="Sports",viju+ Sport (576p)
 http://tmptv.sunduk.tv/CH131/index.m3u8
-#EXTINF:-1 tvg-name="VITAL Drive" group-title="Sports",VITAL Drive
-https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 tvg-name="Астрахань.Ru Sport" group-title="Sports",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-name="Бокс ТВ" group-title="Sports",Бокс ТВ
@@ -182,10 +180,6 @@ http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-name="НТВ Хит" group-title="Series",НТВ Хит
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-name="НТВ Хит (576p)" group-title="Series",НТВ Хит (576p)
-https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
-http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="Сапфир" group-title="Series",Сапфир
 http://31.148.48.15/Sapfir_HD/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем АвтоГид" group-title="Auto",Сити Эдем АвтоГид

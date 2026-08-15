@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:05:16
-# Всего каналов: 22908
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 13:34:20
+# Всего каналов: 22910
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Music
 # Каналов: 3
-# Обновлено: 2026-08-15 13:05:17
+# Обновлено: 2026-08-15 13:34:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
@@ -125,6 +125,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name="Amedia 1" group-title="Music",Amedia 1
+http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-name="Bridge" group-title="Music",Bridge
 http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 tvg-name="DTR Music 1" group-title="Music",DTR Music 1
@@ -233,7 +235,7 @@ http://tmptv.sunduk.tv/CH21/index.m3u8
 http://tmptv.sunduk.tv/CH77/index.m3u8
 #EXTINF:-1 tvg-name="MusicBox Gold (576p)" group-title="Music",MusicBox Gold (576p)
 http://tmptv.sunduk.tv/CH81/index.m3u8
-#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+#EXTINF:-1 tvg-name="Pro100TV" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="Rodnoe Kino (576p)" group-title="Movies",Rodnoe Kino (576p)
 http://tmptv.sunduk.tv/CH23/index.m3u8
@@ -259,8 +261,6 @@ http://tmptv.sunduk.tv/CH313/index.m3u8
 http://tmptv.sunduk.tv/CH315/index.m3u8
 #EXTINF:-1 tvg-name="VIVA Russia" group-title="Music",VIVA Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
-#EXTINF:-1 tvg-name="Детское кино International" group-title="Movies",Детское кино International
-https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-name="Дом Кино" group-title="Movies",Дом Кино
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 tvg-name="Дом Кино Премиум" group-title="Movies",Дом Кино Премиум
@@ -271,8 +271,6 @@ http://31.148.48.15/Zhara/index.m3u8
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 tvg-name="Кинеко" group-title="Movies",Кинеко
 http://31.148.48.15/Kineko_HD/index.m3u8
-#EXTINF:-1 tvg-name="Кино 1 International" group-title="Movies",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-name="КИНО ТВ" group-title="Movies",КИНО ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="Кинопоказ" group-title="Movies",Кинопоказ
@@ -283,12 +281,8 @@ http://31.148.48.15/Kineko/index.m3u8
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-name="Музыка 1 International" group-title="Music",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-name="Музыка Live (576p)" group-title="Music",Музыка Live (576p)
 http://31.148.48.15/La-Minor_TV/index.m3u8
-#EXTINF:-1 tvg-name="Музыка Кино International" group-title="Music",Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-name="Музыка Первого" group-title="Music",Музыка Первого
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-name="Новый Русский" group-title="Movies",Новый Русский

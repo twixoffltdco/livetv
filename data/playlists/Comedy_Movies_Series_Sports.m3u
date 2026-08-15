@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:05:16
-# Всего каналов: 22908
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 13:34:20
+# Всего каналов: 22910
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 4
-# Обновлено: 2026-08-15 13:05:17
+# Обновлено: 2026-08-15 13:34:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -36,8 +36,6 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-name="M-Net Sport" group-title="Sports",M-Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Spor [Geo-blocked]" group-title="Sports",TRT Spor [Geo-blocked]
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Spor Yildiz [Geo-blocked]" group-title="Sports",TRT Spor Yildiz [Geo-blocked]
@@ -96,6 +94,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-name="Failarmy" group-title="Comedy",Failarmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Amedia 2" group-title="Series",Amedia 2
+http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="Hollywood" group-title="Movies",Hollywood
@@ -296,7 +296,7 @@ http://tmptv.sunduk.tv/CH51/index.m3u8
 http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1 tvg-name="MMA TV.com" group-title="Sports",MMA TV.com
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+#EXTINF:-1 tvg-name="Pro100TV" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="Rodnoe Kino (576p)" group-title="Movies",Rodnoe Kino (576p)
 http://tmptv.sunduk.tv/CH23/index.m3u8
@@ -322,14 +322,10 @@ http://tmptv.sunduk.tv/CH313/index.m3u8
 http://tmptv.sunduk.tv/CH315/index.m3u8
 #EXTINF:-1 tvg-name="viju+ Sport (576p)" group-title="Sports",viju+ Sport (576p)
 http://tmptv.sunduk.tv/CH131/index.m3u8
-#EXTINF:-1 tvg-name="VITAL Drive" group-title="Sports",VITAL Drive
-https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 tvg-name="Астрахань.Ru Sport" group-title="Sports",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-name="Бокс ТВ" group-title="Sports",Бокс ТВ
 http://31.148.48.15/Boks_TV/index.m3u8
-#EXTINF:-1 tvg-name="Детское кино International" group-title="Movies",Детское кино International
-https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-name="Дом Кино" group-title="Movies",Дом Кино
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 tvg-name="Дом Кино Премиум" group-title="Movies",Дом Кино Премиум
@@ -340,8 +336,6 @@ http://31.148.48.15/Illusion_plus/index.m3u8
 http://31.148.48.15/KVN_TV/index.m3u8
 #EXTINF:-1 tvg-name="Кинеко" group-title="Movies",Кинеко
 http://31.148.48.15/Kineko_HD/index.m3u8
-#EXTINF:-1 tvg-name="Кино 1 International" group-title="Movies",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-name="КИНО ТВ" group-title="Movies",КИНО ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="Кинопоказ" group-title="Movies",Кинопоказ
@@ -362,8 +356,6 @@ https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-name="НТВ Хит" group-title="Series",НТВ Хит
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-name="НТВ Хит (576p)" group-title="Series",НТВ Хит (576p)
-https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-name="Патриот (576i)" group-title="Movies",Патриот (576i)
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-name="Русский Бестселлер" group-title="Movies",Русский Бестселлер
@@ -1422,8 +1414,6 @@ https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg0
 https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
 #EXTINF:-1 tvg-name="Duck Dynasty" group-title="Series",Duck Dynasty
 https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Fail Army" group-title="Comedy",Fail Army
-https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="FIFA+ Women" group-title="Sports",FIFA+ Women
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="Film4" group-title="Movies",Film4

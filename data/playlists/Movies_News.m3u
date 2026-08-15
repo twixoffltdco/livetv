@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:05:16
-# Всего каналов: 22908
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 13:34:20
+# Всего каналов: 22910
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 3
-# Обновлено: 2026-08-15 13:05:17
+# Обновлено: 2026-08-15 13:34:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -69,6 +69,8 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-name="Крым 24" group-title="News",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 tvg-name="360° Новости" group-title="News",360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Ekhbariya" group-title="News",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-name="3CatInfo" group-title="News;Public",3CatInfo
@@ -435,7 +437,7 @@ http://tmptv.sunduk.tv/CH57/index.m3u8
 http://tmptv.sunduk.tv/CH25/index.m3u8
 #EXTINF:-1 tvg-name="Kinosvidanie (576p)" group-title="Movies",Kinosvidanie (576p)
 http://tmptv.sunduk.tv/CH21/index.m3u8
-#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+#EXTINF:-1 tvg-name="Pro100TV" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="Rodnoe Kino (576p)" group-title="Movies",Rodnoe Kino (576p)
 http://tmptv.sunduk.tv/CH23/index.m3u8
@@ -457,8 +459,6 @@ http://tmptv.sunduk.tv/CH313/index.m3u8
 http://tmptv.sunduk.tv/CH315/index.m3u8
 #EXTINF:-1 tvg-name="Вести ФМ" group-title="News",Вести ФМ
 https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
-#EXTINF:-1 tvg-name="Детское кино International" group-title="Movies",Детское кино International
-https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-name="Дом Кино" group-title="Movies",Дом Кино
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 tvg-name="Дом Кино Премиум" group-title="Movies",Дом Кино Премиум
@@ -471,8 +471,6 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 tvg-name="Кинеко" group-title="Movies",Кинеко
 http://31.148.48.15/Kineko_HD/index.m3u8
-#EXTINF:-1 tvg-name="Кино 1 International" group-title="Movies",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-name="КИНО ТВ" group-title="Movies",КИНО ТВ
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="Кинопоказ" group-title="Movies",Кинопоказ
@@ -527,7 +525,7 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% Классика" group-title="Classic;Movies",Смотрим 100% Классика
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
-#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
+#EXTINF:-1 tvg-name="Sochi 24" group-title="General;News",Sochi 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Толк" group-title="News",Толк
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8

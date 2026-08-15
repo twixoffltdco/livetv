@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:05:16
-# Всего каналов: 22908
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 13:34:20
+# Всего каналов: 22910
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Comedy;Public;Series
 # Каналов: 1
-# Обновлено: 2026-08-15 13:05:17
+# Обновлено: 2026-08-15 13:34:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
@@ -17,8 +17,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/fast-tailor.3catdirect
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-name="TVN3 [Geo-blocked]" group-title="Classic",TVN3 [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Aragon TV Internacional" group-title="General;Public",Aragon TV Internacional
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-name="3CatInfo" group-title="News;Public",3CatInfo
@@ -35,6 +33,8 @@ https://ztnr.rtve.es/ztnr/5468585.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-name="Failarmy" group-title="Comedy",Failarmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Amedia 2" group-title="Series",Amedia 2
+http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 tvg-name="3Cat Exclusiu 1 [Geo-blocked]" group-title="News;Public",3Cat Exclusiu 1 [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
 #EXTINF:-1 tvg-name="3Cat Exclusiu 2 [Geo-blocked]" group-title="News;Public",3Cat Exclusiu 2 [Geo-blocked]
@@ -53,7 +53,7 @@ https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
 #EXTINF:-1 tvg-name="Kinokomedija (576p)" group-title="Comedy",Kinokomedija (576p)
 http://tmptv.sunduk.tv/CH47/index.m3u8
-#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+#EXTINF:-1 tvg-name="Pro100TV" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="Retro" group-title="Classic",Retro
 http://tmptv.sunduk.tv/CH149/index.m3u8
@@ -69,8 +69,6 @@ http://31.148.48.15/Nostalgiya/index.m3u8
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-name="НТВ Хит" group-title="Series",НТВ Хит
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-name="НТВ Хит (576p)" group-title="Series",НТВ Хит (576p)
-https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-name="Сапфир" group-title="Series",Сапфир
 http://31.148.48.15/Sapfir_HD/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок
@@ -525,8 +523,6 @@ https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg0
 https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
 #EXTINF:-1 tvg-name="Duck Dynasty" group-title="Series",Duck Dynasty
 https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Fail Army" group-title="Comedy",Fail Army
-https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Series",Ghost Dimension" group-title="Series",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Series",Ghost Dimension
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/Q7VW3TCBWCN12JGUJGUY/hls3/now,-1m/m.m3u8?ads.vf=7sLXLbaCnLW
 #EXTINF:-1 tvg-name="Ghost Hunters" group-title="Series",Ghost Hunters

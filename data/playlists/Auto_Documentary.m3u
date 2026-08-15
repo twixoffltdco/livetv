@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:05:16
-# Всего каналов: 22908
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 13:34:20
+# Всего каналов: 22910
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Documentary
 # Каналов: 1
-# Обновлено: 2026-08-15 13:05:17
+# Обновлено: 2026-08-15 13:34:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Turbo" group-title="Auto;Documentary",Pluto TV Turbo
@@ -35,7 +35,7 @@ http://tmptv.sunduk.tv/CH133/index.m3u8
 http://tmptv.sunduk.tv/CH203/index.m3u8
 #EXTINF:-1 tvg-name="История" group-title="Documentary",История
 http://31.148.48.15/Istoriya/index.m3u8
-#EXTINF:-1 tvg-name="Нано ТВ (576p)" group-title="Documentary",Нано ТВ (576p)
+#EXTINF:-1 tvg-name="Нано ТВ" group-title="Documentary",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-name="НАУКА" group-title="Documentary",НАУКА
 http://31.148.48.15/Nauka_2.0/index.m3u8

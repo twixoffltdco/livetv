@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:05:16
-# Всего каналов: 22908
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 13:34:20
+# Всего каналов: 22910
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Music;News
 # Каналов: 2
-# Обновлено: 2026-08-15 13:05:17
+# Обновлено: 2026-08-15 13:34:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Vĩnh Long TV5 [Geo-blocked]" group-title="Culture;Entertainment;Music;News",Vĩnh Long TV5 [Geo-blocked]
@@ -144,6 +144,8 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-name="Крым 24" group-title="News",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 tvg-name="360° Новости" group-title="News",360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Ekhbariya" group-title="News",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-name="Folx Slovenija" group-title="Music",Folx Slovenija
@@ -278,6 +280,8 @@ https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name="Amedia 1" group-title="Music",Amedia 1
+http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-name="Bridge" group-title="Music",Bridge
 http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 tvg-name="DTR Music 1" group-title="Music",DTR Music 1
@@ -408,7 +412,7 @@ http://tmptv.sunduk.tv/CH77/index.m3u8
 http://tmptv.sunduk.tv/CH81/index.m3u8
 #EXTINF:-1 tvg-name="NSC+" group-title="Entertainment",NSC+
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
-#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+#EXTINF:-1 tvg-name="Pro100TV" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="RU.TV" group-title="Music",RU.TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=d-E-bxKy2v3EEJ94RQX9CA&e=2069285076&scheme=https
@@ -438,14 +442,12 @@ https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 https://live1.1tvcrimea.ru/milletlive.m3u8
 #EXTINF:-1 tvg-name="Мир 24" group-title="News",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="МТВ (Волгоград)" group-title="Entertainment",МТВ (Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-name="Музыка 1 International" group-title="Music",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-name="Музыка Live (576p)" group-title="Music",Музыка Live (576p)
 http://31.148.48.15/La-Minor_TV/index.m3u8
-#EXTINF:-1 tvg-name="Музыка Кино International" group-title="Music",Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-name="Музыка Первого" group-title="Music",Музыка Первого
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-name="о2тв" group-title="Music",о2тв
@@ -458,7 +460,7 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-name="Первый Республиканский" group-title="News",Первый Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
-#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
+#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment",Поехали!
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="Пятница! (576p)" group-title="Entertainment",Пятница! (576p)
 https://vod.tuva.ru/friday/index.m3u8
@@ -484,11 +486,11 @@ https://cityeden.catcast.tv/content/47400/index.m3u8
 https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% Праздник" group-title="Entertainment",Смотрим 100% Праздник
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
-#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
+#EXTINF:-1 tvg-name="Sochi 24" group-title="General;News",Sochi 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Страна FM" group-title="Music",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Твое TV" group-title="Entertainment",Твое TV
+#EXTINF:-1 tvg-name="Tvoe TV" group-title="Entertainment",Tvoe TV
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-name="Театр (576p)" group-title="Culture",Театр (576p)
 http://31.148.48.15/Sochi_HD/index.m3u8

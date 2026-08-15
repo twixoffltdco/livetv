@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 13:05:16
-# Всего каналов: 22908
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 13:34:20
+# Всего каналов: 22910
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Rostelekom (VPN 🇷🇺)
-# Каналов: 256
-# Обновлено: 2026-08-15 13:05:17
+# Каналов: 255
+# Обновлено: 2026-08-15 13:34:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Первый канал" group-title="Rostelekom (VPN 🇷🇺)",Первый канал
@@ -594,9 +594,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngen
 
 #EXTINF:-1 tvg-name="Пятница! (+7)" group-title="Rostelekom (VPN 🇷🇺)",Пятница! (+7)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-
-#EXTINF:-1 tvg-name="Супер" group-title="Rostelekom (VPN 🇷🇺)",Супер
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
 #EXTINF:-1 tvg-name="Супер (+2)" group-title="Rostelekom (VPN 🇷🇺)",Супер (+2)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
