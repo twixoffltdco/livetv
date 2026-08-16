@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 23:47:33
-# Всего каналов: 22975
-# Новых за сессию: 4
+# Обновлено: 2026-08-16 00:34:45
+# Всего каналов: 23010
+# Новых за сессию: 35
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 1112
-# Обновлено: 2026-08-15 23:47:34
+# Каналов: 1114
+# Обновлено: 2026-08-16 00:34:46
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -3231,6 +3231,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.93.224.42/KANAL-D-
 
 #EXTINF:-1 tvg-name="La Tele" group-title="Entertainment",La Tele
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.93.224.42/LA-TELE/index.m3u8
+
+#EXTINF:-1 tvg-name="Kapamilya Channel" group-title="Entertainment",Kapamilya Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="One Media Network (480p)" group-title="Entertainment",One Media Network (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.comclark.com/pknsd/onemedia/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
