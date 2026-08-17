@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 19:31:34
-# Всего каналов: 23179
-# Новых за сессию: 1
+# Обновлено: 2026-08-17 19:49:09
+# Всего каналов: 23181
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Lifestyle
 # Каналов: 3
-# Обновлено: 2026-08-17 19:31:35
+# Обновлено: 2026-08-17 19:49:10
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
@@ -461,8 +461,6 @@ https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
 https://stream.unison.mx/hls/unisontvatem.m3u8
 #EXTINF:-1 tvg-name="Knowledge Network [Geo-blocked]" group-title="Education;Kids",Knowledge Network [Geo-blocked]
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
-#EXTINF:-1 tvg-name="ABC Entertains" group-title="Education;Kids",ABC Entertains
-https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-name="Luxe TV" group-title="Lifestyle",Luxe TV
 http://103.154.3.101:5001/live/1736.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",BBC Lifestyle Asia" group-title="Lifestyle",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",BBC Lifestyle Asia

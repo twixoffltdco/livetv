@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 19:31:34
-# Всего каналов: 23179
-# Новых за сессию: 1
+# Обновлено: 2026-08-17 19:49:09
+# Всего каналов: 23181
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Religious
 # Каналов: 7
-# Обновлено: 2026-08-17 19:31:35
+# Обновлено: 2026-08-17 19:49:10
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
@@ -2491,8 +2491,6 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 http://103.154.3.101:5001/live/2782.m3u8
 #EXTINF:-1 tvg-name="ABC TV ACT" group-title="General",ABC TV ACT
 https://c.mjh.nz/abc-act.m3u8
-#EXTINF:-1 tvg-name="ABC TV NSW" group-title="General",ABC TV NSW
-https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 tvg-name="ABC TV NT" group-title="General",ABC TV NT
 https://c.mjh.nz/abc-nt.m3u8
 #EXTINF:-1 tvg-name="ABC TV QLD" group-title="General",ABC TV QLD
@@ -5879,8 +5877,6 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",UBS" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",UBS
 https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
-#EXTINF:-1 tvg-name="Vizion Plus" group-title="General",Vizion Plus
-https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-name="Vokta TV" group-title="General",Vokta TV
 https://vokta.raytahost.com/live/voktatv/index.m3u8
 #EXTINF:-1 tvg-name="Völgyhíd TV (540p)" group-title="General",Völgyhíd TV (540p)
