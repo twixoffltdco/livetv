@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 15:15:23
+# Обновлено: 2026-08-17 15:28:59
 # Всего каналов: 23153
-# Новых за сессию: 2
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Entertainment
 # Каналов: 2
-# Обновлено: 2026-08-17 15:15:24
+# Обновлено: 2026-08-17 15:28:59
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Charana TV (360p)" group-title="Education;Entertainment",Charana TV (360p)
@@ -16,6 +16,10 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge3-moblive.yuppcdn.
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Education;Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
 
+#EXTINF:-1 tvg-name="TV Universidad" group-title="Education",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-name="9Go! [Geo-blocked]" group-title="Entertainment;Kids",9Go! [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Savoir (360p)" group-title="Education",Canal Savoir (360p)
@@ -26,6 +30,8 @@ https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha" group-title="Education",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="WDR 1 Live" group-title="Entertainment",WDR 1 Live
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1 tvg-name="STAR International" group-title="Entertainment",STAR International
@@ -392,6 +398,8 @@ https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.ama
 https://yta.unitedteleports.tv/hls/YTA.m3u8
 #EXTINF:-1 tvg-name="Anixe + (360p)" group-title="Entertainment",Anixe + (360p)
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 tvg-name="Anixe Serie (360p)" group-title="Entertainment",Anixe Serie (360p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha (576p) [Geo-Blocked]" group-title="Education",ARD-alpha (576p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
 #EXTINF:-1 tvg-name="arte" group-title="Entertainment",arte
@@ -1030,6 +1038,8 @@ https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tamil Entertainment Television" group-title="Entertainment",Tamil Entertainment Television
 https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8
+#EXTINF:-1 tvg-name="9Gem [Geo-blocked]" group-title="Entertainment",9Gem [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 #EXTINF:-1 tvg-name="ABC Entertains" group-title="Education;Kids",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-name="ABC TV Plus" group-title="Entertainment",ABC TV Plus
@@ -1436,6 +1446,8 @@ https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
 http://62.1.176.18:8888/extra/index.m3u8
 #EXTINF:-1 tvg-name="Vĩnh Long TV5 [Geo-blocked]" group-title="Culture;Entertainment;Music;News",Vĩnh Long TV5 [Geo-blocked]
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
+https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-name="247 Box TV" group-title="Entertainment",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="A-Plus TV (576p)" group-title="Entertainment",A-Plus TV (576p)
