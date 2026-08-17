@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-16 23:47:16
-# Всего каналов: 23106
-# Новых за сессию: 1
+# Обновлено: 2026-08-17 00:33:36
+# Всего каналов: 23121
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Family;General
 # Каналов: 3
-# Обновлено: 2026-08-16 23:47:17
+# Обновлено: 2026-08-17 00:33:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="1KZN TV (576p)" group-title="Entertainment;Family;General",1KZN TV (576p)
@@ -4605,6 +4605,10 @@ https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="TVR Folclor" group-title="General;Music",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="247 Box TV" group-title="Entertainment",247 Box TV
@@ -7687,6 +7691,8 @@ http://89.187.185.76:8080/France3/index.m3u8
 http://5.180.164.197:8080/FRANCE3/index.m3u8
 #EXTINF:-1 tvg-name="CW [Geo-blocked]" group-title="General",CW [Geo-blocked]
 https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
+#EXTINF:-1 tvg-name="Telemundo East" group-title="General",Telemundo East
+http://45.190.13.8/TelemundoHD/index.m3u8
 #EXTINF:-1 tvg-name="Telemundo West [Geo-blocked]" group-title="General",Telemundo West [Geo-blocked]
 https://messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8
 #EXTINF:-1 tvg-name="ArubaTV +" group-title="Entertainment",ArubaTV +
@@ -7873,3 +7879,7 @@ https://streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8
 https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
 #EXTINF:-1 tvg-name="Antena 7 (480p)[Geo-blocked]" group-title="General",Antena 7 (480p)[Geo-blocked]
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-name="BBC U 3" group-title="General",BBC U 3
+http://45.14.84.37/bbc3/index.m3u8
+#EXTINF:-1 tvg-name="BBC U 4" group-title="General",BBC U 4
+http://45.14.84.37/bbc4/index.m3u8

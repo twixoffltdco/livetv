@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-16 23:47:16
-# Всего каналов: 23106
-# Новых за сессию: 1
+# Обновлено: 2026-08-17 00:33:36
+# Всего каналов: 23121
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3160
-# Обновлено: 2026-08-16 23:47:17
+# Каналов: 3164
+# Обновлено: 2026-08-17 00:33:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -8875,7 +8875,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/5.180.164.197:8080/FRA
 #EXTINF:-1 tvg-name="CW [Geo-blocked]" group-title="General",CW [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Telemundo" group-title="General",Telemundo
+#EXTINF:-1 tvg-name="Telemundo East" group-title="General",Telemundo East
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.13.8/TelemundoHD/index.m3u8
 
 #EXTINF:-1 tvg-name="Telemundo West [Geo-blocked]" group-title="General",Telemundo West [Geo-blocked]
@@ -9165,6 +9165,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.castr.com/5ec16
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="General",like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.castr.com/5da89a909db964293ad13301/live_85f2053091cd11f1a5e59d9ec0f6bd3a/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="Belarus-4 Gomel" group-title="General",Belarus-4 Gomel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo" group-title="General",Telemundo
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC U 3" group-title="General",BBC U 3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.14.84.37/bbc3/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC U 4" group-title="General",BBC U 4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.14.84.37/bbc4/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
@@ -9714,6 +9726,8 @@ https://stream.tvkstella.pl/stella/stella.m3u8
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="TVR Folclor" group-title="General;Music",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3
