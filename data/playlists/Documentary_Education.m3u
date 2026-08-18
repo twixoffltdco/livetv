@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-18 19:46:48
-# Всего каналов: 23259
-# Новых за сессию: 0
+# Обновлено: 2026-08-18 19:53:01
+# Всего каналов: 23260
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Education
 # Каналов: 2
-# Обновлено: 2026-08-18 19:46:49
+# Обновлено: 2026-08-18 19:53:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Asharq Discovery" group-title="Documentary;Education",Asharq Discovery
@@ -16,8 +16,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/svs.itworkscdn.net/ash
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary;Education",like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/399/index.m3u8
 
-#EXTINF:-1 tvg-name="TV Universidad" group-title="Education",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-name="Canal Savoir (360p)" group-title="Education",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha" group-title="Education",ARD-alpha
@@ -522,8 +520,6 @@ https://stream.unison.mx/hls/unisontvatem.m3u8
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:-1 tvg-name="Total Crime" group-title="Documentary",Total Crime
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC Entertains" group-title="Education;Kids",ABC Entertains
-https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-name="BBC Four [Geo-blocked]" group-title="Culture;Documentary",BBC Four [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC Four UK" group-title="Culture;Documentary",BBC Four UK
