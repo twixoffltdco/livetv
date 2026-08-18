@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-18 04:39:28
-# Всего каналов: 23213
-# Новых за сессию: 1
+# Обновлено: 2026-08-18 04:59:24
+# Всего каналов: 23215
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: International;Musik
 # Каналов: 4
-# Обновлено: 2026-08-18 04:39:29
+# Обновлено: 2026-08-18 04:59:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Melodie TV" group-title="International;Musik",Melodie TV
@@ -70,8 +70,6 @@ https://orfs.mdn.ors.at/out/u/orfs/q6a/manifest_6.m3u8
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-name="RE eins TV" group-title="International",RE eins TV
 http://www.reeins.tv:1935/live/re1/playlist.m3u8
-#EXTINF:-1 tvg-name="oe24 TV" group-title="International",oe24 TV
-https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
 #EXTINF:-1 tvg-name="M4TV" group-title="International",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
 #EXTINF:-1 tvg-name="TeleZüri" group-title="International",TeleZüri
