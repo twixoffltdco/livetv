@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-18 00:33:06
-# Всего каналов: 23197
-# Новых за сессию: 1
+# Обновлено: 2026-08-18 01:24:16
+# Всего каналов: 23208
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 3
-# Обновлено: 2026-08-18 00:33:07
+# Обновлено: 2026-08-18 01:24:17
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -4051,6 +4051,8 @@ https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
 https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
 #EXTINF:-1 tvg-name="HITS NOW SD" group-title="Movies",HITS NOW SD
 https://usatv.dpdns.org/usatv/hitsnow_sd/index.m3u8
+#EXTINF:-1 tvg-name="Golden Nation Network (480p)" group-title="Entertainment;News",Golden Nation Network (480p)
+https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
 #EXTINF:-1 tvg-name="Tap Action Flix (480p)" group-title="Movies",Tap Action Flix (480p)
 https://streams.comclark.com/pknsd/tapactionflix/playlist.m3u8
 #EXTINF:-1 tvg-name="Tap Movies (480p)" group-title="Movies",Tap Movies (480p)
