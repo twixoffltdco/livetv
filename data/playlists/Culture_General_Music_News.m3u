@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-18 19:53:01
-# Всего каналов: 23260
+# Обновлено: 2026-08-18 20:11:02
+# Всего каналов: 23261
 # Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General;Music;News
 # Каналов: 1
-# Обновлено: 2026-08-18 19:53:02
+# Обновлено: 2026-08-18 20:11:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Online TV Nusantara" group-title="Culture;General;Music;News",Online TV Nusantara
@@ -17,6 +17,14 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/5bf7b725107e5.streamlo
 https://stream.tvrain.tv/live/tvrain.m3u8
 #EXTINF:-1 tvg-name="Дождь (резервный)" group-title="News",Дождь (резервный)
 https://stream.tvrain.tv/hls/tvrain_live.m3u8
+#EXTINF:-1 tvg-name="AlbKanale Music TV" group-title="Music",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-name="CNA" group-title="News",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-name="Ora News" group-title="News",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-name="Report TV" group-title="News",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Belarus-3" group-title="Culture",Belarus-3
@@ -3819,6 +3827,8 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 http://103.154.3.101:5001/live/2782.m3u8
 #EXTINF:-1 tvg-name="ABC TV ACT" group-title="General",ABC TV ACT
 https://c.mjh.nz/abc-act.m3u8
+#EXTINF:-1 tvg-name="ABC TV NSW" group-title="General",ABC TV NSW
+https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 tvg-name="ABC TV NT" group-title="General",ABC TV NT
 https://c.mjh.nz/abc-nt.m3u8
 #EXTINF:-1 tvg-name="ABC TV QLD" group-title="General",ABC TV QLD
@@ -6627,6 +6637,8 @@ https://video.primexsports.com/suchnews/live/playlist.m3u8
 http://103.250.28.74:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-name="Super Express TV (1080i)" group-title="News",Super Express TV (1080i)
 https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
+#EXTINF:-1 tvg-name="Syri" group-title="News",Syri
+https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleMoldova + [Geo-blocked]" group-title="News",TeleMoldova + [Geo-blocked]
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-name="Tolo News" group-title="News",Tolo News
@@ -9837,6 +9849,8 @@ http://stream.mcquack.net/358/index.m3u8
 http://stream.mcquack.net/27/index.m3u8
 #EXTINF:-1 tvg-name="NHK General TV" group-title="General",NHK General TV
 https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Kentron TV" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Kentron TV
+http://stream.mcquack.net/39/index.m3u8
 #EXTINF:-1 tvg-name="Fortis TV" group-title="General",Fortis TV
 https://stream.fortistv.com/hls/fortis-news/index.m3u8
 #EXTINF:-1 tvg-name="YOL TV" group-title="General",YOL TV
@@ -9931,6 +9945,8 @@ https://play.mbcbrasil.tv.br/playlist.m3u8
 https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 3 Curitiba" group-title="General",TV 3 Curitiba
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Armenia TV Satellite (576p)" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Armenia TV Satellite (576p)
+http://stream.mcquack.net/175/index.m3u8
 #EXTINF:-1 tvg-name="Der TV" group-title="General",Der TV
 https://stream.berosat.live/hls/der-tv/der-tv.m3u8
 #EXTINF:-1 tvg-name="UTV Africa" group-title="General",UTV Africa
