@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-19 01:26:13
+# Обновлено: 2026-08-19 02:10:59
 # Всего каналов: 23328
-# Новых за сессию: 27
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: новости
 # Каналов: 14
-# Обновлено: 2026-08-19 01:26:14
+# Обновлено: 2026-08-19 02:11:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ETV" group-title="новости",ETV
@@ -52,10 +52,10 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/ifra
 #EXTINF:-1 tvg-name="Bloomberg" group-title="новости",Bloomberg
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
-#EXTINF:-1 tvg-name="Дождь" group-title="Новости",Дождь
-https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-name="News Front TV" group-title="Новости",News Front TV
 https://tv.2kita.com/stream/index.m3u8
+#EXTINF:-1 tvg-name="Дождь" group-title="Новости",Дождь
+http://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Большая Азия" group-title="Новости",Большая Азия
 http://dmitry-tv.ddns.net/hls/CH_BAZIYAHD720.m3u8
 #EXTINF:-1 tvg-name="Байкал Телеком info 720" group-title="Новости",Байкал Телеком info 720
