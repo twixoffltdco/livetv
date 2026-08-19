@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-19 11:47:08
-# Всего каналов: 23347
-# Новых за сессию: 3
+# Обновлено: 2026-08-19 11:54:43
+# Всего каналов: 23349
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Interactive
 # Каналов: 3
-# Обновлено: 2026-08-19 11:47:09
+# Обновлено: 2026-08-19 11:54:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RMC Life [Geo-Blocked]" group-title="Entertainment;Interactive",RMC Life [Geo-Blocked]
@@ -287,8 +287,6 @@ https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.ama
 https://yta.unitedteleports.tv/hls/YTA.m3u8
 #EXTINF:-1 tvg-name="Anixe + (360p)" group-title="Entertainment",Anixe + (360p)
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
-#EXTINF:-1 tvg-name="Anixe Serie (360p)" group-title="Entertainment",Anixe Serie (360p)
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-name="arte" group-title="Entertainment",arte
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
 #EXTINF:-1 tvg-name="kabel eins" group-title="Entertainment",kabel eins

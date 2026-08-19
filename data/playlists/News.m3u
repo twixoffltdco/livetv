@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-19 11:47:08
-# Всего каналов: 23347
-# Новых за сессию: 3
+# Обновлено: 2026-08-19 11:54:43
+# Всего каналов: 23349
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 1974
-# Обновлено: 2026-08-19 11:47:09
+# Каналов: 1971
+# Обновлено: 2026-08-19 11:54:43
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -1459,9 +1459,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/name-port.to/live/Greg
 #EXTINF:-1 tvg-name="Sky News Extra 1 (540p)" group-title="News",Sky News Extra 1 (540p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
-#EXTINF:-1 tvg-name="Sky News Extra 2 (540p)" group-title="News",Sky News Extra 2 (540p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-
 #EXTINF:-1 tvg-name="Sky News Extra 3" group-title="News",Sky News Extra 3
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
@@ -1569,9 +1566,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-edge1.streamcomedi
 
 #EXTINF:-1 tvg-name="I24 News English" group-title="News",I24 News English
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Iran Press" group-title="News",Iran Press
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.presstv.ir/hls/presstv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-name="Jakarta Globe News Channel" group-title="News",Jakarta Globe News Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifest.m3u8
@@ -5772,9 +5766,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-trthaber.medya.trt.
 
 #EXTINF:-1 tvg-name="TRT Arabi" group-title="News",TRT Arabi
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-trtarabi.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="GIT" group-title="News",GIT
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.uagit.tv/gittv.m3u8
