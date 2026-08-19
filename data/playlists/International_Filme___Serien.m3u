@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-19 21:29:10
-# Всего каналов: 23373
+# Обновлено: 2026-08-19 21:47:20
+# Всего каналов: 23374
 # Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: International;Filme / Serien
 # Каналов: 2
-# Обновлено: 2026-08-19 21:29:11
+# Обновлено: 2026-08-19 21:47:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Dubai One" group-title="International;Filme / Serien",Dubai One
@@ -28,8 +28,6 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle (ES)" group-title="International;Nachrichten",Deutsche Welle (ES)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-name="TV 538" group-title="International;Musik",TV 538
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 tvg-name="Yle TV1" group-title="International",Yle TV1
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 #EXTINF:-1 tvg-name="Yle TV2" group-title="International",Yle TV2
