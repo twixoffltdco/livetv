@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-19 00:33:05
-# Всего каналов: 23301
-# Новых за сессию: 0
+# Обновлено: 2026-08-19 01:26:13
+# Всего каналов: 23328
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Series
 # Каналов: 8
-# Обновлено: 2026-08-19 00:33:06
+# Обновлено: 2026-08-19 01:26:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Rakuten Viki" group-title="Entertainment;Series",Rakuten Viki
@@ -2738,3 +2738,5 @@ https://streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8
 https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
 #EXTINF:-1 tvg-name="Star TV" group-title="Entertainment",Star TV
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
+#EXTINF:-1 tvg-name="AXN PH (480p)" group-title="Movies;Series",AXN PH (480p)
+https://streams.comclark.com/pknhd/axn/playlist.m3u8

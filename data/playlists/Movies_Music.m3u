@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-19 00:33:05
-# Всего каналов: 23301
-# Новых за сессию: 0
+# Обновлено: 2026-08-19 01:26:13
+# Всего каналов: 23328
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Music
 # Каналов: 3
-# Обновлено: 2026-08-19 00:33:06
+# Обновлено: 2026-08-19 01:26:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
@@ -3413,3 +3413,5 @@ https://streams.comclark.com/pknsd/celestial/playlist.m3u8
 https://streams.comclark.com/pknsd/rock_tv_of_manila/playlist.m3u8
 #EXTINF:-1 tvg-name="Zona M" group-title="Music",Zona M
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8
+#EXTINF:-1 tvg-name="AXN PH (480p)" group-title="Movies;Series",AXN PH (480p)
+https://streams.comclark.com/pknhd/axn/playlist.m3u8
