@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-20 00:33:38
-# Всего каналов: 23381
-# Новых за сессию: 1
+# Обновлено: 2026-08-20 01:25:19
+# Всего каналов: 23401
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education
 # Каналов: 10
-# Обновлено: 2026-08-20 00:33:39
+# Обновлено: 2026-08-20 01:25:20
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ayeneh TV" group-title="Culture;Education",Ayeneh TV
@@ -926,3 +926,5 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
 #EXTINF:-1 tvg-name="滁州市广播电视台 科教频道 (400p)" group-title="Education;Science",滁州市广播电视台 科教频道 (400p)
 http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel",Vinh Long TV 4
+https://dethich.pw/thvl4/index.m3u8
