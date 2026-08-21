@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 00:35:59
-# Всего каналов: 23434
-# Новых за сессию: 0
+# Обновлено: 2026-08-21 01:35:50
+# Всего каналов: 23512
+# Новых за сессию: 78
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General
 # Каналов: 3
-# Обновлено: 2026-08-21 00:36:00
+# Обновлено: 2026-08-21 01:35:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ATXN3" group-title="Culture;General",ATXN3
@@ -6337,3 +6337,9 @@ https://dethich.pw/htv9/index.m3u8
 https://dethich.pw/thvl1/index.m3u8
 #EXTINF:-1 tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel",Vinh Long TV 4
 https://dethich.pw/thvl4/index.m3u8
+#EXTINF:-1 tvg-name="Albanian TV America" group-title="General",Albanian TV America
+http://5.254.89.106/8711/index.m3u8
+#EXTINF:-1 tvg-name="Nandighosha TV (576p)" group-title="General",Nandighosha TV (576p)
+https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
+#EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
+http://5.254.89.106/8794/index.m3u8
