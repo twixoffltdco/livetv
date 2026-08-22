@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 23:52:04
-# Всего каналов: 23527
-# Новых за сессию: 0
+# Обновлено: 2026-08-22 01:24:48
+# Всего каналов: 23590
+# Новых за сессию: 63
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Weather
 # Каналов: 1
-# Обновлено: 2026-08-21 23:52:06
+# Обновлено: 2026-08-22 01:24:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Càmeres del temps" group-title="Public;Weather",3Cat Càmeres del temps
@@ -115,8 +115,6 @@ https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 tvg-name="Meteonews" group-title="Weather",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="Weather Spy" group-title="Weather",Weather Spy
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
 #EXTINF:-1 tvg-name="ETB1 On" group-title="Public",ETB1 On
@@ -141,3 +139,5 @@ http://185.47.212.25:8080/Clan_HD/index.m3u8
 http://185.47.212.25:8080/tdp_HD/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="General;Public",La 1" group-title="General;Public",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="General;Public",La 1
 https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
+#EXTINF:-1 tvg-name="Megatiempo" group-title="Weather",Megatiempo
+http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
