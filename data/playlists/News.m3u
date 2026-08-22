@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-22 07:07:33
-# Всего каналов: 23594
-# Новых за сессию: 0
+# Обновлено: 2026-08-22 07:35:30
+# Всего каналов: 23596
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 2091
-# Обновлено: 2026-08-22 07:07:33
+# Каналов: 2090
+# Обновлено: 2026-08-22 07:35:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -1407,9 +1407,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/video01.logicahost.com
 
 #EXTINF:-1 tvg-name="ATV Argentina" group-title="News",ATV Argentina
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.streaming.com.bo/atvargentina/index.m3u8
-
-#EXTINF:-1 tvg-name="Canal 26" group-title="News",Canal 26
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-name="Multivision Federal" group-title="News",Multivision Federal
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/panel.host-live.com:19360/8250/8250.m3u8
